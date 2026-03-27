@@ -28,7 +28,7 @@ export async function POST(request: NextRequest) {
           price_data: {
             currency: "usd",
             product_data: {
-              name: "SportCalendar Pro — 1 Year",
+              name: "SportsCalendar Pro — 1 Year",
               description:
                 "TV channels, pre-game context, detailed stats, faster refresh, multi-team feeds, and season archives.",
             },

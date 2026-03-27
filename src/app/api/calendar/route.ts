@@ -94,7 +94,7 @@ export async function GET(request: NextRequest) {
   const calName = `${countryFlag} ${displayName} Sports Schedule${proSuffix}`;
   const cal = icalGenerator({
     name: calName,
-    prodId: { company: "SportCalendar", product: "SportCalendar" },
+    prodId: { company: "SportsCalendar", product: "SportsCalendar" },
     timezone: tz,
   });
 

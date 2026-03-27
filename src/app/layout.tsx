@@ -23,17 +23,17 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL("https://sportscalendar.xyz"),
   title: {
-    default: "SportCalendar — Never Miss a Match",
-    template: "%s | SportCalendar",
+    default: "SportsCalendar — Never Miss a Match",
+    template: "%s | SportsCalendar",
   },
   description:
     "Subscribe to live-updating sports calendars. NBA, F1, UEFA Champions League, World Cup 2026, Grand Slam Tennis, March Madness, and Olympics. Add to Apple Calendar or Google Calendar.",
   manifest: "/manifest.json",
   openGraph: {
-    title: "SportCalendar — Never Miss a Match",
+    title: "SportsCalendar — Never Miss a Match",
     description:
       "Live-updating calendar subscriptions for NBA, F1, UEFA CL, World Cup, Tennis, March Madness & Olympics.",
-    siteName: "SportCalendar",
+    siteName: "SportsCalendar",
     type: "website",
     locale: "en_US",
     images: [
@@ -41,13 +41,13 @@ export const metadata: Metadata = {
         url: "/icon-512.png",
         width: 512,
         height: 512,
-        alt: "SportCalendar logo",
+        alt: "SportsCalendar logo",
       },
     ],
   },
   twitter: {
     card: "summary",
-    title: "SportCalendar — Never Miss a Match",
+    title: "SportsCalendar — Never Miss a Match",
     description:
       "Live-updating calendar subscriptions for NBA, F1, UEFA CL, World Cup, Tennis, March Madness & Olympics.",
     images: ["/icon-512.png"],

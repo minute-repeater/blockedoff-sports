@@ -693,8 +693,8 @@ function ScheduleApp() {
             className="flex items-center gap-2.5 text-lg sm:text-xl font-bold tracking-tight hover:opacity-80 transition-all shrink-0"
             style={{ fontFamily: "var(--font-heading), system-ui, sans-serif" }}
           >
-            <Image src="/logo.png" alt="SportCalendar" width={30} height={30} className="rounded-lg" />
-            <span>Sport<span className="text-accent">Calendar</span></span>
+            <Image src="/logo.png" alt="SportsCalendar" width={30} height={30} className="rounded-lg" />
+            <span>Sports<span className="text-accent">Calendar</span></span>
           </button>
 
           <div className="flex items-center gap-2 sm:gap-3">
@@ -1546,7 +1546,7 @@ function ScheduleApp() {
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <div className="flex items-center gap-2.5">
               <Image src="/logo.png" alt="" width={20} height={20} className="rounded-sm" />
-              <span className="font-semibold text-foreground">SportCalendar</span>
+              <span className="font-semibold text-foreground">SportsCalendar</span>
             </div>
             <nav className="flex items-center gap-4 sm:gap-5">
               <Link href="/today" className="hover:text-foreground transition-colors font-medium">
@@ -1567,7 +1567,7 @@ function ScheduleApp() {
             </nav>
           </div>
           <div className="text-center sm:text-left mt-4 pt-4 border-t border-border/50 text-muted/60">
-            © {new Date().getFullYear()} SportCalendar · Live-updating sports calendars
+            © {new Date().getFullYear()} SportsCalendar · Live-updating sports calendars
           </div>
         </div>
       </footer>

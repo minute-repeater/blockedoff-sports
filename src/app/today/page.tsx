@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   description:
     "See all sports events happening today. NBA, F1, UEFA Champions League, World Cup, Tennis, March Madness, and Olympics — all in one place.",
   openGraph: {
-    title: "Today's Sports Schedule | SportCalendar",
+    title: "Today's Sports Schedule | SportsCalendar",
     description:
       "See all sports events happening today across NBA, F1, Champions League, World Cup, Tennis, and more.",
   },
@@ -84,13 +84,13 @@ export default function TodayPage() {
           >
             <Image
               src="/logo.png"
-              alt="SportCalendar"
+              alt="SportsCalendar"
               width={30}
               height={30}
               className="rounded-lg"
             />
             <span>
-              Sport<span className="text-accent">Calendar</span>
+              Sports<span className="text-accent">Calendar</span>
             </span>
           </Link>
           <div className="flex items-center gap-3">
@@ -265,7 +265,7 @@ export default function TodayPage() {
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <div className="flex items-center gap-2.5">
               <Image src="/logo.png" alt="" width={20} height={20} className="rounded-sm" />
-              <span className="font-semibold text-foreground">SportCalendar</span>
+              <span className="font-semibold text-foreground">SportsCalendar</span>
             </div>
             <nav className="flex items-center gap-4 sm:gap-5">
               <Link href="/" className="hover:text-foreground transition-colors font-medium">
@@ -286,7 +286,7 @@ export default function TodayPage() {
             </nav>
           </div>
           <div className="text-center sm:text-left mt-4 pt-4 border-t border-border/50 text-muted/60">
-            © {new Date().getFullYear()} SportCalendar · Live-updating sports calendars
+            © {new Date().getFullYear()} SportsCalendar · Live-updating sports calendars
           </div>
         </div>
       </footer>

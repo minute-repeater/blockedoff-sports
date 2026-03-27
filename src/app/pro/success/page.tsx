@@ -55,8 +55,8 @@ export default async function ProSuccessPage({
             className="flex items-center gap-2.5 text-lg sm:text-xl font-bold tracking-tight hover:opacity-80 transition-all shrink-0"
             style={{ fontFamily: "var(--font-heading), system-ui, sans-serif" }}
           >
-            <Image src="/logo.png" alt="SportCalendar" width={30} height={30} className="rounded-lg" />
-            <span>Sport<span className="text-accent">Calendar</span></span>
+            <Image src="/logo.png" alt="SportsCalendar" width={30} height={30} className="rounded-lg" />
+            <span>Sports<span className="text-accent">Calendar</span></span>
           </Link>
         </div>
       </header>
@@ -160,7 +160,7 @@ export default async function ProSuccessPage({
       <footer className="border-t border-border mt-auto py-8 text-center text-xs text-muted">
         <div className="flex items-center justify-center gap-3">
           <Image src="/logo.png" alt="" width={18} height={18} className="rounded-sm" />
-          <span className="font-medium">SportCalendar</span>
+          <span className="font-medium">SportsCalendar</span>
         </div>
       </footer>
     </div>

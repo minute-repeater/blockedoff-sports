@@ -9,7 +9,7 @@ const allTournaments = tournaments as Tournament[];
 export const metadata: Metadata = {
   title: "How It Works — Live Sports Calendar Subscriptions",
   description:
-    "Learn how SportCalendar gives you a live-updating calendar for your team. Pick a tournament, choose your team, and subscribe. Works with Apple Calendar, Google Calendar, and Outlook.",
+    "Learn how SportsCalendar gives you a live-updating calendar for your team. Pick a tournament, choose your team, and subscribe. Works with Apple Calendar, Google Calendar, and Outlook.",
 };
 
 export default function AboutPage() {
@@ -23,8 +23,8 @@ export default function AboutPage() {
             className="flex items-center gap-2.5 text-lg sm:text-xl font-bold tracking-tight hover:opacity-80 transition-all shrink-0"
             style={{ fontFamily: "var(--font-heading), system-ui, sans-serif" }}
           >
-            <Image src="/logo.png" alt="SportCalendar" width={30} height={30} className="rounded-lg" />
-            <span>Sport<span className="text-accent">Calendar</span></span>
+            <Image src="/logo.png" alt="SportsCalendar" width={30} height={30} className="rounded-lg" />
+            <span>Sports<span className="text-accent">Calendar</span></span>
           </Link>
           <nav className="flex items-center gap-3 sm:gap-4 text-sm text-muted">
             <Link
@@ -53,7 +53,7 @@ export default function AboutPage() {
             Never miss a match
           </h1>
           <p className="text-muted text-base sm:text-lg max-w-xl mx-auto leading-relaxed">
-            SportCalendar gives you a live-updating calendar subscription
+            SportsCalendar gives you a live-updating calendar subscription
             for your team&apos;s games. Pick a tournament, choose your team, and
             subscribe — it&apos;s that simple.
           </p>
@@ -209,7 +209,7 @@ export default function AboutPage() {
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <div className="flex items-center gap-2.5">
               <Image src="/logo.png" alt="" width={20} height={20} className="rounded-sm" />
-              <span className="font-semibold text-foreground">SportCalendar</span>
+              <span className="font-semibold text-foreground">SportsCalendar</span>
             </div>
             <nav className="flex items-center gap-4 sm:gap-5">
               <Link href="/" className="hover:text-foreground transition-colors font-medium">
@@ -230,7 +230,7 @@ export default function AboutPage() {
             </nav>
           </div>
           <div className="text-center sm:text-left mt-4 pt-4 border-t border-border/50 text-muted/60">
-            © {new Date().getFullYear()} SportCalendar · Live-updating sports calendars
+            © {new Date().getFullYear()} SportsCalendar · Live-updating sports calendars
           </div>
         </div>
       </footer>
