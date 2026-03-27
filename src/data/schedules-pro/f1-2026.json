@@ -16,13 +16,70 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-03-08T05:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Albert Park Circuit",
-    "city": "Melbourne"
+    "city": "Melbourne",
+    "score": "P1: George Russell | P2: Andrea Kimi Antonelli | P3: Charles Leclerc",
+    "result": {
+      "MER": "W"
+    },
+    "playerStats": [
+      {
+        "player": "George Russell",
+        "country": "MER",
+        "stat": "P1"
+      },
+      {
+        "player": "Andrea Kimi Antonelli",
+        "country": "MER",
+        "stat": "P2"
+      },
+      {
+        "player": "Charles Leclerc",
+        "country": "FER",
+        "stat": "P3"
+      },
+      {
+        "player": "Lewis Hamilton",
+        "country": "FER",
+        "stat": "P4"
+      },
+      {
+        "player": "Lando Norris",
+        "country": "MCL",
+        "stat": "P5"
+      },
+      {
+        "player": "Max Verstappen",
+        "country": "RBR",
+        "stat": "P6 + Fastest Lap"
+      },
+      {
+        "player": "Oliver Bearman",
+        "country": "HAA",
+        "stat": "P7 (Lapped)"
+      },
+      {
+        "player": "Arvid Lindblad",
+        "country": "VCA",
+        "stat": "P8 (Lapped)"
+      },
+      {
+        "player": "Gabriel Bortoleto",
+        "country": "SAU",
+        "stat": "P9 (Lapped)"
+      },
+      {
+        "player": "Pierre Gasly",
+        "country": "ALP",
+        "stat": "P10 (Lapped)"
+      }
+    ]
   },
   {
     "id": "f1-2026-r02",
@@ -41,13 +98,60 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-03-15T07:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Shanghai International Circuit",
-    "city": "Shanghai"
+    "city": "Shanghai",
+    "score": "P1: Andrea Kimi Antonelli | P2: George Russell | P3: Lewis Hamilton",
+    "result": {
+      "MER": "W"
+    },
+    "playerStats": [
+      {
+        "player": "Andrea Kimi Antonelli",
+        "country": "MER",
+        "stat": "P1 + Fastest Lap"
+      },
+      {
+        "player": "George Russell",
+        "country": "MER",
+        "stat": "P2"
+      },
+      {
+        "player": "Lewis Hamilton",
+        "country": "FER",
+        "stat": "P3"
+      },
+      {
+        "player": "Charles Leclerc",
+        "country": "FER",
+        "stat": "P4"
+      },
+      {
+        "player": "Oliver Bearman",
+        "country": "HAA",
+        "stat": "P5"
+      },
+      {
+        "player": "Pierre Gasly",
+        "country": "ALP",
+        "stat": "P6"
+      },
+      {
+        "player": "Liam Lawson",
+        "country": "VCA",
+        "stat": "P7"
+      },
+      {
+        "player": "Isack Hadjar",
+        "country": "RBR",
+        "stat": "P8"
+      }
+    ]
   },
   {
     "id": "f1-2026-r03",
@@ -66,7 +170,8 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-03-29T06:00:00Z",
     "timeTBD": false,
@@ -91,7 +196,8 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-05-03T20:00:00Z",
     "timeTBD": false,
@@ -116,7 +222,8 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-05-24T18:00:00Z",
     "timeTBD": false,
@@ -141,7 +248,8 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-06-07T13:00:00Z",
     "timeTBD": false,
@@ -166,7 +274,8 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-06-14T13:00:00Z",
     "timeTBD": false,
@@ -191,7 +300,8 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-06-28T13:00:00Z",
     "timeTBD": false,
@@ -216,7 +326,8 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-07-05T14:00:00Z",
     "timeTBD": false,
@@ -241,7 +352,8 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-07-19T13:00:00Z",
     "timeTBD": false,
@@ -266,7 +378,8 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-07-26T13:00:00Z",
     "timeTBD": false,
@@ -291,7 +404,8 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-08-23T13:00:00Z",
     "timeTBD": false,
@@ -316,7 +430,8 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-09-06T13:00:00Z",
     "timeTBD": false,
@@ -341,7 +456,8 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-09-13T13:00:00Z",
     "timeTBD": false,
@@ -366,7 +482,8 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-09-26T11:00:00Z",
     "timeTBD": false,
@@ -391,7 +508,8 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-10-11T12:00:00Z",
     "timeTBD": false,
@@ -416,7 +534,8 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-10-25T19:00:00Z",
     "timeTBD": false,
@@ -441,7 +560,8 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-11-01T20:00:00Z",
     "timeTBD": false,
@@ -466,7 +586,8 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-11-08T17:00:00Z",
     "timeTBD": false,
@@ -491,7 +612,8 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-11-21T06:00:00Z",
     "timeTBD": false,
@@ -516,7 +638,8 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-11-29T16:00:00Z",
     "timeTBD": false,
@@ -541,7 +664,8 @@
       "VCA",
       "WIL",
       "SAU",
-      "HAA"
+      "HAA",
+      "CAD"
     ],
     "dateUTC": "2026-12-06T13:00:00Z",
     "timeTBD": false,

@@ -480,6 +480,13 @@
         "shortName": "Haas",
         "color": "#B6BABD",
         "textColor": "#0f172a"
+      },
+      {
+        "code": "CAD",
+        "name": "Cadillac F1 Team",
+        "shortName": "Cadillac",
+        "color": "#C0C0C0",
+        "textColor": "#0f172a"
       }
     ]
   },
