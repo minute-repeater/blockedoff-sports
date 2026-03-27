@@ -693,8 +693,8 @@ function ScheduleApp() {
             className="flex items-center gap-2.5 text-lg sm:text-xl font-bold tracking-tight hover:opacity-80 transition-all shrink-0"
             style={{ fontFamily: "var(--font-heading), system-ui, sans-serif" }}
           >
-            <Image src="/logo.png" alt="SportsCalendar" width={30} height={30} className="rounded-lg" />
-            <span>Sports<span className="text-accent">Calendar</span></span>
+            <Image src="/logo.png" alt="SportsCalendar" width={30} height={30} className="rounded-lg shadow-sm" />
+            <span>Sports<span style={{ color: "var(--accent)" }}>Calendar</span></span>
           </button>
 
           <div className="flex items-center gap-2 sm:gap-3">
@@ -783,9 +783,9 @@ function ScheduleApp() {
         {/* ═══ Step 1: Pick tournament ═══ */}
         {step === "tournament" && (
           <div className="space-y-10">
-            <div className="text-center space-y-4 pt-4 sm:pt-8 animate-in">
+            <div className="text-center space-y-4 pt-4 sm:pt-8 animate-in hero-glow">
               <h1
-                className="text-3xl sm:text-5xl font-extrabold tracking-tight"
+                className="text-3xl sm:text-5xl font-extrabold tracking-tight gradient-text"
                 style={{ fontFamily: "var(--font-heading), system-ui, sans-serif" }}
               >
                 Never miss a match
@@ -794,13 +794,16 @@ function ScheduleApp() {
                 Get a live-updating calendar subscription for your team&apos;s
                 games. Pick a tournament to get started.
               </p>
-              <Link
-                href="/about"
-                className="inline-block text-sm text-accent hover:text-accent-hover font-medium transition-colors"
-              >
-                How does it work? &rarr;
-              </Link>
-              <p className="text-sm text-muted">
+              <div className="flex items-center justify-center gap-4">
+                <Link
+                  href="/about"
+                  className="inline-block text-sm text-accent hover:text-accent-hover font-medium transition-colors"
+                >
+                  How does it work? &rarr;
+                </Link>
+              </div>
+              <p className="text-sm text-muted flex items-center justify-center gap-2">
+                <span className="live-dot" />
                 <span className="font-semibold text-foreground">{getSubscriberCount()}+</span>{" "}
                 calendars subscribed
               </p>
@@ -1023,9 +1026,10 @@ function ScheduleApp() {
 
             {/* Next match countdown */}
             {nextEvent && countdown && (
-              <div className="card-accent p-5 flex items-center justify-between gap-4">
-                <div className="min-w-0">
-                  <div className="text-xs text-muted uppercase tracking-wide font-semibold mb-1">
+              <div className="countdown-card p-5 flex items-center justify-between gap-4">
+                <div className="min-w-0 relative">
+                  <div className="text-xs uppercase tracking-wide font-semibold mb-1 flex items-center gap-2" style={{ color: "var(--accent)" }}>
+                    <span className="live-dot" style={{ width: 6, height: 6 }} />
                     Next up
                   </div>
                   <div
@@ -1038,10 +1042,11 @@ function ScheduleApp() {
                     {nextEvent.phase} · {nextEvent.venue !== "TBD" ? nextEvent.venue : nextEvent.city}
                   </div>
                 </div>
-                <div className="text-right shrink-0">
+                <div className="text-right shrink-0 relative">
+                  <div className="text-xs text-muted uppercase tracking-wide font-medium mb-0.5">Starts in</div>
                   <div
                     className="text-2xl font-extrabold tracking-tight"
-                    style={{ fontFamily: "var(--font-heading), system-ui, sans-serif" }}
+                    style={{ fontFamily: "var(--font-heading), system-ui, sans-serif", color: "var(--accent)" }}
                   >
                     {countdown}
                   </div>
@@ -1059,7 +1064,7 @@ function ScheduleApp() {
                 {/* Right sidebar: Export + Preview — shown FIRST on mobile */}
                 <div className="order-first lg:order-last space-y-4">
                   {/* Subscribe CTA */}
-                  <div className="card-accent p-5 space-y-4">
+                  <div className="card-accent p-5 space-y-4 subscribe-glow">
                     <div className="flex items-center gap-2.5">
                       <span className="text-lg">📅</span>
                       <div>
@@ -1068,7 +1073,7 @@ function ScheduleApp() {
                           style={{ fontFamily: "var(--font-heading), system-ui, sans-serif" }}
                         >
                           Subscribe{" "}
-                          <span className="text-xs font-normal text-accent">
+                          <span className="text-xs font-medium px-1.5 py-0.5 rounded-full" style={{ background: "color-mix(in srgb, var(--accent) 15%, transparent)", color: "var(--accent)" }}>
                             Recommended
                           </span>
                         </h3>
@@ -1375,7 +1380,7 @@ function ScheduleApp() {
                                   ? ev.result[countryCode]
                                   : undefined;
                               return (
-                                <div key={ev.id} className="event-card">
+                                <div key={ev.id} className={past && ev.score ? "event-card-past" : "event-card"}>
                                   <div className="flex items-start justify-between gap-2 sm:gap-3">
                                     <div className="min-w-0 flex-1">
                                       <div className="font-semibold text-sm sm:text-base">
@@ -1546,7 +1551,9 @@ function ScheduleApp() {
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <div className="flex items-center gap-2.5">
               <Image src="/logo.png" alt="" width={20} height={20} className="rounded-sm" />
-              <span className="font-semibold text-foreground">SportsCalendar</span>
+              <span className="font-semibold text-foreground" style={{ fontFamily: "var(--font-heading), system-ui, sans-serif" }}>
+                Sports<span style={{ color: "var(--accent)" }}>Calendar</span>
+              </span>
             </div>
             <nav className="flex items-center gap-4 sm:gap-5">
               <Link href="/today" className="hover:text-foreground transition-colors font-medium">

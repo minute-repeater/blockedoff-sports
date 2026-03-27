@@ -387,3 +387,138 @@ details[open] > summary::before {
 [data-theme="dark"] .sport-tag {
   background: rgba(255,255,255,0.05);
 }
+
+/* ═══════════════════════════════════════════
+   HERO GRADIENT GLOW
+   ═══════════════════════════════════════════ */
+.hero-glow {
+  position: relative;
+}
+.hero-glow::before {
+  content: "";
+  position: absolute;
+  top: -120px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 600px;
+  height: 400px;
+  background: radial-gradient(ellipse at center, rgba(59,130,246,0.12) 0%, transparent 70%);
+  pointer-events: none;
+  z-index: -1;
+}
+[data-theme="dark"] .hero-glow::before {
+  background: radial-gradient(ellipse at center, rgba(59,130,246,0.08) 0%, transparent 70%);
+}
+
+/* ═══════════════════════════════════════════
+   GRADIENT TEXT
+   ═══════════════════════════════════════════ */
+.gradient-text {
+  background: linear-gradient(135deg, var(--foreground) 0%, var(--accent) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ═══════════════════════════════════════════
+   PAST EVENT (dimmed)
+   ═══════════════════════════════════════════ */
+.event-card-past {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: var(--card-shadow);
+  border-left: 4px solid var(--muted);
+  padding: 1rem;
+  opacity: 0.7;
+}
+.event-card-past:hover {
+  opacity: 1;
+}
+
+/* ═══════════════════════════════════════════
+   COUNTDOWN CARD GRADIENT
+   ═══════════════════════════════════════════ */
+.countdown-card {
+  background: linear-gradient(135deg, var(--surface) 0%, color-mix(in srgb, var(--accent) 6%, var(--surface)) 100%);
+  border: 2px solid var(--accent);
+  border-radius: 14px;
+  box-shadow: 0 0 0 1px var(--accent), 0 4px 20px rgba(59, 130, 246, 0.1);
+  position: relative;
+  overflow: hidden;
+}
+.countdown-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 200px;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, color-mix(in srgb, var(--accent) 5%, transparent));
+  pointer-events: none;
+}
+[data-theme="dark"] .countdown-card {
+  box-shadow: 0 0 0 1px var(--accent), 0 4px 25px rgba(59, 130, 246, 0.15);
+}
+
+/* ═══════════════════════════════════════════
+   SUBSCRIBE CARD GLOW
+   ═══════════════════════════════════════════ */
+.subscribe-glow {
+  position: relative;
+}
+.subscribe-glow::after {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  border-radius: 15px;
+  background: linear-gradient(135deg, var(--accent), #8b5cf6, var(--accent));
+  z-index: -1;
+  opacity: 0.15;
+  filter: blur(8px);
+}
+
+/* ═══════════════════════════════════════════
+   LIVE PULSE INDICATOR
+   ═══════════════════════════════════════════ */
+@keyframes pulse-ring {
+  0% { transform: scale(0.8); opacity: 1; }
+  100% { transform: scale(2); opacity: 0; }
+}
+.live-dot {
+  position: relative;
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #22c55e;
+}
+.live-dot::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background: #22c55e;
+  animation: pulse-ring 2s ease-out infinite;
+}
+
+/* ═══════════════════════════════════════════
+   TOURNAMENT CARD HOVER GLOW
+   ═══════════════════════════════════════════ */
+.card-interactive::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 14px;
+  opacity: 0;
+  background: radial-gradient(circle at 50% 50%, color-mix(in srgb, var(--accent) 8%, transparent), transparent 70%);
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+}
+.card-interactive {
+  position: relative;
+  overflow: hidden;
+}
+.card-interactive:hover::after {
+  opacity: 1;
+}

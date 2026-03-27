@@ -12,8 +12,16 @@ echo "--- NBA (full season + scores) ---"
 node scripts/fetch-nba.mjs
 echo ""
 
+echo "--- NBA (box scores for recent games) ---"
+node scripts/update-nba-boxscores.mjs
+echo ""
+
 echo "--- NHL (full season + scores) ---"
 node scripts/fetch-nhl.mjs
+echo ""
+
+echo "--- NHL (box scores for recent games) ---"
+node scripts/update-nhl-boxscores.mjs
 echo ""
 
 echo "--- MLB (full season + scores) ---"
