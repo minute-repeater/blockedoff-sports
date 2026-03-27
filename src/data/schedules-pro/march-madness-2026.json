@@ -1,0 +1,1318 @@
+[
+  {
+    "id": "mm26-e-r64-1",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — East",
+    "isKnockout": true,
+    "summary": "(1) Duke vs. (16) Siena",
+    "countryCodesInvolved": [
+      "DUKE",
+      "SIEN"
+    ],
+    "dateUTC": "2026-03-20T16:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Capital One Arena",
+    "city": "Washington",
+    "score": "71-65",
+    "result": {
+      "DUKE": "W",
+      "SIEN": "L"
+    }
+  },
+  {
+    "id": "mm26-s-r64-1",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — South",
+    "isKnockout": true,
+    "summary": "(1) Florida vs. (16) Prairie View",
+    "countryCodesInvolved": [
+      "FLOR",
+      "PVAM"
+    ],
+    "dateUTC": "2026-03-20T17:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Toyota Center",
+    "city": "Houston",
+    "score": "114-55",
+    "result": {
+      "FLOR": "W",
+      "PVAM": "L"
+    }
+  },
+  {
+    "id": "mm26-m-r64-1",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Midwest",
+    "isKnockout": true,
+    "summary": "(1) Michigan vs. (16) Howard",
+    "countryCodesInvolved": [
+      "MICH",
+      "HOW"
+    ],
+    "dateUTC": "2026-03-20T17:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "United Center",
+    "city": "Chicago",
+    "score": "101-80",
+    "result": {
+      "MICH": "W",
+      "HOW": "L"
+    }
+  },
+  {
+    "id": "mm26-w-r64-1",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — West",
+    "isKnockout": true,
+    "summary": "(1) Arizona vs. (16) Long Island",
+    "countryCodesInvolved": [
+      "AZ",
+      "LIU"
+    ],
+    "dateUTC": "2026-03-20T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SAP Center",
+    "city": "San Jose",
+    "score": "92-58",
+    "result": {
+      "AZ": "W",
+      "LIU": "L"
+    }
+  },
+  {
+    "id": "mm26-e-r64-2",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — East",
+    "isKnockout": true,
+    "summary": "(9) TCU vs. (8) Ohio State",
+    "countryCodesInvolved": [
+      "TCU",
+      "OHST"
+    ],
+    "dateUTC": "2026-03-20T19:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Capital One Arena",
+    "city": "Washington",
+    "score": "66-64",
+    "result": {
+      "TCU": "W",
+      "OHST": "L"
+    }
+  },
+  {
+    "id": "mm26-s-r64-2",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — South",
+    "isKnockout": true,
+    "summary": "(9) Iowa vs. (8) Clemson",
+    "countryCodesInvolved": [
+      "IOWA",
+      "CLEM"
+    ],
+    "dateUTC": "2026-03-20T19:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Toyota Center",
+    "city": "Houston",
+    "score": "67-61",
+    "result": {
+      "IOWA": "W",
+      "CLEM": "L"
+    }
+  },
+  {
+    "id": "mm26-m-r64-2",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Midwest",
+    "isKnockout": true,
+    "summary": "(9) Saint Louis vs. (8) Georgia",
+    "countryCodesInvolved": [
+      "STLOU",
+      "UGA"
+    ],
+    "dateUTC": "2026-03-20T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "United Center",
+    "city": "Chicago",
+    "score": "102-77",
+    "result": {
+      "STLOU": "W",
+      "UGA": "L"
+    }
+  },
+  {
+    "id": "mm26-w-r64-2",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — West",
+    "isKnockout": true,
+    "summary": "(9) Utah State vs. (8) Villanova",
+    "countryCodesInvolved": [
+      "UTST",
+      "NOVA"
+    ],
+    "dateUTC": "2026-03-20T20:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SAP Center",
+    "city": "San Jose",
+    "score": "86-76",
+    "result": {
+      "UTST": "W",
+      "NOVA": "L"
+    }
+  },
+  {
+    "id": "mm26-e-r64-3",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — East",
+    "isKnockout": true,
+    "summary": "(5) St. John's vs. (12) N. Iowa",
+    "countryCodesInvolved": [
+      "STJO",
+      "NIOW"
+    ],
+    "dateUTC": "2026-03-20T21:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Capital One Arena",
+    "city": "Washington",
+    "score": "77-53",
+    "result": {
+      "STJO": "W",
+      "NIOW": "L"
+    }
+  },
+  {
+    "id": "mm26-s-r64-3",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — South",
+    "isKnockout": true,
+    "summary": "(5) Vanderbilt vs. (12) McNeese",
+    "countryCodesInvolved": [
+      "VAND",
+      "MCNS"
+    ],
+    "dateUTC": "2026-03-20T22:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Toyota Center",
+    "city": "Houston",
+    "score": "78-68",
+    "result": {
+      "VAND": "W",
+      "MCNS": "L"
+    }
+  },
+  {
+    "id": "mm26-m-r64-3",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Midwest",
+    "isKnockout": true,
+    "summary": "(5) Texas Tech vs. (12) Akron",
+    "countryCodesInvolved": [
+      "TTU",
+      "AKR"
+    ],
+    "dateUTC": "2026-03-20T22:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "United Center",
+    "city": "Chicago",
+    "score": "91-71",
+    "result": {
+      "TTU": "W",
+      "AKR": "L"
+    }
+  },
+  {
+    "id": "mm26-w-r64-3",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — West",
+    "isKnockout": true,
+    "summary": "(12) High Point vs. (5) Wisconsin",
+    "countryCodesInvolved": [
+      "HIPO",
+      "WISC"
+    ],
+    "dateUTC": "2026-03-20T23:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SAP Center",
+    "city": "San Jose",
+    "score": "83-82",
+    "result": {
+      "HIPO": "W",
+      "WISC": "L"
+    }
+  },
+  {
+    "id": "mm26-e-r64-4",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — East",
+    "isKnockout": true,
+    "summary": "(4) Kansas vs. (13) Cal Baptist",
+    "countryCodesInvolved": [
+      "KU",
+      "CALB"
+    ],
+    "dateUTC": "2026-03-21T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Capital One Arena",
+    "city": "Washington",
+    "score": "68-60",
+    "result": {
+      "KU": "W",
+      "CALB": "L"
+    }
+  },
+  {
+    "id": "mm26-s-r64-4",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — South",
+    "isKnockout": true,
+    "summary": "(4) Nebraska vs. (13) Troy",
+    "countryCodesInvolved": [
+      "NEB",
+      "TROY"
+    ],
+    "dateUTC": "2026-03-21T00:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Toyota Center",
+    "city": "Houston",
+    "score": "76-47",
+    "result": {
+      "NEB": "W",
+      "TROY": "L"
+    }
+  },
+  {
+    "id": "mm26-m-r64-4",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Midwest",
+    "isKnockout": true,
+    "summary": "(4) Alabama vs. (13) Hofstra",
+    "countryCodesInvolved": [
+      "ALAB",
+      "HOFS"
+    ],
+    "dateUTC": "2026-03-21T01:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "United Center",
+    "city": "Chicago",
+    "score": "87-69",
+    "result": {
+      "ALAB": "W",
+      "HOFS": "L"
+    }
+  },
+  {
+    "id": "mm26-w-r64-4",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — West",
+    "isKnockout": true,
+    "summary": "(4) Arkansas vs. (13) Hawaii",
+    "countryCodesInvolved": [
+      "ARK",
+      "HAW"
+    ],
+    "dateUTC": "2026-03-21T01:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SAP Center",
+    "city": "San Jose",
+    "score": "97-78",
+    "result": {
+      "ARK": "W",
+      "HAW": "L"
+    }
+  },
+  {
+    "id": "mm26-e-r64-5",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — East",
+    "isKnockout": true,
+    "summary": "(6) Louisville vs. (11) USF",
+    "countryCodesInvolved": [
+      "LOU",
+      "USF"
+    ],
+    "dateUTC": "2026-03-21T16:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Capital One Arena",
+    "city": "Washington",
+    "score": "83-79",
+    "result": {
+      "LOU": "W",
+      "USF": "L"
+    }
+  },
+  {
+    "id": "mm26-s-r64-5",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — South",
+    "isKnockout": true,
+    "summary": "(11) VCU vs. (6) UNC",
+    "countryCodesInvolved": [
+      "VCU",
+      "UNC"
+    ],
+    "dateUTC": "2026-03-21T17:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Toyota Center",
+    "city": "Houston",
+    "score": "82-78",
+    "result": {
+      "VCU": "W",
+      "UNC": "L"
+    }
+  },
+  {
+    "id": "mm26-m-r64-5",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Midwest",
+    "isKnockout": true,
+    "summary": "(3) Virginia vs. (14) Wright State",
+    "countryCodesInvolved": [
+      "UVA",
+      "WRST"
+    ],
+    "dateUTC": "2026-03-21T17:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "United Center",
+    "city": "Chicago",
+    "score": "82-73",
+    "result": {
+      "UVA": "W",
+      "WRST": "L"
+    }
+  },
+  {
+    "id": "mm26-w-r64-5",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — West",
+    "isKnockout": true,
+    "summary": "(11) Texas vs. (6) BYU",
+    "countryCodesInvolved": [
+      "TEX",
+      "BYU"
+    ],
+    "dateUTC": "2026-03-21T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SAP Center",
+    "city": "San Jose",
+    "score": "79-71",
+    "result": {
+      "TEX": "W",
+      "BYU": "L"
+    }
+  },
+  {
+    "id": "mm26-e-r64-6",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — East",
+    "isKnockout": true,
+    "summary": "(3) Michigan St vs. (14) NDSU",
+    "countryCodesInvolved": [
+      "MSU",
+      "NDSU"
+    ],
+    "dateUTC": "2026-03-21T19:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Capital One Arena",
+    "city": "Washington",
+    "score": "92-67",
+    "result": {
+      "MSU": "W",
+      "NDSU": "L"
+    }
+  },
+  {
+    "id": "mm26-s-r64-6",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — South",
+    "isKnockout": true,
+    "summary": "(3) Illinois vs. (14) Penn",
+    "countryCodesInvolved": [
+      "ILL",
+      "PENN"
+    ],
+    "dateUTC": "2026-03-21T19:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Toyota Center",
+    "city": "Houston",
+    "score": "105-70",
+    "result": {
+      "ILL": "W",
+      "PENN": "L"
+    }
+  },
+  {
+    "id": "mm26-m-r64-6",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Midwest",
+    "isKnockout": true,
+    "summary": "(6) Tennessee vs. (11) Miami (OH)",
+    "countryCodesInvolved": [
+      "TENN",
+      "MIOH"
+    ],
+    "dateUTC": "2026-03-21T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "United Center",
+    "city": "Chicago",
+    "score": "78-56",
+    "result": {
+      "TENN": "W",
+      "MIOH": "L"
+    }
+  },
+  {
+    "id": "mm26-w-r64-6",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — West",
+    "isKnockout": true,
+    "summary": "(3) Gonzaga vs. (14) Kennesaw St",
+    "countryCodesInvolved": [
+      "GONZ",
+      "KENN"
+    ],
+    "dateUTC": "2026-03-21T20:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SAP Center",
+    "city": "San Jose",
+    "score": "73-64",
+    "result": {
+      "GONZ": "W",
+      "KENN": "L"
+    }
+  },
+  {
+    "id": "mm26-e-r64-7",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — East",
+    "isKnockout": true,
+    "summary": "(7) UCLA vs. (10) UCF",
+    "countryCodesInvolved": [
+      "UCLA",
+      "UCF"
+    ],
+    "dateUTC": "2026-03-21T21:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Capital One Arena",
+    "city": "Washington",
+    "score": "75-71",
+    "result": {
+      "UCLA": "W",
+      "UCF": "L"
+    }
+  },
+  {
+    "id": "mm26-s-r64-7",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — South",
+    "isKnockout": true,
+    "summary": "(10) Texas A&M vs. (7) Saint Mary's",
+    "countryCodesInvolved": [
+      "TAM",
+      "SMC"
+    ],
+    "dateUTC": "2026-03-21T22:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Toyota Center",
+    "city": "Houston",
+    "score": "63-50",
+    "result": {
+      "TAM": "W",
+      "SMC": "L"
+    }
+  },
+  {
+    "id": "mm26-m-r64-7",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Midwest",
+    "isKnockout": true,
+    "summary": "(7) Kentucky vs. (10) Santa Clara",
+    "countryCodesInvolved": [
+      "UK",
+      "SCLA"
+    ],
+    "dateUTC": "2026-03-21T22:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "United Center",
+    "city": "Chicago",
+    "score": "89-84",
+    "result": {
+      "UK": "W",
+      "SCLA": "L"
+    }
+  },
+  {
+    "id": "mm26-w-r64-7",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — West",
+    "isKnockout": true,
+    "summary": "(7) Miami (FL) vs. (10) Missouri",
+    "countryCodesInvolved": [
+      "MIFL",
+      "MIZZ"
+    ],
+    "dateUTC": "2026-03-21T23:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SAP Center",
+    "city": "San Jose",
+    "score": "80-66",
+    "result": {
+      "MIFL": "W",
+      "MIZZ": "L"
+    }
+  },
+  {
+    "id": "mm26-e-r64-8",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — East",
+    "isKnockout": true,
+    "summary": "(2) UConn vs. (15) Furman",
+    "countryCodesInvolved": [
+      "CONN",
+      "FUR"
+    ],
+    "dateUTC": "2026-03-22T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Capital One Arena",
+    "city": "Washington",
+    "score": "82-71",
+    "result": {
+      "CONN": "W",
+      "FUR": "L"
+    }
+  },
+  {
+    "id": "mm26-s-r64-8",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — South",
+    "isKnockout": true,
+    "summary": "(2) Houston vs. (15) Idaho",
+    "countryCodesInvolved": [
+      "HOU",
+      "IDHO"
+    ],
+    "dateUTC": "2026-03-22T00:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Toyota Center",
+    "city": "Houston",
+    "score": "78-47",
+    "result": {
+      "HOU": "W",
+      "IDHO": "L"
+    }
+  },
+  {
+    "id": "mm26-m-r64-8",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Midwest",
+    "isKnockout": true,
+    "summary": "(2) Iowa State vs. (15) Tennessee St",
+    "countryCodesInvolved": [
+      "ISU",
+      "TNST"
+    ],
+    "dateUTC": "2026-03-22T01:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "United Center",
+    "city": "Chicago",
+    "score": "108-74",
+    "result": {
+      "ISU": "W",
+      "TNST": "L"
+    }
+  },
+  {
+    "id": "mm26-w-r64-8",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — West",
+    "isKnockout": true,
+    "summary": "(2) Purdue vs. (15) Queens",
+    "countryCodesInvolved": [
+      "PUR",
+      "QUNS"
+    ],
+    "dateUTC": "2026-03-22T01:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SAP Center",
+    "city": "San Jose",
+    "score": "104-69",
+    "result": {
+      "PUR": "W",
+      "QUNS": "L"
+    }
+  },
+  {
+    "id": "mm26-e-r32-1",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — East",
+    "isKnockout": true,
+    "summary": "(1) Duke vs. (9) TCU",
+    "countryCodesInvolved": [
+      "DUKE",
+      "TCU"
+    ],
+    "dateUTC": "2026-03-22T17:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Capital One Arena",
+    "city": "Washington",
+    "score": "81-58",
+    "result": {
+      "DUKE": "W",
+      "TCU": "L"
+    }
+  },
+  {
+    "id": "mm26-m-r32-1",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — Midwest",
+    "isKnockout": true,
+    "summary": "(1) Michigan vs. (9) Saint Louis",
+    "countryCodesInvolved": [
+      "MICH",
+      "STLOU"
+    ],
+    "dateUTC": "2026-03-22T17:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "United Center",
+    "city": "Chicago",
+    "score": "95-72",
+    "result": {
+      "MICH": "W",
+      "STLOU": "L"
+    }
+  },
+  {
+    "id": "mm26-s-r32-1",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — South",
+    "isKnockout": true,
+    "summary": "(9) Iowa vs. (1) Florida",
+    "countryCodesInvolved": [
+      "IOWA",
+      "FLOR"
+    ],
+    "dateUTC": "2026-03-22T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Toyota Center",
+    "city": "Houston",
+    "score": "73-72",
+    "result": {
+      "IOWA": "W",
+      "FLOR": "L"
+    }
+  },
+  {
+    "id": "mm26-w-r32-1",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — West",
+    "isKnockout": true,
+    "summary": "(1) Arizona vs. (9) Utah State",
+    "countryCodesInvolved": [
+      "AZ",
+      "UTST"
+    ],
+    "dateUTC": "2026-03-22T18:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SAP Center",
+    "city": "San Jose",
+    "score": "78-66",
+    "result": {
+      "AZ": "W",
+      "UTST": "L"
+    }
+  },
+  {
+    "id": "mm26-e-r32-2",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — East",
+    "isKnockout": true,
+    "summary": "(5) St. John's vs. (4) Kansas",
+    "countryCodesInvolved": [
+      "STJO",
+      "KU"
+    ],
+    "dateUTC": "2026-03-22T19:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Capital One Arena",
+    "city": "Washington",
+    "score": "67-65",
+    "result": {
+      "STJO": "W",
+      "KU": "L"
+    }
+  },
+  {
+    "id": "mm26-m-r32-2",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — Midwest",
+    "isKnockout": true,
+    "summary": "(4) Alabama vs. (5) Texas Tech",
+    "countryCodesInvolved": [
+      "ALAB",
+      "TTU"
+    ],
+    "dateUTC": "2026-03-22T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "United Center",
+    "city": "Chicago",
+    "score": "90-65",
+    "result": {
+      "ALAB": "W",
+      "TTU": "L"
+    }
+  },
+  {
+    "id": "mm26-s-r32-2",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — South",
+    "isKnockout": true,
+    "summary": "(4) Nebraska vs. (5) Vanderbilt",
+    "countryCodesInvolved": [
+      "NEB",
+      "VAND"
+    ],
+    "dateUTC": "2026-03-22T20:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Toyota Center",
+    "city": "Houston",
+    "score": "74-72",
+    "result": {
+      "NEB": "W",
+      "VAND": "L"
+    }
+  },
+  {
+    "id": "mm26-w-r32-2",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — West",
+    "isKnockout": true,
+    "summary": "(4) Arkansas vs. (12) High Point",
+    "countryCodesInvolved": [
+      "ARK",
+      "HIPO"
+    ],
+    "dateUTC": "2026-03-22T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SAP Center",
+    "city": "San Jose",
+    "score": "94-88",
+    "result": {
+      "ARK": "W",
+      "HIPO": "L"
+    }
+  },
+  {
+    "id": "mm26-e-r32-3",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — East",
+    "isKnockout": true,
+    "summary": "(3) Michigan St vs. (6) Louisville",
+    "countryCodesInvolved": [
+      "MSU",
+      "LOU"
+    ],
+    "dateUTC": "2026-03-23T17:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Capital One Arena",
+    "city": "Washington",
+    "score": "77-69",
+    "result": {
+      "MSU": "W",
+      "LOU": "L"
+    }
+  },
+  {
+    "id": "mm26-m-r32-3",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — Midwest",
+    "isKnockout": true,
+    "summary": "(6) Tennessee vs. (3) Virginia",
+    "countryCodesInvolved": [
+      "TENN",
+      "UVA"
+    ],
+    "dateUTC": "2026-03-23T17:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "United Center",
+    "city": "Chicago",
+    "score": "79-72",
+    "result": {
+      "TENN": "W",
+      "UVA": "L"
+    }
+  },
+  {
+    "id": "mm26-s-r32-3",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — South",
+    "isKnockout": true,
+    "summary": "(3) Illinois vs. (11) VCU",
+    "countryCodesInvolved": [
+      "ILL",
+      "VCU"
+    ],
+    "dateUTC": "2026-03-23T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Toyota Center",
+    "city": "Houston",
+    "score": "76-55",
+    "result": {
+      "ILL": "W",
+      "VCU": "L"
+    }
+  },
+  {
+    "id": "mm26-w-r32-3",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — West",
+    "isKnockout": true,
+    "summary": "(11) Texas vs. (3) Gonzaga",
+    "countryCodesInvolved": [
+      "TEX",
+      "GONZ"
+    ],
+    "dateUTC": "2026-03-23T18:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SAP Center",
+    "city": "San Jose",
+    "score": "74-68",
+    "result": {
+      "TEX": "W",
+      "GONZ": "L"
+    }
+  },
+  {
+    "id": "mm26-e-r32-4",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — East",
+    "isKnockout": true,
+    "summary": "(2) UConn vs. (7) UCLA",
+    "countryCodesInvolved": [
+      "CONN",
+      "UCLA"
+    ],
+    "dateUTC": "2026-03-23T19:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Capital One Arena",
+    "city": "Washington",
+    "score": "73-57",
+    "result": {
+      "CONN": "W",
+      "UCLA": "L"
+    }
+  },
+  {
+    "id": "mm26-m-r32-4",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — Midwest",
+    "isKnockout": true,
+    "summary": "(2) Iowa State vs. (7) Kentucky",
+    "countryCodesInvolved": [
+      "ISU",
+      "UK"
+    ],
+    "dateUTC": "2026-03-23T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "United Center",
+    "city": "Chicago",
+    "score": "82-63",
+    "result": {
+      "ISU": "W",
+      "UK": "L"
+    }
+  },
+  {
+    "id": "mm26-s-r32-4",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — South",
+    "isKnockout": true,
+    "summary": "(2) Houston vs. (10) Texas A&M",
+    "countryCodesInvolved": [
+      "HOU",
+      "TAM"
+    ],
+    "dateUTC": "2026-03-23T20:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Toyota Center",
+    "city": "Houston",
+    "score": "88-57",
+    "result": {
+      "HOU": "W",
+      "TAM": "L"
+    }
+  },
+  {
+    "id": "mm26-w-r32-4",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — West",
+    "isKnockout": true,
+    "summary": "(2) Purdue vs. (7) Miami (FL)",
+    "countryCodesInvolved": [
+      "PUR",
+      "MIFL"
+    ],
+    "dateUTC": "2026-03-23T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SAP Center",
+    "city": "San Jose",
+    "score": "79-69",
+    "result": {
+      "PUR": "W",
+      "MIFL": "L"
+    }
+  },
+  {
+    "id": "mm26-s-s16-1",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Sweet 16 — South",
+    "isKnockout": true,
+    "summary": "(9) Iowa vs. (4) Nebraska",
+    "countryCodesInvolved": [
+      "IOWA",
+      "NEB"
+    ],
+    "dateUTC": "2026-03-26T23:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Toyota Center",
+    "city": "Houston",
+    "score": "76-71",
+    "result": {
+      "IOWA": "W",
+      "NEB": "L"
+    }
+  },
+  {
+    "id": "mm26-w-s16-2",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Sweet 16 — West",
+    "isKnockout": true,
+    "summary": "(2) Purdue vs. (11) Texas",
+    "countryCodesInvolved": [
+      "PUR",
+      "TEX"
+    ],
+    "dateUTC": "2026-03-26T23:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SAP Center",
+    "city": "San Jose",
+    "score": "79-77",
+    "result": {
+      "PUR": "W",
+      "TEX": "L"
+    }
+  },
+  {
+    "id": "mm26-s-s16-2",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Sweet 16 — South",
+    "isKnockout": true,
+    "summary": "(3) Illinois vs. (2) Houston",
+    "countryCodesInvolved": [
+      "ILL",
+      "HOU"
+    ],
+    "dateUTC": "2026-03-27T02:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Toyota Center",
+    "city": "Houston",
+    "score": "65-55",
+    "result": {
+      "ILL": "W",
+      "HOU": "L"
+    }
+  },
+  {
+    "id": "mm26-w-s16-1",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Sweet 16 — West",
+    "isKnockout": true,
+    "summary": "(1) Arizona vs. (4) Arkansas",
+    "countryCodesInvolved": [
+      "AZ",
+      "ARK"
+    ],
+    "dateUTC": "2026-03-27T02:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SAP Center",
+    "city": "San Jose",
+    "score": "109-88",
+    "result": {
+      "AZ": "W",
+      "ARK": "L"
+    }
+  },
+  {
+    "id": "mm26-e-s16-1",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Sweet 16 — East",
+    "isKnockout": true,
+    "summary": "(1) Duke vs. (5) St. John's",
+    "countryCodesInvolved": [
+      "DUKE",
+      "STJO"
+    ],
+    "dateUTC": "2026-03-27T23:10:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Capital One Arena",
+    "city": "Washington"
+  },
+  {
+    "id": "mm26-m-s16-1",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Sweet 16 — Midwest",
+    "isKnockout": true,
+    "summary": "(1) Michigan vs. (4) Alabama",
+    "countryCodesInvolved": [
+      "MICH",
+      "ALAB"
+    ],
+    "dateUTC": "2026-03-27T23:35:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "United Center",
+    "city": "Chicago"
+  },
+  {
+    "id": "mm26-e-s16-2",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Sweet 16 — East",
+    "isKnockout": true,
+    "summary": "(2) UConn vs. (3) Michigan St",
+    "countryCodesInvolved": [
+      "CONN",
+      "MSU"
+    ],
+    "dateUTC": "2026-03-28T01:45:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Capital One Arena",
+    "city": "Washington"
+  },
+  {
+    "id": "mm26-m-s16-2",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Sweet 16 — Midwest",
+    "isKnockout": true,
+    "summary": "(2) Iowa State vs. (6) Tennessee",
+    "countryCodesInvolved": [
+      "ISU",
+      "TENN"
+    ],
+    "dateUTC": "2026-03-28T02:10:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "United Center",
+    "city": "Chicago"
+  },
+  {
+    "id": "mm26-e8-east",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Elite Eight — East",
+    "isKnockout": true,
+    "summary": "Elite Eight — East (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-03-28T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Capital One Arena",
+    "city": "Washington"
+  },
+  {
+    "id": "mm26-e8-south",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Elite Eight — South",
+    "isKnockout": true,
+    "summary": "(9) Iowa vs. (3) Illinois",
+    "countryCodesInvolved": [
+      "IOWA",
+      "ILL"
+    ],
+    "dateUTC": "2026-03-28T20:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Toyota Center",
+    "city": "Houston"
+  },
+  {
+    "id": "mm26-e8-west",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Elite Eight — West",
+    "isKnockout": true,
+    "summary": "(1) Arizona vs. (2) Purdue",
+    "countryCodesInvolved": [
+      "AZ",
+      "PUR"
+    ],
+    "dateUTC": "2026-03-29T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SAP Center",
+    "city": "San Jose"
+  },
+  {
+    "id": "mm26-e8-midwest",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Elite Eight — Midwest",
+    "isKnockout": true,
+    "summary": "Elite Eight — Midwest (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-03-29T20:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "United Center",
+    "city": "Chicago"
+  },
+  {
+    "id": "mm26-ff-1",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Final Four",
+    "isKnockout": true,
+    "summary": "Final Four (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-04-04T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Lucas Oil Stadium",
+    "city": "Indianapolis"
+  },
+  {
+    "id": "mm26-ff-2",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "Final Four",
+    "isKnockout": true,
+    "summary": "Final Four (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-04-04T20:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Lucas Oil Stadium",
+    "city": "Indianapolis"
+  },
+  {
+    "id": "mm26-final",
+    "tournamentId": "march-madness-2026",
+    "sport": "basketball",
+    "phase": "National Championship",
+    "isKnockout": true,
+    "summary": "National Championship (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-04-06T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Lucas Oil Stadium",
+    "city": "Indianapolis"
+  }
+]

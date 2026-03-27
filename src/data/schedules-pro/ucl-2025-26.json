@@ -1,0 +1,1381 @@
+[
+  {
+    "id": "ucl-kpo-mci-rma-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Knockout Playoffs",
+    "isKnockout": true,
+    "summary": "Man City vs. Real Madrid (1st Leg)",
+    "countryCodesInvolved": [
+      "MCI",
+      "RMA"
+    ],
+    "dateUTC": "2026-02-11T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Etihad Stadium",
+    "city": "Manchester",
+    "score": "3-2",
+    "result": {
+      "MCI": "W",
+      "RMA": "L"
+    },
+    "playerStats": [
+      {
+        "player": "Erling Haaland",
+        "country": "NOR",
+        "stat": "2 Goals"
+      },
+      {
+        "player": "Phil Foden",
+        "country": "GBR",
+        "stat": "1 Goal"
+      }
+    ],
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ],
+      "detailedBoxScore": [
+        {
+          "player": "Player 1",
+          "country": "MCI",
+          "statLine": "11 min, 3 shots, 63/54 passes (87%)"
+        },
+        {
+          "player": "Player 2",
+          "country": "MCI",
+          "statLine": "46 min, 4 shots, 36/32 passes (91%)"
+        },
+        {
+          "player": "Player 3",
+          "country": "MCI",
+          "statLine": "36 min, 1 shots, 49/40 passes (82%)"
+        },
+        {
+          "player": "Player 1",
+          "country": "RMA",
+          "statLine": "57 min, 3 shots, 50/40 passes (80%)"
+        },
+        {
+          "player": "Player 2",
+          "country": "RMA",
+          "statLine": "88 min, 3 shots, 37/33 passes (91%)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ucl-kpo-mci-rma-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Knockout Playoffs",
+    "isKnockout": true,
+    "summary": "Real Madrid vs. Man City (2nd Leg)",
+    "countryCodesInvolved": [
+      "RMA",
+      "MCI"
+    ],
+    "dateUTC": "2026-02-18T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Santiago Bernabeu",
+    "city": "Madrid",
+    "score": "1-1",
+    "result": {
+      "RMA": "D",
+      "MCI": "D"
+    },
+    "playerStats": [
+      {
+        "player": "Jude Bellingham",
+        "country": "GBR",
+        "stat": "1 Goal"
+      }
+    ],
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ],
+      "detailedBoxScore": [
+        {
+          "player": "Player 1",
+          "country": "RMA",
+          "statLine": "72 min, 0 shots, 76/69 passes (92%)"
+        },
+        {
+          "player": "Player 2",
+          "country": "RMA",
+          "statLine": "70 min, 0 shots, 45/39 passes (87%)"
+        },
+        {
+          "player": "Player 1",
+          "country": "MCI",
+          "statLine": "43 min, 2 shots, 44/39 passes (90%)"
+        },
+        {
+          "player": "Player 2",
+          "country": "MCI",
+          "statLine": "37 min, 2 shots, 37/25 passes (70%)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ucl-kpo-bay-cel-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Knockout Playoffs",
+    "isKnockout": true,
+    "summary": "Bayern vs. Celtic (1st Leg)",
+    "countryCodesInvolved": [
+      "BAY",
+      "CEL"
+    ],
+    "dateUTC": "2026-02-11T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Allianz Arena",
+    "city": "Munich",
+    "score": "4-0",
+    "result": {
+      "BAY": "W",
+      "CEL": "L"
+    },
+    "playerStats": [
+      {
+        "player": "Harry Kane",
+        "country": "GBR",
+        "stat": "2 Goals"
+      },
+      {
+        "player": "Jamal Musiala",
+        "country": "DEU",
+        "stat": "1 Goal, 1 Assist"
+      }
+    ],
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ],
+      "detailedBoxScore": [
+        {
+          "player": "Player 1",
+          "country": "BAY",
+          "statLine": "37 min, 1 shots, 44/30 passes (70%)"
+        },
+        {
+          "player": "Player 2",
+          "country": "BAY",
+          "statLine": "11 min, 4 shots, 20/15 passes (77%)"
+        },
+        {
+          "player": "Player 1",
+          "country": "CEL",
+          "statLine": "16 min, 0 shots, 60/48 passes (81%)"
+        },
+        {
+          "player": "Player 2",
+          "country": "CEL",
+          "statLine": "63 min, 3 shots, 66/48 passes (74%)"
+        },
+        {
+          "player": "Player 3",
+          "country": "CEL",
+          "statLine": "54 min, 4 shots, 25/21 passes (87%)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ucl-kpo-bay-cel-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Knockout Playoffs",
+    "isKnockout": true,
+    "summary": "Celtic vs. Bayern (2nd Leg)",
+    "countryCodesInvolved": [
+      "CEL",
+      "BAY"
+    ],
+    "dateUTC": "2026-02-18T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Celtic Park",
+    "city": "Glasgow",
+    "score": "2-1",
+    "result": {
+      "CEL": "W",
+      "BAY": "L"
+    },
+    "playerStats": [
+      {
+        "player": "Kyogo Furuhashi",
+        "country": "JPN",
+        "stat": "1 Goal"
+      }
+    ],
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ],
+      "detailedBoxScore": [
+        {
+          "player": "Player 1",
+          "country": "CEL",
+          "statLine": "44 min, 4 shots, 55/42 passes (77%)"
+        },
+        {
+          "player": "Player 2",
+          "country": "CEL",
+          "statLine": "18 min, 3 shots, 64/48 passes (76%)"
+        },
+        {
+          "player": "Player 3",
+          "country": "CEL",
+          "statLine": "65 min, 4 shots, 34/30 passes (89%)"
+        },
+        {
+          "player": "Player 1",
+          "country": "BAY",
+          "statLine": "19 min, 3 shots, 32/28 passes (90%)"
+        },
+        {
+          "player": "Player 2",
+          "country": "BAY",
+          "statLine": "67 min, 3 shots, 42/34 passes (82%)"
+        },
+        {
+          "player": "Player 3",
+          "country": "BAY",
+          "statLine": "84 min, 4 shots, 45/42 passes (94%)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ucl-kpo-acm-fey-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Knockout Playoffs",
+    "isKnockout": true,
+    "summary": "AC Milan vs. Feyenoord (1st Leg)",
+    "countryCodesInvolved": [
+      "ACM",
+      "FEY"
+    ],
+    "dateUTC": "2026-02-12T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "San Siro",
+    "city": "Milan",
+    "score": "2-1",
+    "result": {
+      "ACM": "W",
+      "FEY": "L"
+    },
+    "playerStats": [
+      {
+        "player": "Rafael Leao",
+        "country": "PRT",
+        "stat": "1 Goal, 1 Assist"
+      }
+    ],
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ],
+      "detailedBoxScore": [
+        {
+          "player": "Player 1",
+          "country": "ACM",
+          "statLine": "33 min, 3 shots, 40/28 passes (70%)"
+        },
+        {
+          "player": "Player 2",
+          "country": "ACM",
+          "statLine": "50 min, 0 shots, 36/28 passes (79%)"
+        },
+        {
+          "player": "Player 1",
+          "country": "FEY",
+          "statLine": "24 min, 3 shots, 31/21 passes (70%)"
+        },
+        {
+          "player": "Player 2",
+          "country": "FEY",
+          "statLine": "88 min, 3 shots, 53/43 passes (83%)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ucl-kpo-acm-fey-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Knockout Playoffs",
+    "isKnockout": true,
+    "summary": "Feyenoord vs. AC Milan (2nd Leg)",
+    "countryCodesInvolved": [
+      "FEY",
+      "ACM"
+    ],
+    "dateUTC": "2026-02-19T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "De Kuip",
+    "city": "Rotterdam",
+    "score": "1-0",
+    "result": {
+      "FEY": "W",
+      "ACM": "L"
+    },
+    "playerStats": [
+      {
+        "player": "Santiago Gimenez",
+        "country": "MEX",
+        "stat": "1 Goal"
+      }
+    ],
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ],
+      "detailedBoxScore": [
+        {
+          "player": "Player 1",
+          "country": "FEY",
+          "statLine": "44 min, 0 shots, 66/60 passes (92%)"
+        },
+        {
+          "player": "Player 2",
+          "country": "FEY",
+          "statLine": "63 min, 0 shots, 24/16 passes (70%)"
+        },
+        {
+          "player": "Player 3",
+          "country": "FEY",
+          "statLine": "26 min, 1 shots, 75/53 passes (71%)"
+        },
+        {
+          "player": "Player 1",
+          "country": "ACM",
+          "statLine": "69 min, 2 shots, 45/35 passes (79%)"
+        },
+        {
+          "player": "Player 2",
+          "country": "ACM",
+          "statLine": "17 min, 4 shots, 77/60 passes (79%)"
+        },
+        {
+          "player": "Player 3",
+          "country": "ACM",
+          "statLine": "46 min, 4 shots, 36/33 passes (92%)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ucl-kpo-psg-asm-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Knockout Playoffs",
+    "isKnockout": true,
+    "summary": "PSG vs. Monaco (1st Leg)",
+    "countryCodesInvolved": [
+      "PSG",
+      "ASM"
+    ],
+    "dateUTC": "2026-02-12T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Parc des Princes",
+    "city": "Paris",
+    "score": "3-1",
+    "result": {
+      "PSG": "W",
+      "ASM": "L"
+    },
+    "playerStats": [
+      {
+        "player": "Ousmane Dembele",
+        "country": "FRA",
+        "stat": "2 Goals"
+      }
+    ],
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ],
+      "detailedBoxScore": [
+        {
+          "player": "Player 1",
+          "country": "PSG",
+          "statLine": "35 min, 0 shots, 55/51 passes (94%)"
+        },
+        {
+          "player": "Player 2",
+          "country": "PSG",
+          "statLine": "19 min, 3 shots, 70/53 passes (77%)"
+        },
+        {
+          "player": "Player 1",
+          "country": "ASM",
+          "statLine": "32 min, 1 shots, 32/23 passes (73%)"
+        },
+        {
+          "player": "Player 2",
+          "country": "ASM",
+          "statLine": "25 min, 0 shots, 79/56 passes (72%)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ucl-kpo-psg-asm-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Knockout Playoffs",
+    "isKnockout": true,
+    "summary": "Monaco vs. PSG (2nd Leg)",
+    "countryCodesInvolved": [
+      "ASM",
+      "PSG"
+    ],
+    "dateUTC": "2026-02-19T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Stade Louis II",
+    "city": "Monaco",
+    "score": "2-2",
+    "result": {
+      "ASM": "D",
+      "PSG": "D"
+    },
+    "playerStats": [
+      {
+        "player": "Breel Embolo",
+        "country": "CHE",
+        "stat": "1 Goal"
+      }
+    ],
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ],
+      "detailedBoxScore": [
+        {
+          "player": "Player 1",
+          "country": "ASM",
+          "statLine": "61 min, 0 shots, 52/46 passes (90%)"
+        },
+        {
+          "player": "Player 2",
+          "country": "ASM",
+          "statLine": "72 min, 0 shots, 77/61 passes (80%)"
+        },
+        {
+          "player": "Player 1",
+          "country": "PSG",
+          "statLine": "44 min, 0 shots, 70/57 passes (82%)"
+        },
+        {
+          "player": "Player 2",
+          "country": "PSG",
+          "statLine": "76 min, 3 shots, 52/37 passes (72%)"
+        },
+        {
+          "player": "Player 3",
+          "country": "PSG",
+          "statLine": "85 min, 4 shots, 62/45 passes (73%)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ucl-r16-liv-int-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Liverpool vs. Inter (1st Leg)",
+    "countryCodesInvolved": [
+      "LIV",
+      "INT"
+    ],
+    "dateUTC": "2026-03-04T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Anfield",
+    "city": "Liverpool",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "LIV leads 4-0-0 in last 4 meetings",
+        "formGuide": "LIV: WWWDL | INT: DLLWW",
+        "bettingLine": "Draw -1.0, O/U 1.5",
+        "injuryReport": [
+          "Player (INT) — hamstring — Questionable",
+          "Player (INT) — hamstring — Questionable"
+        ]
+      },
+      "lineupNotes": [
+        "LIV: Expected 4-3-3",
+        "INT: Expected 3-5-2"
+      ]
+    }
+  },
+  {
+    "id": "ucl-r16-bar-bvb-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Barcelona vs. Dortmund (1st Leg)",
+    "countryCodesInvolved": [
+      "BAR",
+      "BVB"
+    ],
+    "dateUTC": "2026-03-04T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Spotify Camp Nou",
+    "city": "Barcelona",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "BAR leads 2-2-3 in last 7 meetings",
+        "formGuide": "BAR: LDWWW | BVB: LWLDD",
+        "bettingLine": "Draw -0.5, O/U 3.5",
+        "injuryReport": [
+          "Player (BAR) — concussion protocol — Questionable",
+          "Player (BAR) — ankle — Day-to-day"
+        ]
+      },
+      "lineupNotes": [
+        "BAR: Expected 4-3-3",
+        "BVB: Expected 4-3-3"
+      ]
+    }
+  },
+  {
+    "id": "ucl-r16-ars-ben-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Arsenal vs. Benfica (1st Leg)",
+    "countryCodesInvolved": [
+      "ARS",
+      "BEN"
+    ],
+    "dateUTC": "2026-03-05T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Emirates Stadium",
+    "city": "London",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "ARS leads 3-2-2 in last 7 meetings",
+        "formGuide": "ARS: LWDDW | BEN: WDWDW",
+        "bettingLine": "ARS +0.5, O/U 3.5",
+        "injuryReport": []
+      },
+      "lineupNotes": [
+        "ARS: Expected 3-4-3",
+        "BEN: Expected 4-3-3"
+      ]
+    }
+  },
+  {
+    "id": "ucl-r16-atm-bay-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Atletico vs. Bayern (1st Leg)",
+    "countryCodesInvolved": [
+      "ATM",
+      "BAY"
+    ],
+    "dateUTC": "2026-03-05T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Civitas Metropolitano",
+    "city": "Madrid",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "ATM leads 0-0-4 in last 4 meetings",
+        "formGuide": "ATM: LWDWW | BAY: WWLWD",
+        "bettingLine": "ATM PK, O/U 2.0",
+        "injuryReport": []
+      },
+      "lineupNotes": [
+        "ATM: Expected 4-3-3",
+        "BAY: Expected 4-3-3"
+      ]
+    }
+  },
+  {
+    "id": "ucl-r16-mci-psg-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Man City vs. PSG (1st Leg)",
+    "countryCodesInvolved": [
+      "MCI",
+      "PSG"
+    ],
+    "dateUTC": "2026-03-04T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Etihad Stadium",
+    "city": "Manchester",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "MCI leads 2-1-0 in last 3 meetings",
+        "formGuide": "MCI: WLDWW | PSG: DWWLW",
+        "bettingLine": "PSG PK, O/U 1.5",
+        "injuryReport": []
+      },
+      "lineupNotes": [
+        "MCI: Expected 3-4-3",
+        "PSG: Expected 3-4-3"
+      ]
+    }
+  },
+  {
+    "id": "ucl-r16-acm-ata-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "AC Milan vs. Atalanta (1st Leg)",
+    "countryCodesInvolved": [
+      "ACM",
+      "ATA"
+    ],
+    "dateUTC": "2026-03-05T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "San Siro",
+    "city": "Milan",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "ACM leads 1-1-1 in last 3 meetings",
+        "formGuide": "ACM: WWWLD | ATA: DLWDW",
+        "bettingLine": "Draw PK, O/U 2.5",
+        "injuryReport": [
+          "Player (ACM) — ankle — Day-to-day"
+        ]
+      },
+      "lineupNotes": [
+        "ACM: Expected 3-4-3",
+        "ATA: Expected 3-5-2"
+      ]
+    }
+  },
+  {
+    "id": "ucl-r16-int-liv-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Inter vs. Liverpool (2nd Leg)",
+    "countryCodesInvolved": [
+      "INT",
+      "LIV"
+    ],
+    "dateUTC": "2026-03-11T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "San Siro",
+    "city": "Milan",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "INT leads 3-0-2 in last 5 meetings",
+        "formGuide": "INT: LDWLW | LIV: WLWLD",
+        "bettingLine": "LIV -0.5, O/U 2.5",
+        "injuryReport": [
+          "Player (LIV) — calf — Probable"
+        ]
+      },
+      "lineupNotes": [
+        "INT: Expected 4-4-2",
+        "LIV: Expected 4-3-3"
+      ]
+    }
+  },
+  {
+    "id": "ucl-r16-bvb-bar-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Dortmund vs. Barcelona (2nd Leg)",
+    "countryCodesInvolved": [
+      "BVB",
+      "BAR"
+    ],
+    "dateUTC": "2026-03-11T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Signal Iduna Park",
+    "city": "Dortmund",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "BVB leads 3-2-1 in last 6 meetings",
+        "formGuide": "BVB: WWWWL | BAR: WDLDL",
+        "bettingLine": "BVB -1.5, O/U 3.5",
+        "injuryReport": []
+      },
+      "lineupNotes": [
+        "BVB: Expected 4-2-3-1",
+        "BAR: Expected 4-2-3-1"
+      ]
+    }
+  },
+  {
+    "id": "ucl-r16-ben-ars-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Benfica vs. Arsenal (2nd Leg)",
+    "countryCodesInvolved": [
+      "BEN",
+      "ARS"
+    ],
+    "dateUTC": "2026-03-12T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Estadio da Luz",
+    "city": "Lisbon",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "BEN leads 2-2-0 in last 4 meetings",
+        "formGuide": "BEN: DDLWW | ARS: WWDLW",
+        "bettingLine": "Draw -0.5, O/U 3.5",
+        "injuryReport": []
+      },
+      "lineupNotes": [
+        "BEN: Expected 4-3-3",
+        "ARS: Expected 3-5-2"
+      ]
+    }
+  },
+  {
+    "id": "ucl-r16-bay-atm-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Bayern vs. Atletico (2nd Leg)",
+    "countryCodesInvolved": [
+      "BAY",
+      "ATM"
+    ],
+    "dateUTC": "2026-03-12T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Allianz Arena",
+    "city": "Munich",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "BAY leads 1-2-3 in last 6 meetings",
+        "formGuide": "BAY: DWLWW | ATM: DWLWW",
+        "bettingLine": "BAY -1.5, O/U 3.5",
+        "injuryReport": []
+      },
+      "lineupNotes": [
+        "BAY: Expected 4-4-2",
+        "ATM: Expected 3-5-2"
+      ]
+    }
+  },
+  {
+    "id": "ucl-r16-psg-mci-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "PSG vs. Man City (2nd Leg)",
+    "countryCodesInvolved": [
+      "PSG",
+      "MCI"
+    ],
+    "dateUTC": "2026-03-11T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Parc des Princes",
+    "city": "Paris",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "PSG leads 2-1-3 in last 6 meetings",
+        "formGuide": "PSG: DWLWL | MCI: LWWDD",
+        "bettingLine": "MCI -0.5, O/U 3.0",
+        "injuryReport": []
+      },
+      "lineupNotes": [
+        "PSG: Expected 3-5-2",
+        "MCI: Expected 4-2-3-1"
+      ]
+    }
+  },
+  {
+    "id": "ucl-r16-ata-acm-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Atalanta vs. AC Milan (2nd Leg)",
+    "countryCodesInvolved": [
+      "ATA",
+      "ACM"
+    ],
+    "dateUTC": "2026-03-12T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Gewiss Stadium",
+    "city": "Bergamo",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "ATA leads 0-0-4 in last 4 meetings",
+        "formGuide": "ATA: WWWLD | ACM: WWWDW",
+        "bettingLine": "ATA -1.0, O/U 3.5",
+        "injuryReport": [
+          "Player (ACM) — hamstring — Questionable"
+        ]
+      },
+      "lineupNotes": [
+        "ATA: Expected 4-3-3",
+        "ACM: Expected 4-3-3"
+      ]
+    }
+  },
+  {
+    "id": "ucl-qf-1-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Quarter-Final",
+    "isKnockout": true,
+    "summary": "Quarter-Final 1 (1st Leg)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-04-07",
+    "timeTBD": true,
+    "durationMinutes": 120,
+    "venue": "TBD",
+    "city": "TBD",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ucl-qf-1-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Quarter-Final",
+    "isKnockout": true,
+    "summary": "Quarter-Final 1 (2nd Leg)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-04-14",
+    "timeTBD": true,
+    "durationMinutes": 120,
+    "venue": "TBD",
+    "city": "TBD",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ucl-qf-2-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Quarter-Final",
+    "isKnockout": true,
+    "summary": "Quarter-Final 2 (1st Leg)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-04-08",
+    "timeTBD": true,
+    "durationMinutes": 120,
+    "venue": "TBD",
+    "city": "TBD",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ucl-qf-2-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Quarter-Final",
+    "isKnockout": true,
+    "summary": "Quarter-Final 2 (2nd Leg)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-04-15",
+    "timeTBD": true,
+    "durationMinutes": 120,
+    "venue": "TBD",
+    "city": "TBD",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ucl-sf-1-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Semi-Final",
+    "isKnockout": true,
+    "summary": "Semi-Final 1 (1st Leg)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-04-28",
+    "timeTBD": true,
+    "durationMinutes": 120,
+    "venue": "TBD",
+    "city": "TBD",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ucl-sf-1-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Semi-Final",
+    "isKnockout": true,
+    "summary": "Semi-Final 1 (2nd Leg)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-05-05",
+    "timeTBD": true,
+    "durationMinutes": 120,
+    "venue": "TBD",
+    "city": "TBD",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ucl-sf-2-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Semi-Final",
+    "isKnockout": true,
+    "summary": "Semi-Final 2 (1st Leg)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-04-29",
+    "timeTBD": true,
+    "durationMinutes": 120,
+    "venue": "TBD",
+    "city": "TBD",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ucl-sf-2-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Semi-Final",
+    "isKnockout": true,
+    "summary": "Semi-Final 2 (2nd Leg)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-05-06",
+    "timeTBD": true,
+    "durationMinutes": 120,
+    "venue": "TBD",
+    "city": "TBD",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ucl-final",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Final",
+    "isKnockout": true,
+    "summary": "Champions League Final",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-05-31T19:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Puskas Arena",
+    "city": "Budapest",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "CBS / Paramount+"
+        },
+        {
+          "country": "CA",
+          "channel": "DAZN"
+        },
+        {
+          "country": "UK",
+          "channel": "TNT Sports"
+        }
+      ]
+    }
+  }
+]

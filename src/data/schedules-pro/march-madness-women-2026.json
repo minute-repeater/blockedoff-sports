@@ -1,0 +1,730 @@
+[
+  {
+    "id": "wmm-alb-r64-1",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Albany",
+    "isKnockout": true,
+    "summary": "(1) UConn vs. (16) Richmond",
+    "countryCodesInvolved": [
+      "WUCON",
+      "WRICH"
+    ],
+    "dateUTC": "2026-03-21T16:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MVP Arena",
+    "city": "Albany",
+    "score": "95-48",
+    "result": {
+      "WUCON": "W",
+      "WRICH": "L"
+    }
+  },
+  {
+    "id": "wmm-fw-r64-1",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Fort Worth",
+    "isKnockout": true,
+    "summary": "(1) Texas vs. TBD",
+    "countryCodesInvolved": [
+      "WTEX"
+    ],
+    "dateUTC": "2026-03-21T17:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Dickies Arena",
+    "city": "Fort Worth",
+    "score": "93-52"
+  },
+  {
+    "id": "wmm-alb-r64-2",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Albany",
+    "isKnockout": true,
+    "summary": "(8) Michigan St vs. (9) OK State",
+    "countryCodesInvolved": [
+      "WMSU",
+      "WOKST"
+    ],
+    "dateUTC": "2026-03-21T18:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MVP Arena",
+    "city": "Albany",
+    "score": "67-62",
+    "result": {
+      "WMSU": "W",
+      "WOKST": "L"
+    }
+  },
+  {
+    "id": "wmm-por-r64-1",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Portland",
+    "isKnockout": true,
+    "summary": "(1) UCLA vs. (16) Gonzaga",
+    "countryCodesInvolved": [
+      "WUCLA",
+      "WNCAA16"
+    ],
+    "dateUTC": "2026-03-21T19:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Moda Center",
+    "city": "Portland",
+    "score": "91-50",
+    "result": {
+      "WUCLA": "W",
+      "WNCAA16": "L"
+    }
+  },
+  {
+    "id": "wmm-alb-r64-3",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Albany",
+    "isKnockout": true,
+    "summary": "(5) NC State vs. (12) Syracuse",
+    "countryCodesInvolved": [
+      "WNCST",
+      "WSYR"
+    ],
+    "dateUTC": "2026-03-21T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MVP Arena",
+    "city": "Albany",
+    "score": "74-59",
+    "result": {
+      "WNCST": "W",
+      "WSYR": "L"
+    }
+  },
+  {
+    "id": "wmm-por-r64-2",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Portland",
+    "isKnockout": true,
+    "summary": "(8) Maryland vs. (9) Nebraska",
+    "countryCodesInvolved": [
+      "WMAR",
+      "WNEB"
+    ],
+    "dateUTC": "2026-03-21T21:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Moda Center",
+    "city": "Portland",
+    "score": "72-70",
+    "result": {
+      "WMAR": "W",
+      "WNEB": "L"
+    }
+  },
+  {
+    "id": "wmm-sac-r64-1",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Sacramento",
+    "isKnockout": true,
+    "summary": "(1) S. Carolina vs. TBD",
+    "countryCodesInvolved": [
+      "WUSC"
+    ],
+    "dateUTC": "2026-03-21T22:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Golden 1 Center",
+    "city": "Sacramento",
+    "score": "100-48"
+  },
+  {
+    "id": "wmm-alb-r64-4",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Albany",
+    "isKnockout": true,
+    "summary": "(4) Tennessee vs. (13) Florida",
+    "countryCodesInvolved": [
+      "WTEN",
+      "WFLA"
+    ],
+    "dateUTC": "2026-03-21T23:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MVP Arena",
+    "city": "Albany",
+    "score": "81-64",
+    "result": {
+      "WTEN": "W",
+      "WFLA": "L"
+    }
+  },
+  {
+    "id": "wmm-por-r64-3",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Portland",
+    "isKnockout": true,
+    "summary": "(5) Baylor vs. (12) Oregon",
+    "countryCodesInvolved": [
+      "WBAY",
+      "WORI"
+    ],
+    "dateUTC": "2026-03-22T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Moda Center",
+    "city": "Portland",
+    "score": "65-68",
+    "result": {
+      "WORI": "W",
+      "WBAY": "L"
+    }
+  },
+  {
+    "id": "wmm-alb-r64-5",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Albany",
+    "isKnockout": true,
+    "summary": "(6) Notre Dame vs. (11) TCU",
+    "countryCodesInvolved": [
+      "WND",
+      "WTCU"
+    ],
+    "dateUTC": "2026-03-22T16:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MVP Arena",
+    "city": "Albany",
+    "score": "70-55",
+    "result": {
+      "WND": "W",
+      "WTCU": "L"
+    }
+  },
+  {
+    "id": "wmm-por-r64-4",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Portland",
+    "isKnockout": true,
+    "summary": "(4) Duke vs. (13) Kansas St",
+    "countryCodesInvolved": [
+      "WDUKE",
+      "WKST"
+    ],
+    "dateUTC": "2026-03-22T16:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Moda Center",
+    "city": "Portland",
+    "score": "79-60",
+    "result": {
+      "WDUKE": "W",
+      "WKST": "L"
+    }
+  },
+  {
+    "id": "wmm-alb-r64-6",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Albany",
+    "isKnockout": true,
+    "summary": "(3) Ohio State vs. (14) WVU",
+    "countryCodesInvolved": [
+      "WOHST",
+      "WWVU"
+    ],
+    "dateUTC": "2026-03-22T18:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MVP Arena",
+    "city": "Albany",
+    "score": "85-60",
+    "result": {
+      "WOHST": "W",
+      "WWVU": "L"
+    }
+  },
+  {
+    "id": "wmm-por-r64-5",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Portland",
+    "isKnockout": true,
+    "summary": "(6) Ole Miss vs. (11) Louisville",
+    "countryCodesInvolved": [
+      "WOLE",
+      "WLOU"
+    ],
+    "dateUTC": "2026-03-22T19:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Moda Center",
+    "city": "Portland",
+    "score": "77-71",
+    "result": {
+      "WOLE": "W",
+      "WLOU": "L"
+    }
+  },
+  {
+    "id": "wmm-alb-r64-7",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Albany",
+    "isKnockout": true,
+    "summary": "(7) Creighton vs. (10) Utah",
+    "countryCodesInvolved": [
+      "WCRE",
+      "WUTAH"
+    ],
+    "dateUTC": "2026-03-22T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MVP Arena",
+    "city": "Albany",
+    "score": "66-63",
+    "result": {
+      "WCRE": "W",
+      "WUTAH": "L"
+    }
+  },
+  {
+    "id": "wmm-por-r64-6",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Portland",
+    "isKnockout": true,
+    "summary": "(3) LSU vs. (14) Stanford",
+    "countryCodesInvolved": [
+      "WLSU",
+      "WSTAN"
+    ],
+    "dateUTC": "2026-03-22T21:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Moda Center",
+    "city": "Portland",
+    "score": "82-67",
+    "result": {
+      "WLSU": "W",
+      "WSTAN": "L"
+    }
+  },
+  {
+    "id": "wmm-alb-r64-8",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 64 — Albany",
+    "isKnockout": true,
+    "summary": "(2) Iowa vs. (15) Georgia",
+    "countryCodesInvolved": [
+      "WIOW",
+      "WGEO"
+    ],
+    "dateUTC": "2026-03-22T23:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MVP Arena",
+    "city": "Albany",
+    "score": "88-55",
+    "result": {
+      "WIOW": "W",
+      "WGEO": "L"
+    }
+  },
+  {
+    "id": "wmm-alb-r32-1",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — Albany",
+    "isKnockout": true,
+    "summary": "(1) UConn vs. (8) Michigan St",
+    "countryCodesInvolved": [
+      "WUCON",
+      "WMSU"
+    ],
+    "dateUTC": "2026-03-23T16:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MVP Arena",
+    "city": "Albany",
+    "score": "89-52",
+    "result": {
+      "WUCON": "W",
+      "WMSU": "L"
+    }
+  },
+  {
+    "id": "wmm-fw-r32-1",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — Fort Worth",
+    "isKnockout": true,
+    "summary": "(1) Texas vs. TBD",
+    "countryCodesInvolved": [
+      "WTEX"
+    ],
+    "dateUTC": "2026-03-23T17:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Dickies Arena",
+    "city": "Fort Worth",
+    "score": "80-55"
+  },
+  {
+    "id": "wmm-alb-r32-2",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — Albany",
+    "isKnockout": true,
+    "summary": "(4) Tennessee vs. (5) NC State",
+    "countryCodesInvolved": [
+      "WTEN",
+      "WNCST"
+    ],
+    "dateUTC": "2026-03-23T18:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MVP Arena",
+    "city": "Albany",
+    "score": "73-68",
+    "result": {
+      "WTEN": "W",
+      "WNCST": "L"
+    }
+  },
+  {
+    "id": "wmm-por-r32-1",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — Portland",
+    "isKnockout": true,
+    "summary": "(1) UCLA vs. (8) Maryland",
+    "countryCodesInvolved": [
+      "WUCLA",
+      "WMAR"
+    ],
+    "dateUTC": "2026-03-23T19:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Moda Center",
+    "city": "Portland",
+    "score": "85-60",
+    "result": {
+      "WUCLA": "W",
+      "WMAR": "L"
+    }
+  },
+  {
+    "id": "wmm-por-r32-2",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — Portland",
+    "isKnockout": true,
+    "summary": "(4) Duke vs. (12) Oregon",
+    "countryCodesInvolved": [
+      "WDUKE",
+      "WORI"
+    ],
+    "dateUTC": "2026-03-23T21:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Moda Center",
+    "city": "Portland",
+    "score": "76-72",
+    "result": {
+      "WDUKE": "W",
+      "WORI": "L"
+    }
+  },
+  {
+    "id": "wmm-sac-r32-1",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — Sacramento",
+    "isKnockout": true,
+    "summary": "(1) S. Carolina vs. TBD",
+    "countryCodesInvolved": [
+      "WUSC"
+    ],
+    "dateUTC": "2026-03-23T22:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Golden 1 Center",
+    "city": "Sacramento",
+    "score": "86-62"
+  },
+  {
+    "id": "wmm-alb-r32-3",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — Albany",
+    "isKnockout": true,
+    "summary": "(6) Notre Dame vs. (3) Ohio State",
+    "countryCodesInvolved": [
+      "WND",
+      "WOHST"
+    ],
+    "dateUTC": "2026-03-24T16:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MVP Arena",
+    "city": "Albany",
+    "score": "71-66",
+    "result": {
+      "WND": "W",
+      "WOHST": "L"
+    }
+  },
+  {
+    "id": "wmm-alb-r32-4",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — Albany",
+    "isKnockout": true,
+    "summary": "(10) Virginia vs. (2) Iowa",
+    "countryCodesInvolved": [
+      "WVIR",
+      "WIOW"
+    ],
+    "dateUTC": "2026-03-24T18:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MVP Arena",
+    "city": "Albany",
+    "score": "68-64",
+    "result": {
+      "WVIR": "W",
+      "WIOW": "L"
+    }
+  },
+  {
+    "id": "wmm-por-r32-3",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Round of 32 — Portland",
+    "isKnockout": true,
+    "summary": "(6) Ole Miss vs. (3) LSU",
+    "countryCodesInvolved": [
+      "WOLE",
+      "WLSU"
+    ],
+    "dateUTC": "2026-03-24T19:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Moda Center",
+    "city": "Portland",
+    "score": "64-73",
+    "result": {
+      "WLSU": "W",
+      "WOLE": "L"
+    }
+  },
+  {
+    "id": "wmm-alb-s16-1",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Sweet 16 — Albany",
+    "isKnockout": true,
+    "summary": "(1) UConn vs. (4) Tennessee",
+    "countryCodesInvolved": [
+      "WUCON",
+      "WTEN"
+    ],
+    "dateUTC": "2026-03-27T19:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MVP Arena",
+    "city": "Albany"
+  },
+  {
+    "id": "wmm-alb-s16-2",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Sweet 16 — Albany",
+    "isKnockout": true,
+    "summary": "(6) Notre Dame vs. (10) Virginia",
+    "countryCodesInvolved": [
+      "WND",
+      "WVIR"
+    ],
+    "dateUTC": "2026-03-27T21:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MVP Arena",
+    "city": "Albany"
+  },
+  {
+    "id": "wmm-fw-s16-1",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Sweet 16 — Fort Worth",
+    "isKnockout": true,
+    "summary": "(1) Texas vs. TBD",
+    "countryCodesInvolved": [
+      "WTEX"
+    ],
+    "dateUTC": "2026-03-27T23:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Dickies Arena",
+    "city": "Fort Worth"
+  },
+  {
+    "id": "wmm-por-s16-1",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Sweet 16 — Portland",
+    "isKnockout": true,
+    "summary": "(1) UCLA vs. (4) Duke",
+    "countryCodesInvolved": [
+      "WUCLA",
+      "WDUKE"
+    ],
+    "dateUTC": "2026-03-28T19:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Moda Center",
+    "city": "Portland"
+  },
+  {
+    "id": "wmm-por-s16-2",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Sweet 16 — Portland",
+    "isKnockout": true,
+    "summary": "(3) LSU vs. (7) USC",
+    "countryCodesInvolved": [
+      "WLSU",
+      "WUSC2"
+    ],
+    "dateUTC": "2026-03-28T21:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Moda Center",
+    "city": "Portland"
+  },
+  {
+    "id": "wmm-sac-s16-1",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Sweet 16 — Sacramento",
+    "isKnockout": true,
+    "summary": "(1) S. Carolina vs. TBD",
+    "countryCodesInvolved": [
+      "WUSC"
+    ],
+    "dateUTC": "2026-03-28T23:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Golden 1 Center",
+    "city": "Sacramento"
+  },
+  {
+    "id": "wmm-e8-1",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Elite Eight — Albany",
+    "isKnockout": true,
+    "summary": "Elite Eight — Albany (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-03-29T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MVP Arena",
+    "city": "Albany"
+  },
+  {
+    "id": "wmm-e8-2",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Elite Eight — Portland",
+    "isKnockout": true,
+    "summary": "Elite Eight — Portland (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-03-29T20:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Moda Center",
+    "city": "Portland"
+  },
+  {
+    "id": "wmm-e8-3",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Elite Eight — Fort Worth",
+    "isKnockout": true,
+    "summary": "Elite Eight — Fort Worth (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-03-30T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Dickies Arena",
+    "city": "Fort Worth"
+  },
+  {
+    "id": "wmm-e8-4",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Elite Eight — Sacramento",
+    "isKnockout": true,
+    "summary": "Elite Eight — Sacramento (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-03-30T20:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Golden 1 Center",
+    "city": "Sacramento"
+  },
+  {
+    "id": "wmm-ff-1",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Final Four",
+    "isKnockout": true,
+    "summary": "Final Four (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-04-04T19:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Alamodome",
+    "city": "San Antonio"
+  },
+  {
+    "id": "wmm-ff-2",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "Final Four",
+    "isKnockout": true,
+    "summary": "Final Four (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-04-04T21:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Alamodome",
+    "city": "San Antonio"
+  },
+  {
+    "id": "wmm-final",
+    "tournamentId": "march-madness-women-2026",
+    "sport": "basketball",
+    "phase": "National Championship",
+    "isKnockout": true,
+    "summary": "National Championship (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-04-06T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Alamodome",
+    "city": "San Antonio"
+  }
+]

@@ -1,0 +1,574 @@
+[
+  {
+    "id": "ucl-kpo-mci-rma-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Knockout Playoffs",
+    "isKnockout": true,
+    "summary": "Man City vs. Real Madrid (1st Leg)",
+    "countryCodesInvolved": [
+      "MCI",
+      "RMA"
+    ],
+    "dateUTC": "2026-02-11T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Etihad Stadium",
+    "city": "Manchester",
+    "score": "3-2",
+    "result": {
+      "MCI": "W",
+      "RMA": "L"
+    },
+    "playerStats": [
+      {
+        "player": "Erling Haaland",
+        "country": "NOR",
+        "stat": "2 Goals"
+      },
+      {
+        "player": "Phil Foden",
+        "country": "GBR",
+        "stat": "1 Goal"
+      }
+    ]
+  },
+  {
+    "id": "ucl-kpo-mci-rma-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Knockout Playoffs",
+    "isKnockout": true,
+    "summary": "Real Madrid vs. Man City (2nd Leg)",
+    "countryCodesInvolved": [
+      "RMA",
+      "MCI"
+    ],
+    "dateUTC": "2026-02-18T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Santiago Bernabeu",
+    "city": "Madrid",
+    "score": "1-1",
+    "result": {
+      "RMA": "D",
+      "MCI": "D"
+    },
+    "playerStats": [
+      {
+        "player": "Jude Bellingham",
+        "country": "GBR",
+        "stat": "1 Goal"
+      }
+    ]
+  },
+  {
+    "id": "ucl-kpo-bay-cel-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Knockout Playoffs",
+    "isKnockout": true,
+    "summary": "Bayern vs. Celtic (1st Leg)",
+    "countryCodesInvolved": [
+      "BAY",
+      "CEL"
+    ],
+    "dateUTC": "2026-02-11T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Allianz Arena",
+    "city": "Munich",
+    "score": "4-0",
+    "result": {
+      "BAY": "W",
+      "CEL": "L"
+    },
+    "playerStats": [
+      {
+        "player": "Harry Kane",
+        "country": "GBR",
+        "stat": "2 Goals"
+      },
+      {
+        "player": "Jamal Musiala",
+        "country": "DEU",
+        "stat": "1 Goal, 1 Assist"
+      }
+    ]
+  },
+  {
+    "id": "ucl-kpo-bay-cel-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Knockout Playoffs",
+    "isKnockout": true,
+    "summary": "Celtic vs. Bayern (2nd Leg)",
+    "countryCodesInvolved": [
+      "CEL",
+      "BAY"
+    ],
+    "dateUTC": "2026-02-18T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Celtic Park",
+    "city": "Glasgow",
+    "score": "2-1",
+    "result": {
+      "CEL": "W",
+      "BAY": "L"
+    },
+    "playerStats": [
+      {
+        "player": "Kyogo Furuhashi",
+        "country": "JPN",
+        "stat": "1 Goal"
+      }
+    ]
+  },
+  {
+    "id": "ucl-kpo-acm-fey-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Knockout Playoffs",
+    "isKnockout": true,
+    "summary": "AC Milan vs. Feyenoord (1st Leg)",
+    "countryCodesInvolved": [
+      "ACM",
+      "FEY"
+    ],
+    "dateUTC": "2026-02-12T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "San Siro",
+    "city": "Milan",
+    "score": "2-1",
+    "result": {
+      "ACM": "W",
+      "FEY": "L"
+    },
+    "playerStats": [
+      {
+        "player": "Rafael Leao",
+        "country": "PRT",
+        "stat": "1 Goal, 1 Assist"
+      }
+    ]
+  },
+  {
+    "id": "ucl-kpo-acm-fey-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Knockout Playoffs",
+    "isKnockout": true,
+    "summary": "Feyenoord vs. AC Milan (2nd Leg)",
+    "countryCodesInvolved": [
+      "FEY",
+      "ACM"
+    ],
+    "dateUTC": "2026-02-19T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "De Kuip",
+    "city": "Rotterdam",
+    "score": "1-0",
+    "result": {
+      "FEY": "W",
+      "ACM": "L"
+    },
+    "playerStats": [
+      {
+        "player": "Santiago Gimenez",
+        "country": "MEX",
+        "stat": "1 Goal"
+      }
+    ]
+  },
+  {
+    "id": "ucl-kpo-psg-asm-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Knockout Playoffs",
+    "isKnockout": true,
+    "summary": "PSG vs. Monaco (1st Leg)",
+    "countryCodesInvolved": [
+      "PSG",
+      "ASM"
+    ],
+    "dateUTC": "2026-02-12T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Parc des Princes",
+    "city": "Paris",
+    "score": "3-1",
+    "result": {
+      "PSG": "W",
+      "ASM": "L"
+    },
+    "playerStats": [
+      {
+        "player": "Ousmane Dembele",
+        "country": "FRA",
+        "stat": "2 Goals"
+      }
+    ]
+  },
+  {
+    "id": "ucl-kpo-psg-asm-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Knockout Playoffs",
+    "isKnockout": true,
+    "summary": "Monaco vs. PSG (2nd Leg)",
+    "countryCodesInvolved": [
+      "ASM",
+      "PSG"
+    ],
+    "dateUTC": "2026-02-19T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Stade Louis II",
+    "city": "Monaco",
+    "score": "2-2",
+    "result": {
+      "ASM": "D",
+      "PSG": "D"
+    },
+    "playerStats": [
+      {
+        "player": "Breel Embolo",
+        "country": "CHE",
+        "stat": "1 Goal"
+      }
+    ]
+  },
+  {
+    "id": "ucl-r16-liv-int-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Liverpool vs. Inter (1st Leg)",
+    "countryCodesInvolved": [
+      "LIV",
+      "INT"
+    ],
+    "dateUTC": "2026-03-04T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Anfield",
+    "city": "Liverpool"
+  },
+  {
+    "id": "ucl-r16-bar-bvb-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Barcelona vs. Dortmund (1st Leg)",
+    "countryCodesInvolved": [
+      "BAR",
+      "BVB"
+    ],
+    "dateUTC": "2026-03-04T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Spotify Camp Nou",
+    "city": "Barcelona"
+  },
+  {
+    "id": "ucl-r16-ars-ben-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Arsenal vs. Benfica (1st Leg)",
+    "countryCodesInvolved": [
+      "ARS",
+      "BEN"
+    ],
+    "dateUTC": "2026-03-05T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Emirates Stadium",
+    "city": "London"
+  },
+  {
+    "id": "ucl-r16-atm-bay-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Atletico vs. Bayern (1st Leg)",
+    "countryCodesInvolved": [
+      "ATM",
+      "BAY"
+    ],
+    "dateUTC": "2026-03-05T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Civitas Metropolitano",
+    "city": "Madrid"
+  },
+  {
+    "id": "ucl-r16-mci-psg-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Man City vs. PSG (1st Leg)",
+    "countryCodesInvolved": [
+      "MCI",
+      "PSG"
+    ],
+    "dateUTC": "2026-03-04T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Etihad Stadium",
+    "city": "Manchester"
+  },
+  {
+    "id": "ucl-r16-acm-ata-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "AC Milan vs. Atalanta (1st Leg)",
+    "countryCodesInvolved": [
+      "ACM",
+      "ATA"
+    ],
+    "dateUTC": "2026-03-05T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "San Siro",
+    "city": "Milan"
+  },
+  {
+    "id": "ucl-r16-int-liv-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Inter vs. Liverpool (2nd Leg)",
+    "countryCodesInvolved": [
+      "INT",
+      "LIV"
+    ],
+    "dateUTC": "2026-03-11T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "San Siro",
+    "city": "Milan"
+  },
+  {
+    "id": "ucl-r16-bvb-bar-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Dortmund vs. Barcelona (2nd Leg)",
+    "countryCodesInvolved": [
+      "BVB",
+      "BAR"
+    ],
+    "dateUTC": "2026-03-11T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Signal Iduna Park",
+    "city": "Dortmund"
+  },
+  {
+    "id": "ucl-r16-ben-ars-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Benfica vs. Arsenal (2nd Leg)",
+    "countryCodesInvolved": [
+      "BEN",
+      "ARS"
+    ],
+    "dateUTC": "2026-03-12T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Estadio da Luz",
+    "city": "Lisbon"
+  },
+  {
+    "id": "ucl-r16-bay-atm-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Bayern vs. Atletico (2nd Leg)",
+    "countryCodesInvolved": [
+      "BAY",
+      "ATM"
+    ],
+    "dateUTC": "2026-03-12T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Allianz Arena",
+    "city": "Munich"
+  },
+  {
+    "id": "ucl-r16-psg-mci-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "PSG vs. Man City (2nd Leg)",
+    "countryCodesInvolved": [
+      "PSG",
+      "MCI"
+    ],
+    "dateUTC": "2026-03-11T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Parc des Princes",
+    "city": "Paris"
+  },
+  {
+    "id": "ucl-r16-ata-acm-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Atalanta vs. AC Milan (2nd Leg)",
+    "countryCodesInvolved": [
+      "ATA",
+      "ACM"
+    ],
+    "dateUTC": "2026-03-12T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Gewiss Stadium",
+    "city": "Bergamo"
+  },
+  {
+    "id": "ucl-qf-1-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Quarter-Final",
+    "isKnockout": true,
+    "summary": "Quarter-Final 1 (1st Leg)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-04-07",
+    "timeTBD": true,
+    "durationMinutes": 120,
+    "venue": "TBD",
+    "city": "TBD"
+  },
+  {
+    "id": "ucl-qf-1-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Quarter-Final",
+    "isKnockout": true,
+    "summary": "Quarter-Final 1 (2nd Leg)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-04-14",
+    "timeTBD": true,
+    "durationMinutes": 120,
+    "venue": "TBD",
+    "city": "TBD"
+  },
+  {
+    "id": "ucl-qf-2-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Quarter-Final",
+    "isKnockout": true,
+    "summary": "Quarter-Final 2 (1st Leg)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-04-08",
+    "timeTBD": true,
+    "durationMinutes": 120,
+    "venue": "TBD",
+    "city": "TBD"
+  },
+  {
+    "id": "ucl-qf-2-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Quarter-Final",
+    "isKnockout": true,
+    "summary": "Quarter-Final 2 (2nd Leg)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-04-15",
+    "timeTBD": true,
+    "durationMinutes": 120,
+    "venue": "TBD",
+    "city": "TBD"
+  },
+  {
+    "id": "ucl-sf-1-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Semi-Final",
+    "isKnockout": true,
+    "summary": "Semi-Final 1 (1st Leg)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-04-28",
+    "timeTBD": true,
+    "durationMinutes": 120,
+    "venue": "TBD",
+    "city": "TBD"
+  },
+  {
+    "id": "ucl-sf-1-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Semi-Final",
+    "isKnockout": true,
+    "summary": "Semi-Final 1 (2nd Leg)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-05-05",
+    "timeTBD": true,
+    "durationMinutes": 120,
+    "venue": "TBD",
+    "city": "TBD"
+  },
+  {
+    "id": "ucl-sf-2-1",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Semi-Final",
+    "isKnockout": true,
+    "summary": "Semi-Final 2 (1st Leg)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-04-29",
+    "timeTBD": true,
+    "durationMinutes": 120,
+    "venue": "TBD",
+    "city": "TBD"
+  },
+  {
+    "id": "ucl-sf-2-2",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Semi-Final",
+    "isKnockout": true,
+    "summary": "Semi-Final 2 (2nd Leg)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-05-06",
+    "timeTBD": true,
+    "durationMinutes": 120,
+    "venue": "TBD",
+    "city": "TBD"
+  },
+  {
+    "id": "ucl-final",
+    "tournamentId": "ucl-2025-26",
+    "sport": "soccer",
+    "phase": "Final",
+    "isKnockout": true,
+    "summary": "Champions League Final",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-05-31T19:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Puskas Arena",
+    "city": "Budapest"
+  }
+]

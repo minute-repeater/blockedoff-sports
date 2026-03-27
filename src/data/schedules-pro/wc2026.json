@@ -1,0 +1,1674 @@
+[
+  {
+    "id": "wc26-grp-a-m1",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group A",
+    "isKnockout": false,
+    "summary": "Mexico vs. South Africa",
+    "countryCodesInvolved": [
+      "MEX",
+      "ZAF"
+    ],
+    "dateUTC": "2026-06-11T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Estadio Azteca",
+    "city": "Mexico City"
+  },
+  {
+    "id": "wc26-grp-b-m1",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group B",
+    "isKnockout": false,
+    "summary": "Canada vs. TBD (Playoff A)",
+    "countryCodesInvolved": [
+      "CAN",
+      "TBD2"
+    ],
+    "dateUTC": "2026-06-11T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Estadio Akron",
+    "city": "Guadalajara"
+  },
+  {
+    "id": "wc26-grp-c-m1",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group C",
+    "isKnockout": false,
+    "summary": "Brazil vs. Morocco",
+    "countryCodesInvolved": [
+      "BRA",
+      "MAR"
+    ],
+    "dateUTC": "2026-06-11T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Estadio BBVA",
+    "city": "Monterrey"
+  },
+  {
+    "id": "wc26-grp-a-m2",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group A",
+    "isKnockout": false,
+    "summary": "South Korea vs. TBD (Playoff D)",
+    "countryCodesInvolved": [
+      "KOR",
+      "TBD1"
+    ],
+    "dateUTC": "2026-06-11T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Estadio Akron",
+    "city": "Guadalajara"
+  },
+  {
+    "id": "wc26-grp-b-m2",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group B",
+    "isKnockout": false,
+    "summary": "Qatar vs. Switzerland",
+    "countryCodesInvolved": [
+      "QAT",
+      "CHE"
+    ],
+    "dateUTC": "2026-06-11T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Estadio BBVA",
+    "city": "Monterrey"
+  },
+  {
+    "id": "wc26-grp-c-m2",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group C",
+    "isKnockout": false,
+    "summary": "Haiti vs. Scotland",
+    "countryCodesInvolved": [
+      "HTI",
+      "SCO"
+    ],
+    "dateUTC": "2026-06-11T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "BMO Field",
+    "city": "Toronto"
+  },
+  {
+    "id": "wc26-grp-d-m1",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group D",
+    "isKnockout": false,
+    "summary": "United States vs. Paraguay",
+    "countryCodesInvolved": [
+      "USA",
+      "PRY"
+    ],
+    "dateUTC": "2026-06-12T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "BMO Field",
+    "city": "Toronto"
+  },
+  {
+    "id": "wc26-grp-e-m1",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group E",
+    "isKnockout": false,
+    "summary": "Germany vs. Curaçao",
+    "countryCodesInvolved": [
+      "DEU",
+      "CUW"
+    ],
+    "dateUTC": "2026-06-12T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "BC Place",
+    "city": "Vancouver"
+  },
+  {
+    "id": "wc26-grp-f-m1",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group F",
+    "isKnockout": false,
+    "summary": "Netherlands vs. Japan",
+    "countryCodesInvolved": [
+      "NLD",
+      "JPN"
+    ],
+    "dateUTC": "2026-06-12T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SoFi Stadium",
+    "city": "Los Angeles"
+  },
+  {
+    "id": "wc26-grp-d-m2",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group D",
+    "isKnockout": false,
+    "summary": "Australia vs. TBD (Playoff C)",
+    "countryCodesInvolved": [
+      "AUS",
+      "TBD3"
+    ],
+    "dateUTC": "2026-06-12T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "BC Place",
+    "city": "Vancouver"
+  },
+  {
+    "id": "wc26-grp-e-m2",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group E",
+    "isKnockout": false,
+    "summary": "Ivory Coast vs. Ecuador",
+    "countryCodesInvolved": [
+      "CIV",
+      "ECU"
+    ],
+    "dateUTC": "2026-06-12T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SoFi Stadium",
+    "city": "Los Angeles"
+  },
+  {
+    "id": "wc26-grp-f-m2",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group F",
+    "isKnockout": false,
+    "summary": "TBD (Playoff B) vs. Tunisia",
+    "countryCodesInvolved": [
+      "TBD4",
+      "TUN"
+    ],
+    "dateUTC": "2026-06-12T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Levi's Stadium",
+    "city": "San Francisco"
+  },
+  {
+    "id": "wc26-grp-g-m1",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group G",
+    "isKnockout": false,
+    "summary": "Belgium vs. Egypt",
+    "countryCodesInvolved": [
+      "BEL",
+      "EGY"
+    ],
+    "dateUTC": "2026-06-13T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Levi's Stadium",
+    "city": "San Francisco"
+  },
+  {
+    "id": "wc26-grp-h-m1",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group H",
+    "isKnockout": false,
+    "summary": "Spain vs. Cape Verde",
+    "countryCodesInvolved": [
+      "ESP",
+      "CPV"
+    ],
+    "dateUTC": "2026-06-13T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Lumen Field",
+    "city": "Seattle"
+  },
+  {
+    "id": "wc26-grp-i-m1",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group I",
+    "isKnockout": false,
+    "summary": "France vs. Senegal",
+    "countryCodesInvolved": [
+      "FRA",
+      "SEN"
+    ],
+    "dateUTC": "2026-06-13T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "AT&T Stadium",
+    "city": "Dallas"
+  },
+  {
+    "id": "wc26-grp-g-m2",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group G",
+    "isKnockout": false,
+    "summary": "Iran vs. New Zealand",
+    "countryCodesInvolved": [
+      "IRN",
+      "NZL"
+    ],
+    "dateUTC": "2026-06-13T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Lumen Field",
+    "city": "Seattle"
+  },
+  {
+    "id": "wc26-grp-h-m2",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group H",
+    "isKnockout": false,
+    "summary": "Saudi Arabia vs. Uruguay",
+    "countryCodesInvolved": [
+      "SAU",
+      "URY"
+    ],
+    "dateUTC": "2026-06-13T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "AT&T Stadium",
+    "city": "Dallas"
+  },
+  {
+    "id": "wc26-grp-i-m2",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group I",
+    "isKnockout": false,
+    "summary": "TBD (Playoff 2) vs. Norway",
+    "countryCodesInvolved": [
+      "TBD5",
+      "NOR"
+    ],
+    "dateUTC": "2026-06-13T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "NRG Stadium",
+    "city": "Houston"
+  },
+  {
+    "id": "wc26-grp-j-m1",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group J",
+    "isKnockout": false,
+    "summary": "Argentina vs. Algeria",
+    "countryCodesInvolved": [
+      "ARG",
+      "DZA"
+    ],
+    "dateUTC": "2026-06-14T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "NRG Stadium",
+    "city": "Houston"
+  },
+  {
+    "id": "wc26-grp-k-m1",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group K",
+    "isKnockout": false,
+    "summary": "Portugal vs. TBD (Playoff 1)",
+    "countryCodesInvolved": [
+      "PRT",
+      "TBD6"
+    ],
+    "dateUTC": "2026-06-14T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "GEHA Field at Arrowhead",
+    "city": "Kansas City"
+  },
+  {
+    "id": "wc26-grp-l-m1",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group L",
+    "isKnockout": false,
+    "summary": "England vs. Croatia",
+    "countryCodesInvolved": [
+      "GBR",
+      "HRV"
+    ],
+    "dateUTC": "2026-06-14T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta"
+  },
+  {
+    "id": "wc26-grp-j-m2",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group J",
+    "isKnockout": false,
+    "summary": "Austria vs. Jordan",
+    "countryCodesInvolved": [
+      "AUT",
+      "JOR"
+    ],
+    "dateUTC": "2026-06-14T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "GEHA Field at Arrowhead",
+    "city": "Kansas City"
+  },
+  {
+    "id": "wc26-grp-k-m2",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group K",
+    "isKnockout": false,
+    "summary": "Uzbekistan vs. Colombia",
+    "countryCodesInvolved": [
+      "UZB",
+      "COL"
+    ],
+    "dateUTC": "2026-06-14T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta"
+  },
+  {
+    "id": "wc26-grp-l-m2",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group L",
+    "isKnockout": false,
+    "summary": "Ghana vs. Panama",
+    "countryCodesInvolved": [
+      "GHA",
+      "PAN"
+    ],
+    "dateUTC": "2026-06-14T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Hard Rock Stadium",
+    "city": "Miami"
+  },
+  {
+    "id": "wc26-grp-a-m4",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group A",
+    "isKnockout": false,
+    "summary": "South Africa vs. TBD (Playoff D)",
+    "countryCodesInvolved": [
+      "ZAF",
+      "TBD1"
+    ],
+    "dateUTC": "2026-06-17T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "BMO Field",
+    "city": "Toronto"
+  },
+  {
+    "id": "wc26-grp-b-m4",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group B",
+    "isKnockout": false,
+    "summary": "TBD (Playoff A) vs. Switzerland",
+    "countryCodesInvolved": [
+      "TBD2",
+      "CHE"
+    ],
+    "dateUTC": "2026-06-17T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "BC Place",
+    "city": "Vancouver"
+  },
+  {
+    "id": "wc26-grp-c-m4",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group C",
+    "isKnockout": false,
+    "summary": "Morocco vs. Scotland",
+    "countryCodesInvolved": [
+      "MAR",
+      "SCO"
+    ],
+    "dateUTC": "2026-06-17T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SoFi Stadium",
+    "city": "Los Angeles"
+  },
+  {
+    "id": "wc26-grp-a-m3",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group A",
+    "isKnockout": false,
+    "summary": "Mexico vs. South Korea",
+    "countryCodesInvolved": [
+      "MEX",
+      "KOR"
+    ],
+    "dateUTC": "2026-06-17T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Estadio BBVA",
+    "city": "Monterrey"
+  },
+  {
+    "id": "wc26-grp-b-m3",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group B",
+    "isKnockout": false,
+    "summary": "Canada vs. Qatar",
+    "countryCodesInvolved": [
+      "CAN",
+      "QAT"
+    ],
+    "dateUTC": "2026-06-17T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "BMO Field",
+    "city": "Toronto"
+  },
+  {
+    "id": "wc26-grp-c-m3",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group C",
+    "isKnockout": false,
+    "summary": "Brazil vs. Haiti",
+    "countryCodesInvolved": [
+      "BRA",
+      "HTI"
+    ],
+    "dateUTC": "2026-06-17T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "BC Place",
+    "city": "Vancouver"
+  },
+  {
+    "id": "wc26-grp-d-m4",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group D",
+    "isKnockout": false,
+    "summary": "Paraguay vs. TBD (Playoff C)",
+    "countryCodesInvolved": [
+      "PRY",
+      "TBD3"
+    ],
+    "dateUTC": "2026-06-18T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Levi's Stadium",
+    "city": "San Francisco"
+  },
+  {
+    "id": "wc26-grp-e-m4",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group E",
+    "isKnockout": false,
+    "summary": "Curaçao vs. Ecuador",
+    "countryCodesInvolved": [
+      "CUW",
+      "ECU"
+    ],
+    "dateUTC": "2026-06-18T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Lumen Field",
+    "city": "Seattle"
+  },
+  {
+    "id": "wc26-grp-f-m4",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group F",
+    "isKnockout": false,
+    "summary": "Japan vs. Tunisia",
+    "countryCodesInvolved": [
+      "JPN",
+      "TUN"
+    ],
+    "dateUTC": "2026-06-18T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "AT&T Stadium",
+    "city": "Dallas"
+  },
+  {
+    "id": "wc26-grp-d-m3",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group D",
+    "isKnockout": false,
+    "summary": "United States vs. Australia",
+    "countryCodesInvolved": [
+      "USA",
+      "AUS"
+    ],
+    "dateUTC": "2026-06-18T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SoFi Stadium",
+    "city": "Los Angeles"
+  },
+  {
+    "id": "wc26-grp-e-m3",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group E",
+    "isKnockout": false,
+    "summary": "Germany vs. Ivory Coast",
+    "countryCodesInvolved": [
+      "DEU",
+      "CIV"
+    ],
+    "dateUTC": "2026-06-18T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Levi's Stadium",
+    "city": "San Francisco"
+  },
+  {
+    "id": "wc26-grp-f-m3",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group F",
+    "isKnockout": false,
+    "summary": "Netherlands vs. TBD (Playoff B)",
+    "countryCodesInvolved": [
+      "NLD",
+      "TBD4"
+    ],
+    "dateUTC": "2026-06-18T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Lumen Field",
+    "city": "Seattle"
+  },
+  {
+    "id": "wc26-grp-g-m4",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group G",
+    "isKnockout": false,
+    "summary": "Egypt vs. New Zealand",
+    "countryCodesInvolved": [
+      "EGY",
+      "NZL"
+    ],
+    "dateUTC": "2026-06-19T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "NRG Stadium",
+    "city": "Houston"
+  },
+  {
+    "id": "wc26-grp-h-m4",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group H",
+    "isKnockout": false,
+    "summary": "Cape Verde vs. Uruguay",
+    "countryCodesInvolved": [
+      "CPV",
+      "URY"
+    ],
+    "dateUTC": "2026-06-19T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "GEHA Field at Arrowhead",
+    "city": "Kansas City"
+  },
+  {
+    "id": "wc26-grp-i-m4",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group I",
+    "isKnockout": false,
+    "summary": "Senegal vs. Norway",
+    "countryCodesInvolved": [
+      "SEN",
+      "NOR"
+    ],
+    "dateUTC": "2026-06-19T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta"
+  },
+  {
+    "id": "wc26-grp-g-m3",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group G",
+    "isKnockout": false,
+    "summary": "Belgium vs. Iran",
+    "countryCodesInvolved": [
+      "BEL",
+      "IRN"
+    ],
+    "dateUTC": "2026-06-19T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "AT&T Stadium",
+    "city": "Dallas"
+  },
+  {
+    "id": "wc26-grp-h-m3",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group H",
+    "isKnockout": false,
+    "summary": "Spain vs. Saudi Arabia",
+    "countryCodesInvolved": [
+      "ESP",
+      "SAU"
+    ],
+    "dateUTC": "2026-06-19T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "NRG Stadium",
+    "city": "Houston"
+  },
+  {
+    "id": "wc26-grp-i-m3",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group I",
+    "isKnockout": false,
+    "summary": "France vs. TBD (Playoff 2)",
+    "countryCodesInvolved": [
+      "FRA",
+      "TBD5"
+    ],
+    "dateUTC": "2026-06-19T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "GEHA Field at Arrowhead",
+    "city": "Kansas City"
+  },
+  {
+    "id": "wc26-grp-j-m4",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group J",
+    "isKnockout": false,
+    "summary": "Algeria vs. Jordan",
+    "countryCodesInvolved": [
+      "DZA",
+      "JOR"
+    ],
+    "dateUTC": "2026-06-20T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Hard Rock Stadium",
+    "city": "Miami"
+  },
+  {
+    "id": "wc26-grp-k-m4",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group K",
+    "isKnockout": false,
+    "summary": "TBD (Playoff 1) vs. Colombia",
+    "countryCodesInvolved": [
+      "TBD6",
+      "COL"
+    ],
+    "dateUTC": "2026-06-20T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford"
+  },
+  {
+    "id": "wc26-grp-l-m4",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group L",
+    "isKnockout": false,
+    "summary": "Croatia vs. Panama",
+    "countryCodesInvolved": [
+      "HRV",
+      "PAN"
+    ],
+    "dateUTC": "2026-06-20T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Gillette Stadium",
+    "city": "Foxborough"
+  },
+  {
+    "id": "wc26-grp-j-m3",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group J",
+    "isKnockout": false,
+    "summary": "Argentina vs. Austria",
+    "countryCodesInvolved": [
+      "ARG",
+      "AUT"
+    ],
+    "dateUTC": "2026-06-20T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta"
+  },
+  {
+    "id": "wc26-grp-k-m3",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group K",
+    "isKnockout": false,
+    "summary": "Portugal vs. Uzbekistan",
+    "countryCodesInvolved": [
+      "PRT",
+      "UZB"
+    ],
+    "dateUTC": "2026-06-20T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Hard Rock Stadium",
+    "city": "Miami"
+  },
+  {
+    "id": "wc26-grp-l-m3",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group L",
+    "isKnockout": false,
+    "summary": "England vs. Ghana",
+    "countryCodesInvolved": [
+      "GBR",
+      "GHA"
+    ],
+    "dateUTC": "2026-06-20T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford"
+  },
+  {
+    "id": "wc26-grp-a-m5",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group A",
+    "isKnockout": false,
+    "summary": "Mexico vs. TBD (Playoff D)",
+    "countryCodesInvolved": [
+      "MEX",
+      "TBD1"
+    ],
+    "dateUTC": "2026-06-23T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "BC Place",
+    "city": "Vancouver"
+  },
+  {
+    "id": "wc26-grp-b-m5",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group B",
+    "isKnockout": false,
+    "summary": "Canada vs. Switzerland",
+    "countryCodesInvolved": [
+      "CAN",
+      "CHE"
+    ],
+    "dateUTC": "2026-06-23T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SoFi Stadium",
+    "city": "Los Angeles"
+  },
+  {
+    "id": "wc26-grp-c-m5",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group C",
+    "isKnockout": false,
+    "summary": "Brazil vs. Scotland",
+    "countryCodesInvolved": [
+      "BRA",
+      "SCO"
+    ],
+    "dateUTC": "2026-06-23T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Levi's Stadium",
+    "city": "San Francisco"
+  },
+  {
+    "id": "wc26-grp-a-m6",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group A",
+    "isKnockout": false,
+    "summary": "South Korea vs. South Africa",
+    "countryCodesInvolved": [
+      "KOR",
+      "ZAF"
+    ],
+    "dateUTC": "2026-06-23T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SoFi Stadium",
+    "city": "Los Angeles"
+  },
+  {
+    "id": "wc26-grp-b-m6",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group B",
+    "isKnockout": false,
+    "summary": "Qatar vs. TBD (Playoff A)",
+    "countryCodesInvolved": [
+      "QAT",
+      "TBD2"
+    ],
+    "dateUTC": "2026-06-23T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Levi's Stadium",
+    "city": "San Francisco"
+  },
+  {
+    "id": "wc26-grp-c-m6",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group C",
+    "isKnockout": false,
+    "summary": "Haiti vs. Morocco",
+    "countryCodesInvolved": [
+      "HTI",
+      "MAR"
+    ],
+    "dateUTC": "2026-06-23T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Lumen Field",
+    "city": "Seattle"
+  },
+  {
+    "id": "wc26-grp-d-m5",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group D",
+    "isKnockout": false,
+    "summary": "United States vs. TBD (Playoff C)",
+    "countryCodesInvolved": [
+      "USA",
+      "TBD3"
+    ],
+    "dateUTC": "2026-06-24T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Lumen Field",
+    "city": "Seattle"
+  },
+  {
+    "id": "wc26-grp-e-m5",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group E",
+    "isKnockout": false,
+    "summary": "Germany vs. Ecuador",
+    "countryCodesInvolved": [
+      "DEU",
+      "ECU"
+    ],
+    "dateUTC": "2026-06-24T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "AT&T Stadium",
+    "city": "Dallas"
+  },
+  {
+    "id": "wc26-grp-f-m5",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group F",
+    "isKnockout": false,
+    "summary": "Netherlands vs. Tunisia",
+    "countryCodesInvolved": [
+      "NLD",
+      "TUN"
+    ],
+    "dateUTC": "2026-06-24T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "NRG Stadium",
+    "city": "Houston"
+  },
+  {
+    "id": "wc26-grp-d-m6",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group D",
+    "isKnockout": false,
+    "summary": "Australia vs. Paraguay",
+    "countryCodesInvolved": [
+      "AUS",
+      "PRY"
+    ],
+    "dateUTC": "2026-06-24T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "AT&T Stadium",
+    "city": "Dallas"
+  },
+  {
+    "id": "wc26-grp-e-m6",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group E",
+    "isKnockout": false,
+    "summary": "Ivory Coast vs. Curaçao",
+    "countryCodesInvolved": [
+      "CIV",
+      "CUW"
+    ],
+    "dateUTC": "2026-06-24T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "NRG Stadium",
+    "city": "Houston"
+  },
+  {
+    "id": "wc26-grp-f-m6",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group F",
+    "isKnockout": false,
+    "summary": "TBD (Playoff B) vs. Japan",
+    "countryCodesInvolved": [
+      "TBD4",
+      "JPN"
+    ],
+    "dateUTC": "2026-06-24T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "GEHA Field at Arrowhead",
+    "city": "Kansas City"
+  },
+  {
+    "id": "wc26-grp-g-m5",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group G",
+    "isKnockout": false,
+    "summary": "Belgium vs. New Zealand",
+    "countryCodesInvolved": [
+      "BEL",
+      "NZL"
+    ],
+    "dateUTC": "2026-06-25T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "GEHA Field at Arrowhead",
+    "city": "Kansas City"
+  },
+  {
+    "id": "wc26-grp-h-m5",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group H",
+    "isKnockout": false,
+    "summary": "Spain vs. Uruguay",
+    "countryCodesInvolved": [
+      "ESP",
+      "URY"
+    ],
+    "dateUTC": "2026-06-25T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta"
+  },
+  {
+    "id": "wc26-grp-i-m5",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group I",
+    "isKnockout": false,
+    "summary": "France vs. Norway",
+    "countryCodesInvolved": [
+      "FRA",
+      "NOR"
+    ],
+    "dateUTC": "2026-06-25T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Hard Rock Stadium",
+    "city": "Miami"
+  },
+  {
+    "id": "wc26-grp-g-m6",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group G",
+    "isKnockout": false,
+    "summary": "Iran vs. Egypt",
+    "countryCodesInvolved": [
+      "IRN",
+      "EGY"
+    ],
+    "dateUTC": "2026-06-25T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta"
+  },
+  {
+    "id": "wc26-grp-h-m6",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group H",
+    "isKnockout": false,
+    "summary": "Saudi Arabia vs. Cape Verde",
+    "countryCodesInvolved": [
+      "SAU",
+      "CPV"
+    ],
+    "dateUTC": "2026-06-25T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Hard Rock Stadium",
+    "city": "Miami"
+  },
+  {
+    "id": "wc26-grp-i-m6",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group I",
+    "isKnockout": false,
+    "summary": "TBD (Playoff 2) vs. Senegal",
+    "countryCodesInvolved": [
+      "TBD5",
+      "SEN"
+    ],
+    "dateUTC": "2026-06-25T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford"
+  },
+  {
+    "id": "wc26-grp-j-m5",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group J",
+    "isKnockout": false,
+    "summary": "Argentina vs. Jordan",
+    "countryCodesInvolved": [
+      "ARG",
+      "JOR"
+    ],
+    "dateUTC": "2026-06-26T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford"
+  },
+  {
+    "id": "wc26-grp-k-m5",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group K",
+    "isKnockout": false,
+    "summary": "Portugal vs. Colombia",
+    "countryCodesInvolved": [
+      "PRT",
+      "COL"
+    ],
+    "dateUTC": "2026-06-26T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Gillette Stadium",
+    "city": "Foxborough"
+  },
+  {
+    "id": "wc26-grp-l-m5",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group L",
+    "isKnockout": false,
+    "summary": "England vs. Panama",
+    "countryCodesInvolved": [
+      "GBR",
+      "PAN"
+    ],
+    "dateUTC": "2026-06-26T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Lincoln Financial Field",
+    "city": "Philadelphia"
+  },
+  {
+    "id": "wc26-grp-j-m6",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group J",
+    "isKnockout": false,
+    "summary": "Austria vs. Algeria",
+    "countryCodesInvolved": [
+      "AUT",
+      "DZA"
+    ],
+    "dateUTC": "2026-06-26T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Gillette Stadium",
+    "city": "Foxborough"
+  },
+  {
+    "id": "wc26-grp-k-m6",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group K",
+    "isKnockout": false,
+    "summary": "Uzbekistan vs. TBD (Playoff 1)",
+    "countryCodesInvolved": [
+      "UZB",
+      "TBD6"
+    ],
+    "dateUTC": "2026-06-26T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Lincoln Financial Field",
+    "city": "Philadelphia"
+  },
+  {
+    "id": "wc26-grp-l-m6",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group L",
+    "isKnockout": false,
+    "summary": "Ghana vs. Croatia",
+    "countryCodesInvolved": [
+      "GHA",
+      "HRV"
+    ],
+    "dateUTC": "2026-06-26T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Estadio Azteca",
+    "city": "Mexico City"
+  },
+  {
+    "id": "wc26-r32-1",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Round of 32 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-06-28T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "BMO Field",
+    "city": "Toronto"
+  },
+  {
+    "id": "wc26-r32-2",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Round of 32 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-06-28T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "BC Place",
+    "city": "Vancouver"
+  },
+  {
+    "id": "wc26-r32-3",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Round of 32 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-06-28T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Gillette Stadium",
+    "city": "Foxborough"
+  },
+  {
+    "id": "wc26-r32-4",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Round of 32 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-06-29T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "NRG Stadium",
+    "city": "Houston"
+  },
+  {
+    "id": "wc26-r32-5",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Round of 32 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-06-29T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Hard Rock Stadium",
+    "city": "Miami"
+  },
+  {
+    "id": "wc26-r32-6",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Round of 32 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-06-29T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "AT&T Stadium",
+    "city": "Dallas"
+  },
+  {
+    "id": "wc26-r32-8",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Round of 32 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-06-30T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "GEHA Field at Arrowhead",
+    "city": "Kansas City"
+  },
+  {
+    "id": "wc26-r32-9",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Round of 32 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-06-30T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "BMO Field",
+    "city": "Toronto"
+  },
+  {
+    "id": "wc26-r32-7",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Round of 32 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-06-30T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Lincoln Financial Field",
+    "city": "Philadelphia"
+  },
+  {
+    "id": "wc26-r32-12",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Round of 32 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-06-31T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Hard Rock Stadium",
+    "city": "Miami"
+  },
+  {
+    "id": "wc26-r32-10",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Round of 32 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-06-31T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Gillette Stadium",
+    "city": "Foxborough"
+  },
+  {
+    "id": "wc26-r32-11",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Round of 32 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-06-31T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Estadio Azteca",
+    "city": "Mexico City"
+  },
+  {
+    "id": "wc26-r32-13",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Round of 32 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-06-32T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford"
+  },
+  {
+    "id": "wc26-r32-14",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Round of 32 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-06-32T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "BC Place",
+    "city": "Vancouver"
+  },
+  {
+    "id": "wc26-r32-15",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Round of 32 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-06-32T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Estadio Azteca",
+    "city": "Mexico City"
+  },
+  {
+    "id": "wc26-r32-16",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Round of 32 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-06-33T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Estadio BBVA",
+    "city": "Monterrey"
+  },
+  {
+    "id": "wc26-r16-1",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Round of 16 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-04T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "SoFi Stadium",
+    "city": "Los Angeles"
+  },
+  {
+    "id": "wc26-r16-2",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Round of 16 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-04T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford"
+  },
+  {
+    "id": "wc26-r16-4",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Round of 16 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-05T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Hard Rock Stadium",
+    "city": "Miami"
+  },
+  {
+    "id": "wc26-r16-3",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Round of 16 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-05T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Lumen Field",
+    "city": "Seattle"
+  },
+  {
+    "id": "wc26-r16-5",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Round of 16 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-06T15:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Estadio BBVA",
+    "city": "Monterrey"
+  },
+  {
+    "id": "wc26-r16-6",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Round of 16 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-06T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Lumen Field",
+    "city": "Seattle"
+  },
+  {
+    "id": "wc26-r16-8",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Round of 16 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-07T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta"
+  },
+  {
+    "id": "wc26-r16-7",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Round of 16 (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-07T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Estadio Azteca",
+    "city": "Mexico City"
+  },
+  {
+    "id": "wc26-qf-3",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Quarter-Final",
+    "isKnockout": true,
+    "summary": "Quarter-Final (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-10T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Estadio BBVA",
+    "city": "Monterrey"
+  },
+  {
+    "id": "wc26-qf-4",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Quarter-Final",
+    "isKnockout": true,
+    "summary": "Quarter-Final (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-10T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Estadio BBVA",
+    "city": "Monterrey"
+  },
+  {
+    "id": "wc26-sf-1",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Semi-Final",
+    "isKnockout": true,
+    "summary": "Semi-Final (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-14T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford"
+  },
+  {
+    "id": "wc26-sf-2",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Semi-Final",
+    "isKnockout": true,
+    "summary": "Semi-Final (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-15T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Estadio Azteca",
+    "city": "Mexico City"
+  },
+  {
+    "id": "wc26-3rd",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Third Place Match",
+    "isKnockout": true,
+    "summary": "Third Place Match (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-18T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Hard Rock Stadium",
+    "city": "Miami"
+  },
+  {
+    "id": "wc26-final",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Final",
+    "isKnockout": true,
+    "summary": "Final (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-19T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford"
+  },
+  {
+    "id": "wc26-qf-1",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Quarter-Final",
+    "isKnockout": true,
+    "summary": "Quarter-Final (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-9T18:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Levi's Stadium",
+    "city": "San Francisco"
+  },
+  {
+    "id": "wc26-qf-2",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Quarter-Final",
+    "isKnockout": true,
+    "summary": "Quarter-Final (TBD)",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-9T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "GEHA Field at Arrowhead",
+    "city": "Kansas City"
+  }
+]

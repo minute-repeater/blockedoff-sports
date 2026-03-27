@@ -1,0 +1,68 @@
+export interface CountryColorScheme {
+  accent: string;
+  accentHover: string;
+  textOnAccent: string; // "#ffffff" or "#0f172a" for contrast
+}
+
+export const countryColors: Record<string, CountryColorScheme> = {
+  ARG: { accent: "#75baff", accentHover: "#5aa3f0", textOnAccent: "#0f172a" },
+  AUS: { accent: "#00843d", accentHover: "#006b31", textOnAccent: "#ffffff" },
+  AUT: { accent: "#ed2939", accentHover: "#c9202e", textOnAccent: "#ffffff" },
+  BEL: { accent: "#fdda24", accentHover: "#e6c520", textOnAccent: "#0f172a" },
+  BRA: { accent: "#ffd700", accentHover: "#e6c200", textOnAccent: "#0f172a" },
+  CAN: { accent: "#ff4444", accentHover: "#e03333", textOnAccent: "#ffffff" },
+  CHE: { accent: "#ff0000", accentHover: "#d40000", textOnAccent: "#ffffff" },
+  CHN: { accent: "#de2910", accentHover: "#bf200c", textOnAccent: "#ffffff" },
+  CMR: { accent: "#007a3d", accentHover: "#006330", textOnAccent: "#ffffff" },
+  CZE: { accent: "#11457e", accentHover: "#1a5599", textOnAccent: "#ffffff" },
+  DEU: { accent: "#ffcc00", accentHover: "#e6b800", textOnAccent: "#0f172a" },
+  DNK: { accent: "#c8102e", accentHover: "#a80d25", textOnAccent: "#ffffff" },
+  ESP: { accent: "#c60b1e", accentHover: "#a80918", textOnAccent: "#ffffff" },
+  FIN: { accent: "#003580", accentHover: "#1a4d99", textOnAccent: "#ffffff" },
+  FRA: { accent: "#0055a4", accentHover: "#004488", textOnAccent: "#ffffff" },
+  GBR: { accent: "#1d4ed8", accentHover: "#1e40af", textOnAccent: "#ffffff" },
+  GRC: { accent: "#0d5eaf", accentHover: "#0a4d90", textOnAccent: "#ffffff" },
+  HRV: { accent: "#ff0000", accentHover: "#d40000", textOnAccent: "#ffffff" },
+  IRN: { accent: "#239f40", accentHover: "#1c8534", textOnAccent: "#ffffff" },
+  ITA: { accent: "#009246", accentHover: "#007a3a", textOnAccent: "#ffffff" },
+  JPN: { accent: "#bc002d", accentHover: "#9e0025", textOnAccent: "#ffffff" },
+  KOR: { accent: "#c60c30", accentHover: "#a80a28", textOnAccent: "#ffffff" },
+  LVA: { accent: "#9e3039", accentHover: "#82272f", textOnAccent: "#ffffff" },
+  MAR: { accent: "#c1272d", accentHover: "#a32025", textOnAccent: "#ffffff" },
+  MCO: { accent: "#ce1126", accentHover: "#ae0e20", textOnAccent: "#ffffff" },
+  MEX: { accent: "#1a8f4e", accentHover: "#157640", textOnAccent: "#ffffff" },
+  NLD: { accent: "#ff6600", accentHover: "#e65c00", textOnAccent: "#ffffff" },
+  NOR: { accent: "#ef2b2d", accentHover: "#cc2325", textOnAccent: "#ffffff" },
+  NZL: { accent: "#00247d", accentHover: "#001d66", textOnAccent: "#ffffff" },
+  POL: { accent: "#dc143c", accentHover: "#b81032", textOnAccent: "#ffffff" },
+  PRT: { accent: "#006600", accentHover: "#005200", textOnAccent: "#ffffff" },
+  SEN: { accent: "#00853f", accentHover: "#006b32", textOnAccent: "#ffffff" },
+  SRB: { accent: "#c6363c", accentHover: "#a82e32", textOnAccent: "#ffffff" },
+  SVK: { accent: "#0b4ea2", accentHover: "#093f85", textOnAccent: "#ffffff" },
+  SVN: { accent: "#003da5", accentHover: "#003088", textOnAccent: "#ffffff" },
+  SWE: { accent: "#fecc02", accentHover: "#e6b902", textOnAccent: "#0f172a" },
+  THA: { accent: "#a51931", accentHover: "#8a1428", textOnAccent: "#ffffff" },
+  USA: { accent: "#4169e1", accentHover: "#3558c0", textOnAccent: "#ffffff" },
+  ZAF: { accent: "#007749", accentHover: "#006340", textOnAccent: "#ffffff" },
+  QAT: { accent: "#8D1B3D", accentHover: "#751632", textOnAccent: "#ffffff" },
+  HTI: { accent: "#00209F", accentHover: "#001a82", textOnAccent: "#ffffff" },
+  SCO: { accent: "#003399", accentHover: "#002a80", textOnAccent: "#ffffff" },
+  PRY: { accent: "#D52B1E", accentHover: "#b52418", textOnAccent: "#ffffff" },
+  CUW: { accent: "#002B7F", accentHover: "#002366", textOnAccent: "#ffffff" },
+  CIV: { accent: "#F77F00", accentHover: "#d96e00", textOnAccent: "#0f172a" },
+  ECU: { accent: "#FFD100", accentHover: "#e6bc00", textOnAccent: "#0f172a" },
+  TUN: { accent: "#E70013", accentHover: "#c4000f", textOnAccent: "#ffffff" },
+  EGY: { accent: "#CE1126", accentHover: "#ae0e20", textOnAccent: "#ffffff" },
+  CPV: { accent: "#003893", accentHover: "#002e78", textOnAccent: "#ffffff" },
+  URY: { accent: "#0038A8", accentHover: "#002f8a", textOnAccent: "#ffffff" },
+  DZA: { accent: "#006233", accentHover: "#004d29", textOnAccent: "#ffffff" },
+  JOR: { accent: "#007A33", accentHover: "#006329", textOnAccent: "#ffffff" },
+  UZB: { accent: "#1EB53A", accentHover: "#199a31", textOnAccent: "#ffffff" },
+  COL: { accent: "#FCD116", accentHover: "#e3bb14", textOnAccent: "#0f172a" },
+  GHA: { accent: "#006B3F", accentHover: "#005733", textOnAccent: "#ffffff" },
+  PAN: { accent: "#DA121A", accentHover: "#b80f16", textOnAccent: "#ffffff" },
+};
+
+export const DEFAULT_ACCENT = "#3b82f6";
+export const DEFAULT_ACCENT_HOVER = "#2563eb";
+export const DEFAULT_TEXT_ON_ACCENT = "#ffffff";

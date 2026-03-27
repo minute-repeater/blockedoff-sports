@@ -1,0 +1,154 @@
+[
+  {
+    "id": "oly2028-soc-can-aus",
+    "tournamentId": "oly2028",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Canada vs. Australia",
+    "countryCodesInvolved": [
+      "CAN",
+      "AUS"
+    ],
+    "dateUTC": "2028-07-15",
+    "timeTBD": true,
+    "durationMinutes": 120,
+    "venue": "Rose Bowl",
+    "city": "Pasadena"
+  },
+  {
+    "id": "oly2028-soc-usa-fra",
+    "tournamentId": "oly2028",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "USA vs. France",
+    "countryCodesInvolved": [
+      "USA",
+      "FRA"
+    ],
+    "dateUTC": "2028-07-16T01:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SoFi Stadium",
+    "city": "Los Angeles"
+  },
+  {
+    "id": "oly2028-bball-usa-esp",
+    "tournamentId": "oly2028",
+    "sport": "basketball",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "USA vs. Spain",
+    "countryCodesInvolved": [
+      "USA",
+      "ESP"
+    ],
+    "dateUTC": "2028-07-17T19:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Crypto.com Arena",
+    "city": "Los Angeles"
+  },
+  {
+    "id": "oly2028-bball-can-srb",
+    "tournamentId": "oly2028",
+    "sport": "basketball",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Canada vs. Serbia",
+    "countryCodesInvolved": [
+      "CAN",
+      "SRB"
+    ],
+    "dateUTC": "2028-07-18",
+    "timeTBD": true,
+    "durationMinutes": 150,
+    "venue": "Crypto.com Arena",
+    "city": "Los Angeles"
+  },
+  {
+    "id": "oly2028-swim-100m-free",
+    "tournamentId": "oly2028",
+    "sport": "swimming",
+    "phase": "Final",
+    "isKnockout": true,
+    "summary": "100m Freestyle Final",
+    "countryCodesInvolved": [
+      "USA",
+      "CAN",
+      "AUS",
+      "GBR",
+      "FRA",
+      "BRA",
+      "JPN",
+      "DEU"
+    ],
+    "dateUTC": "2028-07-20T03:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 30,
+    "venue": "LA Aquatics Center",
+    "city": "Los Angeles"
+  },
+  {
+    "id": "oly2028-swim-200m-fly",
+    "tournamentId": "oly2028",
+    "sport": "swimming",
+    "phase": "Final",
+    "isKnockout": true,
+    "summary": "200m Butterfly Final",
+    "countryCodesInvolved": [
+      "USA",
+      "CAN",
+      "AUS",
+      "GBR",
+      "FRA",
+      "BRA",
+      "JPN",
+      "DEU"
+    ],
+    "dateUTC": "2028-07-22",
+    "timeTBD": true,
+    "durationMinutes": 30,
+    "venue": "LA Aquatics Center",
+    "city": "Los Angeles"
+  },
+  {
+    "id": "oly2028-ath-100m",
+    "tournamentId": "oly2028",
+    "sport": "athletics",
+    "phase": "Final",
+    "isKnockout": true,
+    "summary": "100m Sprint Final",
+    "countryCodesInvolved": [
+      "USA",
+      "CAN",
+      "GBR",
+      "JPN",
+      "BRA",
+      "FRA"
+    ],
+    "dateUTC": "2028-07-25T02:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 30,
+    "venue": "LA Memorial Coliseum",
+    "city": "Los Angeles"
+  },
+  {
+    "id": "oly2028-vball-usa-bra",
+    "tournamentId": "oly2028",
+    "sport": "volleyball",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "USA vs. Brazil",
+    "countryCodesInvolved": [
+      "USA",
+      "BRA"
+    ],
+    "dateUTC": "2028-07-19T22:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Galen Center",
+    "city": "Los Angeles"
+  }
+]
