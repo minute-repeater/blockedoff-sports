@@ -913,7 +913,7 @@ function ScheduleApp() {
               </p>
               <div className="flex items-center justify-center gap-4">
                 <Link
-                  href="/about"
+                  href="/how-it-works"
                   className="inline-block text-sm text-accent hover:text-accent-hover font-medium transition-colors"
                 >
                   How does it work? &rarr;
@@ -1686,25 +1686,77 @@ function ScheduleApp() {
               <Link href="/today" className="hover:text-foreground transition-colors font-medium">
                 Today
               </Link>
-              <Link href="/about" className="hover:text-foreground transition-colors font-medium">
+              <Link href="/how-it-works" className="hover:text-foreground transition-colors font-medium">
                 How it works
               </Link>
-              {tournaments.map((t) => (
-                <Link
-                  key={t.id}
-                  href={`/tournament/${t.id}`}
-                  className="hover:text-foreground transition-colors font-medium hidden sm:inline"
-                >
-                  {t.shortName}
-                </Link>
-              ))}
+              <Link href="/faq" className="hover:text-foreground transition-colors font-medium hidden sm:inline">
+                FAQ
+              </Link>
+              <Link href="/about" className="hover:text-foreground transition-colors font-medium hidden sm:inline">
+                About
+              </Link>
             </nav>
           </div>
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mt-6 pt-6 border-t border-border/50 text-xs">
+            <div>
+              <h3 className="font-semibold text-foreground mb-2" style={{ fontFamily: "var(--font-heading), system-ui, sans-serif" }}>Sports</h3>
+              <ul className="space-y-1.5">
+                {[
+                  { href: "/world-cup-2026", label: "World Cup 2026" },
+                  { href: "/nba", label: "NBA" },
+                  { href: "/nhl", label: "NHL" },
+                  { href: "/mlb", label: "MLB" },
+                ].map(l => <li key={l.href}><Link href={l.href} className="hover:text-foreground transition-colors">{l.label}</Link></li>)}
+              </ul>
+            </div>
+            <div>
+              <h3 className="font-semibold text-foreground mb-2" style={{ fontFamily: "var(--font-heading), system-ui, sans-serif" }}>More Sports</h3>
+              <ul className="space-y-1.5">
+                {[
+                  { href: "/f1", label: "Formula 1" },
+                  { href: "/march-madness", label: "March Madness" },
+                  { href: "/olympics-2028", label: "Olympics 2028" },
+                ].map(l => <li key={l.href}><Link href={l.href} className="hover:text-foreground transition-colors">{l.label}</Link></li>)}
+              </ul>
+            </div>
+            <div>
+              <h3 className="font-semibold text-foreground mb-2" style={{ fontFamily: "var(--font-heading), system-ui, sans-serif" }}>Resources</h3>
+              <ul className="space-y-1.5">
+                {[
+                  { href: "/how-it-works", label: "How It Works" },
+                  { href: "/faq", label: "FAQ" },
+                  { href: "/about", label: "About" },
+                  { href: "/today", label: "Today's Schedule" },
+                ].map(l => <li key={l.href}><Link href={l.href} className="hover:text-foreground transition-colors">{l.label}</Link></li>)}
+              </ul>
+            </div>
+            <div>
+              <h3 className="font-semibold text-foreground mb-2" style={{ fontFamily: "var(--font-heading), system-ui, sans-serif" }}>Works with</h3>
+              <p className="text-muted leading-relaxed">Apple Calendar, Google Calendar, Outlook, and any ICS-compatible app</p>
+            </div>
+          </div>
           <div className="text-center sm:text-left mt-4 pt-4 border-t border-border/50 text-muted/60">
-            © {new Date().getFullYear()} SportsCalendar · Live-updating sports calendars
+            &copy; {new Date().getFullYear()} SportsCalendar. Free forever.
           </div>
         </div>
       </footer>
+
+      {/* JSON-LD: WebSite schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          name: "SportsCalendar",
+          url: "https://sportscalendar.xyz",
+          description: "Free, auto-updating sports calendar subscriptions for Google Calendar, Apple Calendar, and Outlook.",
+          potentialAction: {
+            "@type": "SearchAction",
+            target: "https://sportscalendar.xyz/?tournament={search_term_string}",
+            "query-input": "required name=search_term_string",
+          },
+        }) }}
+      />
     </div>
   );
 }

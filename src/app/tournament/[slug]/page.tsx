@@ -1,11 +1,14 @@
 import { Metadata } from "next";
 import Link from "next/link";
-import Image from "next/image";
 import { notFound } from "next/navigation";
 import tournaments from "@/data/tournaments.json";
 import { getAllEvents } from "@/data/schedule-loader";
 import { countries } from "@/data/countries";
 import { Tournament, ScheduleEvent } from "@/lib/types";
+import { SiteHeader } from "@/components/SiteHeader";
+import { SiteFooter } from "@/components/SiteFooter";
+import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { JsonLd } from "@/components/JsonLd";
 
 const allTournaments = tournaments as Tournament[];
 const allEvents = getAllEvents();
@@ -102,35 +105,14 @@ export default async function TournamentPage({
 
   return (
     <div className="min-h-screen flex flex-col">
-      {/* Header */}
-      <header className="glass-header border-b border-border sticky top-0 z-50">
-        <div className="max-w-5xl mx-auto px-4 py-3 sm:py-4 flex items-center justify-between gap-2">
-          <Link
-            href="/"
-            className="flex items-center gap-2.5 text-lg sm:text-xl font-bold tracking-tight hover:opacity-80 transition-all shrink-0"
-            style={{ fontFamily: "var(--font-heading), system-ui, sans-serif" }}
-          >
-            <Image src="/logo.png" alt="SportsCalendar" width={30} height={30} className="rounded-lg" />
-            <span>Sports<span className="text-accent">Calendar</span></span>
-          </Link>
-          <nav className="flex items-center gap-3 sm:gap-4 text-sm text-muted">
-            <Link
-              href="/today"
-              className="hover:text-foreground transition-colors font-medium"
-            >
-              Today
-            </Link>
-            <Link
-              href="/about"
-              className="hover:text-foreground transition-colors font-medium"
-            >
-              How it works
-            </Link>
-          </nav>
-        </div>
-      </header>
+      <SiteHeader />
 
       <main className="max-w-4xl mx-auto px-3 sm:px-4 py-8 sm:py-12 flex-1 w-full">
+        <Breadcrumbs items={[
+          { label: "Home", href: "/" },
+          { label: tournament.shortName },
+        ]} />
+
         {/* Tournament hero */}
         <div className="text-center space-y-4 mb-10">
           <h1
@@ -273,48 +255,8 @@ export default async function TournamentPage({
         </section>
       </main>
 
-      {/* Footer */}
-      <footer className="border-t border-border mt-auto py-10 text-xs text-muted">
-        <div className="max-w-5xl mx-auto px-4">
-          <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
-            <div className="flex items-center gap-2.5">
-              <Image src="/logo.png" alt="" width={20} height={20} className="rounded-sm" />
-              <span className="font-semibold text-foreground">SportsCalendar</span>
-            </div>
-            <nav className="flex items-center gap-4 sm:gap-5">
-              <Link href="/" className="hover:text-foreground transition-colors font-medium">
-                Subscribe
-              </Link>
-              <Link href="/today" className="hover:text-foreground transition-colors font-medium">
-                Today
-              </Link>
-              <Link href="/about" className="hover:text-foreground transition-colors font-medium">
-                How it works
-              </Link>
-              {allTournaments
-                .filter((t) => t.id !== slug)
-                .map((t) => (
-                  <Link
-                    key={t.id}
-                    href={`/tournament/${t.id}`}
-                    className="hover:text-foreground transition-colors font-medium hidden sm:inline"
-                  >
-                    {t.shortName}
-                  </Link>
-                ))}
-            </nav>
-          </div>
-          <div className="text-center sm:text-left mt-4 pt-4 border-t border-border/50 text-muted/60">
-            © {new Date().getFullYear()} SportsCalendar · Live-updating sports calendars
-          </div>
-        </div>
-      </footer>
-
-      {/* JSON-LD */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
+      <SiteFooter />
+      <JsonLd data={jsonLd} />
     </div>
   );
 }
