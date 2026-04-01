@@ -1138,27 +1138,48 @@ function ScheduleApp() {
                 <select
                   value={timezone}
                   onChange={(e) => setTimezone(e.target.value)}
-                  className="bg-transparent text-foreground text-sm font-medium focus:outline-none cursor-pointer"
+                  className="bg-transparent text-foreground text-sm font-medium focus:outline-none cursor-pointer max-w-[200px]"
                 >
-                  {[
-                    "America/New_York",
-                    "America/Chicago",
-                    "America/Denver",
-                    "America/Los_Angeles",
-                    "America/Toronto",
-                    "America/Vancouver",
-                    "America/Mexico_City",
-                    "Europe/London",
-                    "Europe/Paris",
-                    "Europe/Berlin",
-                    "Asia/Tokyo",
-                    "Australia/Sydney",
-                    "UTC",
-                  ].map((tz) => (
-                    <option key={tz} value={tz}>
-                      {tz.replace(/_/g, " ")}
-                    </option>
-                  ))}
+                  {(() => {
+                    const common = [
+                      "America/New_York",
+                      "America/Chicago",
+                      "America/Denver",
+                      "America/Los_Angeles",
+                      "America/Toronto",
+                      "America/Vancouver",
+                      "America/Mexico_City",
+                      "America/Sao_Paulo",
+                      "America/Argentina/Buenos_Aires",
+                      "Europe/London",
+                      "Europe/Paris",
+                      "Europe/Berlin",
+                      "Europe/Madrid",
+                      "Europe/Rome",
+                      "Europe/Amsterdam",
+                      "Europe/Moscow",
+                      "Asia/Dubai",
+                      "Asia/Kolkata",
+                      "Asia/Shanghai",
+                      "Asia/Tokyo",
+                      "Asia/Seoul",
+                      "Asia/Singapore",
+                      "Australia/Sydney",
+                      "Australia/Perth",
+                      "Pacific/Auckland",
+                      "Pacific/Honolulu",
+                      "Africa/Johannesburg",
+                      "Africa/Cairo",
+                      "UTC",
+                    ];
+                    const detected = Intl.DateTimeFormat().resolvedOptions().timeZone;
+                    const all = common.includes(detected) ? common : [detected, ...common];
+                    return all.map((tz) => (
+                      <option key={tz} value={tz}>
+                        {tz === detected ? `${tz.replace(/_/g, " ")} (detected)` : tz.replace(/_/g, " ")}
+                      </option>
+                    ));
+                  })()}
                 </select>
               </div>
             </div>
