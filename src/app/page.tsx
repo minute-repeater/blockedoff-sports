@@ -14,6 +14,7 @@ import {
   DEFAULT_ACCENT_HOVER,
   DEFAULT_TEXT_ON_ACCENT,
 } from "@/data/countryColors";
+import { getTeamLogoUrl } from "@/lib/team-logos";
 
 /* ─── Helpers ─── */
 
@@ -1010,10 +1011,21 @@ function ScheduleApp() {
                       (e.currentTarget.style.borderColor = "transparent")
                     }
                   >
-                    <span
-                      className="w-3.5 h-3.5 rounded-full shrink-0"
-                      style={{ backgroundColor: team.color }}
-                    />
+                    {getTeamLogoUrl(tournamentId, team.code) ? (
+                      <Image
+                        src={getTeamLogoUrl(tournamentId, team.code)!}
+                        alt={team.shortName}
+                        width={24}
+                        height={24}
+                        className="w-6 h-6 object-contain shrink-0"
+                        unoptimized
+                      />
+                    ) : (
+                      <span
+                        className="w-3.5 h-3.5 rounded-full shrink-0"
+                        style={{ backgroundColor: team.color }}
+                      />
+                    )}
                     <span className="truncate font-medium">
                       {team.shortName}
                     </span>
