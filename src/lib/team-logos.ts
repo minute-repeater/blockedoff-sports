@@ -29,6 +29,21 @@ const NHL_CODE_MAP: Record<string, string> = {
   WSH: "wsh", WPG: "wpg",
 };
 
+// F1 constructor logos from official F1 media CDN
+const F1_CODE_MAP: Record<string, string> = {
+  RBR: "red-bull-racing",
+  FER: "ferrari",
+  MCL: "mclaren",
+  MER: "mercedes",
+  AMR: "aston-martin",
+  ALP: "alpine",
+  VCA: "rb",
+  WIL: "williams",
+  SAU: "kick-sauber",
+  HAA: "haas",
+  // CAD (Cadillac) not yet available on F1 media CDN
+};
+
 export function getTeamLogoUrl(
   tournamentId: string,
   teamCode: string
@@ -40,6 +55,10 @@ export function getTeamLogoUrl(
   if (tournamentId === "nba-playoffs-2026") {
     const espnCode = NBA_CODE_MAP[teamCode];
     if (espnCode) return `https://a.espncdn.com/i/teamlogos/nba/500/${espnCode}.png`;
+  }
+  if (tournamentId === "f1-2026") {
+    const f1Slug = F1_CODE_MAP[teamCode];
+    if (f1Slug) return `https://media.formula1.com/content/dam/fom-website/teams/2025/${f1Slug}.png`;
   }
   if (tournamentId === "nhl-2025-26") {
     const espnCode = NHL_CODE_MAP[teamCode];
