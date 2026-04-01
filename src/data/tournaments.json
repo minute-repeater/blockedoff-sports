@@ -1,5 +1,18 @@
 [
   {
+    "id": "wc2026",
+    "name": "FIFA World Cup 2026",
+    "shortName": "World Cup 2026",
+    "year": 2026,
+    "startDate": "2026-06-11",
+    "endDate": "2026-07-19",
+    "location": "USA, Canada & Mexico",
+    "sports": [
+      "soccer"
+    ],
+    "selectionType": "country"
+  },
+  {
     "id": "march-madness-2026",
     "name": "NCAA Men's March Madness 2026",
     "shortName": "Men's March Madness 2026",
@@ -491,34 +504,9 @@
     ]
   },
   {
-    "id": "oly-winter-2026",
-    "name": "Olympic Winter Games Milano Cortina 2026",
-    "shortName": "Milano Cortina 2026",
-    "year": 2026,
-    "startDate": "2026-02-06",
-    "endDate": "2026-02-22",
-    "location": "Milan & Cortina, Italy",
-    "sports": [
-      "ice-hockey",
-      "figure-skating",
-      "alpine-skiing",
-      "speed-skating",
-      "short-track",
-      "freestyle-skiing",
-      "snowboard",
-      "curling",
-      "biathlon",
-      "cross-country",
-      "ski-jumping",
-      "bobsled",
-      "luge"
-    ],
-    "selectionType": "country"
-  },
-  {
     "id": "ucl-2025-26",
-    "name": "UEFA Champions League 2025–26",
-    "shortName": "UEFA CL 2025–26",
+    "name": "UEFA Champions League 2025\u201326",
+    "shortName": "UEFA CL 2025\u201326",
     "year": 2026,
     "startDate": "2026-02-11",
     "endDate": "2026-05-31",
@@ -630,8 +618,8 @@
   },
   {
     "id": "nba-playoffs-2026",
-    "name": "NBA 2025–26 Season",
-    "shortName": "NBA 2025–26",
+    "name": "NBA 2025\u201326 Season",
+    "shortName": "NBA 2025\u201326",
     "year": 2026,
     "startDate": "2025-10-21",
     "endDate": "2026-06-21",
@@ -1136,8 +1124,8 @@
   },
   {
     "id": "nhl-2025-26",
-    "name": "NHL 2025–26 Season",
-    "shortName": "NHL 2025–26",
+    "name": "NHL 2025\u201326 Season",
+    "shortName": "NHL 2025\u201326",
     "year": 2026,
     "startDate": "2025-10-07",
     "endDate": "2026-06-30",
@@ -1544,19 +1532,6 @@
         "color": "#AB0003"
       }
     ]
-  },
-  {
-    "id": "wc2026",
-    "name": "FIFA World Cup 2026",
-    "shortName": "World Cup 2026",
-    "year": 2026,
-    "startDate": "2026-06-11",
-    "endDate": "2026-07-19",
-    "location": "USA, Canada & Mexico",
-    "sports": [
-      "soccer"
-    ],
-    "selectionType": "country"
   },
   {
     "id": "oly2028",
