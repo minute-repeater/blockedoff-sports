@@ -62,6 +62,123 @@ function MoonIcon() {
   );
 }
 
+/* ─── Sport Icons (for tournament cards) ─── */
+
+function BasketballIcon() {
+  return (
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <circle cx="12" cy="12" r="10" />
+      <path d="M2.05 12h19.9" />
+      <path d="M12 2.05v19.9" />
+      <path d="M6.34 2.65A10 10 0 0 1 12 12a10 10 0 0 1-5.66 9.35" />
+      <path d="M17.66 2.65A10 10 0 0 0 12 12a10 10 0 0 0 5.66 9.35" />
+    </svg>
+  );
+}
+
+function FootballIcon() {
+  return (
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <circle cx="12" cy="12" r="10" />
+      <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" />
+    </svg>
+  );
+}
+
+function HockeyIcon() {
+  return (
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M4 20l8-16" />
+      <path d="M12 4c0 0 4 2 4 6s-2 6-2 8c0 1 1 2 3 2h3" />
+      <circle cx="7" cy="19" r="2" fill="currentColor" />
+    </svg>
+  );
+}
+
+function BaseballIcon() {
+  return (
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <circle cx="12" cy="12" r="10" />
+      <path d="M6.34 17.66c1.5-2.5 1.5-5.82 0-8.32" />
+      <path d="M17.66 6.34c-1.5 2.5-1.5 5.82 0 8.32" />
+      <path d="M5.5 8.5l.5 1" />
+      <path d="M5 11l.5.5" />
+      <path d="M5.5 14l.5-.5" />
+      <path d="M18 8.5l-.5 1" />
+      <path d="M18.5 11l-.5.5" />
+      <path d="M18 14l-.5-.5" />
+    </svg>
+  );
+}
+
+function F1Icon() {
+  return (
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M4 4v16" />
+      <path d="M4 4h8l-2 4h6l-2 4H4" />
+      <rect x="16" y="14" width="5" height="7" rx="1" />
+      <path d="M18.5 14v7" />
+    </svg>
+  );
+}
+
+function TennisIcon() {
+  return (
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <circle cx="12" cy="10" r="7" />
+      <path d="M5.3 7C7.4 9.5 7.4 12.5 5.3 15" />
+      <path d="M18.7 5C16.6 7.5 16.6 12.5 18.7 15" />
+      <path d="M5 10h14" />
+      <path d="M14 17l4 5" />
+      <path d="M15.5 18.5l3-3" />
+    </svg>
+  );
+}
+
+function OlympicsIcon() {
+  return (
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <circle cx="5.5" cy="9" r="3.2" />
+      <circle cx="12" cy="9" r="3.2" />
+      <circle cx="18.5" cy="9" r="3.2" />
+      <circle cx="8.75" cy="13" r="3.2" />
+      <circle cx="15.25" cy="13" r="3.2" />
+    </svg>
+  );
+}
+
+function WinterIcon() {
+  return (
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M12 2v20" />
+      <path d="M2 12h20" />
+      <path d="M4.93 4.93l14.14 14.14" />
+      <path d="M19.07 4.93L4.93 19.07" />
+      <path d="M12 5l-2 2 2 2 2-2-2-2z" />
+      <path d="M12 15l-2 2 2 2 2-2-2-2z" />
+      <path d="M5 12l2-2 2 2-2 2-2-2z" />
+      <path d="M15 12l2-2 2 2-2 2-2-2z" />
+    </svg>
+  );
+}
+
+function getTournamentIcon(id: string): (() => React.JSX.Element) | null {
+  const map: Record<string, () => React.JSX.Element> = {
+    "march-madness-2026": BasketballIcon,
+    "march-madness-women-2026": BasketballIcon,
+    "nba-playoffs-2026": BasketballIcon,
+    "f1-2026": F1Icon,
+    "nhl-2025-26": HockeyIcon,
+    "ucl-2025-26": FootballIcon,
+    "wc2026": FootballIcon,
+    "mlb-2026": BaseballIcon,
+    "tennis-slams-2026": TennisIcon,
+    "oly-winter-2026": WinterIcon,
+    "oly2028": OlympicsIcon,
+  };
+  return map[id] || null;
+}
+
 /* ─── Subscriber count (seeded + daily growth) ─── */
 
 function getSubscriberCount(): string {
@@ -815,22 +932,32 @@ function ScheduleApp() {
                 const dateRange = startMonth === endMonth.split(" ")[0]
                   ? endMonth
                   : `${startMonth} – ${endMonth}`;
+                const IconComponent = getTournamentIcon(t.id);
                 return (
                   <button
                     key={t.id}
                     onClick={() => handleTournamentSelect(t.id)}
                     className={`card-interactive p-5 sm:p-6 text-left group animate-in stagger-${Math.min(idx + 1, 8)}`}
                   >
-                    <div
-                      className="font-bold text-base sm:text-lg group-hover:text-accent transition-colors leading-tight"
-                      style={{ fontFamily: "var(--font-heading), system-ui, sans-serif" }}
-                    >
-                      {t.shortName}
-                    </div>
-                    <div className="text-xs sm:text-sm text-muted mt-1.5 flex items-center gap-2">
-                      <span>{t.location}</span>
-                      <span className="text-border">·</span>
-                      <span>{dateRange}</span>
+                    <div className="flex items-start justify-between gap-3">
+                      <div className="min-w-0 flex-1">
+                        <div
+                          className="font-bold text-base sm:text-lg group-hover:text-accent transition-colors leading-tight"
+                          style={{ fontFamily: "var(--font-heading), system-ui, sans-serif" }}
+                        >
+                          {t.shortName}
+                        </div>
+                        <div className="text-xs sm:text-sm text-muted mt-1.5 flex items-center gap-2">
+                          <span>{t.location}</span>
+                          <span className="text-border">·</span>
+                          <span>{dateRange}</span>
+                        </div>
+                      </div>
+                      {IconComponent && (
+                        <div className="text-muted opacity-40 group-hover:text-accent group-hover:opacity-70 transition-all shrink-0">
+                          <IconComponent />
+                        </div>
+                      )}
                     </div>
                     <div className="mt-3 flex flex-wrap gap-1.5">
                       {t.sports.slice(0, 4).map((s) => (
