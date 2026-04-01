@@ -173,9 +173,7 @@ function getTournamentIcon(id: string): (() => React.JSX.Element) | null {
     "ucl-2025-26": FootballIcon,
     "wc2026": FootballIcon,
     "mlb-2026": BaseballIcon,
-    "tennis-slams-2026": TennisIcon,
     "oly-winter-2026": WinterIcon,
-    "oly2028": OlympicsIcon,
   };
   return map[id] || null;
 }
@@ -369,24 +367,12 @@ const TOURNAMENT_SUGGESTIONS: Record<
     { tournamentId: "nba-playoffs-2026", label: "NBA 2025-26", description: "Follow the pros too" },
   ],
   "f1-2026": [
-    { tournamentId: "oly2028", label: "LA 2028 Olympics", description: "The next Summer Games" },
+    { tournamentId: "nba-playoffs-2026", label: "NBA 2025-26", description: "Basketball season is live" },
     { tournamentId: "wc2026", label: "World Cup 2026", description: "Summer soccer spectacle" },
   ],
   "wc2026": [
     { tournamentId: "ucl-2025-26", label: "Champions League", description: "Club football at its best" },
-    { tournamentId: "oly2028", label: "LA 2028 Olympics", description: "Coming soon" },
-  ],
-  "oly-winter-2026": [
-    { tournamentId: "oly2028", label: "LA 2028 Olympics", description: "The next Summer Games" },
-    { tournamentId: "wc2026", label: "World Cup 2026", description: "Summer soccer spectacle" },
-  ],
-  "tennis-slams-2026": [
-    { tournamentId: "wc2026", label: "World Cup 2026", description: "Summer soccer spectacle" },
-    { tournamentId: "oly2028", label: "LA 2028 Olympics", description: "Coming soon" },
-  ],
-  "oly2028": [
-    { tournamentId: "wc2026", label: "World Cup 2026", description: "Before the games begin" },
-    { tournamentId: "oly-winter-2026", label: "Milano Cortina 2026", description: "Winter sports action" },
+    { tournamentId: "nba-playoffs-2026", label: "NBA 2025-26", description: "Basketball season is live" },
   ],
 };
 
@@ -1748,7 +1734,6 @@ function ScheduleApp() {
                 {[
                   { href: "/f1", label: "Formula 1" },
                   { href: "/march-madness", label: "March Madness" },
-                  { href: "/olympics-2028", label: "Olympics 2028" },
                 ].map(l => <li key={l.href}><Link href={l.href} className="hover:text-foreground transition-colors">{l.label}</Link></li>)}
               </ul>
             </div>

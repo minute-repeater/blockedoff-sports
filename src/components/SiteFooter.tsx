@@ -8,7 +8,6 @@ const sportLinks = [
   { href: "/mlb", label: "MLB" },
   { href: "/f1", label: "Formula 1" },
   { href: "/march-madness", label: "March Madness" },
-  { href: "/olympics-2028", label: "Olympics 2028" },
 ];
 
 const siteLinks = [

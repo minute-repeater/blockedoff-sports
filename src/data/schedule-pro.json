@@ -227,7 +227,7 @@
         "formGuide": "USA: WWLLD | IRN: DLWWL",
         "bettingLine": "IRN PK, O/U 3.5",
         "injuryReport": [
-          "Player (IRN) — hamstring — Questionable"
+          "Player (IRN) \u2014 hamstring \u2014 Questionable"
         ]
       },
       "lineupNotes": [
@@ -323,7 +323,7 @@
         "formGuide": "MEX: WLWDW | ARG: WWLLW",
         "bettingLine": "ARG -1.0, O/U 2.0",
         "injuryReport": [
-          "Player (ARG) — calf — Probable"
+          "Player (ARG) \u2014 calf \u2014 Probable"
         ]
       },
       "lineupNotes": [
@@ -419,7 +419,7 @@
         "formGuide": "BRA: WLWDL | DEU: WDWLD",
         "bettingLine": "BRA -1.0, O/U 3.0",
         "injuryReport": [
-          "Player (BRA) — hamstring — Questionable"
+          "Player (BRA) \u2014 hamstring \u2014 Questionable"
         ]
       },
       "lineupNotes": [
@@ -479,8 +479,8 @@
         "formGuide": "CAN: WWWWL | USA: LWLDW",
         "bettingLine": "USA +0.5, O/U 2.0",
         "injuryReport": [
-          "Player (IRN) — shoulder — Out",
-          "Player (BEL) — concussion protocol — Questionable"
+          "Player (IRN) \u2014 shoulder \u2014 Out",
+          "Player (BEL) \u2014 concussion protocol \u2014 Questionable"
         ]
       },
       "lineupNotes": [
@@ -720,12 +720,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "SVK",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "FIN",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -782,12 +782,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "SWE",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "ITA",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -844,12 +844,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "CHE",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "FRA",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -911,12 +911,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "CAN",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CZE",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -973,12 +973,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "LVA",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -1035,12 +1035,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "DEU",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "DNK",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -1097,12 +1097,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "FIN",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "SWE",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -1159,12 +1159,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "SVK",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "ITA",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -1221,12 +1221,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "CZE",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "FRA",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -1288,12 +1288,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "CAN",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CHE",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -1350,12 +1350,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "SWE",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "SVK",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -1412,12 +1412,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "FIN",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "ITA",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -1474,12 +1474,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "LVA",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "DEU",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -1536,12 +1536,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "DNK",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -1598,12 +1598,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "CHE",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CZE",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -1660,12 +1660,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "CAN",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "FRA",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -1717,12 +1717,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "DNK",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "LVA",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -1784,12 +1784,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "DEU",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -1846,12 +1846,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "SVK",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "DEU",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -1908,12 +1908,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "CAN",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CZE",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -1970,12 +1970,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "FIN",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CHE",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -2032,12 +2032,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "SWE",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -2250,12 +2250,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -2312,12 +2312,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "CAN",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "FIN",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -2374,12 +2374,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CHE",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -2436,12 +2436,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "CAN",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CZE",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -2498,12 +2498,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "FIN",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -2560,12 +2560,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "CAN",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CHE",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -2622,12 +2622,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "FIN",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -2684,12 +2684,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "CAN",
-          "statLine": "Gold medal — ice-hockey"
+          "statLine": "Gold medal \u2014 ice-hockey"
         },
         {
           "player": "Athlete (Silver)",
           "country": "SWE",
-          "statLine": "Silver medal — ice-hockey"
+          "statLine": "Silver medal \u2014 ice-hockey"
         }
       ]
     }
@@ -2737,7 +2737,7 @@
     "sport": "figure-skating",
     "phase": "Team Event",
     "isKnockout": false,
-    "summary": "Figure Skating Team Event — Short Programs",
+    "summary": "Figure Skating Team Event \u2014 Short Programs",
     "countryCodesInvolved": [
       "USA",
       "CAN",
@@ -2797,17 +2797,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — figure-skating"
+          "statLine": "Gold medal \u2014 figure-skating"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — figure-skating"
+          "statLine": "Silver medal \u2014 figure-skating"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "JPN",
-          "statLine": "Bronze medal — figure-skating"
+          "statLine": "Bronze medal \u2014 figure-skating"
         }
       ]
     }
@@ -2818,7 +2818,7 @@
     "sport": "figure-skating",
     "phase": "Team Event",
     "isKnockout": false,
-    "summary": "Figure Skating Team Event — Free Skates",
+    "summary": "Figure Skating Team Event \u2014 Free Skates",
     "countryCodesInvolved": [
       "USA",
       "CAN",
@@ -2851,17 +2851,17 @@
       {
         "player": "Team Japan",
         "country": "JPN",
-        "stat": "Gold Medal — 125 pts total"
+        "stat": "Gold Medal \u2014 125 pts total"
       },
       {
         "player": "Team USA",
         "country": "USA",
-        "stat": "Silver Medal — 118 pts total"
+        "stat": "Silver Medal \u2014 118 pts total"
       },
       {
         "player": "Team Canada",
         "country": "CAN",
-        "stat": "Bronze Medal — 112 pts total"
+        "stat": "Bronze Medal \u2014 112 pts total"
       }
     ],
     "proData": {
@@ -2883,17 +2883,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — figure-skating"
+          "statLine": "Gold medal \u2014 figure-skating"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — figure-skating"
+          "statLine": "Silver medal \u2014 figure-skating"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "JPN",
-          "statLine": "Bronze medal — figure-skating"
+          "statLine": "Bronze medal \u2014 figure-skating"
         }
       ]
     }
@@ -2904,7 +2904,7 @@
     "sport": "figure-skating",
     "phase": "Men's Singles",
     "isKnockout": false,
-    "summary": "Men's Figure Skating — Short Program",
+    "summary": "Men's Figure Skating \u2014 Short Program",
     "countryCodesInvolved": [
       "USA",
       "CAN",
@@ -2937,12 +2937,12 @@
       {
         "player": "Ilia Malinin",
         "country": "USA",
-        "stat": "111.82 pts — 1st place"
+        "stat": "111.82 pts \u2014 1st place"
       },
       {
         "player": "Yuzuru Hanyu",
         "country": "JPN",
-        "stat": "108.14 pts — 2nd place"
+        "stat": "108.14 pts \u2014 2nd place"
       }
     ],
     "proData": {
@@ -2964,17 +2964,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — figure-skating"
+          "statLine": "Gold medal \u2014 figure-skating"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — figure-skating"
+          "statLine": "Silver medal \u2014 figure-skating"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "JPN",
-          "statLine": "Bronze medal — figure-skating"
+          "statLine": "Bronze medal \u2014 figure-skating"
         }
       ]
     }
@@ -2985,7 +2985,7 @@
     "sport": "figure-skating",
     "phase": "Men's Singles",
     "isKnockout": true,
-    "summary": "Men's Figure Skating — Free Skate (Medal Event)",
+    "summary": "Men's Figure Skating \u2014 Free Skate (Medal Event)",
     "countryCodesInvolved": [
       "USA",
       "CAN",
@@ -3018,17 +3018,17 @@
       {
         "player": "Ilia Malinin",
         "country": "USA",
-        "stat": "Gold Medal — 324.67 pts"
+        "stat": "Gold Medal \u2014 324.67 pts"
       },
       {
         "player": "Yuzuru Hanyu",
         "country": "JPN",
-        "stat": "Silver Medal — 312.45 pts"
+        "stat": "Silver Medal \u2014 312.45 pts"
       },
       {
         "player": "Yuma Kagiyama",
         "country": "JPN",
-        "stat": "Bronze Medal — 305.21 pts"
+        "stat": "Bronze Medal \u2014 305.21 pts"
       }
     ],
     "proData": {
@@ -3050,17 +3050,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — figure-skating"
+          "statLine": "Gold medal \u2014 figure-skating"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — figure-skating"
+          "statLine": "Silver medal \u2014 figure-skating"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "JPN",
-          "statLine": "Bronze medal — figure-skating"
+          "statLine": "Bronze medal \u2014 figure-skating"
         }
       ]
     }
@@ -3071,7 +3071,7 @@
     "sport": "figure-skating",
     "phase": "Ice Dance",
     "isKnockout": false,
-    "summary": "Ice Dance — Rhythm Dance",
+    "summary": "Ice Dance \u2014 Rhythm Dance",
     "countryCodesInvolved": [
       "USA",
       "CAN",
@@ -3104,12 +3104,12 @@
       {
         "player": "Chock / Bates",
         "country": "USA",
-        "stat": "90.14 pts — 1st place"
+        "stat": "90.14 pts \u2014 1st place"
       },
       {
         "player": "Guignard / Fabbri",
         "country": "ITA",
-        "stat": "87.62 pts — 2nd place"
+        "stat": "87.62 pts \u2014 2nd place"
       }
     ],
     "proData": {
@@ -3131,17 +3131,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — figure-skating"
+          "statLine": "Gold medal \u2014 figure-skating"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — figure-skating"
+          "statLine": "Silver medal \u2014 figure-skating"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "JPN",
-          "statLine": "Bronze medal — figure-skating"
+          "statLine": "Bronze medal \u2014 figure-skating"
         }
       ]
     }
@@ -3152,7 +3152,7 @@
     "sport": "figure-skating",
     "phase": "Ice Dance",
     "isKnockout": true,
-    "summary": "Ice Dance — Free Dance (Medal Event)",
+    "summary": "Ice Dance \u2014 Free Dance (Medal Event)",
     "countryCodesInvolved": [
       "USA",
       "CAN",
@@ -3185,17 +3185,17 @@
       {
         "player": "Chock / Bates",
         "country": "USA",
-        "stat": "Gold Medal — 226.41 pts"
+        "stat": "Gold Medal \u2014 226.41 pts"
       },
       {
         "player": "Guignard / Fabbri",
         "country": "ITA",
-        "stat": "Silver Medal — 221.88 pts"
+        "stat": "Silver Medal \u2014 221.88 pts"
       },
       {
         "player": "Fournier Beaudry / Sorensen",
         "country": "CAN",
-        "stat": "Bronze Medal — 215.34 pts"
+        "stat": "Bronze Medal \u2014 215.34 pts"
       }
     ],
     "proData": {
@@ -3217,17 +3217,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — figure-skating"
+          "statLine": "Gold medal \u2014 figure-skating"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — figure-skating"
+          "statLine": "Silver medal \u2014 figure-skating"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "JPN",
-          "statLine": "Bronze medal — figure-skating"
+          "statLine": "Bronze medal \u2014 figure-skating"
         }
       ]
     }
@@ -3238,7 +3238,7 @@
     "sport": "figure-skating",
     "phase": "Pairs",
     "isKnockout": false,
-    "summary": "Pairs Figure Skating — Short Program",
+    "summary": "Pairs Figure Skating \u2014 Short Program",
     "countryCodesInvolved": [
       "USA",
       "CAN",
@@ -3271,12 +3271,12 @@
       {
         "player": "Sui / Han",
         "country": "CHN",
-        "stat": "82.45 pts — 1st place"
+        "stat": "82.45 pts \u2014 1st place"
       },
       {
         "player": "Knierim / Frazier",
         "country": "USA",
-        "stat": "78.92 pts — 2nd place"
+        "stat": "78.92 pts \u2014 2nd place"
       }
     ],
     "proData": {
@@ -3298,17 +3298,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — figure-skating"
+          "statLine": "Gold medal \u2014 figure-skating"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — figure-skating"
+          "statLine": "Silver medal \u2014 figure-skating"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "JPN",
-          "statLine": "Bronze medal — figure-skating"
+          "statLine": "Bronze medal \u2014 figure-skating"
         }
       ]
     }
@@ -3319,7 +3319,7 @@
     "sport": "figure-skating",
     "phase": "Pairs",
     "isKnockout": true,
-    "summary": "Pairs Figure Skating — Free Skate (Medal Event)",
+    "summary": "Pairs Figure Skating \u2014 Free Skate (Medal Event)",
     "countryCodesInvolved": [
       "USA",
       "CAN",
@@ -3359,7 +3359,7 @@
     "sport": "figure-skating",
     "phase": "Women's Singles",
     "isKnockout": false,
-    "summary": "Women's Figure Skating — Short Program",
+    "summary": "Women's Figure Skating \u2014 Short Program",
     "countryCodesInvolved": [
       "USA",
       "CAN",
@@ -3392,17 +3392,17 @@
       {
         "player": "Kaori Sakamoto",
         "country": "JPN",
-        "stat": "80.32 pts — 1st place"
+        "stat": "80.32 pts \u2014 1st place"
       },
       {
         "player": "Kim Yuna",
         "country": "KOR",
-        "stat": "77.15 pts — 2nd place"
+        "stat": "77.15 pts \u2014 2nd place"
       },
       {
         "player": "Isabeau Levito",
         "country": "USA",
-        "stat": "75.88 pts — 3rd place"
+        "stat": "75.88 pts \u2014 3rd place"
       }
     ],
     "proData": {
@@ -3424,17 +3424,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — figure-skating"
+          "statLine": "Gold medal \u2014 figure-skating"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — figure-skating"
+          "statLine": "Silver medal \u2014 figure-skating"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "JPN",
-          "statLine": "Bronze medal — figure-skating"
+          "statLine": "Bronze medal \u2014 figure-skating"
         }
       ]
     }
@@ -3445,7 +3445,7 @@
     "sport": "figure-skating",
     "phase": "Women's Singles",
     "isKnockout": true,
-    "summary": "Women's Figure Skating — Free Skate (Medal Event)",
+    "summary": "Women's Figure Skating \u2014 Free Skate (Medal Event)",
     "countryCodesInvolved": [
       "USA",
       "CAN",
@@ -3518,17 +3518,17 @@
       {
         "player": "Vincent Kriechmayr",
         "country": "AUT",
-        "stat": "Gold — 1:42.35"
+        "stat": "Gold \u2014 1:42.35"
       },
       {
         "player": "Marco Odermatt",
         "country": "CHE",
-        "stat": "Silver — 1:42.67"
+        "stat": "Silver \u2014 1:42.67"
       },
       {
         "player": "Aleksander Aamodt Kilde",
         "country": "NOR",
-        "stat": "Bronze — 1:42.89"
+        "stat": "Bronze \u2014 1:42.89"
       }
     ],
     "proData": {
@@ -3550,17 +3550,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — alpine-skiing"
+          "statLine": "Gold medal \u2014 alpine-skiing"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — alpine-skiing"
+          "statLine": "Silver medal \u2014 alpine-skiing"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "AUT",
-          "statLine": "Bronze medal — alpine-skiing"
+          "statLine": "Bronze medal \u2014 alpine-skiing"
         }
       ]
     }
@@ -3604,17 +3604,17 @@
       {
         "player": "Lara Gut-Behrami",
         "country": "CHE",
-        "stat": "Gold — 1:33.12"
+        "stat": "Gold \u2014 1:33.12"
       },
       {
         "player": "Sofia Goggia",
         "country": "ITA",
-        "stat": "Silver — 1:33.45"
+        "stat": "Silver \u2014 1:33.45"
       },
       {
         "player": "Cornelia Huetter",
         "country": "AUT",
-        "stat": "Bronze — 1:33.78"
+        "stat": "Bronze \u2014 1:33.78"
       }
     ],
     "proData": {
@@ -3636,17 +3636,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — alpine-skiing"
+          "statLine": "Gold medal \u2014 alpine-skiing"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — alpine-skiing"
+          "statLine": "Silver medal \u2014 alpine-skiing"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "AUT",
-          "statLine": "Bronze medal — alpine-skiing"
+          "statLine": "Bronze medal \u2014 alpine-skiing"
         }
       ]
     }
@@ -3722,17 +3722,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — alpine-skiing"
+          "statLine": "Gold medal \u2014 alpine-skiing"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — alpine-skiing"
+          "statLine": "Silver medal \u2014 alpine-skiing"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "AUT",
-          "statLine": "Bronze medal — alpine-skiing"
+          "statLine": "Bronze medal \u2014 alpine-skiing"
         }
       ]
     }
@@ -3776,17 +3776,17 @@
       {
         "player": "Mikaela Shiffrin",
         "country": "USA",
-        "stat": "Gold Medal — 2:24.15"
+        "stat": "Gold Medal \u2014 2:24.15"
       },
       {
         "player": "Wendy Holdener",
         "country": "CHE",
-        "stat": "Silver Medal — 2:24.78"
+        "stat": "Silver Medal \u2014 2:24.78"
       },
       {
         "player": "Cornelia Huetter",
         "country": "AUT",
-        "stat": "Bronze Medal — 2:25.12"
+        "stat": "Bronze Medal \u2014 2:25.12"
       }
     ],
     "proData": {
@@ -3808,17 +3808,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — alpine-skiing"
+          "statLine": "Gold medal \u2014 alpine-skiing"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — alpine-skiing"
+          "statLine": "Silver medal \u2014 alpine-skiing"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "AUT",
-          "statLine": "Bronze medal — alpine-skiing"
+          "statLine": "Bronze medal \u2014 alpine-skiing"
         }
       ]
     }
@@ -3862,17 +3862,17 @@
       {
         "player": "Marco Odermatt",
         "country": "CHE",
-        "stat": "Gold — 1:24.67"
+        "stat": "Gold \u2014 1:24.67"
       },
       {
         "player": "Vincent Kriechmayr",
         "country": "AUT",
-        "stat": "Silver — 1:24.98"
+        "stat": "Silver \u2014 1:24.98"
       },
       {
         "player": "Aleksander Aamodt Kilde",
         "country": "NOR",
-        "stat": "Bronze — 1:25.12"
+        "stat": "Bronze \u2014 1:25.12"
       }
     ],
     "proData": {
@@ -3894,17 +3894,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — alpine-skiing"
+          "statLine": "Gold medal \u2014 alpine-skiing"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — alpine-skiing"
+          "statLine": "Silver medal \u2014 alpine-skiing"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "AUT",
-          "statLine": "Bronze medal — alpine-skiing"
+          "statLine": "Bronze medal \u2014 alpine-skiing"
         }
       ]
     }
@@ -3948,17 +3948,17 @@
       {
         "player": "Sofia Goggia",
         "country": "ITA",
-        "stat": "Gold — 1:18.45"
+        "stat": "Gold \u2014 1:18.45"
       },
       {
         "player": "Lara Gut-Behrami",
         "country": "CHE",
-        "stat": "Silver — 1:18.72"
+        "stat": "Silver \u2014 1:18.72"
       },
       {
         "player": "Mikaela Shiffrin",
         "country": "USA",
-        "stat": "Bronze — 1:18.98"
+        "stat": "Bronze \u2014 1:18.98"
       }
     ],
     "proData": {
@@ -3980,17 +3980,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — alpine-skiing"
+          "statLine": "Gold medal \u2014 alpine-skiing"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — alpine-skiing"
+          "statLine": "Silver medal \u2014 alpine-skiing"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "AUT",
-          "statLine": "Bronze medal — alpine-skiing"
+          "statLine": "Bronze medal \u2014 alpine-skiing"
         }
       ]
     }
@@ -4034,12 +4034,12 @@
       {
         "player": "Marco Odermatt",
         "country": "CHE",
-        "stat": "Gold — 2:18.45"
+        "stat": "Gold \u2014 2:18.45"
       },
       {
         "player": "Henrik Kristoffersen",
         "country": "NOR",
-        "stat": "Silver — 2:18.89"
+        "stat": "Silver \u2014 2:18.89"
       }
     ],
     "proData": {
@@ -4061,17 +4061,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — alpine-skiing"
+          "statLine": "Gold medal \u2014 alpine-skiing"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — alpine-skiing"
+          "statLine": "Silver medal \u2014 alpine-skiing"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "AUT",
-          "statLine": "Bronze medal — alpine-skiing"
+          "statLine": "Bronze medal \u2014 alpine-skiing"
         }
       ]
     }
@@ -4115,12 +4115,12 @@
       {
         "player": "Mikaela Shiffrin",
         "country": "USA",
-        "stat": "Gold — 2:10.33"
+        "stat": "Gold \u2014 2:10.33"
       },
       {
         "player": "Ragnhild Mowinckel",
         "country": "NOR",
-        "stat": "Silver — 2:10.87"
+        "stat": "Silver \u2014 2:10.87"
       }
     ],
     "proData": {
@@ -4142,17 +4142,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — alpine-skiing"
+          "statLine": "Gold medal \u2014 alpine-skiing"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — alpine-skiing"
+          "statLine": "Silver medal \u2014 alpine-skiing"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "AUT",
-          "statLine": "Bronze medal — alpine-skiing"
+          "statLine": "Bronze medal \u2014 alpine-skiing"
         }
       ]
     }
@@ -4196,17 +4196,17 @@
       {
         "player": "Henrik Kristoffersen",
         "country": "NOR",
-        "stat": "Gold — 1:44.21"
+        "stat": "Gold \u2014 1:44.21"
       },
       {
         "player": "Manuel Feller",
         "country": "AUT",
-        "stat": "Silver — 1:44.56"
+        "stat": "Silver \u2014 1:44.56"
       },
       {
         "player": "Clement Noel",
         "country": "FRA",
-        "stat": "Bronze — 1:44.89"
+        "stat": "Bronze \u2014 1:44.89"
       }
     ],
     "proData": {
@@ -4228,17 +4228,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — alpine-skiing"
+          "statLine": "Gold medal \u2014 alpine-skiing"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — alpine-skiing"
+          "statLine": "Silver medal \u2014 alpine-skiing"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "AUT",
-          "statLine": "Bronze medal — alpine-skiing"
+          "statLine": "Bronze medal \u2014 alpine-skiing"
         }
       ]
     }
@@ -4282,17 +4282,17 @@
       {
         "player": "Mikaela Shiffrin",
         "country": "USA",
-        "stat": "Gold — 1:38.45"
+        "stat": "Gold \u2014 1:38.45"
       },
       {
         "player": "Katharina Liensberger",
         "country": "AUT",
-        "stat": "Silver — 1:38.92"
+        "stat": "Silver \u2014 1:38.92"
       },
       {
         "player": "Anna Swenn Larsson",
         "country": "SWE",
-        "stat": "Bronze — 1:39.15"
+        "stat": "Bronze \u2014 1:39.15"
       }
     ],
     "proData": {
@@ -4314,17 +4314,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — alpine-skiing"
+          "statLine": "Gold medal \u2014 alpine-skiing"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — alpine-skiing"
+          "statLine": "Silver medal \u2014 alpine-skiing"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "AUT",
-          "statLine": "Bronze medal — alpine-skiing"
+          "statLine": "Bronze medal \u2014 alpine-skiing"
         }
       ]
     }
@@ -4370,12 +4370,12 @@
       {
         "player": "A. Constantini / A. Retornaz",
         "country": "ITA",
-        "stat": "8-1 Record — 1st in standings"
+        "stat": "8-1 Record \u2014 1st in standings"
       },
       {
         "player": "K. Nergaard / M. Svanemyr",
         "country": "NOR",
-        "stat": "7-2 Record — 2nd in standings"
+        "stat": "7-2 Record \u2014 2nd in standings"
       }
     ],
     "proData": {
@@ -4397,17 +4397,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "CAN",
-          "statLine": "Gold medal — curling"
+          "statLine": "Gold medal \u2014 curling"
         },
         {
           "player": "Athlete (Silver)",
           "country": "USA",
-          "statLine": "Silver medal — curling"
+          "statLine": "Silver medal \u2014 curling"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "CHE",
-          "statLine": "Bronze medal — curling"
+          "statLine": "Bronze medal \u2014 curling"
         }
       ]
     }
@@ -4453,7 +4453,7 @@
       {
         "player": "A. Constantini / A. Retornaz",
         "country": "ITA",
-        "stat": "Gold Medal — 8-5 victory"
+        "stat": "Gold Medal \u2014 8-5 victory"
       },
       {
         "player": "K. Nergaard / M. Svanemyr",
@@ -4463,7 +4463,7 @@
       {
         "player": "R. Homan / J. Morris",
         "country": "CAN",
-        "stat": "Bronze Medal — 7-5 victory"
+        "stat": "Bronze Medal \u2014 7-5 victory"
       }
     ],
     "proData": {
@@ -4485,17 +4485,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "CAN",
-          "statLine": "Gold medal — curling"
+          "statLine": "Gold medal \u2014 curling"
         },
         {
           "player": "Athlete (Silver)",
           "country": "USA",
-          "statLine": "Silver medal — curling"
+          "statLine": "Silver medal \u2014 curling"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "CHE",
-          "statLine": "Bronze medal — curling"
+          "statLine": "Bronze medal \u2014 curling"
         }
       ]
     }
@@ -4547,12 +4547,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "CAN",
-          "statLine": "Gold medal — curling"
+          "statLine": "Gold medal \u2014 curling"
         },
         {
           "player": "Athlete (Silver)",
           "country": "DNK",
-          "statLine": "Silver medal — curling"
+          "statLine": "Silver medal \u2014 curling"
         }
       ]
     }
@@ -4604,12 +4604,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — curling"
+          "statLine": "Gold medal \u2014 curling"
         },
         {
           "player": "Athlete (Silver)",
           "country": "KOR",
-          "statLine": "Silver medal — curling"
+          "statLine": "Silver medal \u2014 curling"
         }
       ]
     }
@@ -4666,12 +4666,12 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — curling"
+          "statLine": "Gold medal \u2014 curling"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — curling"
+          "statLine": "Silver medal \u2014 curling"
         }
       ]
     }
@@ -4794,17 +4794,17 @@
       {
         "player": "Irene Schouten",
         "country": "NLD",
-        "stat": "Gold — 3:56.21"
+        "stat": "Gold \u2014 3:56.21"
       },
       {
         "player": "Ragne Wiklund",
         "country": "NOR",
-        "stat": "Silver — 3:57.45"
+        "stat": "Silver \u2014 3:57.45"
       },
       {
         "player": "Miho Takagi",
         "country": "JPN",
-        "stat": "Bronze — 3:58.12"
+        "stat": "Bronze \u2014 3:58.12"
       }
     ],
     "proData": {
@@ -4826,17 +4826,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — speed-skating"
+          "statLine": "Gold medal \u2014 speed-skating"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — speed-skating"
+          "statLine": "Silver medal \u2014 speed-skating"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "NLD",
-          "statLine": "Bronze medal — speed-skating"
+          "statLine": "Bronze medal \u2014 speed-skating"
         }
       ]
     }
@@ -4878,17 +4878,17 @@
       {
         "player": "Patrick Roest",
         "country": "NLD",
-        "stat": "Gold — 6:09.78"
+        "stat": "Gold \u2014 6:09.78"
       },
       {
         "player": "Hallgeir Engebraaten",
         "country": "NOR",
-        "stat": "Silver — 6:10.34"
+        "stat": "Silver \u2014 6:10.34"
       },
       {
         "player": "Nils van der Poel",
         "country": "SWE",
-        "stat": "Bronze — 6:11.02"
+        "stat": "Bronze \u2014 6:11.02"
       }
     ],
     "proData": {
@@ -4910,17 +4910,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — speed-skating"
+          "statLine": "Gold medal \u2014 speed-skating"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — speed-skating"
+          "statLine": "Silver medal \u2014 speed-skating"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "NLD",
-          "statLine": "Bronze medal — speed-skating"
+          "statLine": "Bronze medal \u2014 speed-skating"
         }
       ]
     }
@@ -4962,17 +4962,17 @@
       {
         "player": "Miho Takagi",
         "country": "JPN",
-        "stat": "Gold — 36.89s"
+        "stat": "Gold \u2014 36.89s"
       },
       {
         "player": "Erin Jackson",
         "country": "USA",
-        "stat": "Silver — 37.02s"
+        "stat": "Silver \u2014 37.02s"
       },
       {
         "player": "Jutta Leerdam",
         "country": "NLD",
-        "stat": "Bronze — 37.15s"
+        "stat": "Bronze \u2014 37.15s"
       }
     ],
     "proData": {
@@ -4994,17 +4994,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — speed-skating"
+          "statLine": "Gold medal \u2014 speed-skating"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — speed-skating"
+          "statLine": "Silver medal \u2014 speed-skating"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "NLD",
-          "statLine": "Bronze medal — speed-skating"
+          "statLine": "Bronze medal \u2014 speed-skating"
         }
       ]
     }
@@ -5126,17 +5126,17 @@
       {
         "player": "Mikael Kingsbury",
         "country": "CAN",
-        "stat": "Gold — 82.45 pts"
+        "stat": "Gold \u2014 82.45 pts"
       },
       {
         "player": "Ikuma Horishima",
         "country": "JPN",
-        "stat": "Silver — 80.12 pts"
+        "stat": "Silver \u2014 80.12 pts"
       },
       {
         "player": "Benjamin Cavet",
         "country": "FRA",
-        "stat": "Bronze — 78.56 pts"
+        "stat": "Bronze \u2014 78.56 pts"
       }
     ],
     "proData": {
@@ -5158,17 +5158,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — freestyle-skiing"
+          "statLine": "Gold medal \u2014 freestyle-skiing"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — freestyle-skiing"
+          "statLine": "Silver medal \u2014 freestyle-skiing"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "FRA",
-          "statLine": "Bronze medal — freestyle-skiing"
+          "statLine": "Bronze medal \u2014 freestyle-skiing"
         }
       ]
     }
@@ -5212,17 +5212,17 @@
       {
         "player": "Jakara Anthony",
         "country": "AUS",
-        "stat": "Gold — 83.21 pts"
+        "stat": "Gold \u2014 83.21 pts"
       },
       {
         "player": "Jaelin Kauf",
         "country": "USA",
-        "stat": "Silver — 81.45 pts"
+        "stat": "Silver \u2014 81.45 pts"
       },
       {
         "player": "Anri Kawamura",
         "country": "JPN",
-        "stat": "Bronze — 79.88 pts"
+        "stat": "Bronze \u2014 79.88 pts"
       }
     ],
     "proData": {
@@ -5244,17 +5244,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — freestyle-skiing"
+          "statLine": "Gold medal \u2014 freestyle-skiing"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — freestyle-skiing"
+          "statLine": "Silver medal \u2014 freestyle-skiing"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "FRA",
-          "statLine": "Bronze medal — freestyle-skiing"
+          "statLine": "Bronze medal \u2014 freestyle-skiing"
         }
       ]
     }
@@ -5378,17 +5378,17 @@
       {
         "player": "Mark McMorris",
         "country": "CAN",
-        "stat": "Gold — 92.50 pts"
+        "stat": "Gold \u2014 92.50 pts"
       },
       {
         "player": "Ruki Tobita",
         "country": "JPN",
-        "stat": "Silver — 89.75 pts"
+        "stat": "Silver \u2014 89.75 pts"
       },
       {
         "player": "Dusty Henricksen",
         "country": "USA",
-        "stat": "Bronze — 87.25 pts"
+        "stat": "Bronze \u2014 87.25 pts"
       }
     ],
     "proData": {
@@ -5410,17 +5410,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — snowboard"
+          "statLine": "Gold medal \u2014 snowboard"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — snowboard"
+          "statLine": "Silver medal \u2014 snowboard"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "JPN",
-          "statLine": "Bronze medal — snowboard"
+          "statLine": "Bronze medal \u2014 snowboard"
         }
       ]
     }
@@ -5464,17 +5464,17 @@
       {
         "player": "Tess Coady",
         "country": "NOR",
-        "stat": "Gold — 88.12 pts"
+        "stat": "Gold \u2014 88.12 pts"
       },
       {
         "player": "Kokomo Murase",
         "country": "JPN",
-        "stat": "Silver — 86.50 pts"
+        "stat": "Silver \u2014 86.50 pts"
       },
       {
         "player": "Julia Marino",
         "country": "USA",
-        "stat": "Bronze — 84.75 pts"
+        "stat": "Bronze \u2014 84.75 pts"
       }
     ],
     "proData": {
@@ -5496,17 +5496,17 @@
         {
           "player": "Athlete (Gold)",
           "country": "USA",
-          "statLine": "Gold medal — snowboard"
+          "statLine": "Gold medal \u2014 snowboard"
         },
         {
           "player": "Athlete (Silver)",
           "country": "CAN",
-          "statLine": "Silver medal — snowboard"
+          "statLine": "Silver medal \u2014 snowboard"
         },
         {
           "player": "Athlete (Bronze)",
           "country": "JPN",
-          "statLine": "Bronze medal — snowboard"
+          "statLine": "Bronze medal \u2014 snowboard"
         }
       ]
     }
@@ -5573,329 +5573,6 @@
     "durationMinutes": 90,
     "venue": "Livigno Snow Park",
     "city": "Livigno",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "NBC / Peacock"
-        },
-        {
-          "country": "CA",
-          "channel": "CBC"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Eurosport"
-        }
-      ]
-    }
-  },
-  {
-    "id": "oly2028-soc-can-aus",
-    "tournamentId": "oly2028",
-    "sport": "soccer",
-    "phase": "Group Stage",
-    "isKnockout": false,
-    "summary": "Canada vs. Australia",
-    "countryCodesInvolved": [
-      "CAN",
-      "AUS"
-    ],
-    "dateUTC": "2028-07-15",
-    "timeTBD": true,
-    "durationMinutes": 120,
-    "venue": "Rose Bowl",
-    "city": "Pasadena",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "NBC / Peacock"
-        },
-        {
-          "country": "CA",
-          "channel": "CBC"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Eurosport"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "CAN leads 2-0-0 in last 2 meetings",
-        "formGuide": "CAN: DWWWW | AUS: LWLWW",
-        "bettingLine": "AUS -0.5, O/U 1.5",
-        "injuryReport": [
-          "Player (CAN) — groin — Day-to-day"
-        ]
-      },
-      "lineupNotes": [
-        "CAN: Expected 4-3-3",
-        "AUS: Expected 3-4-3"
-      ]
-    }
-  },
-  {
-    "id": "oly2028-soc-usa-fra",
-    "tournamentId": "oly2028",
-    "sport": "soccer",
-    "phase": "Group Stage",
-    "isKnockout": false,
-    "summary": "USA vs. France",
-    "countryCodesInvolved": [
-      "USA",
-      "FRA"
-    ],
-    "dateUTC": "2028-07-16T01:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "SoFi Stadium",
-    "city": "Los Angeles",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "NBC / Peacock"
-        },
-        {
-          "country": "CA",
-          "channel": "CBC"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Eurosport"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "USA leads 2-0-0 in last 2 meetings",
-        "formGuide": "USA: WLWLD | FRA: WLWDW",
-        "bettingLine": "Draw -1.0, O/U 3.0",
-        "injuryReport": []
-      },
-      "lineupNotes": [
-        "USA: Expected 3-5-2",
-        "FRA: Expected 4-2-3-1"
-      ]
-    }
-  },
-  {
-    "id": "oly2028-bball-usa-esp",
-    "tournamentId": "oly2028",
-    "sport": "basketball",
-    "phase": "Group Stage",
-    "isKnockout": false,
-    "summary": "USA vs. Spain",
-    "countryCodesInvolved": [
-      "USA",
-      "ESP"
-    ],
-    "dateUTC": "2028-07-17T19:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 150,
-    "venue": "Crypto.com Arena",
-    "city": "Los Angeles",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "NBC / Peacock"
-        },
-        {
-          "country": "CA",
-          "channel": "CBC"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Eurosport"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Season series: USA 2-1 ESP",
-        "bettingLine": "ESP -2.8, O/U 229.5",
-        "injuryReport": []
-      },
-      "lineupNotes": [
-        "USA: Standard starting five expected",
-        "ESP: Standard starting five expected"
-      ]
-    }
-  },
-  {
-    "id": "oly2028-bball-can-srb",
-    "tournamentId": "oly2028",
-    "sport": "basketball",
-    "phase": "Group Stage",
-    "isKnockout": false,
-    "summary": "Canada vs. Serbia",
-    "countryCodesInvolved": [
-      "CAN",
-      "SRB"
-    ],
-    "dateUTC": "2028-07-18",
-    "timeTBD": true,
-    "durationMinutes": 150,
-    "venue": "Crypto.com Arena",
-    "city": "Los Angeles",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "NBC / Peacock"
-        },
-        {
-          "country": "CA",
-          "channel": "CBC"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Eurosport"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Season series: CAN 1-2 SRB",
-        "bettingLine": "CAN -1.3, O/U 209.2",
-        "injuryReport": [
-          "Player (SRB) — knee — Doubtful",
-          "Player (CAN) — ankle — Day-to-day"
-        ]
-      },
-      "lineupNotes": [
-        "CAN: Standard starting five expected",
-        "SRB: Standard starting five expected"
-      ]
-    }
-  },
-  {
-    "id": "oly2028-swim-100m-free",
-    "tournamentId": "oly2028",
-    "sport": "swimming",
-    "phase": "Final",
-    "isKnockout": true,
-    "summary": "100m Freestyle Final",
-    "countryCodesInvolved": [
-      "USA",
-      "CAN",
-      "AUS",
-      "GBR",
-      "FRA",
-      "BRA",
-      "JPN",
-      "DEU"
-    ],
-    "dateUTC": "2028-07-20T03:30:00Z",
-    "timeTBD": false,
-    "durationMinutes": 30,
-    "venue": "LA Aquatics Center",
-    "city": "Los Angeles",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "NBC / Peacock"
-        },
-        {
-          "country": "CA",
-          "channel": "CBC"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Eurosport"
-        }
-      ]
-    }
-  },
-  {
-    "id": "oly2028-swim-200m-fly",
-    "tournamentId": "oly2028",
-    "sport": "swimming",
-    "phase": "Final",
-    "isKnockout": true,
-    "summary": "200m Butterfly Final",
-    "countryCodesInvolved": [
-      "USA",
-      "CAN",
-      "AUS",
-      "GBR",
-      "FRA",
-      "BRA",
-      "JPN",
-      "DEU"
-    ],
-    "dateUTC": "2028-07-22",
-    "timeTBD": true,
-    "durationMinutes": 30,
-    "venue": "LA Aquatics Center",
-    "city": "Los Angeles",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "NBC / Peacock"
-        },
-        {
-          "country": "CA",
-          "channel": "CBC"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Eurosport"
-        }
-      ]
-    }
-  },
-  {
-    "id": "oly2028-ath-100m",
-    "tournamentId": "oly2028",
-    "sport": "athletics",
-    "phase": "Final",
-    "isKnockout": true,
-    "summary": "100m Sprint Final",
-    "countryCodesInvolved": [
-      "USA",
-      "CAN",
-      "GBR",
-      "JPN",
-      "BRA",
-      "FRA"
-    ],
-    "dateUTC": "2028-07-25T02:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 30,
-    "venue": "LA Memorial Coliseum",
-    "city": "Los Angeles",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "NBC / Peacock"
-        },
-        {
-          "country": "CA",
-          "channel": "CBC"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Eurosport"
-        }
-      ]
-    }
-  },
-  {
-    "id": "oly2028-vball-usa-bra",
-    "tournamentId": "oly2028",
-    "sport": "volleyball",
-    "phase": "Group Stage",
-    "isKnockout": false,
-    "summary": "USA vs. Brazil",
-    "countryCodesInvolved": [
-      "USA",
-      "BRA"
-    ],
-    "dateUTC": "2028-07-19T22:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 150,
-    "venue": "Galen Center",
-    "city": "Los Angeles",
     "proData": {
       "broadcasts": [
         {
@@ -6819,7 +6496,7 @@
     "sport": "formula-1",
     "phase": "Round 21",
     "isKnockout": false,
-    "summary": "São Paulo Grand Prix",
+    "summary": "S\u00e3o Paulo Grand Prix",
     "countryCodesInvolved": [
       "RBR",
       "FER",
@@ -6836,7 +6513,7 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Autodromo Jose Carlos Pace",
-    "city": "São Paulo",
+    "city": "S\u00e3o Paulo",
     "proData": {
       "broadcasts": [
         {
@@ -7610,8 +7287,8 @@
         "formGuide": "LIV: WWWDL | INT: DLLWW",
         "bettingLine": "Draw -1.0, O/U 1.5",
         "injuryReport": [
-          "Player (INT) — hamstring — Questionable",
-          "Player (INT) — hamstring — Questionable"
+          "Player (INT) \u2014 hamstring \u2014 Questionable",
+          "Player (INT) \u2014 hamstring \u2014 Questionable"
         ]
       },
       "lineupNotes": [
@@ -7656,8 +7333,8 @@
         "formGuide": "BAR: LDWWW | BVB: LWLDD",
         "bettingLine": "Draw -0.5, O/U 3.5",
         "injuryReport": [
-          "Player (BAR) — concussion protocol — Questionable",
-          "Player (BAR) — ankle — Day-to-day"
+          "Player (BAR) \u2014 concussion protocol \u2014 Questionable",
+          "Player (BAR) \u2014 ankle \u2014 Day-to-day"
         ]
       },
       "lineupNotes": [
@@ -7831,7 +7508,7 @@
         "formGuide": "ACM: WWWLD | ATA: DLWDW",
         "bettingLine": "Draw PK, O/U 2.5",
         "injuryReport": [
-          "Player (ACM) — ankle — Day-to-day"
+          "Player (ACM) \u2014 ankle \u2014 Day-to-day"
         ]
       },
       "lineupNotes": [
@@ -7876,7 +7553,7 @@
         "formGuide": "INT: LDWLW | LIV: WLWLD",
         "bettingLine": "LIV -0.5, O/U 2.5",
         "injuryReport": [
-          "Player (LIV) — calf — Probable"
+          "Player (LIV) \u2014 calf \u2014 Probable"
         ]
       },
       "lineupNotes": [
@@ -8093,7 +7770,7 @@
         "formGuide": "ATA: WWWLD | ACM: WWWDW",
         "bettingLine": "ATA -1.0, O/U 3.5",
         "injuryReport": [
-          "Player (ACM) — hamstring — Questionable"
+          "Player (ACM) \u2014 hamstring \u2014 Questionable"
         ]
       },
       "lineupNotes": [
@@ -8407,7 +8084,7 @@
         "h2hRecord": "Season series: NYK 2-0 BOS",
         "bettingLine": "NYK -11.9, O/U 202.2",
         "injuryReport": [
-          "Player (NYK) — shoulder — Out"
+          "Player (NYK) \u2014 shoulder \u2014 Out"
         ]
       },
       "lineupNotes": [
@@ -8462,7 +8139,7 @@
     "id": "nba-rs-xmas-1",
     "tournamentId": "nba-playoffs-2026",
     "sport": "basketball",
-    "phase": "Regular Season — Christmas",
+    "phase": "Regular Season \u2014 Christmas",
     "isKnockout": false,
     "summary": "Celtics vs. Lakers",
     "countryCodesInvolved": [
@@ -8495,7 +8172,7 @@
     "id": "nba-rs-xmas-2",
     "tournamentId": "nba-playoffs-2026",
     "sport": "basketball",
-    "phase": "Regular Season — Christmas",
+    "phase": "Regular Season \u2014 Christmas",
     "isKnockout": false,
     "summary": "Knicks vs. 76ers",
     "countryCodesInvolved": [
@@ -8528,7 +8205,7 @@
     "id": "nba-rs-xmas-3",
     "tournamentId": "nba-playoffs-2026",
     "sport": "basketball",
-    "phase": "Regular Season — Christmas",
+    "phase": "Regular Season \u2014 Christmas",
     "isKnockout": false,
     "summary": "Warriors vs. Mavericks",
     "countryCodesInvolved": [
@@ -8561,7 +8238,7 @@
     "id": "nba-rs-xmas-4",
     "tournamentId": "nba-playoffs-2026",
     "sport": "basketball",
-    "phase": "Regular Season — Christmas",
+    "phase": "Regular Season \u2014 Christmas",
     "isKnockout": false,
     "summary": "Thunder vs. Nuggets",
     "countryCodesInvolved": [
@@ -8594,7 +8271,7 @@
     "id": "nba-rs-xmas-5",
     "tournamentId": "nba-playoffs-2026",
     "sport": "basketball",
-    "phase": "Regular Season — Christmas",
+    "phase": "Regular Season \u2014 Christmas",
     "isKnockout": false,
     "summary": "Suns vs. Bucks",
     "countryCodesInvolved": [
@@ -9089,7 +8766,7 @@
     "id": "nba-rs-mlk",
     "tournamentId": "nba-playoffs-2026",
     "sport": "basketball",
-    "phase": "Regular Season — MLK Day",
+    "phase": "Regular Season \u2014 MLK Day",
     "isKnockout": false,
     "summary": "Lakers vs. Celtics",
     "countryCodesInvolved": [
@@ -9225,7 +8902,7 @@
         "h2hRecord": "Season series: NYK 0-2 IND",
         "bettingLine": "IND -3.3, O/U 200.8",
         "injuryReport": [
-          "Player (NYK) — shoulder — Out"
+          "Player (NYK) \u2014 shoulder \u2014 Out"
         ]
       },
       "lineupNotes": [
@@ -9269,8 +8946,8 @@
         "h2hRecord": "Season series: MIL 1-2 CLE",
         "bettingLine": "CLE -2.4, O/U 224.8",
         "injuryReport": [
-          "Player (CLE) — calf — Probable",
-          "Player (CLE) — shoulder — Out"
+          "Player (CLE) \u2014 calf \u2014 Probable",
+          "Player (CLE) \u2014 shoulder \u2014 Out"
         ]
       },
       "lineupNotes": [
@@ -9314,7 +8991,7 @@
         "h2hRecord": "Season series: PHI 1-1 ORL",
         "bettingLine": "PHI -7.1, O/U 215.2",
         "injuryReport": [
-          "Player (PHI) — ankle — Day-to-day"
+          "Player (PHI) \u2014 ankle \u2014 Day-to-day"
         ]
       },
       "lineupNotes": [
@@ -9442,8 +9119,8 @@
         "h2hRecord": "Season series: DAL 2-2 PHX",
         "bettingLine": "DAL -7.5, O/U 215.2",
         "injuryReport": [
-          "Player (DAL) — concussion protocol — Questionable",
-          "Player (DAL) — shoulder — Out"
+          "Player (DAL) \u2014 concussion protocol \u2014 Questionable",
+          "Player (DAL) \u2014 shoulder \u2014 Out"
         ]
       },
       "lineupNotes": [
@@ -9500,7 +9177,7 @@
     "sport": "basketball",
     "phase": "Conference Semifinals",
     "isKnockout": true,
-    "summary": "Eastern Semis — Series 1",
+    "summary": "Eastern Semis \u2014 Series 1",
     "countryCodesInvolved": [
       "BOS",
       "NYK"
@@ -9542,7 +9219,7 @@
     "sport": "basketball",
     "phase": "Conference Semifinals",
     "isKnockout": true,
-    "summary": "Eastern Semis — Series 2",
+    "summary": "Eastern Semis \u2014 Series 2",
     "countryCodesInvolved": [
       "MIL",
       "PHI"
@@ -9584,7 +9261,7 @@
     "sport": "basketball",
     "phase": "Conference Semifinals",
     "isKnockout": true,
-    "summary": "Western Semis — Series 1",
+    "summary": "Western Semis \u2014 Series 1",
     "countryCodesInvolved": [
       "OKC",
       "DEN"
@@ -9613,8 +9290,8 @@
         "h2hRecord": "Season series: OKC 1-2 DEN",
         "bettingLine": "DEN -2.2, O/U 224.2",
         "injuryReport": [
-          "Player (DEN) — knee — Doubtful",
-          "Player (OKC) — knee — Doubtful"
+          "Player (DEN) \u2014 knee \u2014 Doubtful",
+          "Player (OKC) \u2014 knee \u2014 Doubtful"
         ]
       },
       "lineupNotes": [
@@ -9629,7 +9306,7 @@
     "sport": "basketball",
     "phase": "Conference Semifinals",
     "isKnockout": true,
-    "summary": "Western Semis — Series 2",
+    "summary": "Western Semis \u2014 Series 2",
     "countryCodesInvolved": [
       "DAL",
       "LAL"
@@ -9700,7 +9377,7 @@
         "h2hRecord": "Season series: BOS 1-1 MIL",
         "bettingLine": "BOS -10.2, O/U 215.8",
         "injuryReport": [
-          "Player (BOS) — knee — Doubtful"
+          "Player (BOS) \u2014 knee \u2014 Doubtful"
         ]
       },
       "lineupNotes": [
@@ -9757,7 +9434,7 @@
     "sport": "basketball",
     "phase": "NBA Finals",
     "isKnockout": true,
-    "summary": "NBA Finals — Game 1",
+    "summary": "NBA Finals \u2014 Game 1",
     "countryCodesInvolved": [
       "BOS",
       "OKC"
@@ -9824,8 +9501,8 @@
         "h2hRecord": "Season series: DUKE 1-2 ISU",
         "bettingLine": "DUKE -2.7, O/U 209.2",
         "injuryReport": [
-          "Player (ISU) — shoulder — Out",
-          "Player (ISU) — concussion protocol — Questionable"
+          "Player (ISU) \u2014 shoulder \u2014 Out",
+          "Player (ISU) \u2014 concussion protocol \u2014 Questionable"
         ]
       },
       "lineupNotes": [
@@ -9941,7 +9618,7 @@
         "h2hRecord": "Season series: AUB 1-1 AZ",
         "bettingLine": "AUB -11.0, O/U 223.7",
         "injuryReport": [
-          "Player (AZ) — knee — Doubtful"
+          "Player (AZ) \u2014 knee \u2014 Doubtful"
         ]
       },
       "lineupNotes": [
@@ -9981,7 +9658,7 @@
         "h2hRecord": "Season series: KU 1-2 FLOR",
         "bettingLine": "KU -5.9, O/U 205.0",
         "injuryReport": [
-          "Player (FLOR) — concussion protocol — Questionable"
+          "Player (FLOR) \u2014 concussion protocol \u2014 Questionable"
         ]
       },
       "lineupNotes": [
@@ -10021,7 +9698,7 @@
         "h2hRecord": "Season series: GONZ 0-2 UK",
         "bettingLine": "GONZ -2.1, O/U 227.3",
         "injuryReport": [
-          "Player (UK) — groin — Day-to-day"
+          "Player (UK) \u2014 groin \u2014 Day-to-day"
         ]
       },
       "lineupNotes": [
@@ -10112,7 +9789,7 @@
     "sport": "basketball",
     "phase": "Elite Eight",
     "isKnockout": true,
-    "summary": "Elite Eight — West",
+    "summary": "Elite Eight \u2014 West",
     "countryCodesInvolved": [
       "DUKE",
       "HOU"
@@ -10137,7 +9814,7 @@
         "h2hRecord": "Season series: DUKE 2-1 HOU",
         "bettingLine": "HOU -10.7, O/U 205.5",
         "injuryReport": [
-          "Player (HOU) — ankle — Day-to-day"
+          "Player (HOU) \u2014 ankle \u2014 Day-to-day"
         ]
       },
       "lineupNotes": [
@@ -10152,7 +9829,7 @@
     "sport": "basketball",
     "phase": "Elite Eight",
     "isKnockout": true,
-    "summary": "Elite Eight — East",
+    "summary": "Elite Eight \u2014 East",
     "countryCodesInvolved": [
       "CONN",
       "AUB"
@@ -10177,7 +9854,7 @@
         "h2hRecord": "Season series: CONN 2-2 AUB",
         "bettingLine": "AUB -11.8, O/U 224.8",
         "injuryReport": [
-          "Player (AUB) — groin — Day-to-day"
+          "Player (AUB) \u2014 groin \u2014 Day-to-day"
         ]
       },
       "lineupNotes": [
@@ -10192,7 +9869,7 @@
     "sport": "basketball",
     "phase": "Elite Eight",
     "isKnockout": true,
-    "summary": "Elite Eight — Midwest",
+    "summary": "Elite Eight \u2014 Midwest",
     "countryCodesInvolved": [
       "KU",
       "GONZ"
@@ -10217,7 +9894,7 @@
         "h2hRecord": "Season series: KU 2-0 GONZ",
         "bettingLine": "GONZ -10.7, O/U 213.2",
         "injuryReport": [
-          "Player (KU) — shoulder — Out"
+          "Player (KU) \u2014 shoulder \u2014 Out"
         ]
       },
       "lineupNotes": [
@@ -10232,7 +9909,7 @@
     "sport": "basketball",
     "phase": "Elite Eight",
     "isKnockout": true,
-    "summary": "Elite Eight — South",
+    "summary": "Elite Eight \u2014 South",
     "countryCodesInvolved": [
       "PUR",
       "TENN"
@@ -10257,7 +9934,7 @@
         "h2hRecord": "Season series: PUR 1-1 TENN",
         "bettingLine": "PUR -7.5, O/U 205.9",
         "injuryReport": [
-          "Player (PUR) — hamstring — Questionable"
+          "Player (PUR) \u2014 hamstring \u2014 Questionable"
         ]
       },
       "lineupNotes": [
@@ -10272,7 +9949,7 @@
     "sport": "basketball",
     "phase": "Final Four",
     "isKnockout": true,
-    "summary": "Final Four — Game 1",
+    "summary": "Final Four \u2014 Game 1",
     "countryCodesInvolved": [
       "DUKE",
       "CONN"
@@ -10297,8 +9974,8 @@
         "h2hRecord": "Season series: DUKE 0-1 CONN",
         "bettingLine": "CONN -10.9, O/U 228.4",
         "injuryReport": [
-          "Player (DUKE) — shoulder — Out",
-          "Player (CONN) — knee — Doubtful"
+          "Player (DUKE) \u2014 shoulder \u2014 Out",
+          "Player (CONN) \u2014 knee \u2014 Doubtful"
         ]
       },
       "lineupNotes": [
@@ -10313,7 +9990,7 @@
     "sport": "basketball",
     "phase": "Final Four",
     "isKnockout": true,
-    "summary": "Final Four — Game 2",
+    "summary": "Final Four \u2014 Game 2",
     "countryCodesInvolved": [
       "KU",
       "PUR"
@@ -10376,933 +10053,13 @@
         "h2hRecord": "Season series: DUKE 0-2 KU",
         "bettingLine": "KU -11.7, O/U 202.0",
         "injuryReport": [
-          "Player (DUKE) — groin — Day-to-day",
-          "Player (DUKE) — groin — Day-to-day"
+          "Player (DUKE) \u2014 groin \u2014 Day-to-day",
+          "Player (DUKE) \u2014 groin \u2014 Day-to-day"
         ]
       },
       "lineupNotes": [
         "DUKE: Standard starting five expected",
         "KU: Standard starting five expected"
-      ]
-    }
-  },
-  {
-    "id": "tennis-ao-msf-1",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Australian Open — Men's Semifinal",
-    "isKnockout": true,
-    "summary": "Sinner vs. Djokovic",
-    "countryCodesInvolved": [
-      "SIN",
-      "DJO"
-    ],
-    "dateUTC": "2026-01-29T09:30:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Rod Laver Arena",
-    "city": "Melbourne",
-    "score": "6-3, 6-7, 6-4",
-    "result": {
-      "SIN": "W",
-      "DJO": "L"
-    },
-    "playerStats": [
-      {
-        "player": "Jannik Sinner",
-        "country": "ITA",
-        "stat": "14 Aces, 42 Winners"
-      }
-    ],
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ],
-      "detailedBoxScore": [
-        {
-          "player": "SIN",
-          "country": "SIN",
-          "statLine": "4 aces, 0 DF, 31 winners, 28 UE, 69% 1st serve"
-        },
-        {
-          "player": "DJO",
-          "country": "DJO",
-          "statLine": "3 aces, 4 DF, 26 winners, 28 UE, 69% 1st serve"
-        }
-      ]
-    }
-  },
-  {
-    "id": "tennis-ao-msf-2",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Australian Open — Men's Semifinal",
-    "isKnockout": true,
-    "summary": "Alcaraz vs. Zverev",
-    "countryCodesInvolved": [
-      "ALC",
-      "ZVE"
-    ],
-    "dateUTC": "2026-01-29T04:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Rod Laver Arena",
-    "city": "Melbourne",
-    "score": "7-5, 6-4",
-    "result": {
-      "ALC": "W",
-      "ZVE": "L"
-    },
-    "playerStats": [
-      {
-        "player": "Carlos Alcaraz",
-        "country": "ESP",
-        "stat": "10 Aces, 38 Winners"
-      }
-    ],
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ],
-      "detailedBoxScore": [
-        {
-          "player": "ALC",
-          "country": "ALC",
-          "statLine": "10 aces, 4 DF, 20 winners, 25 UE, 65% 1st serve"
-        },
-        {
-          "player": "ZVE",
-          "country": "ZVE",
-          "statLine": "10 aces, 5 DF, 28 winners, 15 UE, 58% 1st serve"
-        }
-      ]
-    }
-  },
-  {
-    "id": "tennis-ao-mf",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Australian Open — Men's Final",
-    "isKnockout": true,
-    "summary": "Sinner vs. Alcaraz",
-    "countryCodesInvolved": [
-      "SIN",
-      "ALC"
-    ],
-    "dateUTC": "2026-02-01T08:30:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Rod Laver Arena",
-    "city": "Melbourne",
-    "score": "7-6, 3-6, 6-4, 6-3",
-    "result": {
-      "SIN": "W",
-      "ALC": "L"
-    },
-    "playerStats": [
-      {
-        "player": "Jannik Sinner",
-        "country": "ITA",
-        "stat": "18 Aces, 51 Winners"
-      },
-      {
-        "player": "Carlos Alcaraz",
-        "country": "ESP",
-        "stat": "12 Aces, 45 Winners"
-      }
-    ],
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ],
-      "detailedBoxScore": [
-        {
-          "player": "SIN",
-          "country": "SIN",
-          "statLine": "9 aces, 5 DF, 15 winners, 27 UE, 65% 1st serve"
-        },
-        {
-          "player": "ALC",
-          "country": "ALC",
-          "statLine": "12 aces, 2 DF, 31 winners, 24 UE, 68% 1st serve"
-        }
-      ]
-    }
-  },
-  {
-    "id": "tennis-ao-wsf-1",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Australian Open — Women's Semifinal",
-    "isKnockout": true,
-    "summary": "Swiatek vs. Gauff",
-    "countryCodesInvolved": [
-      "SWI",
-      "GAU"
-    ],
-    "dateUTC": "2026-01-28T09:30:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Rod Laver Arena",
-    "city": "Melbourne",
-    "score": "6-3, 7-5",
-    "result": {
-      "SWI": "W",
-      "GAU": "L"
-    },
-    "playerStats": [
-      {
-        "player": "Iga Swiatek",
-        "country": "POL",
-        "stat": "5 Aces, 22 Winners"
-      }
-    ],
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ],
-      "detailedBoxScore": [
-        {
-          "player": "SWI",
-          "country": "SWI",
-          "statLine": "12 aces, 4 DF, 44 winners, 26 UE, 55% 1st serve"
-        },
-        {
-          "player": "GAU",
-          "country": "GAU",
-          "statLine": "6 aces, 2 DF, 26 winners, 25 UE, 65% 1st serve"
-        }
-      ]
-    }
-  },
-  {
-    "id": "tennis-ao-wsf-2",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Australian Open — Women's Semifinal",
-    "isKnockout": true,
-    "summary": "Zheng vs. Keys",
-    "countryCodesInvolved": [
-      "ZHE",
-      "KEY"
-    ],
-    "dateUTC": "2026-01-28T04:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Rod Laver Arena",
-    "city": "Melbourne",
-    "score": "3-6, 6-4, 6-3",
-    "result": {
-      "ZHE": "L",
-      "KEY": "W"
-    },
-    "playerStats": [
-      {
-        "player": "Madison Keys",
-        "country": "USA",
-        "stat": "8 Aces, 30 Winners"
-      }
-    ],
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ],
-      "detailedBoxScore": [
-        {
-          "player": "ZHE",
-          "country": "ZHE",
-          "statLine": "7 aces, 5 DF, 43 winners, 10 UE, 60% 1st serve"
-        },
-        {
-          "player": "KEY",
-          "country": "KEY",
-          "statLine": "2 aces, 1 DF, 15 winners, 25 UE, 55% 1st serve"
-        }
-      ]
-    }
-  },
-  {
-    "id": "tennis-ao-wf",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Australian Open — Women's Final",
-    "isKnockout": true,
-    "summary": "Swiatek vs. Keys",
-    "countryCodesInvolved": [
-      "SWI",
-      "KEY"
-    ],
-    "dateUTC": "2026-01-31T08:30:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Rod Laver Arena",
-    "city": "Melbourne",
-    "score": "6-4, 7-5",
-    "result": {
-      "SWI": "W",
-      "KEY": "L"
-    },
-    "playerStats": [
-      {
-        "player": "Iga Swiatek",
-        "country": "POL",
-        "stat": "4 Aces, 25 Winners"
-      },
-      {
-        "player": "Madison Keys",
-        "country": "USA",
-        "stat": "6 Aces, 31 Winners"
-      }
-    ],
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ],
-      "detailedBoxScore": [
-        {
-          "player": "SWI",
-          "country": "SWI",
-          "statLine": "5 aces, 5 DF, 43 winners, 34 UE, 67% 1st serve"
-        },
-        {
-          "player": "KEY",
-          "country": "KEY",
-          "statLine": "14 aces, 0 DF, 48 winners, 19 UE, 59% 1st serve"
-        }
-      ]
-    }
-  },
-  {
-    "id": "tennis-rg-msf-1",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "French Open — Men's SF",
-    "isKnockout": true,
-    "summary": "Alcaraz vs. Djokovic",
-    "countryCodesInvolved": [
-      "ALC",
-      "DJO"
-    ],
-    "dateUTC": "2026-06-05T11:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Court Philippe-Chatrier",
-    "city": "Paris",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "H2H: ALC 0-2 DJO",
-        "bettingLine": "DJO -1.5 sets"
-      }
-    }
-  },
-  {
-    "id": "tennis-rg-msf-2",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "French Open — Men's SF",
-    "isKnockout": true,
-    "summary": "Sinner vs. Ruud",
-    "countryCodesInvolved": [
-      "SIN",
-      "RUU"
-    ],
-    "dateUTC": "2026-06-05T15:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Court Philippe-Chatrier",
-    "city": "Paris",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "H2H: SIN 2-0 RUU",
-        "bettingLine": "RUU -3.5 sets"
-      }
-    }
-  },
-  {
-    "id": "tennis-rg-mf",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "French Open — Men's Final",
-    "isKnockout": true,
-    "summary": "Men's Final",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-06-07T13:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Court Philippe-Chatrier",
-    "city": "Paris",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ]
-    }
-  },
-  {
-    "id": "tennis-rg-wsf-1",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "French Open — Women's SF",
-    "isKnockout": true,
-    "summary": "Swiatek vs. Gauff",
-    "countryCodesInvolved": [
-      "SWI",
-      "GAU"
-    ],
-    "dateUTC": "2026-06-04T11:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Court Philippe-Chatrier",
-    "city": "Paris",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "H2H: SWI 3-2 GAU",
-        "bettingLine": "SWI -2.5 sets"
-      }
-    }
-  },
-  {
-    "id": "tennis-rg-wsf-2",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "French Open — Women's SF",
-    "isKnockout": true,
-    "summary": "Zheng vs. Pegula",
-    "countryCodesInvolved": [
-      "ZHE",
-      "PEG"
-    ],
-    "dateUTC": "2026-06-04T15:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Court Philippe-Chatrier",
-    "city": "Paris",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "H2H: ZHE 0-6 PEG",
-        "bettingLine": "PEG -1.5 sets"
-      }
-    }
-  },
-  {
-    "id": "tennis-rg-wf",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "French Open — Women's Final",
-    "isKnockout": true,
-    "summary": "Women's Final",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-06-06T13:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Court Philippe-Chatrier",
-    "city": "Paris",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ]
-    }
-  },
-  {
-    "id": "tennis-wim-msf-1",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Wimbledon — Men's SF",
-    "isKnockout": true,
-    "summary": "Men's Semifinal 1",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-10T12:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Centre Court",
-    "city": "London",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ]
-    }
-  },
-  {
-    "id": "tennis-wim-msf-2",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Wimbledon — Men's SF",
-    "isKnockout": true,
-    "summary": "Men's Semifinal 2",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-10T16:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Centre Court",
-    "city": "London",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ]
-    }
-  },
-  {
-    "id": "tennis-wim-mf",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Wimbledon — Men's Final",
-    "isKnockout": true,
-    "summary": "Men's Final",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-12T13:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Centre Court",
-    "city": "London",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ]
-    }
-  },
-  {
-    "id": "tennis-wim-wsf-1",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Wimbledon — Women's SF",
-    "isKnockout": true,
-    "summary": "Women's Semifinal 1",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-09T12:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Centre Court",
-    "city": "London",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ]
-    }
-  },
-  {
-    "id": "tennis-wim-wsf-2",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Wimbledon — Women's SF",
-    "isKnockout": true,
-    "summary": "Women's Semifinal 2",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-09T16:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Centre Court",
-    "city": "London",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ]
-    }
-  },
-  {
-    "id": "tennis-wim-wf",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Wimbledon — Women's Final",
-    "isKnockout": true,
-    "summary": "Women's Final",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-11T13:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Centre Court",
-    "city": "London",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ]
-    }
-  },
-  {
-    "id": "tennis-uso-msf-1",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "US Open — Men's SF",
-    "isKnockout": true,
-    "summary": "Men's Semifinal 1",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-09-11T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Arthur Ashe Stadium",
-    "city": "New York",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ]
-    }
-  },
-  {
-    "id": "tennis-uso-msf-2",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "US Open — Men's SF",
-    "isKnockout": true,
-    "summary": "Men's Semifinal 2",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-09-11T22:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Arthur Ashe Stadium",
-    "city": "New York",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ]
-    }
-  },
-  {
-    "id": "tennis-uso-mf",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "US Open — Men's Final",
-    "isKnockout": true,
-    "summary": "Men's Final",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-09-13T20:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Arthur Ashe Stadium",
-    "city": "New York",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ]
-    }
-  },
-  {
-    "id": "tennis-uso-wsf-1",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "US Open — Women's SF",
-    "isKnockout": true,
-    "summary": "Women's Semifinal 1",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-09-10T19:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Arthur Ashe Stadium",
-    "city": "New York",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ]
-    }
-  },
-  {
-    "id": "tennis-uso-wsf-2",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "US Open — Women's SF",
-    "isKnockout": true,
-    "summary": "Women's Semifinal 2",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-09-10T22:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Arthur Ashe Stadium",
-    "city": "New York",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
-      ]
-    }
-  },
-  {
-    "id": "tennis-uso-wf",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "US Open — Women's Final",
-    "isKnockout": true,
-    "summary": "Women's Final",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-09-12T20:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Arthur Ashe Stadium",
-    "city": "New York",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "ESPN"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / Sky Sports"
-        }
       ]
     }
   }

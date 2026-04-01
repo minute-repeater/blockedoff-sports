@@ -66,7 +66,7 @@ const faqJsonLd = {
       "@type": "Answer",
       text:
         faq.answer === "SPORTS_LIST"
-          ? "We currently cover the NBA, NHL, MLB, Formula 1, FIFA World Cup 2026, March Madness, and the LA 2028 Olympics. More sports are added regularly."
+          ? "We currently cover the NBA, NHL, MLB, Formula 1, FIFA World Cup 2026, UEFA Champions League, and March Madness. More sports are added regularly."
           : faq.answer,
     },
   })),
@@ -134,11 +134,6 @@ export default function FaqPage() {
                     <li>
                       <Link href="/march-madness" className="text-accent hover:underline">
                         March Madness
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/olympics-2028" className="text-accent hover:underline">
-                        LA 2028 Olympics
                       </Link>
                     </li>
                   </ul>

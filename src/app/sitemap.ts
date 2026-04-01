@@ -13,7 +13,6 @@ const tournamentToHub: Record<string, string> = {
   "f1-2026": "f1",
   "march-madness-2026": "march-madness",
   "march-madness-women-2026": "march-madness",
-  "oly2028": "olympics-2028",
 };
 
 export default function sitemap(): MetadataRoute.Sitemap {

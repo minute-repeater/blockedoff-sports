@@ -21,7 +21,6 @@ const sports = [
   { href: "/mlb", label: "MLB" },
   { href: "/f1", label: "Formula 1" },
   { href: "/march-madness", label: "March Madness" },
-  { href: "/olympics-2028", label: "LA 2028 Olympics" },
 ];
 
 const howToJsonLd = {
@@ -140,6 +139,11 @@ export default function HowItWorksPage() {
                 <span>The webcal:// link opens Apple Calendar directly. Tap <strong>&quot;Subscribe&quot;</strong> to confirm.</span>
               </li>
             </ol>
+          </div>
+          <div className="card p-4 sm:p-5 mb-4 border-l-4" style={{ borderLeftColor: "var(--accent)" }}>
+            <p className="text-sm text-muted leading-relaxed">
+              <strong className="text-foreground">Tip:</strong> On some devices, Apple Calendar may not immediately show the subscription prompt. If this happens, tap <strong>&quot;Find&quot;</strong> in the top-right corner of the dialog — this searches for the calendar feed and then gives you the option to subscribe.
+            </p>
           </div>
           <p className="text-sm text-muted mb-2">
             Apple Calendar refreshes subscriptions every few hours. On Mac, you can adjust the refresh interval in Calendar &gt; Preferences &gt; Accounts.

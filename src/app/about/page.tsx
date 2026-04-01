@@ -58,7 +58,7 @@ export default function AboutPage() {
               {
                 num: "1",
                 title: "Pick a tournament",
-                desc: `Choose from ${allTournaments.length} tournaments, including NBA, F1, World Cup, UEFA Champions League, Tennis Grand Slams, March Madness, and Olympics.`,
+                desc: `Choose from ${allTournaments.length} tournaments, including NBA, NHL, MLB, F1, World Cup, UEFA Champions League, and March Madness.`,
               },
               {
                 num: "2",

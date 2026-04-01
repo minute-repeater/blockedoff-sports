@@ -1418,7 +1418,7 @@
     "sport": "figure-skating",
     "phase": "Team Event",
     "isKnockout": false,
-    "summary": "Figure Skating Team Event — Short Programs",
+    "summary": "Figure Skating Team Event \u2014 Short Programs",
     "countryCodesInvolved": [
       "USA",
       "CAN",
@@ -1466,7 +1466,7 @@
     "sport": "figure-skating",
     "phase": "Team Event",
     "isKnockout": false,
-    "summary": "Figure Skating Team Event — Free Skates",
+    "summary": "Figure Skating Team Event \u2014 Free Skates",
     "countryCodesInvolved": [
       "USA",
       "CAN",
@@ -1499,17 +1499,17 @@
       {
         "player": "Team Japan",
         "country": "JPN",
-        "stat": "Gold Medal — 125 pts total"
+        "stat": "Gold Medal \u2014 125 pts total"
       },
       {
         "player": "Team USA",
         "country": "USA",
-        "stat": "Silver Medal — 118 pts total"
+        "stat": "Silver Medal \u2014 118 pts total"
       },
       {
         "player": "Team Canada",
         "country": "CAN",
-        "stat": "Bronze Medal — 112 pts total"
+        "stat": "Bronze Medal \u2014 112 pts total"
       }
     ]
   },
@@ -1519,7 +1519,7 @@
     "sport": "figure-skating",
     "phase": "Men's Singles",
     "isKnockout": false,
-    "summary": "Men's Figure Skating — Short Program",
+    "summary": "Men's Figure Skating \u2014 Short Program",
     "countryCodesInvolved": [
       "USA",
       "CAN",
@@ -1552,12 +1552,12 @@
       {
         "player": "Ilia Malinin",
         "country": "USA",
-        "stat": "111.82 pts — 1st place"
+        "stat": "111.82 pts \u2014 1st place"
       },
       {
         "player": "Yuzuru Hanyu",
         "country": "JPN",
-        "stat": "108.14 pts — 2nd place"
+        "stat": "108.14 pts \u2014 2nd place"
       }
     ]
   },
@@ -1567,7 +1567,7 @@
     "sport": "figure-skating",
     "phase": "Men's Singles",
     "isKnockout": true,
-    "summary": "Men's Figure Skating — Free Skate (Medal Event)",
+    "summary": "Men's Figure Skating \u2014 Free Skate (Medal Event)",
     "countryCodesInvolved": [
       "USA",
       "CAN",
@@ -1600,17 +1600,17 @@
       {
         "player": "Ilia Malinin",
         "country": "USA",
-        "stat": "Gold Medal — 324.67 pts"
+        "stat": "Gold Medal \u2014 324.67 pts"
       },
       {
         "player": "Yuzuru Hanyu",
         "country": "JPN",
-        "stat": "Silver Medal — 312.45 pts"
+        "stat": "Silver Medal \u2014 312.45 pts"
       },
       {
         "player": "Yuma Kagiyama",
         "country": "JPN",
-        "stat": "Bronze Medal — 305.21 pts"
+        "stat": "Bronze Medal \u2014 305.21 pts"
       }
     ]
   },
@@ -1620,7 +1620,7 @@
     "sport": "figure-skating",
     "phase": "Ice Dance",
     "isKnockout": false,
-    "summary": "Ice Dance — Rhythm Dance",
+    "summary": "Ice Dance \u2014 Rhythm Dance",
     "countryCodesInvolved": [
       "USA",
       "CAN",
@@ -1653,12 +1653,12 @@
       {
         "player": "Chock / Bates",
         "country": "USA",
-        "stat": "90.14 pts — 1st place"
+        "stat": "90.14 pts \u2014 1st place"
       },
       {
         "player": "Guignard / Fabbri",
         "country": "ITA",
-        "stat": "87.62 pts — 2nd place"
+        "stat": "87.62 pts \u2014 2nd place"
       }
     ]
   },
@@ -1668,7 +1668,7 @@
     "sport": "figure-skating",
     "phase": "Ice Dance",
     "isKnockout": true,
-    "summary": "Ice Dance — Free Dance (Medal Event)",
+    "summary": "Ice Dance \u2014 Free Dance (Medal Event)",
     "countryCodesInvolved": [
       "USA",
       "CAN",
@@ -1701,17 +1701,17 @@
       {
         "player": "Chock / Bates",
         "country": "USA",
-        "stat": "Gold Medal — 226.41 pts"
+        "stat": "Gold Medal \u2014 226.41 pts"
       },
       {
         "player": "Guignard / Fabbri",
         "country": "ITA",
-        "stat": "Silver Medal — 221.88 pts"
+        "stat": "Silver Medal \u2014 221.88 pts"
       },
       {
         "player": "Fournier Beaudry / Sorensen",
         "country": "CAN",
-        "stat": "Bronze Medal — 215.34 pts"
+        "stat": "Bronze Medal \u2014 215.34 pts"
       }
     ]
   },
@@ -1721,7 +1721,7 @@
     "sport": "figure-skating",
     "phase": "Pairs",
     "isKnockout": false,
-    "summary": "Pairs Figure Skating — Short Program",
+    "summary": "Pairs Figure Skating \u2014 Short Program",
     "countryCodesInvolved": [
       "USA",
       "CAN",
@@ -1754,12 +1754,12 @@
       {
         "player": "Sui / Han",
         "country": "CHN",
-        "stat": "82.45 pts — 1st place"
+        "stat": "82.45 pts \u2014 1st place"
       },
       {
         "player": "Knierim / Frazier",
         "country": "USA",
-        "stat": "78.92 pts — 2nd place"
+        "stat": "78.92 pts \u2014 2nd place"
       }
     ]
   },
@@ -1769,7 +1769,7 @@
     "sport": "figure-skating",
     "phase": "Pairs",
     "isKnockout": true,
-    "summary": "Pairs Figure Skating — Free Skate (Medal Event)",
+    "summary": "Pairs Figure Skating \u2014 Free Skate (Medal Event)",
     "countryCodesInvolved": [
       "USA",
       "CAN",
@@ -1793,7 +1793,7 @@
     "sport": "figure-skating",
     "phase": "Women's Singles",
     "isKnockout": false,
-    "summary": "Women's Figure Skating — Short Program",
+    "summary": "Women's Figure Skating \u2014 Short Program",
     "countryCodesInvolved": [
       "USA",
       "CAN",
@@ -1826,17 +1826,17 @@
       {
         "player": "Kaori Sakamoto",
         "country": "JPN",
-        "stat": "80.32 pts — 1st place"
+        "stat": "80.32 pts \u2014 1st place"
       },
       {
         "player": "Kim Yuna",
         "country": "KOR",
-        "stat": "77.15 pts — 2nd place"
+        "stat": "77.15 pts \u2014 2nd place"
       },
       {
         "player": "Isabeau Levito",
         "country": "USA",
-        "stat": "75.88 pts — 3rd place"
+        "stat": "75.88 pts \u2014 3rd place"
       }
     ]
   },
@@ -1846,7 +1846,7 @@
     "sport": "figure-skating",
     "phase": "Women's Singles",
     "isKnockout": true,
-    "summary": "Women's Figure Skating — Free Skate (Medal Event)",
+    "summary": "Women's Figure Skating \u2014 Free Skate (Medal Event)",
     "countryCodesInvolved": [
       "USA",
       "CAN",
@@ -1903,17 +1903,17 @@
       {
         "player": "Vincent Kriechmayr",
         "country": "AUT",
-        "stat": "Gold — 1:42.35"
+        "stat": "Gold \u2014 1:42.35"
       },
       {
         "player": "Marco Odermatt",
         "country": "CHE",
-        "stat": "Silver — 1:42.67"
+        "stat": "Silver \u2014 1:42.67"
       },
       {
         "player": "Aleksander Aamodt Kilde",
         "country": "NOR",
-        "stat": "Bronze — 1:42.89"
+        "stat": "Bronze \u2014 1:42.89"
       }
     ]
   },
@@ -1956,17 +1956,17 @@
       {
         "player": "Lara Gut-Behrami",
         "country": "CHE",
-        "stat": "Gold — 1:33.12"
+        "stat": "Gold \u2014 1:33.12"
       },
       {
         "player": "Sofia Goggia",
         "country": "ITA",
-        "stat": "Silver — 1:33.45"
+        "stat": "Silver \u2014 1:33.45"
       },
       {
         "player": "Cornelia Huetter",
         "country": "AUT",
-        "stat": "Bronze — 1:33.78"
+        "stat": "Bronze \u2014 1:33.78"
       }
     ]
   },
@@ -2062,17 +2062,17 @@
       {
         "player": "Mikaela Shiffrin",
         "country": "USA",
-        "stat": "Gold Medal — 2:24.15"
+        "stat": "Gold Medal \u2014 2:24.15"
       },
       {
         "player": "Wendy Holdener",
         "country": "CHE",
-        "stat": "Silver Medal — 2:24.78"
+        "stat": "Silver Medal \u2014 2:24.78"
       },
       {
         "player": "Cornelia Huetter",
         "country": "AUT",
-        "stat": "Bronze Medal — 2:25.12"
+        "stat": "Bronze Medal \u2014 2:25.12"
       }
     ]
   },
@@ -2115,17 +2115,17 @@
       {
         "player": "Marco Odermatt",
         "country": "CHE",
-        "stat": "Gold — 1:24.67"
+        "stat": "Gold \u2014 1:24.67"
       },
       {
         "player": "Vincent Kriechmayr",
         "country": "AUT",
-        "stat": "Silver — 1:24.98"
+        "stat": "Silver \u2014 1:24.98"
       },
       {
         "player": "Aleksander Aamodt Kilde",
         "country": "NOR",
-        "stat": "Bronze — 1:25.12"
+        "stat": "Bronze \u2014 1:25.12"
       }
     ]
   },
@@ -2168,17 +2168,17 @@
       {
         "player": "Sofia Goggia",
         "country": "ITA",
-        "stat": "Gold — 1:18.45"
+        "stat": "Gold \u2014 1:18.45"
       },
       {
         "player": "Lara Gut-Behrami",
         "country": "CHE",
-        "stat": "Silver — 1:18.72"
+        "stat": "Silver \u2014 1:18.72"
       },
       {
         "player": "Mikaela Shiffrin",
         "country": "USA",
-        "stat": "Bronze — 1:18.98"
+        "stat": "Bronze \u2014 1:18.98"
       }
     ]
   },
@@ -2221,12 +2221,12 @@
       {
         "player": "Marco Odermatt",
         "country": "CHE",
-        "stat": "Gold — 2:18.45"
+        "stat": "Gold \u2014 2:18.45"
       },
       {
         "player": "Henrik Kristoffersen",
         "country": "NOR",
-        "stat": "Silver — 2:18.89"
+        "stat": "Silver \u2014 2:18.89"
       }
     ]
   },
@@ -2269,12 +2269,12 @@
       {
         "player": "Mikaela Shiffrin",
         "country": "USA",
-        "stat": "Gold — 2:10.33"
+        "stat": "Gold \u2014 2:10.33"
       },
       {
         "player": "Ragnhild Mowinckel",
         "country": "NOR",
-        "stat": "Silver — 2:10.87"
+        "stat": "Silver \u2014 2:10.87"
       }
     ]
   },
@@ -2317,17 +2317,17 @@
       {
         "player": "Henrik Kristoffersen",
         "country": "NOR",
-        "stat": "Gold — 1:44.21"
+        "stat": "Gold \u2014 1:44.21"
       },
       {
         "player": "Manuel Feller",
         "country": "AUT",
-        "stat": "Silver — 1:44.56"
+        "stat": "Silver \u2014 1:44.56"
       },
       {
         "player": "Clement Noel",
         "country": "FRA",
-        "stat": "Bronze — 1:44.89"
+        "stat": "Bronze \u2014 1:44.89"
       }
     ]
   },
@@ -2370,17 +2370,17 @@
       {
         "player": "Mikaela Shiffrin",
         "country": "USA",
-        "stat": "Gold — 1:38.45"
+        "stat": "Gold \u2014 1:38.45"
       },
       {
         "player": "Katharina Liensberger",
         "country": "AUT",
-        "stat": "Silver — 1:38.92"
+        "stat": "Silver \u2014 1:38.92"
       },
       {
         "player": "Anna Swenn Larsson",
         "country": "SWE",
-        "stat": "Bronze — 1:39.15"
+        "stat": "Bronze \u2014 1:39.15"
       }
     ]
   },
@@ -2425,12 +2425,12 @@
       {
         "player": "A. Constantini / A. Retornaz",
         "country": "ITA",
-        "stat": "8-1 Record — 1st in standings"
+        "stat": "8-1 Record \u2014 1st in standings"
       },
       {
         "player": "K. Nergaard / M. Svanemyr",
         "country": "NOR",
-        "stat": "7-2 Record — 2nd in standings"
+        "stat": "7-2 Record \u2014 2nd in standings"
       }
     ]
   },
@@ -2475,7 +2475,7 @@
       {
         "player": "A. Constantini / A. Retornaz",
         "country": "ITA",
-        "stat": "Gold Medal — 8-5 victory"
+        "stat": "Gold Medal \u2014 8-5 victory"
       },
       {
         "player": "K. Nergaard / M. Svanemyr",
@@ -2485,7 +2485,7 @@
       {
         "player": "R. Homan / J. Morris",
         "country": "CAN",
-        "stat": "Bronze Medal — 7-5 victory"
+        "stat": "Bronze Medal \u2014 7-5 victory"
       }
     ]
   },
@@ -2667,17 +2667,17 @@
       {
         "player": "Irene Schouten",
         "country": "NLD",
-        "stat": "Gold — 3:56.21"
+        "stat": "Gold \u2014 3:56.21"
       },
       {
         "player": "Ragne Wiklund",
         "country": "NOR",
-        "stat": "Silver — 3:57.45"
+        "stat": "Silver \u2014 3:57.45"
       },
       {
         "player": "Miho Takagi",
         "country": "JPN",
-        "stat": "Bronze — 3:58.12"
+        "stat": "Bronze \u2014 3:58.12"
       }
     ]
   },
@@ -2718,17 +2718,17 @@
       {
         "player": "Patrick Roest",
         "country": "NLD",
-        "stat": "Gold — 6:09.78"
+        "stat": "Gold \u2014 6:09.78"
       },
       {
         "player": "Hallgeir Engebraaten",
         "country": "NOR",
-        "stat": "Silver — 6:10.34"
+        "stat": "Silver \u2014 6:10.34"
       },
       {
         "player": "Nils van der Poel",
         "country": "SWE",
-        "stat": "Bronze — 6:11.02"
+        "stat": "Bronze \u2014 6:11.02"
       }
     ]
   },
@@ -2769,17 +2769,17 @@
       {
         "player": "Miho Takagi",
         "country": "JPN",
-        "stat": "Gold — 36.89s"
+        "stat": "Gold \u2014 36.89s"
       },
       {
         "player": "Erin Jackson",
         "country": "USA",
-        "stat": "Silver — 37.02s"
+        "stat": "Silver \u2014 37.02s"
       },
       {
         "player": "Jutta Leerdam",
         "country": "NLD",
-        "stat": "Bronze — 37.15s"
+        "stat": "Bronze \u2014 37.15s"
       }
     ]
   },
@@ -2868,17 +2868,17 @@
       {
         "player": "Mikael Kingsbury",
         "country": "CAN",
-        "stat": "Gold — 82.45 pts"
+        "stat": "Gold \u2014 82.45 pts"
       },
       {
         "player": "Ikuma Horishima",
         "country": "JPN",
-        "stat": "Silver — 80.12 pts"
+        "stat": "Silver \u2014 80.12 pts"
       },
       {
         "player": "Benjamin Cavet",
         "country": "FRA",
-        "stat": "Bronze — 78.56 pts"
+        "stat": "Bronze \u2014 78.56 pts"
       }
     ]
   },
@@ -2921,17 +2921,17 @@
       {
         "player": "Jakara Anthony",
         "country": "AUS",
-        "stat": "Gold — 83.21 pts"
+        "stat": "Gold \u2014 83.21 pts"
       },
       {
         "player": "Jaelin Kauf",
         "country": "USA",
-        "stat": "Silver — 81.45 pts"
+        "stat": "Silver \u2014 81.45 pts"
       },
       {
         "player": "Anri Kawamura",
         "country": "JPN",
-        "stat": "Bronze — 79.88 pts"
+        "stat": "Bronze \u2014 79.88 pts"
       }
     ]
   },
@@ -3022,17 +3022,17 @@
       {
         "player": "Mark McMorris",
         "country": "CAN",
-        "stat": "Gold — 92.50 pts"
+        "stat": "Gold \u2014 92.50 pts"
       },
       {
         "player": "Ruki Tobita",
         "country": "JPN",
-        "stat": "Silver — 89.75 pts"
+        "stat": "Silver \u2014 89.75 pts"
       },
       {
         "player": "Dusty Henricksen",
         "country": "USA",
-        "stat": "Bronze — 87.25 pts"
+        "stat": "Bronze \u2014 87.25 pts"
       }
     ]
   },
@@ -3075,17 +3075,17 @@
       {
         "player": "Tess Coady",
         "country": "NOR",
-        "stat": "Gold — 88.12 pts"
+        "stat": "Gold \u2014 88.12 pts"
       },
       {
         "player": "Kokomo Murase",
         "country": "JPN",
-        "stat": "Silver — 86.50 pts"
+        "stat": "Silver \u2014 86.50 pts"
       },
       {
         "player": "Julia Marino",
         "country": "USA",
-        "stat": "Bronze — 84.75 pts"
+        "stat": "Bronze \u2014 84.75 pts"
       }
     ]
   },
@@ -3135,158 +3135,6 @@
     "durationMinutes": 90,
     "venue": "Livigno Snow Park",
     "city": "Livigno"
-  },
-  {
-    "id": "oly2028-soc-can-aus",
-    "tournamentId": "oly2028",
-    "sport": "soccer",
-    "phase": "Group Stage",
-    "isKnockout": false,
-    "summary": "Canada vs. Australia",
-    "countryCodesInvolved": [
-      "CAN",
-      "AUS"
-    ],
-    "dateUTC": "2028-07-15",
-    "timeTBD": true,
-    "durationMinutes": 120,
-    "venue": "Rose Bowl",
-    "city": "Pasadena"
-  },
-  {
-    "id": "oly2028-soc-usa-fra",
-    "tournamentId": "oly2028",
-    "sport": "soccer",
-    "phase": "Group Stage",
-    "isKnockout": false,
-    "summary": "USA vs. France",
-    "countryCodesInvolved": [
-      "USA",
-      "FRA"
-    ],
-    "dateUTC": "2028-07-16T01:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "SoFi Stadium",
-    "city": "Los Angeles"
-  },
-  {
-    "id": "oly2028-bball-usa-esp",
-    "tournamentId": "oly2028",
-    "sport": "basketball",
-    "phase": "Group Stage",
-    "isKnockout": false,
-    "summary": "USA vs. Spain",
-    "countryCodesInvolved": [
-      "USA",
-      "ESP"
-    ],
-    "dateUTC": "2028-07-17T19:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 150,
-    "venue": "Crypto.com Arena",
-    "city": "Los Angeles"
-  },
-  {
-    "id": "oly2028-bball-can-srb",
-    "tournamentId": "oly2028",
-    "sport": "basketball",
-    "phase": "Group Stage",
-    "isKnockout": false,
-    "summary": "Canada vs. Serbia",
-    "countryCodesInvolved": [
-      "CAN",
-      "SRB"
-    ],
-    "dateUTC": "2028-07-18",
-    "timeTBD": true,
-    "durationMinutes": 150,
-    "venue": "Crypto.com Arena",
-    "city": "Los Angeles"
-  },
-  {
-    "id": "oly2028-swim-100m-free",
-    "tournamentId": "oly2028",
-    "sport": "swimming",
-    "phase": "Final",
-    "isKnockout": true,
-    "summary": "100m Freestyle Final",
-    "countryCodesInvolved": [
-      "USA",
-      "CAN",
-      "AUS",
-      "GBR",
-      "FRA",
-      "BRA",
-      "JPN",
-      "DEU"
-    ],
-    "dateUTC": "2028-07-20T03:30:00Z",
-    "timeTBD": false,
-    "durationMinutes": 30,
-    "venue": "LA Aquatics Center",
-    "city": "Los Angeles"
-  },
-  {
-    "id": "oly2028-swim-200m-fly",
-    "tournamentId": "oly2028",
-    "sport": "swimming",
-    "phase": "Final",
-    "isKnockout": true,
-    "summary": "200m Butterfly Final",
-    "countryCodesInvolved": [
-      "USA",
-      "CAN",
-      "AUS",
-      "GBR",
-      "FRA",
-      "BRA",
-      "JPN",
-      "DEU"
-    ],
-    "dateUTC": "2028-07-22",
-    "timeTBD": true,
-    "durationMinutes": 30,
-    "venue": "LA Aquatics Center",
-    "city": "Los Angeles"
-  },
-  {
-    "id": "oly2028-ath-100m",
-    "tournamentId": "oly2028",
-    "sport": "athletics",
-    "phase": "Final",
-    "isKnockout": true,
-    "summary": "100m Sprint Final",
-    "countryCodesInvolved": [
-      "USA",
-      "CAN",
-      "GBR",
-      "JPN",
-      "BRA",
-      "FRA"
-    ],
-    "dateUTC": "2028-07-25T02:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 30,
-    "venue": "LA Memorial Coliseum",
-    "city": "Los Angeles"
-  },
-  {
-    "id": "oly2028-vball-usa-bra",
-    "tournamentId": "oly2028",
-    "sport": "volleyball",
-    "phase": "Group Stage",
-    "isKnockout": false,
-    "summary": "USA vs. Brazil",
-    "countryCodesInvolved": [
-      "USA",
-      "BRA"
-    ],
-    "dateUTC": "2028-07-19T22:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 150,
-    "venue": "Galen Center",
-    "city": "Los Angeles"
   },
   {
     "id": "f1-2026-r01",
@@ -3794,7 +3642,7 @@
     "sport": "formula-1",
     "phase": "Round 21",
     "isKnockout": false,
-    "summary": "São Paulo Grand Prix",
+    "summary": "S\u00e3o Paulo Grand Prix",
     "countryCodesInvolved": [
       "RBR",
       "FER",
@@ -3811,7 +3659,7 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Autodromo Jose Carlos Pace",
-    "city": "São Paulo"
+    "city": "S\u00e3o Paulo"
   },
   {
     "id": "f1-2026-r22",
@@ -4498,7 +4346,7 @@
     "id": "nba-rs-xmas-1",
     "tournamentId": "nba-playoffs-2026",
     "sport": "basketball",
-    "phase": "Regular Season — Christmas",
+    "phase": "Regular Season \u2014 Christmas",
     "isKnockout": false,
     "summary": "Celtics vs. Lakers",
     "countryCodesInvolved": [
@@ -4515,7 +4363,7 @@
     "id": "nba-rs-xmas-2",
     "tournamentId": "nba-playoffs-2026",
     "sport": "basketball",
-    "phase": "Regular Season — Christmas",
+    "phase": "Regular Season \u2014 Christmas",
     "isKnockout": false,
     "summary": "Knicks vs. 76ers",
     "countryCodesInvolved": [
@@ -4532,7 +4380,7 @@
     "id": "nba-rs-xmas-3",
     "tournamentId": "nba-playoffs-2026",
     "sport": "basketball",
-    "phase": "Regular Season — Christmas",
+    "phase": "Regular Season \u2014 Christmas",
     "isKnockout": false,
     "summary": "Warriors vs. Mavericks",
     "countryCodesInvolved": [
@@ -4549,7 +4397,7 @@
     "id": "nba-rs-xmas-4",
     "tournamentId": "nba-playoffs-2026",
     "sport": "basketball",
-    "phase": "Regular Season — Christmas",
+    "phase": "Regular Season \u2014 Christmas",
     "isKnockout": false,
     "summary": "Thunder vs. Nuggets",
     "countryCodesInvolved": [
@@ -4566,7 +4414,7 @@
     "id": "nba-rs-xmas-5",
     "tournamentId": "nba-playoffs-2026",
     "sport": "basketball",
-    "phase": "Regular Season — Christmas",
+    "phase": "Regular Season \u2014 Christmas",
     "isKnockout": false,
     "summary": "Suns vs. Bucks",
     "countryCodesInvolved": [
@@ -4821,7 +4669,7 @@
     "id": "nba-rs-mlk",
     "tournamentId": "nba-playoffs-2026",
     "sport": "basketball",
-    "phase": "Regular Season — MLK Day",
+    "phase": "Regular Season \u2014 MLK Day",
     "isKnockout": false,
     "summary": "Lakers vs. Celtics",
     "countryCodesInvolved": [
@@ -4990,7 +4838,7 @@
     "sport": "basketball",
     "phase": "Conference Semifinals",
     "isKnockout": true,
-    "summary": "Eastern Semis — Series 1",
+    "summary": "Eastern Semis \u2014 Series 1",
     "countryCodesInvolved": [
       "BOS",
       "NYK"
@@ -5007,7 +4855,7 @@
     "sport": "basketball",
     "phase": "Conference Semifinals",
     "isKnockout": true,
-    "summary": "Eastern Semis — Series 2",
+    "summary": "Eastern Semis \u2014 Series 2",
     "countryCodesInvolved": [
       "MIL",
       "PHI"
@@ -5024,7 +4872,7 @@
     "sport": "basketball",
     "phase": "Conference Semifinals",
     "isKnockout": true,
-    "summary": "Western Semis — Series 1",
+    "summary": "Western Semis \u2014 Series 1",
     "countryCodesInvolved": [
       "OKC",
       "DEN"
@@ -5041,7 +4889,7 @@
     "sport": "basketball",
     "phase": "Conference Semifinals",
     "isKnockout": true,
-    "summary": "Western Semis — Series 2",
+    "summary": "Western Semis \u2014 Series 2",
     "countryCodesInvolved": [
       "DAL",
       "LAL"
@@ -5092,7 +4940,7 @@
     "sport": "basketball",
     "phase": "NBA Finals",
     "isKnockout": true,
-    "summary": "NBA Finals — Game 1",
+    "summary": "NBA Finals \u2014 Game 1",
     "countryCodesInvolved": [
       "BOS",
       "OKC"
@@ -5245,7 +5093,7 @@
     "sport": "basketball",
     "phase": "Elite Eight",
     "isKnockout": true,
-    "summary": "Elite Eight — West",
+    "summary": "Elite Eight \u2014 West",
     "countryCodesInvolved": [
       "DUKE",
       "HOU"
@@ -5262,7 +5110,7 @@
     "sport": "basketball",
     "phase": "Elite Eight",
     "isKnockout": true,
-    "summary": "Elite Eight — East",
+    "summary": "Elite Eight \u2014 East",
     "countryCodesInvolved": [
       "CONN",
       "AUB"
@@ -5279,7 +5127,7 @@
     "sport": "basketball",
     "phase": "Elite Eight",
     "isKnockout": true,
-    "summary": "Elite Eight — Midwest",
+    "summary": "Elite Eight \u2014 Midwest",
     "countryCodesInvolved": [
       "KU",
       "GONZ"
@@ -5296,7 +5144,7 @@
     "sport": "basketball",
     "phase": "Elite Eight",
     "isKnockout": true,
-    "summary": "Elite Eight — South",
+    "summary": "Elite Eight \u2014 South",
     "countryCodesInvolved": [
       "PUR",
       "TENN"
@@ -5313,7 +5161,7 @@
     "sport": "basketball",
     "phase": "Final Four",
     "isKnockout": true,
-    "summary": "Final Four — Game 1",
+    "summary": "Final Four \u2014 Game 1",
     "countryCodesInvolved": [
       "DUKE",
       "CONN"
@@ -5330,7 +5178,7 @@
     "sport": "basketball",
     "phase": "Final Four",
     "isKnockout": true,
-    "summary": "Final Four — Game 2",
+    "summary": "Final Four \u2014 Game 2",
     "countryCodesInvolved": [
       "KU",
       "PUR"
@@ -5357,453 +5205,5 @@
     "durationMinutes": 150,
     "venue": "Lucas Oil Stadium",
     "city": "Indianapolis"
-  },
-  {
-    "id": "tennis-ao-msf-1",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Australian Open — Men's Semifinal",
-    "isKnockout": true,
-    "summary": "Sinner vs. Djokovic",
-    "countryCodesInvolved": [
-      "SIN",
-      "DJO"
-    ],
-    "dateUTC": "2026-01-29T09:30:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Rod Laver Arena",
-    "city": "Melbourne",
-    "score": "6-3, 6-7, 6-4",
-    "result": {
-      "SIN": "W",
-      "DJO": "L"
-    },
-    "playerStats": [
-      {
-        "player": "Jannik Sinner",
-        "country": "ITA",
-        "stat": "14 Aces, 42 Winners"
-      }
-    ]
-  },
-  {
-    "id": "tennis-ao-msf-2",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Australian Open — Men's Semifinal",
-    "isKnockout": true,
-    "summary": "Alcaraz vs. Zverev",
-    "countryCodesInvolved": [
-      "ALC",
-      "ZVE"
-    ],
-    "dateUTC": "2026-01-29T04:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Rod Laver Arena",
-    "city": "Melbourne",
-    "score": "7-5, 6-4",
-    "result": {
-      "ALC": "W",
-      "ZVE": "L"
-    },
-    "playerStats": [
-      {
-        "player": "Carlos Alcaraz",
-        "country": "ESP",
-        "stat": "10 Aces, 38 Winners"
-      }
-    ]
-  },
-  {
-    "id": "tennis-ao-mf",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Australian Open — Men's Final",
-    "isKnockout": true,
-    "summary": "Sinner vs. Alcaraz",
-    "countryCodesInvolved": [
-      "SIN",
-      "ALC"
-    ],
-    "dateUTC": "2026-02-01T08:30:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Rod Laver Arena",
-    "city": "Melbourne",
-    "score": "7-6, 3-6, 6-4, 6-3",
-    "result": {
-      "SIN": "W",
-      "ALC": "L"
-    },
-    "playerStats": [
-      {
-        "player": "Jannik Sinner",
-        "country": "ITA",
-        "stat": "18 Aces, 51 Winners"
-      },
-      {
-        "player": "Carlos Alcaraz",
-        "country": "ESP",
-        "stat": "12 Aces, 45 Winners"
-      }
-    ]
-  },
-  {
-    "id": "tennis-ao-wsf-1",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Australian Open — Women's Semifinal",
-    "isKnockout": true,
-    "summary": "Swiatek vs. Gauff",
-    "countryCodesInvolved": [
-      "SWI",
-      "GAU"
-    ],
-    "dateUTC": "2026-01-28T09:30:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Rod Laver Arena",
-    "city": "Melbourne",
-    "score": "6-3, 7-5",
-    "result": {
-      "SWI": "W",
-      "GAU": "L"
-    },
-    "playerStats": [
-      {
-        "player": "Iga Swiatek",
-        "country": "POL",
-        "stat": "5 Aces, 22 Winners"
-      }
-    ]
-  },
-  {
-    "id": "tennis-ao-wsf-2",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Australian Open — Women's Semifinal",
-    "isKnockout": true,
-    "summary": "Zheng vs. Keys",
-    "countryCodesInvolved": [
-      "ZHE",
-      "KEY"
-    ],
-    "dateUTC": "2026-01-28T04:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Rod Laver Arena",
-    "city": "Melbourne",
-    "score": "3-6, 6-4, 6-3",
-    "result": {
-      "ZHE": "L",
-      "KEY": "W"
-    },
-    "playerStats": [
-      {
-        "player": "Madison Keys",
-        "country": "USA",
-        "stat": "8 Aces, 30 Winners"
-      }
-    ]
-  },
-  {
-    "id": "tennis-ao-wf",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Australian Open — Women's Final",
-    "isKnockout": true,
-    "summary": "Swiatek vs. Keys",
-    "countryCodesInvolved": [
-      "SWI",
-      "KEY"
-    ],
-    "dateUTC": "2026-01-31T08:30:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Rod Laver Arena",
-    "city": "Melbourne",
-    "score": "6-4, 7-5",
-    "result": {
-      "SWI": "W",
-      "KEY": "L"
-    },
-    "playerStats": [
-      {
-        "player": "Iga Swiatek",
-        "country": "POL",
-        "stat": "4 Aces, 25 Winners"
-      },
-      {
-        "player": "Madison Keys",
-        "country": "USA",
-        "stat": "6 Aces, 31 Winners"
-      }
-    ]
-  },
-  {
-    "id": "tennis-rg-msf-1",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "French Open — Men's SF",
-    "isKnockout": true,
-    "summary": "Alcaraz vs. Djokovic",
-    "countryCodesInvolved": [
-      "ALC",
-      "DJO"
-    ],
-    "dateUTC": "2026-06-05T11:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Court Philippe-Chatrier",
-    "city": "Paris"
-  },
-  {
-    "id": "tennis-rg-msf-2",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "French Open — Men's SF",
-    "isKnockout": true,
-    "summary": "Sinner vs. Ruud",
-    "countryCodesInvolved": [
-      "SIN",
-      "RUU"
-    ],
-    "dateUTC": "2026-06-05T15:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Court Philippe-Chatrier",
-    "city": "Paris"
-  },
-  {
-    "id": "tennis-rg-mf",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "French Open — Men's Final",
-    "isKnockout": true,
-    "summary": "Men's Final",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-06-07T13:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Court Philippe-Chatrier",
-    "city": "Paris"
-  },
-  {
-    "id": "tennis-rg-wsf-1",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "French Open — Women's SF",
-    "isKnockout": true,
-    "summary": "Swiatek vs. Gauff",
-    "countryCodesInvolved": [
-      "SWI",
-      "GAU"
-    ],
-    "dateUTC": "2026-06-04T11:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Court Philippe-Chatrier",
-    "city": "Paris"
-  },
-  {
-    "id": "tennis-rg-wsf-2",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "French Open — Women's SF",
-    "isKnockout": true,
-    "summary": "Zheng vs. Pegula",
-    "countryCodesInvolved": [
-      "ZHE",
-      "PEG"
-    ],
-    "dateUTC": "2026-06-04T15:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Court Philippe-Chatrier",
-    "city": "Paris"
-  },
-  {
-    "id": "tennis-rg-wf",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "French Open — Women's Final",
-    "isKnockout": true,
-    "summary": "Women's Final",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-06-06T13:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Court Philippe-Chatrier",
-    "city": "Paris"
-  },
-  {
-    "id": "tennis-wim-msf-1",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Wimbledon — Men's SF",
-    "isKnockout": true,
-    "summary": "Men's Semifinal 1",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-10T12:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Centre Court",
-    "city": "London"
-  },
-  {
-    "id": "tennis-wim-msf-2",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Wimbledon — Men's SF",
-    "isKnockout": true,
-    "summary": "Men's Semifinal 2",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-10T16:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Centre Court",
-    "city": "London"
-  },
-  {
-    "id": "tennis-wim-mf",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Wimbledon — Men's Final",
-    "isKnockout": true,
-    "summary": "Men's Final",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-12T13:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Centre Court",
-    "city": "London"
-  },
-  {
-    "id": "tennis-wim-wsf-1",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Wimbledon — Women's SF",
-    "isKnockout": true,
-    "summary": "Women's Semifinal 1",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-09T12:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Centre Court",
-    "city": "London"
-  },
-  {
-    "id": "tennis-wim-wsf-2",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Wimbledon — Women's SF",
-    "isKnockout": true,
-    "summary": "Women's Semifinal 2",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-09T16:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Centre Court",
-    "city": "London"
-  },
-  {
-    "id": "tennis-wim-wf",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "Wimbledon — Women's Final",
-    "isKnockout": true,
-    "summary": "Women's Final",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-11T13:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Centre Court",
-    "city": "London"
-  },
-  {
-    "id": "tennis-uso-msf-1",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "US Open — Men's SF",
-    "isKnockout": true,
-    "summary": "Men's Semifinal 1",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-09-11T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Arthur Ashe Stadium",
-    "city": "New York"
-  },
-  {
-    "id": "tennis-uso-msf-2",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "US Open — Men's SF",
-    "isKnockout": true,
-    "summary": "Men's Semifinal 2",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-09-11T22:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Arthur Ashe Stadium",
-    "city": "New York"
-  },
-  {
-    "id": "tennis-uso-mf",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "US Open — Men's Final",
-    "isKnockout": true,
-    "summary": "Men's Final",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-09-13T20:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Arthur Ashe Stadium",
-    "city": "New York"
-  },
-  {
-    "id": "tennis-uso-wsf-1",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "US Open — Women's SF",
-    "isKnockout": true,
-    "summary": "Women's Semifinal 1",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-09-10T19:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Arthur Ashe Stadium",
-    "city": "New York"
-  },
-  {
-    "id": "tennis-uso-wsf-2",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "US Open — Women's SF",
-    "isKnockout": true,
-    "summary": "Women's Semifinal 2",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-09-10T22:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Arthur Ashe Stadium",
-    "city": "New York"
-  },
-  {
-    "id": "tennis-uso-wf",
-    "tournamentId": "tennis-slams-2026",
-    "sport": "tennis",
-    "phase": "US Open — Women's Final",
-    "isKnockout": true,
-    "summary": "Women's Final",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-09-12T20:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 180,
-    "venue": "Arthur Ashe Stadium",
-    "city": "New York"
   }
 ]

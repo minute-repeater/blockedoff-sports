@@ -815,106 +815,6 @@
     ]
   },
   {
-    "id": "tennis-slams-2026",
-    "name": "Grand Slam Tennis 2026",
-    "shortName": "Grand Slams 2026",
-    "year": 2026,
-    "startDate": "2026-01-19",
-    "endDate": "2026-09-13",
-    "location": "Melbourne, Paris, London, New York",
-    "sports": [
-      "tennis"
-    ],
-    "selectionType": "team",
-    "teams": [
-      {
-        "code": "SIN",
-        "name": "Jannik Sinner",
-        "shortName": "Sinner",
-        "color": "#0066CC"
-      },
-      {
-        "code": "ALC",
-        "name": "Carlos Alcaraz",
-        "shortName": "Alcaraz",
-        "color": "#FF6600"
-      },
-      {
-        "code": "DJO",
-        "name": "Novak Djokovic",
-        "shortName": "Djokovic",
-        "color": "#1A3A6B"
-      },
-      {
-        "code": "ZVE",
-        "name": "Alexander Zverev",
-        "shortName": "Zverev",
-        "color": "#FFCE00",
-        "textColor": "#0f172a"
-      },
-      {
-        "code": "MED",
-        "name": "Daniil Medvedev",
-        "shortName": "Medvedev",
-        "color": "#BF0A30"
-      },
-      {
-        "code": "RUU",
-        "name": "Casper Ruud",
-        "shortName": "Ruud",
-        "color": "#BA0C2F"
-      },
-      {
-        "code": "FRI",
-        "name": "Taylor Fritz",
-        "shortName": "Fritz",
-        "color": "#3C3B6E"
-      },
-      {
-        "code": "DEM",
-        "name": "Alex de Minaur",
-        "shortName": "de Minaur",
-        "color": "#00843D"
-      },
-      {
-        "code": "SWI",
-        "name": "Iga Swiatek",
-        "shortName": "Swiatek",
-        "color": "#DC143C"
-      },
-      {
-        "code": "SAB",
-        "name": "Aryna Sabalenka",
-        "shortName": "Sabalenka",
-        "color": "#CF142B"
-      },
-      {
-        "code": "GAU",
-        "name": "Coco Gauff",
-        "shortName": "Gauff",
-        "color": "#B22234"
-      },
-      {
-        "code": "ZHE",
-        "name": "Zheng Qinwen",
-        "shortName": "Zheng",
-        "color": "#DE2910"
-      },
-      {
-        "code": "PEG",
-        "name": "Jessica Pegula",
-        "shortName": "Pegula",
-        "color": "#002868"
-      },
-      {
-        "code": "KEY",
-        "name": "Madison Keys",
-        "shortName": "Keys",
-        "color": "#5C2D91"
-      }
-    ]
-  },
-  {
     "id": "march-madness-women-2026",
     "name": "NCAA Women's March Madness 2026",
     "shortName": "Women's March Madness 2026",
@@ -1532,22 +1432,5 @@
         "color": "#AB0003"
       }
     ]
-  },
-  {
-    "id": "oly2028",
-    "name": "Olympic Games Los Angeles 2028",
-    "shortName": "LA 2028 Olympics",
-    "year": 2028,
-    "startDate": "2028-07-14",
-    "endDate": "2028-07-30",
-    "location": "Los Angeles, USA",
-    "sports": [
-      "soccer",
-      "basketball",
-      "swimming",
-      "athletics",
-      "volleyball"
-    ],
-    "selectionType": "country"
   }
 ]
