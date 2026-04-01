@@ -23,11 +23,11 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL("https://sportscalendar.xyz"),
   title: {
-    default: "SportsCalendar — Never Miss a Match",
+    default: "SportsCalendar | Free Auto-Updating Sports Schedules for Your Calendar",
     template: "%s | SportsCalendar",
   },
   description:
-    "Subscribe to live-updating sports calendars. NBA, F1, UEFA Champions League, World Cup 2026, Grand Slam Tennis, March Madness, and Olympics. Add to Apple Calendar or Google Calendar.",
+    "Subscribe to NBA, NHL, MLB, F1, World Cup 2026 and more. One tap to add live-updating schedules with scores to Google Calendar, Apple Calendar, or Outlook. Free, no signup.",
   manifest: "/manifest.json",
   openGraph: {
     title: "SportsCalendar — Never Miss a Match",
