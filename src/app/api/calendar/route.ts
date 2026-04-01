@@ -58,14 +58,14 @@ export async function GET(request: NextRequest) {
   // Build display name — multi-team shows combined
   let displayName: string;
   if (selectionCodes.length === 1) {
-    displayName = team?.shortName ?? country?.name ?? primaryCode;
+    displayName = team?.name ?? country?.name ?? primaryCode;
   } else {
     const names = selectionCodes.map((code) => {
       const t = isTeamBased
         ? tournament?.teams?.find((tm) => tm.code === code)
         : undefined;
       const c = isTeamBased ? undefined : getCountryByCode(code);
-      return t?.shortName ?? c?.name ?? code;
+      return t?.name ?? c?.name ?? code;
     });
     displayName = names.join(" + ");
   }
@@ -89,9 +89,11 @@ export async function GET(request: NextRequest) {
 
   events.sort((a, b) => a.dateUTC.localeCompare(b.dateUTC));
 
-  // Calendar naming
+  // Calendar naming — e.g. "Toronto Raptors NBA Schedule" or "🇨🇦 Canada World Cup 2026 Schedule"
   const proSuffix = isPro ? " (Pro)" : "";
-  const calName = `${countryFlag} ${displayName} Sports Schedule${proSuffix}`;
+  const tournamentLabel = tournament?.shortName ?? "";
+  const flagPrefix = countryFlag ? `${countryFlag} ` : "";
+  const calName = `${flagPrefix}${displayName} ${tournamentLabel} Schedule${proSuffix}`.trim();
   const cal = icalGenerator({
     name: calName,
     prodId: { company: "SportsCalendar", product: "SportsCalendar" },
