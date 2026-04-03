@@ -571,7 +571,7 @@ function ScheduleApp() {
       })
       .finally(() => setLoading(false));
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [tournamentId, countryCode]);
+  }, [tournamentId, countryCodes.join(",")]);
 
   // Available sports from events
   const availableSports = useMemo(
