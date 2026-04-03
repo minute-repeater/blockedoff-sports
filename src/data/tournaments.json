@@ -1,5 +1,614 @@
 [
   {
+    "id": "mlb-2026",
+    "name": "MLB 2026 Season",
+    "shortName": "MLB 2026",
+    "year": 2026,
+    "startDate": "2026-03-26",
+    "endDate": "2026-10-31",
+    "location": "North America",
+    "sports": [
+      "baseball"
+    ],
+    "selectionType": "team",
+    "teams": [
+      {
+        "code": "ARI",
+        "name": "Arizona Diamondbacks",
+        "shortName": "D-backs",
+        "color": "#A71930"
+      },
+      {
+        "code": "ATL",
+        "name": "Atlanta Braves",
+        "shortName": "Braves",
+        "color": "#CE1141"
+      },
+      {
+        "code": "BAL",
+        "name": "Baltimore Orioles",
+        "shortName": "Orioles",
+        "color": "#DF4601"
+      },
+      {
+        "code": "BOS",
+        "name": "Boston Red Sox",
+        "shortName": "Red Sox",
+        "color": "#BD3039"
+      },
+      {
+        "code": "CHC",
+        "name": "Chicago Cubs",
+        "shortName": "Cubs",
+        "color": "#0E3386"
+      },
+      {
+        "code": "CHW",
+        "name": "Chicago White Sox",
+        "shortName": "White Sox",
+        "color": "#C4CED4",
+        "textColor": "#0f172a"
+      },
+      {
+        "code": "CIN",
+        "name": "Cincinnati Reds",
+        "shortName": "Reds",
+        "color": "#C6011F"
+      },
+      {
+        "code": "CLE",
+        "name": "Cleveland Guardians",
+        "shortName": "Guardians",
+        "color": "#00385D"
+      },
+      {
+        "code": "COL",
+        "name": "Colorado Rockies",
+        "shortName": "Rockies",
+        "color": "#33006F"
+      },
+      {
+        "code": "DET",
+        "name": "Detroit Tigers",
+        "shortName": "Tigers",
+        "color": "#0C2340"
+      },
+      {
+        "code": "HOU",
+        "name": "Houston Astros",
+        "shortName": "Astros",
+        "color": "#002D62"
+      },
+      {
+        "code": "KCR",
+        "name": "Kansas City Royals",
+        "shortName": "Royals",
+        "color": "#004687"
+      },
+      {
+        "code": "LAA",
+        "name": "Los Angeles Angels",
+        "shortName": "Angels",
+        "color": "#BA0021"
+      },
+      {
+        "code": "LAD",
+        "name": "Los Angeles Dodgers",
+        "shortName": "Dodgers",
+        "color": "#005A9C"
+      },
+      {
+        "code": "MIA",
+        "name": "Miami Marlins",
+        "shortName": "Marlins",
+        "color": "#00A3E0"
+      },
+      {
+        "code": "MIL",
+        "name": "Milwaukee Brewers",
+        "shortName": "Brewers",
+        "color": "#FFC52F",
+        "textColor": "#0f172a"
+      },
+      {
+        "code": "MIN",
+        "name": "Minnesota Twins",
+        "shortName": "Twins",
+        "color": "#002B5C"
+      },
+      {
+        "code": "NYM",
+        "name": "New York Mets",
+        "shortName": "Mets",
+        "color": "#002D72"
+      },
+      {
+        "code": "NYY",
+        "name": "New York Yankees",
+        "shortName": "Yankees",
+        "color": "#003087"
+      },
+      {
+        "code": "OAK",
+        "name": "Athletics",
+        "shortName": "Athletics",
+        "color": "#003831"
+      },
+      {
+        "code": "PHI",
+        "name": "Philadelphia Phillies",
+        "shortName": "Phillies",
+        "color": "#E81828"
+      },
+      {
+        "code": "PIT",
+        "name": "Pittsburgh Pirates",
+        "shortName": "Pirates",
+        "color": "#FDB827",
+        "textColor": "#0f172a"
+      },
+      {
+        "code": "SDP",
+        "name": "San Diego Padres",
+        "shortName": "Padres",
+        "color": "#2F241D"
+      },
+      {
+        "code": "SEA",
+        "name": "Seattle Mariners",
+        "shortName": "Mariners",
+        "color": "#0C2C56"
+      },
+      {
+        "code": "SFG",
+        "name": "San Francisco Giants",
+        "shortName": "Giants",
+        "color": "#FD5A1E"
+      },
+      {
+        "code": "STL",
+        "name": "St. Louis Cardinals",
+        "shortName": "Cardinals",
+        "color": "#C41E3A"
+      },
+      {
+        "code": "TBR",
+        "name": "Tampa Bay Rays",
+        "shortName": "Rays",
+        "color": "#092C5C"
+      },
+      {
+        "code": "TEX",
+        "name": "Texas Rangers",
+        "shortName": "Rangers",
+        "color": "#003278"
+      },
+      {
+        "code": "TOR",
+        "name": "Toronto Blue Jays",
+        "shortName": "Blue Jays",
+        "color": "#134A8E"
+      },
+      {
+        "code": "WSN",
+        "name": "Washington Nationals",
+        "shortName": "Nationals",
+        "color": "#AB0003"
+      }
+    ]
+  },
+  {
+    "id": "nhl-2025-26",
+    "name": "NHL 2025–26 Season",
+    "shortName": "NHL 2025–26",
+    "year": 2026,
+    "startDate": "2025-10-07",
+    "endDate": "2026-06-30",
+    "location": "North America",
+    "sports": [
+      "hockey"
+    ],
+    "selectionType": "team",
+    "teams": [
+      {
+        "code": "ANA",
+        "name": "Anaheim Ducks",
+        "shortName": "Ducks",
+        "color": "#F47A38"
+      },
+      {
+        "code": "BOS",
+        "name": "Boston Bruins",
+        "shortName": "Bruins",
+        "color": "#FFB81C",
+        "textColor": "#0f172a"
+      },
+      {
+        "code": "BUF",
+        "name": "Buffalo Sabres",
+        "shortName": "Sabres",
+        "color": "#002654"
+      },
+      {
+        "code": "CGY",
+        "name": "Calgary Flames",
+        "shortName": "Flames",
+        "color": "#D2001C"
+      },
+      {
+        "code": "CAR",
+        "name": "Carolina Hurricanes",
+        "shortName": "Hurricanes",
+        "color": "#CC0000"
+      },
+      {
+        "code": "CHI",
+        "name": "Chicago Blackhawks",
+        "shortName": "Blackhawks",
+        "color": "#CF0A2C"
+      },
+      {
+        "code": "COL",
+        "name": "Colorado Avalanche",
+        "shortName": "Avalanche",
+        "color": "#6F263D"
+      },
+      {
+        "code": "CBJ",
+        "name": "Columbus Blue Jackets",
+        "shortName": "Blue Jackets",
+        "color": "#002654"
+      },
+      {
+        "code": "DAL",
+        "name": "Dallas Stars",
+        "shortName": "Stars",
+        "color": "#006847"
+      },
+      {
+        "code": "DET",
+        "name": "Detroit Red Wings",
+        "shortName": "Red Wings",
+        "color": "#CE1126"
+      },
+      {
+        "code": "EDM",
+        "name": "Edmonton Oilers",
+        "shortName": "Oilers",
+        "color": "#041E42"
+      },
+      {
+        "code": "FLA",
+        "name": "Florida Panthers",
+        "shortName": "Panthers",
+        "color": "#041E42"
+      },
+      {
+        "code": "LAK",
+        "name": "Los Angeles Kings",
+        "shortName": "Kings",
+        "color": "#A2AAAD",
+        "textColor": "#0f172a"
+      },
+      {
+        "code": "MIN",
+        "name": "Minnesota Wild",
+        "shortName": "Wild",
+        "color": "#154734"
+      },
+      {
+        "code": "MTL",
+        "name": "Montreal Canadiens",
+        "shortName": "Canadiens",
+        "color": "#AF1E2D"
+      },
+      {
+        "code": "NSH",
+        "name": "Nashville Predators",
+        "shortName": "Predators",
+        "color": "#FFB81C",
+        "textColor": "#0f172a"
+      },
+      {
+        "code": "NJD",
+        "name": "New Jersey Devils",
+        "shortName": "Devils",
+        "color": "#CE1126"
+      },
+      {
+        "code": "NYI",
+        "name": "New York Islanders",
+        "shortName": "Islanders",
+        "color": "#00539B"
+      },
+      {
+        "code": "NYR",
+        "name": "New York Rangers",
+        "shortName": "Rangers",
+        "color": "#0038A8"
+      },
+      {
+        "code": "OTT",
+        "name": "Ottawa Senators",
+        "shortName": "Senators",
+        "color": "#C52032"
+      },
+      {
+        "code": "PHI",
+        "name": "Philadelphia Flyers",
+        "shortName": "Flyers",
+        "color": "#F74902"
+      },
+      {
+        "code": "PIT",
+        "name": "Pittsburgh Penguins",
+        "shortName": "Penguins",
+        "color": "#FCB514",
+        "textColor": "#0f172a"
+      },
+      {
+        "code": "SJS",
+        "name": "San Jose Sharks",
+        "shortName": "Sharks",
+        "color": "#006D75"
+      },
+      {
+        "code": "SEA",
+        "name": "Seattle Kraken",
+        "shortName": "Kraken",
+        "color": "#99D9D9",
+        "textColor": "#0f172a"
+      },
+      {
+        "code": "STL",
+        "name": "St. Louis Blues",
+        "shortName": "Blues",
+        "color": "#002F87"
+      },
+      {
+        "code": "TBL",
+        "name": "Tampa Bay Lightning",
+        "shortName": "Lightning",
+        "color": "#002868"
+      },
+      {
+        "code": "TOR",
+        "name": "Toronto Maple Leafs",
+        "shortName": "Maple Leafs",
+        "color": "#00205B"
+      },
+      {
+        "code": "UTA",
+        "name": "Utah Mammoth",
+        "shortName": "Mammoth",
+        "color": "#69B3E7"
+      },
+      {
+        "code": "VAN",
+        "name": "Vancouver Canucks",
+        "shortName": "Canucks",
+        "color": "#00205B"
+      },
+      {
+        "code": "VGK",
+        "name": "Vegas Golden Knights",
+        "shortName": "Golden Knights",
+        "color": "#B4975A",
+        "textColor": "#0f172a"
+      },
+      {
+        "code": "WSH",
+        "name": "Washington Capitals",
+        "shortName": "Capitals",
+        "color": "#041E42"
+      },
+      {
+        "code": "WPG",
+        "name": "Winnipeg Jets",
+        "shortName": "Jets",
+        "color": "#041E42"
+      }
+    ]
+  },
+  {
+    "id": "nba-playoffs-2026",
+    "name": "NBA 2025–26 Season",
+    "shortName": "NBA 2025–26",
+    "year": 2026,
+    "startDate": "2025-10-21",
+    "endDate": "2026-06-21",
+    "location": "United States & Canada",
+    "sports": [
+      "basketball"
+    ],
+    "selectionType": "team",
+    "teams": [
+      {
+        "code": "ATL",
+        "name": "Atlanta Hawks",
+        "shortName": "Hawks",
+        "color": "#E03A3E"
+      },
+      {
+        "code": "BOS",
+        "name": "Boston Celtics",
+        "shortName": "Celtics",
+        "color": "#007A33"
+      },
+      {
+        "code": "BKN",
+        "name": "Brooklyn Nets",
+        "shortName": "Nets",
+        "color": "#777D84"
+      },
+      {
+        "code": "CHA",
+        "name": "Charlotte Hornets",
+        "shortName": "Hornets",
+        "color": "#00788C"
+      },
+      {
+        "code": "CHI",
+        "name": "Chicago Bulls",
+        "shortName": "Bulls",
+        "color": "#CE1141"
+      },
+      {
+        "code": "CLE",
+        "name": "Cleveland Cavaliers",
+        "shortName": "Cavaliers",
+        "color": "#6F263D"
+      },
+      {
+        "code": "DAL",
+        "name": "Dallas Mavericks",
+        "shortName": "Mavericks",
+        "color": "#00538C"
+      },
+      {
+        "code": "DEN",
+        "name": "Denver Nuggets",
+        "shortName": "Nuggets",
+        "color": "#0E2240"
+      },
+      {
+        "code": "DET",
+        "name": "Detroit Pistons",
+        "shortName": "Pistons",
+        "color": "#1D42BA"
+      },
+      {
+        "code": "GSW",
+        "name": "Golden State Warriors",
+        "shortName": "Warriors",
+        "color": "#FFC72C",
+        "textColor": "#0f172a"
+      },
+      {
+        "code": "HOU",
+        "name": "Houston Rockets",
+        "shortName": "Rockets",
+        "color": "#CE1141"
+      },
+      {
+        "code": "IND",
+        "name": "Indiana Pacers",
+        "shortName": "Pacers",
+        "color": "#002D62"
+      },
+      {
+        "code": "LAC",
+        "name": "Los Angeles Clippers",
+        "shortName": "Clippers",
+        "color": "#C8102E"
+      },
+      {
+        "code": "LAL",
+        "name": "Los Angeles Lakers",
+        "shortName": "Lakers",
+        "color": "#552583"
+      },
+      {
+        "code": "MEM",
+        "name": "Memphis Grizzlies",
+        "shortName": "Grizzlies",
+        "color": "#5D76A9"
+      },
+      {
+        "code": "MIA",
+        "name": "Miami Heat",
+        "shortName": "Heat",
+        "color": "#98002E"
+      },
+      {
+        "code": "MIL",
+        "name": "Milwaukee Bucks",
+        "shortName": "Bucks",
+        "color": "#00471B"
+      },
+      {
+        "code": "MIN",
+        "name": "Minnesota Timberwolves",
+        "shortName": "T-Wolves",
+        "color": "#0C2340"
+      },
+      {
+        "code": "NOP",
+        "name": "New Orleans Pelicans",
+        "shortName": "Pelicans",
+        "color": "#0C2340"
+      },
+      {
+        "code": "NYK",
+        "name": "New York Knicks",
+        "shortName": "Knicks",
+        "color": "#006BB6"
+      },
+      {
+        "code": "OKC",
+        "name": "Oklahoma City Thunder",
+        "shortName": "Thunder",
+        "color": "#007AC1"
+      },
+      {
+        "code": "ORL",
+        "name": "Orlando Magic",
+        "shortName": "Magic",
+        "color": "#0077C0"
+      },
+      {
+        "code": "PHI",
+        "name": "Philadelphia 76ers",
+        "shortName": "76ers",
+        "color": "#006BB6"
+      },
+      {
+        "code": "PHX",
+        "name": "Phoenix Suns",
+        "shortName": "Suns",
+        "color": "#E56020"
+      },
+      {
+        "code": "POR",
+        "name": "Portland Trail Blazers",
+        "shortName": "Blazers",
+        "color": "#E03A3E"
+      },
+      {
+        "code": "SAC",
+        "name": "Sacramento Kings",
+        "shortName": "Kings",
+        "color": "#5A2D81"
+      },
+      {
+        "code": "SAS",
+        "name": "San Antonio Spurs",
+        "shortName": "Spurs",
+        "color": "#C4CED4",
+        "textColor": "#0f172a"
+      },
+      {
+        "code": "TOR",
+        "name": "Toronto Raptors",
+        "shortName": "Raptors",
+        "color": "#CE1141"
+      },
+      {
+        "code": "UTA",
+        "name": "Utah Jazz",
+        "shortName": "Jazz",
+        "color": "#F9A01B",
+        "textColor": "#0f172a"
+      },
+      {
+        "code": "WAS",
+        "name": "Washington Wizards",
+        "shortName": "Wizards",
+        "color": "#002B5C"
+      }
+    ]
+  },
+  {
     "id": "wc2026",
     "name": "FIFA World Cup 2026",
     "shortName": "World Cup 2026",
@@ -505,8 +1114,8 @@
   },
   {
     "id": "ucl-2025-26",
-    "name": "UEFA Champions League 2025\u201326",
-    "shortName": "UEFA CL 2025\u201326",
+    "name": "UEFA Champions League 2025–26",
+    "shortName": "UEFA CL 2025–26",
     "year": 2026,
     "startDate": "2026-02-11",
     "endDate": "2026-05-31",
@@ -613,204 +1222,6 @@
         "name": "Atalanta BC",
         "shortName": "Atalanta",
         "color": "#1E71B8"
-      }
-    ]
-  },
-  {
-    "id": "nba-playoffs-2026",
-    "name": "NBA 2025\u201326 Season",
-    "shortName": "NBA 2025\u201326",
-    "year": 2026,
-    "startDate": "2025-10-21",
-    "endDate": "2026-06-21",
-    "location": "United States & Canada",
-    "sports": [
-      "basketball"
-    ],
-    "selectionType": "team",
-    "teams": [
-      {
-        "code": "ATL",
-        "name": "Atlanta Hawks",
-        "shortName": "Hawks",
-        "color": "#E03A3E"
-      },
-      {
-        "code": "BOS",
-        "name": "Boston Celtics",
-        "shortName": "Celtics",
-        "color": "#007A33"
-      },
-      {
-        "code": "BKN",
-        "name": "Brooklyn Nets",
-        "shortName": "Nets",
-        "color": "#777D84"
-      },
-      {
-        "code": "CHA",
-        "name": "Charlotte Hornets",
-        "shortName": "Hornets",
-        "color": "#00788C"
-      },
-      {
-        "code": "CHI",
-        "name": "Chicago Bulls",
-        "shortName": "Bulls",
-        "color": "#CE1141"
-      },
-      {
-        "code": "CLE",
-        "name": "Cleveland Cavaliers",
-        "shortName": "Cavaliers",
-        "color": "#6F263D"
-      },
-      {
-        "code": "DAL",
-        "name": "Dallas Mavericks",
-        "shortName": "Mavericks",
-        "color": "#00538C"
-      },
-      {
-        "code": "DEN",
-        "name": "Denver Nuggets",
-        "shortName": "Nuggets",
-        "color": "#0E2240"
-      },
-      {
-        "code": "DET",
-        "name": "Detroit Pistons",
-        "shortName": "Pistons",
-        "color": "#1D42BA"
-      },
-      {
-        "code": "GSW",
-        "name": "Golden State Warriors",
-        "shortName": "Warriors",
-        "color": "#FFC72C",
-        "textColor": "#0f172a"
-      },
-      {
-        "code": "HOU",
-        "name": "Houston Rockets",
-        "shortName": "Rockets",
-        "color": "#CE1141"
-      },
-      {
-        "code": "IND",
-        "name": "Indiana Pacers",
-        "shortName": "Pacers",
-        "color": "#002D62"
-      },
-      {
-        "code": "LAC",
-        "name": "Los Angeles Clippers",
-        "shortName": "Clippers",
-        "color": "#C8102E"
-      },
-      {
-        "code": "LAL",
-        "name": "Los Angeles Lakers",
-        "shortName": "Lakers",
-        "color": "#552583"
-      },
-      {
-        "code": "MEM",
-        "name": "Memphis Grizzlies",
-        "shortName": "Grizzlies",
-        "color": "#5D76A9"
-      },
-      {
-        "code": "MIA",
-        "name": "Miami Heat",
-        "shortName": "Heat",
-        "color": "#98002E"
-      },
-      {
-        "code": "MIL",
-        "name": "Milwaukee Bucks",
-        "shortName": "Bucks",
-        "color": "#00471B"
-      },
-      {
-        "code": "MIN",
-        "name": "Minnesota Timberwolves",
-        "shortName": "T-Wolves",
-        "color": "#0C2340"
-      },
-      {
-        "code": "NOP",
-        "name": "New Orleans Pelicans",
-        "shortName": "Pelicans",
-        "color": "#0C2340"
-      },
-      {
-        "code": "NYK",
-        "name": "New York Knicks",
-        "shortName": "Knicks",
-        "color": "#006BB6"
-      },
-      {
-        "code": "OKC",
-        "name": "Oklahoma City Thunder",
-        "shortName": "Thunder",
-        "color": "#007AC1"
-      },
-      {
-        "code": "ORL",
-        "name": "Orlando Magic",
-        "shortName": "Magic",
-        "color": "#0077C0"
-      },
-      {
-        "code": "PHI",
-        "name": "Philadelphia 76ers",
-        "shortName": "76ers",
-        "color": "#006BB6"
-      },
-      {
-        "code": "PHX",
-        "name": "Phoenix Suns",
-        "shortName": "Suns",
-        "color": "#E56020"
-      },
-      {
-        "code": "POR",
-        "name": "Portland Trail Blazers",
-        "shortName": "Blazers",
-        "color": "#E03A3E"
-      },
-      {
-        "code": "SAC",
-        "name": "Sacramento Kings",
-        "shortName": "Kings",
-        "color": "#5A2D81"
-      },
-      {
-        "code": "SAS",
-        "name": "San Antonio Spurs",
-        "shortName": "Spurs",
-        "color": "#C4CED4",
-        "textColor": "#0f172a"
-      },
-      {
-        "code": "TOR",
-        "name": "Toronto Raptors",
-        "shortName": "Raptors",
-        "color": "#CE1141"
-      },
-      {
-        "code": "UTA",
-        "name": "Utah Jazz",
-        "shortName": "Jazz",
-        "color": "#F9A01B",
-        "textColor": "#0f172a"
-      },
-      {
-        "code": "WAS",
-        "name": "Washington Wizards",
-        "shortName": "Wizards",
-        "color": "#002B5C"
       }
     ]
   },
@@ -1019,417 +1430,6 @@
         "name": "South Carolina Gamecocks",
         "shortName": "S. Carolina",
         "color": "#73000A"
-      }
-    ]
-  },
-  {
-    "id": "nhl-2025-26",
-    "name": "NHL 2025\u201326 Season",
-    "shortName": "NHL 2025\u201326",
-    "year": 2026,
-    "startDate": "2025-10-07",
-    "endDate": "2026-06-30",
-    "location": "North America",
-    "sports": [
-      "hockey"
-    ],
-    "selectionType": "team",
-    "teams": [
-      {
-        "code": "ANA",
-        "name": "Anaheim Ducks",
-        "shortName": "Ducks",
-        "color": "#F47A38"
-      },
-      {
-        "code": "BOS",
-        "name": "Boston Bruins",
-        "shortName": "Bruins",
-        "color": "#FFB81C",
-        "textColor": "#0f172a"
-      },
-      {
-        "code": "BUF",
-        "name": "Buffalo Sabres",
-        "shortName": "Sabres",
-        "color": "#002654"
-      },
-      {
-        "code": "CGY",
-        "name": "Calgary Flames",
-        "shortName": "Flames",
-        "color": "#D2001C"
-      },
-      {
-        "code": "CAR",
-        "name": "Carolina Hurricanes",
-        "shortName": "Hurricanes",
-        "color": "#CC0000"
-      },
-      {
-        "code": "CHI",
-        "name": "Chicago Blackhawks",
-        "shortName": "Blackhawks",
-        "color": "#CF0A2C"
-      },
-      {
-        "code": "COL",
-        "name": "Colorado Avalanche",
-        "shortName": "Avalanche",
-        "color": "#6F263D"
-      },
-      {
-        "code": "CBJ",
-        "name": "Columbus Blue Jackets",
-        "shortName": "Blue Jackets",
-        "color": "#002654"
-      },
-      {
-        "code": "DAL",
-        "name": "Dallas Stars",
-        "shortName": "Stars",
-        "color": "#006847"
-      },
-      {
-        "code": "DET",
-        "name": "Detroit Red Wings",
-        "shortName": "Red Wings",
-        "color": "#CE1126"
-      },
-      {
-        "code": "EDM",
-        "name": "Edmonton Oilers",
-        "shortName": "Oilers",
-        "color": "#041E42"
-      },
-      {
-        "code": "FLA",
-        "name": "Florida Panthers",
-        "shortName": "Panthers",
-        "color": "#041E42"
-      },
-      {
-        "code": "LAK",
-        "name": "Los Angeles Kings",
-        "shortName": "Kings",
-        "color": "#A2AAAD",
-        "textColor": "#0f172a"
-      },
-      {
-        "code": "MIN",
-        "name": "Minnesota Wild",
-        "shortName": "Wild",
-        "color": "#154734"
-      },
-      {
-        "code": "MTL",
-        "name": "Montreal Canadiens",
-        "shortName": "Canadiens",
-        "color": "#AF1E2D"
-      },
-      {
-        "code": "NSH",
-        "name": "Nashville Predators",
-        "shortName": "Predators",
-        "color": "#FFB81C",
-        "textColor": "#0f172a"
-      },
-      {
-        "code": "NJD",
-        "name": "New Jersey Devils",
-        "shortName": "Devils",
-        "color": "#CE1126"
-      },
-      {
-        "code": "NYI",
-        "name": "New York Islanders",
-        "shortName": "Islanders",
-        "color": "#00539B"
-      },
-      {
-        "code": "NYR",
-        "name": "New York Rangers",
-        "shortName": "Rangers",
-        "color": "#0038A8"
-      },
-      {
-        "code": "OTT",
-        "name": "Ottawa Senators",
-        "shortName": "Senators",
-        "color": "#C52032"
-      },
-      {
-        "code": "PHI",
-        "name": "Philadelphia Flyers",
-        "shortName": "Flyers",
-        "color": "#F74902"
-      },
-      {
-        "code": "PIT",
-        "name": "Pittsburgh Penguins",
-        "shortName": "Penguins",
-        "color": "#FCB514",
-        "textColor": "#0f172a"
-      },
-      {
-        "code": "SJS",
-        "name": "San Jose Sharks",
-        "shortName": "Sharks",
-        "color": "#006D75"
-      },
-      {
-        "code": "SEA",
-        "name": "Seattle Kraken",
-        "shortName": "Kraken",
-        "color": "#99D9D9",
-        "textColor": "#0f172a"
-      },
-      {
-        "code": "STL",
-        "name": "St. Louis Blues",
-        "shortName": "Blues",
-        "color": "#002F87"
-      },
-      {
-        "code": "TBL",
-        "name": "Tampa Bay Lightning",
-        "shortName": "Lightning",
-        "color": "#002868"
-      },
-      {
-        "code": "TOR",
-        "name": "Toronto Maple Leafs",
-        "shortName": "Maple Leafs",
-        "color": "#00205B"
-      },
-      {
-        "code": "UTA",
-        "name": "Utah Mammoth",
-        "shortName": "Mammoth",
-        "color": "#69B3E7"
-      },
-      {
-        "code": "VAN",
-        "name": "Vancouver Canucks",
-        "shortName": "Canucks",
-        "color": "#00205B"
-      },
-      {
-        "code": "VGK",
-        "name": "Vegas Golden Knights",
-        "shortName": "Golden Knights",
-        "color": "#B4975A",
-        "textColor": "#0f172a"
-      },
-      {
-        "code": "WSH",
-        "name": "Washington Capitals",
-        "shortName": "Capitals",
-        "color": "#041E42"
-      },
-      {
-        "code": "WPG",
-        "name": "Winnipeg Jets",
-        "shortName": "Jets",
-        "color": "#041E42"
-      }
-    ]
-  },
-  {
-    "id": "mlb-2026",
-    "name": "MLB 2026 Season",
-    "shortName": "MLB 2026",
-    "year": 2026,
-    "startDate": "2026-03-26",
-    "endDate": "2026-10-31",
-    "location": "North America",
-    "sports": [
-      "baseball"
-    ],
-    "selectionType": "team",
-    "teams": [
-      {
-        "code": "ARI",
-        "name": "Arizona Diamondbacks",
-        "shortName": "D-backs",
-        "color": "#A71930"
-      },
-      {
-        "code": "ATL",
-        "name": "Atlanta Braves",
-        "shortName": "Braves",
-        "color": "#CE1141"
-      },
-      {
-        "code": "BAL",
-        "name": "Baltimore Orioles",
-        "shortName": "Orioles",
-        "color": "#DF4601"
-      },
-      {
-        "code": "BOS",
-        "name": "Boston Red Sox",
-        "shortName": "Red Sox",
-        "color": "#BD3039"
-      },
-      {
-        "code": "CHC",
-        "name": "Chicago Cubs",
-        "shortName": "Cubs",
-        "color": "#0E3386"
-      },
-      {
-        "code": "CHW",
-        "name": "Chicago White Sox",
-        "shortName": "White Sox",
-        "color": "#C4CED4",
-        "textColor": "#0f172a"
-      },
-      {
-        "code": "CIN",
-        "name": "Cincinnati Reds",
-        "shortName": "Reds",
-        "color": "#C6011F"
-      },
-      {
-        "code": "CLE",
-        "name": "Cleveland Guardians",
-        "shortName": "Guardians",
-        "color": "#00385D"
-      },
-      {
-        "code": "COL",
-        "name": "Colorado Rockies",
-        "shortName": "Rockies",
-        "color": "#33006F"
-      },
-      {
-        "code": "DET",
-        "name": "Detroit Tigers",
-        "shortName": "Tigers",
-        "color": "#0C2340"
-      },
-      {
-        "code": "HOU",
-        "name": "Houston Astros",
-        "shortName": "Astros",
-        "color": "#002D62"
-      },
-      {
-        "code": "KCR",
-        "name": "Kansas City Royals",
-        "shortName": "Royals",
-        "color": "#004687"
-      },
-      {
-        "code": "LAA",
-        "name": "Los Angeles Angels",
-        "shortName": "Angels",
-        "color": "#BA0021"
-      },
-      {
-        "code": "LAD",
-        "name": "Los Angeles Dodgers",
-        "shortName": "Dodgers",
-        "color": "#005A9C"
-      },
-      {
-        "code": "MIA",
-        "name": "Miami Marlins",
-        "shortName": "Marlins",
-        "color": "#00A3E0"
-      },
-      {
-        "code": "MIL",
-        "name": "Milwaukee Brewers",
-        "shortName": "Brewers",
-        "color": "#FFC52F",
-        "textColor": "#0f172a"
-      },
-      {
-        "code": "MIN",
-        "name": "Minnesota Twins",
-        "shortName": "Twins",
-        "color": "#002B5C"
-      },
-      {
-        "code": "NYM",
-        "name": "New York Mets",
-        "shortName": "Mets",
-        "color": "#002D72"
-      },
-      {
-        "code": "NYY",
-        "name": "New York Yankees",
-        "shortName": "Yankees",
-        "color": "#003087"
-      },
-      {
-        "code": "OAK",
-        "name": "Athletics",
-        "shortName": "Athletics",
-        "color": "#003831"
-      },
-      {
-        "code": "PHI",
-        "name": "Philadelphia Phillies",
-        "shortName": "Phillies",
-        "color": "#E81828"
-      },
-      {
-        "code": "PIT",
-        "name": "Pittsburgh Pirates",
-        "shortName": "Pirates",
-        "color": "#FDB827",
-        "textColor": "#0f172a"
-      },
-      {
-        "code": "SDP",
-        "name": "San Diego Padres",
-        "shortName": "Padres",
-        "color": "#2F241D"
-      },
-      {
-        "code": "SEA",
-        "name": "Seattle Mariners",
-        "shortName": "Mariners",
-        "color": "#0C2C56"
-      },
-      {
-        "code": "SFG",
-        "name": "San Francisco Giants",
-        "shortName": "Giants",
-        "color": "#FD5A1E"
-      },
-      {
-        "code": "STL",
-        "name": "St. Louis Cardinals",
-        "shortName": "Cardinals",
-        "color": "#C41E3A"
-      },
-      {
-        "code": "TBR",
-        "name": "Tampa Bay Rays",
-        "shortName": "Rays",
-        "color": "#092C5C"
-      },
-      {
-        "code": "TEX",
-        "name": "Texas Rangers",
-        "shortName": "Rangers",
-        "color": "#003278"
-      },
-      {
-        "code": "TOR",
-        "name": "Toronto Blue Jays",
-        "shortName": "Blue Jays",
-        "color": "#134A8E"
-      },
-      {
-        "code": "WSN",
-        "name": "Washington Nationals",
-        "shortName": "Nationals",
-        "color": "#AB0003"
       }
     ]
   }
