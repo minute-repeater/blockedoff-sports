@@ -5,7 +5,9 @@ import { ScheduleEvent } from "@/lib/types";
 export async function GET(request: NextRequest) {
   const { searchParams } = request.nextUrl;
   const tournamentId = searchParams.get("tournament");
-  const country = searchParams.get("country")?.toUpperCase();
+  const singleCode = searchParams.get("country")?.toUpperCase();
+  const multiCodes = searchParams.get("countries")?.toUpperCase().split(",").filter(Boolean);
+  const codes = multiCodes?.length ? multiCodes : singleCode ? [singleCode] : [];
   const sports = searchParams.get("sports")?.split(",").filter(Boolean);
 
   let events: ScheduleEvent[] = getAllEvents();
@@ -14,11 +16,11 @@ export async function GET(request: NextRequest) {
     events = events.filter((e) => e.tournamentId === tournamentId);
   }
 
-  if (country) {
+  if (codes.length > 0) {
     events = events.filter(
       (e) =>
         e.countryCodesInvolved.length === 0 ||
-        e.countryCodesInvolved.includes(country)
+        codes.some((c) => e.countryCodesInvolved.includes(c))
     );
   }
 

@@ -386,9 +386,11 @@ function ScheduleApp() {
   const [tournamentId, setTournamentId] = useState(
     searchParams.get("tournament") || ""
   );
-  const [countryCode, setCountryCode] = useState(
-    searchParams.get("country") || ""
+  const [countryCodes, setCountryCodes] = useState<string[]>(
+    searchParams.get("country")?.split(",").filter(Boolean) || []
   );
+  const countryCode = countryCodes[0] || "";
+  const setCountryCode = (code: string) => setCountryCodes(code ? [code] : []);
   const [selectedSports, setSelectedSports] = useState<Set<string>>(
     new Set(searchParams.get("sports")?.split(",").filter(Boolean) || [])
   );
@@ -529,11 +531,20 @@ function ScheduleApp() {
     [router]
   );
 
-  // Load tournaments on mount
+  // Next event per tournament (for step 1 cards)
+  const [nextEventsByTournament, setNextEventsByTournament] = useState<
+    Record<string, { summary: string; dateUTC: string }>
+  >({});
+
+  // Load tournaments + next events on mount
   useEffect(() => {
     fetch("/api/tournaments")
       .then((r) => r.json())
       .then(setTournaments);
+    fetch("/api/next-events")
+      .then((r) => r.json())
+      .then(setNextEventsByTournament)
+      .catch(() => {});
   }, []);
 
   // Load events when tournament + country change
@@ -543,8 +554,11 @@ function ScheduleApp() {
       return;
     }
     setLoading(true);
+    const codesParam = countryCodes.length > 1
+      ? `countries=${countryCodes.join(",")}`
+      : `country=${countryCode}`;
     fetch(
-      `/api/events?tournament=${tournamentId}&country=${countryCode}`
+      `/api/events?tournament=${tournamentId}&${codesParam}`
     )
       .then((r) => r.json())
       .then((data: ScheduleEvent[]) => {
@@ -629,6 +643,10 @@ function ScheduleApp() {
   // Calendar day selection for mini calendar
   const [selectedCalDay, setSelectedCalDay] = useState<string | null>(null);
 
+  // Schedule view mode and week navigation
+  const [scheduleView, setScheduleView] = useState<"list" | "week">("list");
+  const [weekOffset, setWeekOffset] = useState(0);
+
   // Group events by sport then phase
   const groupedEvents = useMemo(() => {
     const groups: Record<string, ScheduleEvent[]> = {};
@@ -639,6 +657,53 @@ function ScheduleApp() {
     }
     return groups;
   }, [filteredEvents]);
+
+  // Team record (W-L or W-L-D)
+  const teamRecord = useMemo(() => {
+    if (!countryCode || !filteredEvents.length) return null;
+    let w = 0, l = 0, d = 0, total = 0;
+    for (const ev of filteredEvents) {
+      const r = ev.result?.[countryCode];
+      if (!r || r === "N/A") continue;
+      total++;
+      if (r === "W") w++;
+      else if (r === "L") l++;
+      else if (r === "D") d++;
+    }
+    if (total === 0) return null;
+    return { w, l, d, total, hasDraw: d > 0 };
+  }, [filteredEvents, countryCode]);
+
+  // Week view data
+  const weekData = useMemo(() => {
+    const now = new Date();
+    const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    const dow = today.getDay(); // 0=Sun
+    const mondayOffset = dow === 0 ? -6 : 1 - dow;
+    const monday = new Date(today);
+    monday.setDate(today.getDate() + mondayOffset + weekOffset * 7);
+    const todayStr = today.toISOString().split("T")[0];
+
+    const days: { date: Date; dateStr: string; label: string; events: ScheduleEvent[]; isToday: boolean }[] = [];
+    for (let i = 0; i < 7; i++) {
+      const d = new Date(monday);
+      d.setDate(monday.getDate() + i);
+      const dateStr = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+      const dayEvents = filteredEvents.filter((ev) => {
+        const evDate = ev.dateUTC.split("T")[0];
+        return evDate === dateStr;
+      });
+      days.push({
+        date: d,
+        dateStr,
+        label: d.toLocaleDateString("en-US", { weekday: "short" }),
+        events: dayEvents,
+        isToday: dateStr === todayStr,
+      });
+    }
+    const weekLabel = `${monday.toLocaleDateString("en-US", { month: "short", day: "numeric" })} – ${days[6].date.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })}`;
+    return { days, weekLabel };
+  }, [filteredEvents, weekOffset]);
 
   // Selected country
   const selectedCountry = countries.find((c) => c.code === countryCode);
@@ -657,7 +722,11 @@ function ScheduleApp() {
 
   // Calendar URLs
   const calendarParams = new URLSearchParams();
-  if (countryCode) calendarParams.set("country", countryCode);
+  if (countryCodes.length > 1) {
+    calendarParams.set("countries", countryCodes.join(","));
+  } else if (countryCode) {
+    calendarParams.set("country", countryCode);
+  }
   if (tournamentId) calendarParams.set("tournament", tournamentId);
   if (selectedSports.size > 0 && selectedSports.size < availableSports.length) {
     calendarParams.set("sports", [...selectedSports].join(","));
@@ -674,9 +743,11 @@ function ScheduleApp() {
   const downloadUrl = `${calendarPath}&download=1`;
 
   // Handlers
+  const MAX_FREE_TEAMS = 3;
+
   function handleTournamentSelect(id: string) {
     setTournamentId(id);
-    setCountryCode("");
+    setCountryCodes([]);
     setSelectedSports(new Set());
     setEvents([]);
     setGenderFilter("all");
@@ -688,7 +759,7 @@ function ScheduleApp() {
   }
 
   function handleCountrySelect(c: Country) {
-    setCountryCode(c.code);
+    setCountryCodes([c.code]);
     setCountryDropdownOpen(false);
     setCountrySearch("");
     setSelectedSports(new Set());
@@ -697,10 +768,28 @@ function ScheduleApp() {
   }
 
   function handleTeamSelect(team: TeamEntry) {
-    setCountryCode(team.code);
+    setCountryCodes([team.code]);
     setSelectedSports(new Set());
     setGenderFilter("all");
     updateURL({ tournament: tournamentId, country: team.code });
+  }
+
+  function handleTeamToggle(team: TeamEntry) {
+    setCountryCodes((prev) => {
+      if (prev.includes(team.code)) {
+        return prev.filter((c) => c !== team.code);
+      }
+      const limit = proToken ? Infinity : MAX_FREE_TEAMS;
+      if (prev.length >= limit) return prev;
+      return [...prev, team.code];
+    });
+  }
+
+  function confirmTeamSelection() {
+    if (countryCodes.length === 0) return;
+    setSelectedSports(new Set());
+    setGenderFilter("all");
+    updateURL({ tournament: tournamentId, country: countryCodes.join(",") });
   }
 
   function handleSportToggle(sport: string) {
@@ -766,9 +855,10 @@ function ScheduleApp() {
   }
 
   // Step determination
+  const hasConfirmedSelection = !!searchParams.get("country");
   const step = !tournamentId
     ? "tournament"
-    : !countryCode
+    : (!countryCode || !hasConfirmedSelection)
       ? "country"
       : "schedule";
 
@@ -958,6 +1048,24 @@ function ScheduleApp() {
                         </span>
                       )}
                     </div>
+                    {nextEventsByTournament[t.id] && (
+                      <div className="mt-2.5 pt-2.5 border-t text-xs text-muted flex items-center gap-2" style={{ borderColor: "var(--border)" }}>
+                        <span className="live-dot shrink-0" style={{ width: 5, height: 5 }} />
+                        <span className="truncate">
+                          Next: <span className="text-foreground font-medium">{nextEventsByTournament[t.id].summary}</span>
+                        </span>
+                        <span className="shrink-0 text-accent font-medium ml-auto">
+                          {(() => {
+                            const diff = new Date(nextEventsByTournament[t.id].dateUTC).getTime() - Date.now();
+                            if (diff <= 0) return "Now";
+                            const h = Math.floor(diff / 3600000);
+                            if (h < 24) return `${h}h`;
+                            const d = Math.floor(h / 24);
+                            return `${d}d`;
+                          })()}
+                        </span>
+                      </div>
+                    )}
                   </button>
                 );
               })}
@@ -983,19 +1091,25 @@ function ScheduleApp() {
             </div>
 
             {isTeamBased && currentTournament?.teams ? (
+              <>
               <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2.5 sm:gap-3 max-w-2xl mx-auto">
-                {currentTournament.teams.map((team, idx) => (
+                {currentTournament.teams.map((team, idx) => {
+                  const isSelected = countryCodes.includes(team.code);
+                  return (
                   <button
                     key={team.code}
-                    onClick={() => handleTeamSelect(team)}
-                    className={`card-interactive px-3.5 py-3.5 text-sm flex items-center gap-2.5 group animate-in stagger-${Math.min(idx + 1, 8)}`}
-                    style={{ borderColor: "transparent" }}
-                    onMouseEnter={(e) =>
-                      (e.currentTarget.style.borderColor = team.color)
-                    }
-                    onMouseLeave={(e) =>
-                      (e.currentTarget.style.borderColor = "transparent")
-                    }
+                    onClick={() => handleTeamToggle(team)}
+                    className={`card-interactive px-3.5 py-3.5 text-sm flex items-center gap-2.5 group animate-in stagger-${Math.min(idx + 1, 8)} transition-all`}
+                    style={{
+                      borderColor: isSelected ? team.color : "transparent",
+                      backgroundColor: isSelected ? `${team.color}12` : undefined,
+                    }}
+                    onMouseEnter={(e) => {
+                      if (!isSelected) e.currentTarget.style.borderColor = team.color;
+                    }}
+                    onMouseLeave={(e) => {
+                      if (!isSelected) e.currentTarget.style.borderColor = "transparent";
+                    }}
                   >
                     {getTeamLogoUrl(tournamentId, team.code) ? (
                       <Image
@@ -1015,9 +1129,30 @@ function ScheduleApp() {
                     <span className="truncate font-medium">
                       {team.shortName}
                     </span>
+                    {isSelected && (
+                      <span className="ml-auto text-xs font-bold" style={{ color: team.color }}>✓</span>
+                    )}
                   </button>
-                ))}
+                  );
+                })}
               </div>
+              {countryCodes.length > 0 && (
+                <div className="flex flex-col items-center gap-3 mt-4 animate-in">
+                  <p className="text-xs text-muted">
+                    {countryCodes.length}/{proToken ? "∞" : MAX_FREE_TEAMS} teams selected
+                    {!proToken && countryCodes.length >= MAX_FREE_TEAMS && (
+                      <> · <button onClick={() => setShowProModal(true)} className="text-accent hover:underline">Upgrade for unlimited</button></>
+                    )}
+                  </p>
+                  <button
+                    onClick={confirmTeamSelection}
+                    className="btn-primary max-w-xs"
+                  >
+                    View Schedule →
+                  </button>
+                </div>
+              )}
+              </>
             ) : (
               <>
                 <div className="max-w-md mx-auto relative animate-in stagger-1">
@@ -1082,7 +1217,7 @@ function ScheduleApp() {
           <div className="space-y-6 animate-in">
             {/* Schedule header */}
             <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pt-1">
-              <div className="flex items-center gap-2.5">
+              <div className="flex items-center gap-2.5 flex-wrap">
                 {selectedTeam ? (
                   <>
                     <span
@@ -1093,7 +1228,9 @@ function ScheduleApp() {
                       className="text-lg sm:text-xl font-bold"
                       style={{ fontFamily: "var(--font-heading), system-ui, sans-serif" }}
                     >
-                      {selectedTeam.name}
+                      {countryCodes.length > 1
+                        ? countryCodes.map((c) => currentTournament?.teams?.find((t) => t.code === c)?.shortName || c).join(" + ")
+                        : selectedTeam.name}
                     </h2>
                   </>
                 ) : selectedCountry ? (
@@ -1109,6 +1246,19 @@ function ScheduleApp() {
                 ) : null}
                 <span className="text-muted text-sm">·</span>
                 <span className="text-muted text-sm">{currentTournament?.shortName}</span>
+                {teamRecord && (
+                  <span
+                    className="text-xs font-bold px-2.5 py-1 rounded-full"
+                    style={{
+                      backgroundColor: "color-mix(in srgb, var(--accent) 15%, transparent)",
+                      color: "var(--accent)",
+                    }}
+                  >
+                    {teamRecord.hasDraw
+                      ? `${teamRecord.w}W-${teamRecord.l}L-${teamRecord.d}D`
+                      : `${teamRecord.w}-${teamRecord.l}`}
+                  </span>
+                )}
               </div>
 
               {/* Timezone selector */}
@@ -1294,7 +1444,7 @@ function ScheduleApp() {
                       <li>📊 Pre-game context — H2H, injuries, odds</li>
                       <li>📋 Full box scores & starting lineups</li>
                       <li>⚡ 1-hour refresh (vs 6h free)</li>
-                      <li>🏟️ Multi-team feeds in one calendar</li>
+                      <li>🏟️ Unlimited teams in one calendar</li>
                     </ul>
                     <button
                       onClick={() => setShowProModal(true)}
@@ -1493,6 +1643,99 @@ function ScheduleApp() {
                     </div>
                   </div>
 
+                  {/* View toggle */}
+                  <div className="flex items-center justify-between">
+                    <div className="flex gap-1 p-1 rounded-lg" style={{ backgroundColor: "var(--surface)" }}>
+                      <button
+                        onClick={() => setScheduleView("list")}
+                        className={`px-3 py-1.5 rounded-md text-xs font-medium transition-all ${
+                          scheduleView === "list"
+                            ? "text-foreground font-bold"
+                            : "text-muted hover:text-foreground"
+                        }`}
+                        style={scheduleView === "list" ? { backgroundColor: "var(--accent)", color: "var(--accent-text)" } : {}}
+                      >
+                        List
+                      </button>
+                      <button
+                        onClick={() => setScheduleView("week")}
+                        className={`px-3 py-1.5 rounded-md text-xs font-medium transition-all ${
+                          scheduleView === "week"
+                            ? "text-foreground font-bold"
+                            : "text-muted hover:text-foreground"
+                        }`}
+                        style={scheduleView === "week" ? { backgroundColor: "var(--accent)", color: "var(--accent-text)" } : {}}
+                      >
+                        Week
+                      </button>
+                    </div>
+                    {scheduleView === "list" && (
+                      <span className="text-xs text-muted">{filteredEvents.length} events</span>
+                    )}
+                  </div>
+
+                  {scheduleView === "week" ? (
+                    /* ─── Week View ─── */
+                    <div className="card p-3 sm:p-4 space-y-3">
+                      <div className="flex items-center justify-between">
+                        <button onClick={() => setWeekOffset((w) => w - 1)} className="p-1.5 rounded-lg hover:bg-surface-hover text-muted hover:text-foreground transition-colors">
+                          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M15 18l-6-6 6-6"/></svg>
+                        </button>
+                        <span className="font-semibold text-sm" style={{ fontFamily: "var(--font-heading), system-ui, sans-serif" }}>
+                          {weekData.weekLabel}
+                        </span>
+                        <button onClick={() => setWeekOffset((w) => w + 1)} className="p-1.5 rounded-lg hover:bg-surface-hover text-muted hover:text-foreground transition-colors">
+                          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M9 18l6-6-6-6"/></svg>
+                        </button>
+                      </div>
+                      <div className="grid grid-cols-7 gap-1">
+                        {weekData.days.map((day) => (
+                          <div
+                            key={day.dateStr}
+                            className={`min-h-[90px] rounded-lg p-1.5 ${
+                              day.isToday ? "ring-1 ring-accent/40" : ""
+                            }`}
+                            style={{ backgroundColor: day.isToday ? "color-mix(in srgb, var(--accent) 5%, var(--surface))" : "var(--surface)" }}
+                          >
+                            <div className={`text-[10px] sm:text-xs font-medium mb-1 flex items-center justify-between ${day.isToday ? "text-accent" : "text-muted"}`}>
+                              <span>{day.label}</span>
+                              <span className={day.isToday ? "font-bold" : ""}>{day.date.getDate()}</span>
+                            </div>
+                            <div className="space-y-0.5">
+                              {day.events.map((ev) => (
+                                <button
+                                  key={ev.id}
+                                  onClick={() => { setScheduleView("list"); setSelectedCalDay(day.dateStr); }}
+                                  className="w-full text-left p-1 rounded hover:brightness-110 transition-all"
+                                  style={{ borderLeft: "2px solid var(--accent)", backgroundColor: "color-mix(in srgb, var(--accent) 8%, transparent)" }}
+                                >
+                                  <div className="text-[9px] sm:text-[10px] font-medium truncate text-foreground">{ev.summary}</div>
+                                  {ev.score ? (
+                                    <span className="text-[9px] sm:text-[10px] text-accent font-bold">{ev.score}</span>
+                                  ) : !ev.timeTBD ? (
+                                    <span className="text-[9px] sm:text-[10px] text-muted">
+                                      {new Date(ev.dateUTC).toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit", timeZone: timezone })}
+                                    </span>
+                                  ) : (
+                                    <span className="text-[9px] sm:text-[10px] text-muted">TBD</span>
+                                  )}
+                                </button>
+                              ))}
+                              {day.events.length === 0 && (
+                                <div className="text-[9px] text-muted/40 pt-1">No games</div>
+                              )}
+                            </div>
+                          </div>
+                        ))}
+                      </div>
+                      {weekOffset !== 0 && (
+                        <button onClick={() => setWeekOffset(0)} className="text-xs text-accent font-medium hover:underline">
+                          Back to this week
+                        </button>
+                      )}
+                    </div>
+                  ) : (
+                    <>
                   {/* Mini calendar preview */}
                   <MiniCalendar
                     events={filteredEvents}
@@ -1627,6 +1870,8 @@ function ScheduleApp() {
                         </div>
                       );
                     })
+                  )}
+                    </>
                   )}
                 </div>
               </div>
