@@ -589,6 +589,8 @@ function ScheduleApp() {
     return [...genders].sort();
   }, [events]);
 
+  const hasKnockouts = useMemo(() => events.some((e) => e.isKnockout), [events]);
+
   // Filtered events
   const filteredEvents = useMemo(() => {
     let filtered = events.filter((e) => selectedSports.has(e.sport));
@@ -1628,19 +1630,21 @@ function ScheduleApp() {
                       </div>
                     )}
 
-                    <div className="flex items-center gap-2">
-                      <label className="flex items-center gap-2 text-sm cursor-pointer">
-                        <input
-                          type="checkbox"
-                          checked={knockoutsOnly}
-                          onChange={handleKnockoutsToggle}
-                          className="accent-accent w-4 h-4"
-                        />
-                        <span className="text-muted">
-                          Finals & knockouts only
-                        </span>
-                      </label>
-                    </div>
+                    {hasKnockouts && (
+                      <div className="flex items-center gap-2">
+                        <label className="flex items-center gap-2 text-sm cursor-pointer">
+                          <input
+                            type="checkbox"
+                            checked={knockoutsOnly}
+                            onChange={handleKnockoutsToggle}
+                            className="accent-accent w-4 h-4"
+                          />
+                          <span className="text-muted">
+                            Finals & knockouts only
+                          </span>
+                        </label>
+                      </div>
+                    )}
                   </div>
 
                   {/* View toggle */}
