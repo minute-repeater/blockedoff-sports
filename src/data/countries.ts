@@ -60,7 +60,7 @@ const countriesRaw: { code: string; name: string; alpha2: string }[] = [
   { code: "TUN", name: "Tunisia", alpha2: "TN" },
   { code: "EGY", name: "Egypt", alpha2: "EG" },
   { code: "CPV", name: "Cape Verde", alpha2: "CV" },
-  { code: "SAA", name: "Saudi Arabia", alpha2: "SA" },
+  { code: "SAU", name: "Saudi Arabia", alpha2: "SA" },
   { code: "URY", name: "Uruguay", alpha2: "UY" },
   { code: "DZA", name: "Algeria", alpha2: "DZ" },
   { code: "JOR", name: "Jordan", alpha2: "JO" },

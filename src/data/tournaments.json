@@ -1,5 +1,18 @@
 [
   {
+    "id": "wc2026",
+    "name": "FIFA World Cup 2026",
+    "shortName": "World Cup 2026",
+    "year": 2026,
+    "startDate": "2026-06-11",
+    "endDate": "2026-07-19",
+    "location": "USA, Canada & Mexico",
+    "sports": [
+      "soccer"
+    ],
+    "selectionType": "country"
+  },
+  {
     "id": "mlb-2026",
     "name": "MLB 2026 Season",
     "shortName": "MLB 2026",
@@ -607,19 +620,6 @@
         "color": "#002B5C"
       }
     ]
-  },
-  {
-    "id": "wc2026",
-    "name": "FIFA World Cup 2026",
-    "shortName": "World Cup 2026",
-    "year": 2026,
-    "startDate": "2026-06-11",
-    "endDate": "2026-07-19",
-    "location": "USA, Canada & Mexico",
-    "sports": [
-      "soccer"
-    ],
-    "selectionType": "country"
   },
   {
     "id": "march-madness-2026",

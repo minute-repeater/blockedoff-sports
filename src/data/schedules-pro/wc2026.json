@@ -14,7 +14,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Estadio Azteca",
-    "city": "Mexico City"
+    "city": "Mexico City",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Mexico lead 5-2-1 in 8 meetings",
+        "formGuide": "Mexico: LDWWW | South Africa: WWWWL",
+        "bettingLine": "Mexico -1.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-b-m1",
@@ -31,7 +56,27 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Estadio Akron",
-    "city": "Guadalajara"
+    "city": "Guadalajara",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-grp-c-m1",
@@ -48,7 +93,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Estadio BBVA",
-    "city": "Monterrey"
+    "city": "Monterrey",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Brazil lead 2-1-5 in 8 meetings",
+        "formGuide": "Brazil: LWWWL | Morocco: WLWWL",
+        "bettingLine": "Brazil -1.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-a-m2",
@@ -65,7 +135,27 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Estadio Akron",
-    "city": "Guadalajara"
+    "city": "Guadalajara",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-grp-b-m2",
@@ -82,7 +172,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Estadio BBVA",
-    "city": "Monterrey"
+    "city": "Monterrey",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Even series: 2-2-3 in 7 meetings",
+        "formGuide": "Qatar: DDWLD | Switzerland: LWWDW",
+        "bettingLine": "Switzerland -1.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-c-m2",
@@ -99,7 +214,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "BMO Field",
-    "city": "Toronto"
+    "city": "Toronto",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Haiti lead 2-0-1 in 3 meetings",
+        "formGuide": "Haiti: DDWWL | Scotland: WDLDW",
+        "bettingLine": "Haiti -0.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-d-m1",
@@ -116,7 +256,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "BMO Field",
-    "city": "Toronto"
+    "city": "Toronto",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "United States lead 3-1-2 in 6 meetings",
+        "formGuide": "United States: WLLDW | Paraguay: WLDWL",
+        "bettingLine": "Paraguay -1.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-e-m1",
@@ -133,7 +298,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "BC Place",
-    "city": "Vancouver"
+    "city": "Vancouver",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Curaçao lead 3-2-0 in 5 meetings",
+        "formGuide": "Germany: WWWWW | Curaçao: DWWWW",
+        "bettingLine": "Germany -1.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-f-m1",
@@ -150,7 +340,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "SoFi Stadium",
-    "city": "Los Angeles"
+    "city": "Los Angeles",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Even series: 0-0-3 in 3 meetings",
+        "formGuide": "Netherlands: WDWWL | Japan: WLWWW",
+        "bettingLine": "Netherlands -0.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-d-m2",
@@ -167,7 +382,27 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "BC Place",
-    "city": "Vancouver"
+    "city": "Vancouver",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-grp-e-m2",
@@ -184,7 +419,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "SoFi Stadium",
-    "city": "Los Angeles"
+    "city": "Los Angeles",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Ecuador lead 5-2-0 in 7 meetings",
+        "formGuide": "Ivory Coast: LWWWD | Ecuador: LWLWW",
+        "bettingLine": "Ecuador -0.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-f-m2",
@@ -201,7 +461,27 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Levi's Stadium",
-    "city": "San Francisco"
+    "city": "San Francisco",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-grp-g-m1",
@@ -218,7 +498,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Levi's Stadium",
-    "city": "San Francisco"
+    "city": "San Francisco",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Egypt lead 6-2-0 in 8 meetings",
+        "formGuide": "Belgium: WWDWW | Egypt: LWWWD",
+        "bettingLine": "Egypt -1.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-h-m1",
@@ -235,7 +540,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Lumen Field",
-    "city": "Seattle"
+    "city": "Seattle",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Spain lead 6-1-0 in 7 meetings",
+        "formGuide": "Spain: DDDWL | Cape Verde: DLDLL",
+        "bettingLine": "Spain -0.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-i-m1",
@@ -252,7 +582,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "AT&T Stadium",
-    "city": "Dallas"
+    "city": "Dallas",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "France lead 2-0-2 in 4 meetings",
+        "formGuide": "France: LDLWW | Senegal: DLLWW",
+        "bettingLine": "France -0.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-g-m2",
@@ -269,7 +624,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Lumen Field",
-    "city": "Seattle"
+    "city": "Seattle",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Iran lead 2-1-2 in 5 meetings",
+        "formGuide": "Iran: DWWWW | New Zealand: WWLWW",
+        "bettingLine": "Iran -1.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-h-m2",
@@ -286,7 +666,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "AT&T Stadium",
-    "city": "Dallas"
+    "city": "Dallas",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Uruguay lead 6-2-0 in 8 meetings",
+        "formGuide": "Saudi Arabia: WWDWW | Uruguay: WWWWW",
+        "bettingLine": "Saudi Arabia -0.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-i-m2",
@@ -303,7 +708,27 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "NRG Stadium",
-    "city": "Houston"
+    "city": "Houston",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-grp-j-m1",
@@ -320,7 +745,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "NRG Stadium",
-    "city": "Houston"
+    "city": "Houston",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Argentina lead 2-1-0 in 3 meetings",
+        "formGuide": "Argentina: LWWLW | Algeria: WWWWD",
+        "bettingLine": "Argentina -1.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-k-m1",
@@ -337,7 +787,27 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "GEHA Field at Arrowhead",
-    "city": "Kansas City"
+    "city": "Kansas City",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-grp-l-m1",
@@ -354,7 +824,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Mercedes-Benz Stadium",
-    "city": "Atlanta"
+    "city": "Atlanta",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "England lead 2-1-2 in 5 meetings",
+        "formGuide": "England: WLDDL | Croatia: WWWLW",
+        "bettingLine": "Croatia -1.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-j-m2",
@@ -371,7 +866,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "GEHA Field at Arrowhead",
-    "city": "Kansas City"
+    "city": "Kansas City",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Jordan lead 7-0-0 in 7 meetings",
+        "formGuide": "Austria: WWWLW | Jordan: WLWLW",
+        "bettingLine": "Jordan -0.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-k-m2",
@@ -388,7 +908,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Mercedes-Benz Stadium",
-    "city": "Atlanta"
+    "city": "Atlanta",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Colombia lead 2-0-4 in 6 meetings",
+        "formGuide": "Uzbekistan: LWWLD | Colombia: WDWLL",
+        "bettingLine": "Colombia -0.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-l-m2",
@@ -405,7 +950,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Hard Rock Stadium",
-    "city": "Miami"
+    "city": "Miami",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Ghana lead 5-2-1 in 8 meetings",
+        "formGuide": "Ghana: WWWLD | Panama: WWWLW",
+        "bettingLine": "Ghana -0.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-a-m4",
@@ -422,7 +992,27 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "BMO Field",
-    "city": "Toronto"
+    "city": "Toronto",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-grp-b-m4",
@@ -439,7 +1029,27 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "BC Place",
-    "city": "Vancouver"
+    "city": "Vancouver",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-grp-c-m4",
@@ -456,7 +1066,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "SoFi Stadium",
-    "city": "Los Angeles"
+    "city": "Los Angeles",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Morocco lead 5-3-0 in 8 meetings",
+        "formGuide": "Morocco: WLWWL | Scotland: WDLDW",
+        "bettingLine": "Scotland -0.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-a-m3",
@@ -473,7 +1108,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Estadio BBVA",
-    "city": "Monterrey"
+    "city": "Monterrey",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Mexico lead 4-1-2 in 7 meetings",
+        "formGuide": "Mexico: LDWWW | South Korea: DWWDD",
+        "bettingLine": "South Korea -1.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-b-m3",
@@ -490,7 +1150,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "BMO Field",
-    "city": "Toronto"
+    "city": "Toronto",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Even series: 0-0-3 in 3 meetings",
+        "formGuide": "Canada: DWWLW | Qatar: DDWLD",
+        "bettingLine": "Canada -1.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-c-m3",
@@ -507,7 +1192,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "BC Place",
-    "city": "Vancouver"
+    "city": "Vancouver",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Even series: 2-2-1 in 5 meetings",
+        "formGuide": "Brazil: LWWWL | Haiti: DDWWL",
+        "bettingLine": "Haiti -0.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-d-m4",
@@ -524,7 +1234,27 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Levi's Stadium",
-    "city": "San Francisco"
+    "city": "San Francisco",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-grp-e-m4",
@@ -541,7 +1271,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Lumen Field",
-    "city": "Seattle"
+    "city": "Seattle",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Curaçao lead 6-0-0 in 6 meetings",
+        "formGuide": "Curaçao: DWWWW | Ecuador: LWLWW",
+        "bettingLine": "Ecuador -0.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-f-m4",
@@ -558,7 +1313,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "AT&T Stadium",
-    "city": "Dallas"
+    "city": "Dallas",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Even series: 2-2-0 in 4 meetings",
+        "formGuide": "Japan: WLWWW | Tunisia: LWWLW",
+        "bettingLine": "Tunisia -1.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-d-m3",
@@ -575,7 +1355,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "SoFi Stadium",
-    "city": "Los Angeles"
+    "city": "Los Angeles",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "United States lead 3-0-1 in 4 meetings",
+        "formGuide": "United States: WLLDW | Australia: DDWWW",
+        "bettingLine": "United States -1.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-e-m3",
@@ -592,7 +1397,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Levi's Stadium",
-    "city": "San Francisco"
+    "city": "San Francisco",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Germany lead 8-0-0 in 8 meetings",
+        "formGuide": "Germany: WWWWW | Ivory Coast: LWWWD",
+        "bettingLine": "Germany -0.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-f-m3",
@@ -609,7 +1439,27 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Lumen Field",
-    "city": "Seattle"
+    "city": "Seattle",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-grp-g-m4",
@@ -626,7 +1476,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "NRG Stadium",
-    "city": "Houston"
+    "city": "Houston",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "New Zealand lead 3-0-0 in 3 meetings",
+        "formGuide": "Egypt: LWWWD | New Zealand: WWLWW",
+        "bettingLine": "Egypt -1.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-h-m4",
@@ -643,7 +1518,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "GEHA Field at Arrowhead",
-    "city": "Kansas City"
+    "city": "Kansas City",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Cape Verde lead 5-0-3 in 8 meetings",
+        "formGuide": "Cape Verde: DLDLL | Uruguay: WWWWW",
+        "bettingLine": "Uruguay -0.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-i-m4",
@@ -660,7 +1560,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Mercedes-Benz Stadium",
-    "city": "Atlanta"
+    "city": "Atlanta",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Senegal lead 2-0-3 in 5 meetings",
+        "formGuide": "Senegal: DLLWW | Norway: WWLDW",
+        "bettingLine": "Senegal -0.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-g-m3",
@@ -677,7 +1602,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "AT&T Stadium",
-    "city": "Dallas"
+    "city": "Dallas",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Iran lead 3-2-0 in 5 meetings",
+        "formGuide": "Belgium: WWDWW | Iran: DWWWW",
+        "bettingLine": "Belgium -0.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-h-m3",
@@ -694,7 +1644,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "NRG Stadium",
-    "city": "Houston"
+    "city": "Houston",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Saudi Arabia lead 3-1-2 in 6 meetings",
+        "formGuide": "Spain: DDDWL | Saudi Arabia: WWDWW",
+        "bettingLine": "Saudi Arabia -1.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-i-m3",
@@ -711,7 +1686,27 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "GEHA Field at Arrowhead",
-    "city": "Kansas City"
+    "city": "Kansas City",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-grp-j-m4",
@@ -728,7 +1723,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Hard Rock Stadium",
-    "city": "Miami"
+    "city": "Miami",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Jordan lead 3-2-1 in 6 meetings",
+        "formGuide": "Algeria: WWWWD | Jordan: WLWLW",
+        "bettingLine": "Algeria -0.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-k-m4",
@@ -745,7 +1765,27 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "MetLife Stadium",
-    "city": "East Rutherford"
+    "city": "East Rutherford",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-grp-l-m4",
@@ -762,7 +1802,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Gillette Stadium",
-    "city": "Foxborough"
+    "city": "Foxborough",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Panama lead 3-2-2 in 7 meetings",
+        "formGuide": "Croatia: WWWLW | Panama: WWWLW",
+        "bettingLine": "Panama -0.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-j-m3",
@@ -779,7 +1844,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Mercedes-Benz Stadium",
-    "city": "Atlanta"
+    "city": "Atlanta",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Argentina lead 3-1-0 in 4 meetings",
+        "formGuide": "Argentina: LWWLW | Austria: WWWLW",
+        "bettingLine": "Argentina -0.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-k-m3",
@@ -796,7 +1886,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Hard Rock Stadium",
-    "city": "Miami"
+    "city": "Miami",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Portugal lead 2-1-2 in 5 meetings",
+        "formGuide": "Portugal: WWWDW | Uzbekistan: LWWLD",
+        "bettingLine": "Portugal -0.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-l-m3",
@@ -813,7 +1928,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "MetLife Stadium",
-    "city": "East Rutherford"
+    "city": "East Rutherford",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "England lead 5-3-0 in 8 meetings",
+        "formGuide": "England: WLDDL | Ghana: WWWLD",
+        "bettingLine": "Ghana -1.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-a-m5",
@@ -830,7 +1970,27 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "BC Place",
-    "city": "Vancouver"
+    "city": "Vancouver",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-grp-b-m5",
@@ -847,7 +2007,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "SoFi Stadium",
-    "city": "Los Angeles"
+    "city": "Los Angeles",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Switzerland lead 3-0-0 in 3 meetings",
+        "formGuide": "Canada: DWWLW | Switzerland: LWWDW",
+        "bettingLine": "Switzerland -0.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-c-m5",
@@ -864,7 +2049,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Levi's Stadium",
-    "city": "San Francisco"
+    "city": "San Francisco",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Scotland lead 3-2-0 in 5 meetings",
+        "formGuide": "Brazil: LWWWL | Scotland: WDLDW",
+        "bettingLine": "Brazil -0.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-a-m6",
@@ -881,7 +2091,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "SoFi Stadium",
-    "city": "Los Angeles"
+    "city": "Los Angeles",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "South Africa lead 1-0-2 in 3 meetings",
+        "formGuide": "South Korea: DWWDD | South Africa: WWWWL",
+        "bettingLine": "South Korea -1.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-b-m6",
@@ -898,7 +2133,27 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Levi's Stadium",
-    "city": "San Francisco"
+    "city": "San Francisco",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-grp-c-m6",
@@ -915,7 +2170,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Lumen Field",
-    "city": "Seattle"
+    "city": "Seattle",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Morocco lead 4-2-0 in 6 meetings",
+        "formGuide": "Haiti: DDWWL | Morocco: WLWWL",
+        "bettingLine": "Haiti -0.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-d-m5",
@@ -932,7 +2212,27 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Lumen Field",
-    "city": "Seattle"
+    "city": "Seattle",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-grp-e-m5",
@@ -949,7 +2249,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "AT&T Stadium",
-    "city": "Dallas"
+    "city": "Dallas",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Germany lead 5-0-1 in 6 meetings",
+        "formGuide": "Germany: WWWWW | Ecuador: LWLWW",
+        "bettingLine": "Germany -0.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-f-m5",
@@ -966,7 +2291,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "NRG Stadium",
-    "city": "Houston"
+    "city": "Houston",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Netherlands lead 4-1-2 in 7 meetings",
+        "formGuide": "Netherlands: WDWWL | Tunisia: LWWLW",
+        "bettingLine": "Netherlands -0.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-d-m6",
@@ -983,7 +2333,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "AT&T Stadium",
-    "city": "Dallas"
+    "city": "Dallas",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Australia lead 4-0-2 in 6 meetings",
+        "formGuide": "Australia: DDWWW | Paraguay: WLDWL",
+        "bettingLine": "Paraguay -1.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-e-m6",
@@ -1000,7 +2375,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "NRG Stadium",
-    "city": "Houston"
+    "city": "Houston",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Ivory Coast lead 2-1-0 in 3 meetings",
+        "formGuide": "Ivory Coast: LWWWD | Curaçao: DWWWW",
+        "bettingLine": "Curaçao -1.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-f-m6",
@@ -1017,7 +2417,27 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "GEHA Field at Arrowhead",
-    "city": "Kansas City"
+    "city": "Kansas City",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-grp-g-m5",
@@ -1034,7 +2454,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "GEHA Field at Arrowhead",
-    "city": "Kansas City"
+    "city": "Kansas City",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Even series: 2-2-3 in 7 meetings",
+        "formGuide": "Belgium: WWDWW | New Zealand: WWLWW",
+        "bettingLine": "Belgium -0.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-h-m5",
@@ -1051,7 +2496,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Mercedes-Benz Stadium",
-    "city": "Atlanta"
+    "city": "Atlanta",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Spain lead 4-0-3 in 7 meetings",
+        "formGuide": "Spain: DDDWL | Uruguay: WWWWW",
+        "bettingLine": "Uruguay -1.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-i-m5",
@@ -1068,7 +2538,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Hard Rock Stadium",
-    "city": "Miami"
+    "city": "Miami",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "France lead 6-0-1 in 7 meetings",
+        "formGuide": "France: LDLWW | Norway: WWLDW",
+        "bettingLine": "France -1.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-g-m6",
@@ -1085,7 +2580,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Mercedes-Benz Stadium",
-    "city": "Atlanta"
+    "city": "Atlanta",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Iran lead 3-1-0 in 4 meetings",
+        "formGuide": "Iran: DWWWW | Egypt: LWWWD",
+        "bettingLine": "Egypt -1.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-h-m6",
@@ -1102,7 +2622,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Hard Rock Stadium",
-    "city": "Miami"
+    "city": "Miami",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Saudi Arabia lead 4-0-2 in 6 meetings",
+        "formGuide": "Saudi Arabia: WWDWW | Cape Verde: DLDLL",
+        "bettingLine": "Saudi Arabia -1.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-i-m6",
@@ -1119,7 +2664,27 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "MetLife Stadium",
-    "city": "East Rutherford"
+    "city": "East Rutherford",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-grp-j-m5",
@@ -1136,7 +2701,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "MetLife Stadium",
-    "city": "East Rutherford"
+    "city": "East Rutherford",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Argentina lead 4-0-3 in 7 meetings",
+        "formGuide": "Argentina: LWWLW | Jordan: WLWLW",
+        "bettingLine": "Argentina -0.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-k-m5",
@@ -1153,7 +2743,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Gillette Stadium",
-    "city": "Foxborough"
+    "city": "Foxborough",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Colombia lead 3-0-3 in 6 meetings",
+        "formGuide": "Portugal: WWWDW | Colombia: WDWLL",
+        "bettingLine": "Colombia -1.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-l-m5",
@@ -1170,7 +2785,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Lincoln Financial Field",
-    "city": "Philadelphia"
+    "city": "Philadelphia",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Panama lead 2-1-1 in 4 meetings",
+        "formGuide": "England: WLDDL | Panama: WWWLW",
+        "bettingLine": "Panama -1.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-j-m6",
@@ -1187,7 +2827,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Gillette Stadium",
-    "city": "Foxborough"
+    "city": "Foxborough",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Austria lead 2-1-2 in 5 meetings",
+        "formGuide": "Austria: WWWLW | Algeria: WWWWD",
+        "bettingLine": "Algeria -1.5, O/U 2.5"
+      }
+    }
   },
   {
     "id": "wc26-grp-k-m6",
@@ -1204,7 +2869,27 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Lincoln Financial Field",
-    "city": "Philadelphia"
+    "city": "Philadelphia",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-grp-l-m6",
@@ -1221,7 +2906,32 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Estadio Azteca",
-    "city": "Mexico City"
+    "city": "Mexico City",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Ghana lead 6-0-0 in 6 meetings",
+        "formGuide": "Ghana: WWWLD | Croatia: WWWLW",
+        "bettingLine": "Ghana -0.5, O/U 3.5"
+      }
+    }
   },
   {
     "id": "wc26-r32-1",
@@ -1235,7 +2945,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "BMO Field",
-    "city": "Toronto"
+    "city": "Toronto",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r32-2",
@@ -1249,7 +2979,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "BC Place",
-    "city": "Vancouver"
+    "city": "Vancouver",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r32-3",
@@ -1263,7 +3013,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Gillette Stadium",
-    "city": "Foxborough"
+    "city": "Foxborough",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r32-4",
@@ -1277,7 +3047,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "NRG Stadium",
-    "city": "Houston"
+    "city": "Houston",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r32-5",
@@ -1291,7 +3081,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Hard Rock Stadium",
-    "city": "Miami"
+    "city": "Miami",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r32-6",
@@ -1305,7 +3115,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "AT&T Stadium",
-    "city": "Dallas"
+    "city": "Dallas",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r32-8",
@@ -1319,7 +3149,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "GEHA Field at Arrowhead",
-    "city": "Kansas City"
+    "city": "Kansas City",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r32-9",
@@ -1333,7 +3183,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "BMO Field",
-    "city": "Toronto"
+    "city": "Toronto",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r32-7",
@@ -1347,7 +3217,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Lincoln Financial Field",
-    "city": "Philadelphia"
+    "city": "Philadelphia",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r32-12",
@@ -1357,11 +3247,31 @@
     "isKnockout": true,
     "summary": "Round of 32 (TBD)",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-06-31T00:00:00Z",
+    "dateUTC": "2026-07-01T00:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Hard Rock Stadium",
-    "city": "Miami"
+    "city": "Miami",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r32-10",
@@ -1371,11 +3281,31 @@
     "isKnockout": true,
     "summary": "Round of 32 (TBD)",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-06-31T18:00:00Z",
+    "dateUTC": "2026-07-01T18:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Gillette Stadium",
-    "city": "Foxborough"
+    "city": "Foxborough",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r32-11",
@@ -1385,11 +3315,31 @@
     "isKnockout": true,
     "summary": "Round of 32 (TBD)",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-06-31T21:00:00Z",
+    "dateUTC": "2026-07-01T21:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Estadio Azteca",
-    "city": "Mexico City"
+    "city": "Mexico City",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r32-13",
@@ -1399,11 +3349,31 @@
     "isKnockout": true,
     "summary": "Round of 32 (TBD)",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-06-32T15:00:00Z",
+    "dateUTC": "2026-07-02T15:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "MetLife Stadium",
-    "city": "East Rutherford"
+    "city": "East Rutherford",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r32-14",
@@ -1413,11 +3383,31 @@
     "isKnockout": true,
     "summary": "Round of 32 (TBD)",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-06-32T18:00:00Z",
+    "dateUTC": "2026-07-02T18:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "BC Place",
-    "city": "Vancouver"
+    "city": "Vancouver",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r32-15",
@@ -1427,11 +3417,31 @@
     "isKnockout": true,
     "summary": "Round of 32 (TBD)",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-06-32T21:00:00Z",
+    "dateUTC": "2026-07-02T21:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Estadio Azteca",
-    "city": "Mexico City"
+    "city": "Mexico City",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r32-16",
@@ -1441,11 +3451,31 @@
     "isKnockout": true,
     "summary": "Round of 32 (TBD)",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-06-33T00:00:00Z",
+    "dateUTC": "2026-07-03T00:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Estadio BBVA",
-    "city": "Monterrey"
+    "city": "Monterrey",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r16-1",
@@ -1459,7 +3489,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "SoFi Stadium",
-    "city": "Los Angeles"
+    "city": "Los Angeles",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r16-2",
@@ -1473,7 +3523,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "MetLife Stadium",
-    "city": "East Rutherford"
+    "city": "East Rutherford",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r16-4",
@@ -1487,7 +3557,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Hard Rock Stadium",
-    "city": "Miami"
+    "city": "Miami",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r16-3",
@@ -1501,7 +3591,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Lumen Field",
-    "city": "Seattle"
+    "city": "Seattle",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r16-5",
@@ -1515,7 +3625,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Estadio BBVA",
-    "city": "Monterrey"
+    "city": "Monterrey",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r16-6",
@@ -1529,7 +3659,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Lumen Field",
-    "city": "Seattle"
+    "city": "Seattle",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r16-8",
@@ -1543,7 +3693,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Mercedes-Benz Stadium",
-    "city": "Atlanta"
+    "city": "Atlanta",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-r16-7",
@@ -1557,7 +3727,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Estadio Azteca",
-    "city": "Mexico City"
+    "city": "Mexico City",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-qf-3",
@@ -1571,7 +3761,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Estadio BBVA",
-    "city": "Monterrey"
+    "city": "Monterrey",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-qf-4",
@@ -1585,7 +3795,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Estadio BBVA",
-    "city": "Monterrey"
+    "city": "Monterrey",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-sf-1",
@@ -1599,7 +3829,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "MetLife Stadium",
-    "city": "East Rutherford"
+    "city": "East Rutherford",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-sf-2",
@@ -1613,7 +3863,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Estadio Azteca",
-    "city": "Mexico City"
+    "city": "Mexico City",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-3rd",
@@ -1627,7 +3897,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Hard Rock Stadium",
-    "city": "Miami"
+    "city": "Miami",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-final",
@@ -1641,7 +3931,27 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "MetLife Stadium",
-    "city": "East Rutherford"
+    "city": "East Rutherford",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-qf-1",
@@ -1651,11 +3961,31 @@
     "isKnockout": true,
     "summary": "Quarter-Final (TBD)",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-07-9T18:00:00Z",
+    "dateUTC": "2026-07-09T18:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Levi's Stadium",
-    "city": "San Francisco"
+    "city": "San Francisco",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   },
   {
     "id": "wc26-qf-2",
@@ -1665,10 +3995,30 @@
     "isKnockout": true,
     "summary": "Quarter-Final (TBD)",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-07-9T21:00:00Z",
+    "dateUTC": "2026-07-09T21:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "GEHA Field at Arrowhead",
-    "city": "Kansas City"
+    "city": "Kansas City",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
   }
 ]

@@ -987,8 +987,8 @@ function ScheduleApp() {
                 Never miss a match
               </h1>
               <p className="text-muted text-base sm:text-lg max-w-xl mx-auto leading-relaxed">
-                Get a live-updating calendar subscription for your team&apos;s
-                games. Pick a tournament to get started.
+                The FIFA World Cup 2026 is here — get a live-updating calendar
+                for your nation&apos;s matches. Or pick any tournament below.
               </p>
               <div className="flex items-center justify-center gap-4">
                 <Link
@@ -1004,8 +1004,68 @@ function ScheduleApp() {
                 calendars subscribed
               </p>
             </div>
+            {(() => {
+              const wc = tournaments.find((t) => t.id === "wc2026");
+              if (!wc) return null;
+              const next = nextEventsByTournament["wc2026"];
+              const kickoff = next
+                ? new Date(next.dateUTC)
+                : new Date(wc.startDate + "T00:00:00Z");
+              const days = Math.ceil((kickoff.getTime() - Date.now()) / 86400000);
+              const countdown =
+                days > 1
+                  ? `Kicks off in ${days} days`
+                  : days === 1
+                  ? "Kicks off tomorrow"
+                  : days === 0
+                  ? "Kicks off today"
+                  : "Tournament underway";
+              const startMonth = new Date(wc.startDate + "T00:00:00Z").toLocaleDateString("en-US", { month: "short", timeZone: "UTC" });
+              const endMonth = new Date(wc.endDate + "T00:00:00Z").toLocaleDateString("en-US", { month: "short", year: "numeric", timeZone: "UTC" });
+              const WcIcon = getTournamentIcon("wc2026");
+              return (
+                <button
+                  onClick={() => handleTournamentSelect("wc2026")}
+                  className="group block w-full max-w-2xl mx-auto text-left card-interactive p-6 sm:p-8 relative overflow-hidden animate-in"
+                  style={{ borderImage: "linear-gradient(135deg, #22c55e, #3b82f6, #8b5cf6) 1", borderWidth: "1px", borderStyle: "solid" }}
+                >
+                  <div className="absolute inset-0 opacity-[0.07] pointer-events-none" style={{ background: "radial-gradient(circle at 85% 15%, #22c55e, transparent 60%)" }} />
+                  <div className="relative flex items-start justify-between gap-4">
+                    <div className="min-w-0">
+                      <div className="flex items-center gap-2 text-[11px] font-semibold tracking-wider uppercase text-accent">
+                        <span className="live-dot shrink-0" /> Featured event
+                      </div>
+                      <div className="mt-2 text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight gradient-text" style={{ fontFamily: "var(--font-heading), system-ui, sans-serif" }}>
+                        FIFA World Cup 2026
+                      </div>
+                      <div className="mt-2 text-xs sm:text-sm text-muted flex flex-wrap items-center gap-x-2 gap-y-1">
+                        <span className="text-base">🇺🇸 🇨🇦 🇲🇽</span>
+                        <span className="text-border">·</span>
+                        <span>{wc.location}</span>
+                        <span className="text-border">·</span>
+                        <span>{startMonth} – {endMonth}</span>
+                      </div>
+                    </div>
+                    {WcIcon && (
+                      <div className="text-accent opacity-50 group-hover:opacity-80 transition-opacity shrink-0 scale-125 sm:scale-150 origin-top-right">
+                        <WcIcon />
+                      </div>
+                    )}
+                  </div>
+                  <div className="relative mt-4 flex flex-wrap items-center gap-3">
+                    <span className="inline-flex items-center text-sm font-semibold text-accent">
+                      Get your country&apos;s calendar &rarr;
+                    </span>
+                    <span className="text-xs text-muted flex items-center gap-1.5 ml-auto">
+                      <span className="live-dot shrink-0" style={{ width: 5, height: 5 }} />
+                      {countdown}
+                    </span>
+                  </div>
+                </button>
+              );
+            })()}
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-5 max-w-2xl mx-auto">
-              {tournaments.map((t, idx) => {
+              {tournaments.filter((t) => t.id !== "wc2026").map((t, idx) => {
                 const startMonth = new Date(t.startDate + "T00:00:00Z").toLocaleDateString("en-US", { month: "short", timeZone: "UTC" });
                 const endMonth = new Date(t.endDate + "T00:00:00Z").toLocaleDateString("en-US", { month: "short", year: "numeric", timeZone: "UTC" });
                 const dateRange = startMonth === endMonth.split(" ")[0]
