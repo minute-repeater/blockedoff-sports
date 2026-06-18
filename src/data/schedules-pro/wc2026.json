@@ -1065,6 +1065,11 @@
     "durationMinutes": 120,
     "venue": "SoFi Stadium",
     "city": "Inglewood, California",
+    "score": "4-1",
+    "result": {
+      "CHE": "W",
+      "BIH": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1083,12 +1088,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Switzerland lead 4-1-1 in 6 meetings",
-        "formGuide": "Switzerland: LWWLD | Bosnia-Herzegovina: undefinedundefinedundefinedundefinedundefined",
-        "bettingLine": "Switzerland -1.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
