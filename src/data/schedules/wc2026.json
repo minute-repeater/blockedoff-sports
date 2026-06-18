@@ -542,7 +542,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Mercedes-Benz Stadium",
-    "city": "Atlanta, Georgia"
+    "city": "Atlanta, Georgia",
+    "score": "1-1",
+    "result": {
+      "CZE": "D",
+      "ZAF": "D"
+    }
   },
   {
     "id": "wc26-760439",

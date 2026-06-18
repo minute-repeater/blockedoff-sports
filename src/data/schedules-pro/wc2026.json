@@ -1023,6 +1023,11 @@
     "durationMinutes": 120,
     "venue": "Mercedes-Benz Stadium",
     "city": "Atlanta, Georgia",
+    "score": "1-1",
+    "result": {
+      "CZE": "D",
+      "ZAF": "D"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1041,12 +1046,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Czechia lead 1--5-10 in 6 meetings",
-        "formGuide": "Czechia: DLWLW | South Africa: WundefinedundefinedWundefined",
-        "bettingLine": "Czechia -1.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
