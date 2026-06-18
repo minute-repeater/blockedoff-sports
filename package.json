@@ -4,9 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "node scripts/validate-schedules.mjs && next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "validate": "node scripts/validate-schedules.mjs",
+    "update:wc": "node scripts/update-world-cup.mjs"
   },
   "dependencies": {
     "@types/qrcode": "^1.5.6",

@@ -1,0 +1,61 @@
+name: Update World Cup schedule
+
+# Keeps src/data/schedules/wc2026.json in sync with ESPN's live FIFA World Cup
+# data (real knockout teams, kickoff times, venues, scores). Commits only when the
+# schedule actually changes; a push to main triggers the existing Vercel deploy.
+# ESPN's API is keyless, so no secrets are required.
+
+on:
+  schedule:
+    - cron: "*/30 * * * *" # every 30 minutes (idempotent — no-ops when unchanged)
+  workflow_dispatch: {} # allow manual runs
+
+# Avoid overlapping runs racing to push.
+concurrency:
+  group: update-world-cup
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Fetch latest World Cup schedule from ESPN
+        run: node scripts/update-world-cup.mjs
+
+      - name: Validate schedule data
+        run: node scripts/validate-schedules.mjs
+
+      - name: Detect changes
+        id: diff
+        run: |
+          if [ -n "$(git status --porcelain src/data/schedules/wc2026.json src/data/schedules-pro/wc2026.json)" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No schedule changes."
+          fi
+
+      - name: Verify the build
+        if: steps.diff.outputs.changed == 'true'
+        run: npm run build
+
+      - name: Commit and push
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/schedules/wc2026.json src/data/schedules-pro/wc2026.json
+          git commit -m "chore: auto-update World Cup schedule from ESPN [skip ci]"
+          git push

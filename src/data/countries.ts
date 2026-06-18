@@ -68,6 +68,10 @@ const countriesRaw: { code: string; name: string; alpha2: string }[] = [
   { code: "COL", name: "Colombia", alpha2: "CO" },
   { code: "GHA", name: "Ghana", alpha2: "GH" },
   { code: "PAN", name: "Panama", alpha2: "PA" },
+  { code: "BIH", name: "Bosnia & Herzegovina", alpha2: "BA" },
+  { code: "COD", name: "DR Congo", alpha2: "CD" },
+  { code: "IRQ", name: "Iraq", alpha2: "IQ" },
+  { code: "TUR", name: "Türkiye", alpha2: "TR" },
 ];
 
 export const countries: Country[] = countriesRaw.map((c) => ({

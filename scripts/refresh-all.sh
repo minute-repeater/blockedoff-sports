@@ -32,5 +32,13 @@ echo "--- F1 (update race results) ---"
 node scripts/update-f1-results.mjs
 echo ""
 
+echo "--- World Cup (fixtures, teams, scores from ESPN) ---"
+node scripts/update-world-cup.mjs
+echo ""
+
+echo "--- Validate all schedule data ---"
+node scripts/validate-schedules.mjs
+echo ""
+
 echo "=== All schedules refreshed ==="
 echo "Run 'npm run build' to verify, then commit and push to deploy."

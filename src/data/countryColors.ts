@@ -61,6 +61,11 @@ export const countryColors: Record<string, CountryColorScheme> = {
   COL: { accent: "#FCD116", accentHover: "#e3bb14", textOnAccent: "#0f172a" },
   GHA: { accent: "#006B3F", accentHover: "#005733", textOnAccent: "#ffffff" },
   PAN: { accent: "#DA121A", accentHover: "#b80f16", textOnAccent: "#ffffff" },
+  SAU: { accent: "#006C35", accentHover: "#00582b", textOnAccent: "#ffffff" },
+  BIH: { accent: "#002395", accentHover: "#001d7a", textOnAccent: "#ffffff" },
+  COD: { accent: "#007FFF", accentHover: "#0066cc", textOnAccent: "#ffffff" },
+  IRQ: { accent: "#CE1126", accentHover: "#ae0e20", textOnAccent: "#ffffff" },
+  TUR: { accent: "#E30A17", accentHover: "#c10813", textOnAccent: "#ffffff" },
 };
 
 export const DEFAULT_ACCENT = "#3b82f6";

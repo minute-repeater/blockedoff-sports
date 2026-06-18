@@ -1,62 +1,25 @@
 [
   {
-    "id": "wc26-grp-a-m1",
+    "id": "wc26-760415",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group A",
+    "phase": "Group Stage",
     "isKnockout": false,
     "summary": "Mexico vs. South Africa",
     "countryCodesInvolved": [
       "MEX",
       "ZAF"
     ],
-    "dateUTC": "2026-06-11T15:00:00Z",
+    "dateUTC": "2026-06-11T19:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
-    "venue": "Estadio Azteca",
+    "venue": "Estadio Banorte",
     "city": "Mexico City",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Mexico lead 5-2-1 in 8 meetings",
-        "formGuide": "Mexico: LDWWW | South Africa: WWWWL",
-        "bettingLine": "Mexico -1.5, O/U 3.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-b-m1",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group B",
-    "isKnockout": false,
-    "summary": "Canada vs. TBD (Playoff A)",
-    "countryCodesInvolved": [
-      "CAN",
-      "TBD2"
-    ],
-    "dateUTC": "2026-06-11T15:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Estadio Akron",
-    "city": "Guadalajara",
+    "score": "2-0",
+    "result": {
+      "MEX": "W",
+      "ZAF": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -79,63 +42,26 @@
     }
   },
   {
-    "id": "wc26-grp-c-m1",
+    "id": "wc26-760414",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group C",
+    "phase": "Group Stage",
     "isKnockout": false,
-    "summary": "Brazil vs. Morocco",
-    "countryCodesInvolved": [
-      "BRA",
-      "MAR"
-    ],
-    "dateUTC": "2026-06-11T15:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Estadio BBVA",
-    "city": "Monterrey",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Brazil lead 2-1-5 in 8 meetings",
-        "formGuide": "Brazil: LWWWL | Morocco: WLWWL",
-        "bettingLine": "Brazil -1.5, O/U 3.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-a-m2",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group A",
-    "isKnockout": false,
-    "summary": "South Korea vs. TBD (Playoff D)",
+    "summary": "South Korea vs. Czechia",
     "countryCodesInvolved": [
       "KOR",
-      "TBD1"
+      "CZE"
     ],
-    "dateUTC": "2026-06-11T18:00:00Z",
+    "dateUTC": "2026-06-12T02:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Estadio Akron",
     "city": "Guadalajara",
+    "score": "2-1",
+    "result": {
+      "KOR": "W",
+      "CZE": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -158,63 +84,26 @@
     }
   },
   {
-    "id": "wc26-grp-b-m2",
+    "id": "wc26-760416",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group B",
+    "phase": "Group Stage",
     "isKnockout": false,
-    "summary": "Qatar vs. Switzerland",
+    "summary": "Canada vs. Bosnia-Herzegovina",
     "countryCodesInvolved": [
-      "QAT",
-      "CHE"
+      "CAN",
+      "BIH"
     ],
-    "dateUTC": "2026-06-11T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Estadio BBVA",
-    "city": "Monterrey",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Even series: 2-2-3 in 7 meetings",
-        "formGuide": "Qatar: DDWLD | Switzerland: LWWDW",
-        "bettingLine": "Switzerland -1.5, O/U 3.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-c-m2",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group C",
-    "isKnockout": false,
-    "summary": "Haiti vs. Scotland",
-    "countryCodesInvolved": [
-      "HTI",
-      "SCO"
-    ],
-    "dateUTC": "2026-06-11T18:00:00Z",
+    "dateUTC": "2026-06-12T19:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "BMO Field",
     "city": "Toronto",
+    "score": "1-1",
+    "result": {
+      "CAN": "D",
+      "BIH": "D"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -233,30 +122,30 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Haiti lead 2-0-1 in 3 meetings",
-        "formGuide": "Haiti: DDWWL | Scotland: WDLDW",
-        "bettingLine": "Haiti -0.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
-    "id": "wc26-grp-d-m1",
+    "id": "wc26-760417",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group D",
+    "phase": "Group Stage",
     "isKnockout": false,
     "summary": "United States vs. Paraguay",
     "countryCodesInvolved": [
       "USA",
       "PRY"
     ],
-    "dateUTC": "2026-06-12T15:00:00Z",
+    "dateUTC": "2026-06-13T01:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
-    "venue": "BMO Field",
-    "city": "Toronto",
+    "venue": "SoFi Stadium",
+    "city": "Inglewood, California",
+    "score": "4-1",
+    "result": {
+      "USA": "W",
+      "PRY": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -275,30 +164,198 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "United States lead 3-1-2 in 6 meetings",
-        "formGuide": "United States: WLLDW | Paraguay: WLDWL",
-        "bettingLine": "Paraguay -1.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
-    "id": "wc26-grp-e-m1",
+    "id": "wc26-760420",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group E",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Qatar vs. Switzerland",
+    "countryCodesInvolved": [
+      "QAT",
+      "CHE"
+    ],
+    "dateUTC": "2026-06-13T19:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Levi's Stadium",
+    "city": "Santa Clara, California",
+    "score": "1-1",
+    "result": {
+      "QAT": "D",
+      "CHE": "D"
+    },
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760419",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Brazil vs. Morocco",
+    "countryCodesInvolved": [
+      "BRA",
+      "MAR"
+    ],
+    "dateUTC": "2026-06-13T22:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "score": "1-1",
+    "result": {
+      "BRA": "D",
+      "MAR": "D"
+    },
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760418",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Haiti vs. Scotland",
+    "countryCodesInvolved": [
+      "HTI",
+      "SCO"
+    ],
+    "dateUTC": "2026-06-14T01:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "score": "0-1",
+    "result": {
+      "HTI": "L",
+      "SCO": "W"
+    },
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760421",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Australia vs. Türkiye",
+    "countryCodesInvolved": [
+      "AUS",
+      "TUR"
+    ],
+    "dateUTC": "2026-06-14T04:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "BC Place",
+    "city": "Vancouver",
+    "score": "2-0",
+    "result": {
+      "AUS": "W",
+      "TUR": "L"
+    },
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760422",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
     "isKnockout": false,
     "summary": "Germany vs. Curaçao",
     "countryCodesInvolved": [
       "DEU",
       "CUW"
     ],
-    "dateUTC": "2026-06-12T15:00:00Z",
+    "dateUTC": "2026-06-14T17:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
-    "venue": "BC Place",
-    "city": "Vancouver",
+    "venue": "NRG Stadium",
+    "city": "Houston, Texas",
+    "score": "7-1",
+    "result": {
+      "DEU": "W",
+      "CUW": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -317,72 +374,30 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Curaçao lead 3-2-0 in 5 meetings",
-        "formGuide": "Germany: WWWWW | Curaçao: DWWWW",
-        "bettingLine": "Germany -1.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
-    "id": "wc26-grp-f-m1",
+    "id": "wc26-760425",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group F",
+    "phase": "Group Stage",
     "isKnockout": false,
     "summary": "Netherlands vs. Japan",
     "countryCodesInvolved": [
       "NLD",
       "JPN"
     ],
-    "dateUTC": "2026-06-12T15:00:00Z",
+    "dateUTC": "2026-06-14T20:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
-    "venue": "SoFi Stadium",
-    "city": "Los Angeles",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Even series: 0-0-3 in 3 meetings",
-        "formGuide": "Netherlands: WDWWL | Japan: WLWWW",
-        "bettingLine": "Netherlands -0.5, O/U 2.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-d-m2",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group D",
-    "isKnockout": false,
-    "summary": "Australia vs. TBD (Playoff C)",
-    "countryCodesInvolved": [
-      "AUS",
-      "TBD3"
-    ],
-    "dateUTC": "2026-06-12T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "BC Place",
-    "city": "Vancouver",
+    "venue": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "score": "2-2",
+    "result": {
+      "NLD": "D",
+      "JPN": "D"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -405,63 +420,26 @@
     }
   },
   {
-    "id": "wc26-grp-e-m2",
+    "id": "wc26-760423",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group E",
+    "phase": "Group Stage",
     "isKnockout": false,
     "summary": "Ivory Coast vs. Ecuador",
     "countryCodesInvolved": [
       "CIV",
       "ECU"
     ],
-    "dateUTC": "2026-06-12T18:00:00Z",
+    "dateUTC": "2026-06-14T23:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
-    "venue": "SoFi Stadium",
-    "city": "Los Angeles",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Ecuador lead 5-2-0 in 7 meetings",
-        "formGuide": "Ivory Coast: LWWWD | Ecuador: LWLWW",
-        "bettingLine": "Ecuador -0.5, O/U 2.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-f-m2",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group F",
-    "isKnockout": false,
-    "summary": "TBD (Playoff B) vs. Tunisia",
-    "countryCodesInvolved": [
-      "TBD4",
-      "TUN"
-    ],
-    "dateUTC": "2026-06-12T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Levi's Stadium",
-    "city": "San Francisco",
+    "venue": "Lincoln Financial Field",
+    "city": "Philadelphia, Pennsylvania",
+    "score": "1-0",
+    "result": {
+      "CIV": "W",
+      "ECU": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -484,21 +462,26 @@
     }
   },
   {
-    "id": "wc26-grp-g-m1",
+    "id": "wc26-760424",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group G",
+    "phase": "Group Stage",
     "isKnockout": false,
-    "summary": "Belgium vs. Egypt",
+    "summary": "Sweden vs. Tunisia",
     "countryCodesInvolved": [
-      "BEL",
-      "EGY"
+      "SWE",
+      "TUN"
     ],
-    "dateUTC": "2026-06-13T15:00:00Z",
+    "dateUTC": "2026-06-15T02:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
-    "venue": "Levi's Stadium",
-    "city": "San Francisco",
+    "venue": "Estadio BBVA",
+    "city": "Guadalupe",
+    "score": "5-1",
+    "result": {
+      "SWE": "W",
+      "TUN": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -517,30 +500,72 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Egypt lead 6-2-0 in 8 meetings",
-        "formGuide": "Belgium: WWDWW | Egypt: LWWWD",
-        "bettingLine": "Egypt -1.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
-    "id": "wc26-grp-h-m1",
+    "id": "wc26-760428",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group H",
+    "phase": "Group Stage",
     "isKnockout": false,
     "summary": "Spain vs. Cape Verde",
     "countryCodesInvolved": [
       "ESP",
       "CPV"
     ],
-    "dateUTC": "2026-06-13T15:00:00Z",
+    "dateUTC": "2026-06-15T16:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "score": "0-0",
+    "result": {
+      "ESP": "D",
+      "CPV": "D"
+    },
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760426",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Belgium vs. Egypt",
+    "countryCodesInvolved": [
+      "BEL",
+      "EGY"
+    ],
+    "dateUTC": "2026-06-15T19:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Lumen Field",
-    "city": "Seattle",
+    "city": "Seattle, Washington",
+    "score": "1-1",
+    "result": {
+      "BEL": "D",
+      "EGY": "D"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -559,156 +584,30 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Spain lead 6-1-0 in 7 meetings",
-        "formGuide": "Spain: DDDWL | Cape Verde: DLDLL",
-        "bettingLine": "Spain -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
-    "id": "wc26-grp-i-m1",
+    "id": "wc26-760429",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group I",
-    "isKnockout": false,
-    "summary": "France vs. Senegal",
-    "countryCodesInvolved": [
-      "FRA",
-      "SEN"
-    ],
-    "dateUTC": "2026-06-13T15:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "AT&T Stadium",
-    "city": "Dallas",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "France lead 2-0-2 in 4 meetings",
-        "formGuide": "France: LDLWW | Senegal: DLLWW",
-        "bettingLine": "France -0.5, O/U 2.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-g-m2",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group G",
-    "isKnockout": false,
-    "summary": "Iran vs. New Zealand",
-    "countryCodesInvolved": [
-      "IRN",
-      "NZL"
-    ],
-    "dateUTC": "2026-06-13T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Lumen Field",
-    "city": "Seattle",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Iran lead 2-1-2 in 5 meetings",
-        "formGuide": "Iran: DWWWW | New Zealand: WWLWW",
-        "bettingLine": "Iran -1.5, O/U 3.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-h-m2",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group H",
+    "phase": "Group Stage",
     "isKnockout": false,
     "summary": "Saudi Arabia vs. Uruguay",
     "countryCodesInvolved": [
       "SAU",
       "URY"
     ],
-    "dateUTC": "2026-06-13T18:00:00Z",
+    "dateUTC": "2026-06-15T22:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
-    "venue": "AT&T Stadium",
-    "city": "Dallas",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Uruguay lead 6-2-0 in 8 meetings",
-        "formGuide": "Saudi Arabia: WWDWW | Uruguay: WWWWW",
-        "bettingLine": "Saudi Arabia -0.5, O/U 2.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-i-m2",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group I",
-    "isKnockout": false,
-    "summary": "TBD (Playoff 2) vs. Norway",
-    "countryCodesInvolved": [
-      "TBD5",
-      "NOR"
-    ],
-    "dateUTC": "2026-06-13T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "NRG Stadium",
-    "city": "Houston",
+    "venue": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "score": "1-1",
+    "result": {
+      "SAU": "D",
+      "URY": "D"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -731,63 +630,152 @@
     }
   },
   {
-    "id": "wc26-grp-j-m1",
+    "id": "wc26-760427",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group J",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Iran vs. New Zealand",
+    "countryCodesInvolved": [
+      "IRN",
+      "NZL"
+    ],
+    "dateUTC": "2026-06-16T01:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "SoFi Stadium",
+    "city": "Inglewood, California",
+    "score": "2-2",
+    "result": {
+      "IRN": "D",
+      "NZL": "D"
+    },
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760432",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "France vs. Senegal",
+    "countryCodesInvolved": [
+      "FRA",
+      "SEN"
+    ],
+    "dateUTC": "2026-06-16T19:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "score": "3-1",
+    "result": {
+      "FRA": "W",
+      "SEN": "L"
+    },
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760430",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Iraq vs. Norway",
+    "countryCodesInvolved": [
+      "IRQ",
+      "NOR"
+    ],
+    "dateUTC": "2026-06-16T22:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "score": "1-4",
+    "result": {
+      "IRQ": "L",
+      "NOR": "W"
+    },
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760433",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
     "isKnockout": false,
     "summary": "Argentina vs. Algeria",
     "countryCodesInvolved": [
       "ARG",
       "DZA"
     ],
-    "dateUTC": "2026-06-14T15:00:00Z",
+    "dateUTC": "2026-06-17T01:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
-    "venue": "NRG Stadium",
-    "city": "Houston",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Argentina lead 2-1-0 in 3 meetings",
-        "formGuide": "Argentina: LWWLW | Algeria: WWWWD",
-        "bettingLine": "Argentina -1.5, O/U 2.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-k-m1",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group K",
-    "isKnockout": false,
-    "summary": "Portugal vs. TBD (Playoff 1)",
-    "countryCodesInvolved": [
-      "PRT",
-      "TBD6"
-    ],
-    "dateUTC": "2026-06-14T15:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "GEHA Field at Arrowhead",
-    "city": "Kansas City",
+    "venue": "GEHA Field at Arrowhead Stadium",
+    "city": "Kansas City, Missouri",
+    "score": "3-0",
+    "result": {
+      "ARG": "W",
+      "DZA": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -810,63 +798,26 @@
     }
   },
   {
-    "id": "wc26-grp-l-m1",
+    "id": "wc26-760431",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group L",
-    "isKnockout": false,
-    "summary": "England vs. Croatia",
-    "countryCodesInvolved": [
-      "GBR",
-      "HRV"
-    ],
-    "dateUTC": "2026-06-14T15:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Mercedes-Benz Stadium",
-    "city": "Atlanta",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "England lead 2-1-2 in 5 meetings",
-        "formGuide": "England: WLDDL | Croatia: WWWLW",
-        "bettingLine": "Croatia -1.5, O/U 2.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-j-m2",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group J",
+    "phase": "Group Stage",
     "isKnockout": false,
     "summary": "Austria vs. Jordan",
     "countryCodesInvolved": [
       "AUT",
       "JOR"
     ],
-    "dateUTC": "2026-06-14T18:00:00Z",
+    "dateUTC": "2026-06-17T04:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
-    "venue": "GEHA Field at Arrowhead",
-    "city": "Kansas City",
+    "venue": "Levi's Stadium",
+    "city": "Santa Clara, California",
+    "score": "3-1",
+    "result": {
+      "AUT": "W",
+      "JOR": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -885,30 +836,30 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Jordan lead 7-0-0 in 7 meetings",
-        "formGuide": "Austria: WWWLW | Jordan: WLWLW",
-        "bettingLine": "Jordan -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
-    "id": "wc26-grp-k-m2",
+    "id": "wc26-760435",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group K",
+    "phase": "Group Stage",
     "isKnockout": false,
-    "summary": "Uzbekistan vs. Colombia",
+    "summary": "Portugal vs. Congo DR",
     "countryCodesInvolved": [
-      "UZB",
-      "COL"
+      "PRT",
+      "COD"
     ],
-    "dateUTC": "2026-06-14T18:00:00Z",
+    "dateUTC": "2026-06-17T17:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
-    "venue": "Mercedes-Benz Stadium",
-    "city": "Atlanta",
+    "venue": "NRG Stadium",
+    "city": "Houston, Texas",
+    "score": "1-1",
+    "result": {
+      "PRT": "D",
+      "COD": "D"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -927,72 +878,72 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Colombia lead 2-0-4 in 6 meetings",
-        "formGuide": "Uzbekistan: LWWLD | Colombia: WDWLL",
-        "bettingLine": "Colombia -0.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
-    "id": "wc26-grp-l-m2",
+    "id": "wc26-760437",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group L",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "England vs. Croatia",
+    "countryCodesInvolved": [
+      "GBR",
+      "HRV"
+    ],
+    "dateUTC": "2026-06-17T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "score": "4-2",
+    "result": {
+      "GBR": "W",
+      "HRV": "L"
+    },
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760434",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
     "isKnockout": false,
     "summary": "Ghana vs. Panama",
     "countryCodesInvolved": [
       "GHA",
       "PAN"
     ],
-    "dateUTC": "2026-06-14T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Hard Rock Stadium",
-    "city": "Miami",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Ghana lead 5-2-1 in 8 meetings",
-        "formGuide": "Ghana: WWWLD | Panama: WWWLW",
-        "bettingLine": "Ghana -0.5, O/U 3.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-a-m4",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group A",
-    "isKnockout": false,
-    "summary": "South Africa vs. TBD (Playoff D)",
-    "countryCodesInvolved": [
-      "ZAF",
-      "TBD1"
-    ],
-    "dateUTC": "2026-06-17T00:00:00Z",
+    "dateUTC": "2026-06-17T23:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "BMO Field",
     "city": "Toronto",
+    "score": "1-0",
+    "result": {
+      "GHA": "W",
+      "PAN": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1015,21 +966,26 @@
     }
   },
   {
-    "id": "wc26-grp-b-m4",
+    "id": "wc26-760436",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group B",
+    "phase": "Group Stage",
     "isKnockout": false,
-    "summary": "TBD (Playoff A) vs. Switzerland",
+    "summary": "Uzbekistan vs. Colombia",
     "countryCodesInvolved": [
-      "TBD2",
-      "CHE"
+      "UZB",
+      "COL"
     ],
-    "dateUTC": "2026-06-17T00:00:00Z",
+    "dateUTC": "2026-06-18T02:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
-    "venue": "BC Place",
-    "city": "Vancouver",
+    "venue": "Estadio Banorte",
+    "city": "Mexico City",
+    "score": "1-3",
+    "result": {
+      "UZB": "L",
+      "COL": "W"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1052,21 +1008,63 @@
     }
   },
   {
-    "id": "wc26-grp-c-m4",
+    "id": "wc26-760438",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group C",
+    "phase": "Group Stage",
     "isKnockout": false,
-    "summary": "Morocco vs. Scotland",
+    "summary": "Czechia vs. South Africa",
     "countryCodesInvolved": [
-      "MAR",
-      "SCO"
+      "CZE",
+      "ZAF"
     ],
-    "dateUTC": "2026-06-17T00:00:00Z",
+    "dateUTC": "2026-06-18T16:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Czechia lead 1--5-10 in 6 meetings",
+        "formGuide": "Czechia: DLWLW | South Africa: WundefinedundefinedWundefined",
+        "bettingLine": "Czechia -1.5, O/U 3.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760439",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Switzerland vs. Bosnia-Herzegovina",
+    "countryCodesInvolved": [
+      "CHE",
+      "BIH"
+    ],
+    "dateUTC": "2026-06-18T19:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "SoFi Stadium",
-    "city": "Los Angeles",
+    "city": "Inglewood, California",
     "proData": {
       "broadcasts": [
         {
@@ -1087,66 +1085,318 @@
         }
       ],
       "preGame": {
-        "h2hRecord": "Morocco lead 5-3-0 in 8 meetings",
-        "formGuide": "Morocco: WLWWL | Scotland: WDLDW",
-        "bettingLine": "Scotland -0.5, O/U 2.5"
+        "h2hRecord": "Switzerland lead 4-1-1 in 6 meetings",
+        "formGuide": "Switzerland: LWWLD | Bosnia-Herzegovina: undefinedundefinedundefinedundefinedundefined",
+        "bettingLine": "Switzerland -1.5, O/U 3.5"
       }
     }
   },
   {
-    "id": "wc26-grp-a-m3",
+    "id": "wc26-760440",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group A",
-    "isKnockout": false,
-    "summary": "Mexico vs. South Korea",
-    "countryCodesInvolved": [
-      "MEX",
-      "KOR"
-    ],
-    "dateUTC": "2026-06-17T21:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Estadio BBVA",
-    "city": "Monterrey",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Mexico lead 4-1-2 in 7 meetings",
-        "formGuide": "Mexico: LDWWW | South Korea: DWWDD",
-        "bettingLine": "South Korea -1.5, O/U 3.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-b-m3",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group B",
+    "phase": "Group Stage",
     "isKnockout": false,
     "summary": "Canada vs. Qatar",
     "countryCodesInvolved": [
       "CAN",
       "QAT"
     ],
-    "dateUTC": "2026-06-17T21:00:00Z",
+    "dateUTC": "2026-06-18T22:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "BC Place",
+    "city": "Vancouver",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Canada lead 4--3-6 in 7 meetings",
+        "formGuide": "Canada: WLWWW | Qatar: undefinedundefinedWWundefined",
+        "bettingLine": "Canada -0.5, O/U 2.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760441",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Mexico vs. South Korea",
+    "countryCodesInvolved": [
+      "MEX",
+      "KOR"
+    ],
+    "dateUTC": "2026-06-19T01:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Estadio Akron",
+    "city": "Guadalajara",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Mexico lead 5--1-4 in 8 meetings",
+        "formGuide": "Mexico: WundefinedWundefinedW | South Korea: Wundefinedundefinedundefinedundefined",
+        "bettingLine": "Mexico -0.5, O/U 2.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760442",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "United States vs. Australia",
+    "countryCodesInvolved": [
+      "USA",
+      "AUS"
+    ],
+    "dateUTC": "2026-06-19T19:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Lumen Field",
+    "city": "Seattle, Washington",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Australia lead 3-2-0 in 5 meetings",
+        "formGuide": "United States: DWLWD | Australia: WundefinedundefinedWundefined",
+        "bettingLine": "Australia -0.5, O/U 2.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760445",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Scotland vs. Morocco",
+    "countryCodesInvolved": [
+      "SCO",
+      "MAR"
+    ],
+    "dateUTC": "2026-06-19T22:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Scotland lead 2-0-6 in 8 meetings",
+        "formGuide": "Scotland: WDLDL | Morocco: undefinedundefinedundefinedundefinedundefined",
+        "bettingLine": "Morocco -1.5, O/U 3.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760444",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Brazil vs. Haiti",
+    "countryCodesInvolved": [
+      "BRA",
+      "HTI"
+    ],
+    "dateUTC": "2026-06-20T00:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Lincoln Financial Field",
+    "city": "Philadelphia, Pennsylvania",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Brazil lead 0--2-5 in 3 meetings",
+        "formGuide": "Brazil: undefinedundefinedundefinedundefinedundefined | Haiti: undefinedWundefinedundefinedundefined",
+        "bettingLine": "Haiti -0.5, O/U 2.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760443",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Türkiye vs. Paraguay",
+    "countryCodesInvolved": [
+      "TUR",
+      "PRY"
+    ],
+    "dateUTC": "2026-06-20T03:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Levi's Stadium",
+    "city": "Santa Clara, California",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Türkiye lead 1--2-5 in 4 meetings",
+        "formGuide": "Türkiye: undefinedundefinedundefinedundefinedundefined | Paraguay: WWDWW",
+        "bettingLine": "Türkiye -0.5, O/U 2.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760447",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Netherlands vs. Sweden",
+    "countryCodesInvolved": [
+      "NLD",
+      "SWE"
+    ],
+    "dateUTC": "2026-06-20T17:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "NRG Stadium",
+    "city": "Houston, Texas",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Netherlands lead 3-0-3 in 6 meetings",
+        "formGuide": "Netherlands: DWLWD | Sweden: DWLWW",
+        "bettingLine": "Sweden -1.5, O/U 3.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760448",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Germany vs. Ivory Coast",
+    "countryCodesInvolved": [
+      "DEU",
+      "CIV"
+    ],
+    "dateUTC": "2026-06-20T20:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "BMO Field",
@@ -1171,28 +1421,112 @@
         }
       ],
       "preGame": {
-        "h2hRecord": "Even series: 0-0-3 in 3 meetings",
-        "formGuide": "Canada: DWWLW | Qatar: DDWLD",
-        "bettingLine": "Canada -1.5, O/U 3.5"
+        "h2hRecord": "Germany lead 5-1-2 in 8 meetings",
+        "formGuide": "Germany: WWWLD | Ivory Coast: WWLLW",
+        "bettingLine": "Ivory Coast -0.5, O/U 2.5"
       }
     }
   },
   {
-    "id": "wc26-grp-c-m3",
+    "id": "wc26-760446",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group C",
+    "phase": "Group Stage",
     "isKnockout": false,
-    "summary": "Brazil vs. Haiti",
+    "summary": "Ecuador vs. Curaçao",
     "countryCodesInvolved": [
-      "BRA",
-      "HTI"
+      "ECU",
+      "CUW"
     ],
-    "dateUTC": "2026-06-17T21:00:00Z",
+    "dateUTC": "2026-06-21T00:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
-    "venue": "BC Place",
-    "city": "Vancouver",
+    "venue": "GEHA Field at Arrowhead Stadium",
+    "city": "Kansas City, Missouri",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Ecuador lead 2--1-4 in 5 meetings",
+        "formGuide": "Ecuador: WLLWD | Curaçao: WLWWL",
+        "bettingLine": "Curaçao -0.5, O/U 2.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760449",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Tunisia vs. Japan",
+    "countryCodesInvolved": [
+      "TUN",
+      "JPN"
+    ],
+    "dateUTC": "2026-06-21T04:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Estadio BBVA",
+    "city": "Guadalupe",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Tunisia lead 0--4-11 in 7 meetings",
+        "formGuide": "Tunisia: WWundefinedundefinedundefined | Japan: undefinedundefinedundefinedWundefined",
+        "bettingLine": "Japan -1.5, O/U 3.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760453",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Spain vs. Saudi Arabia",
+    "countryCodesInvolved": [
+      "ESP",
+      "SAU"
+    ],
+    "dateUTC": "2026-06-21T16:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
     "proData": {
       "broadcasts": [
         {
@@ -1214,395 +1548,27 @@
       ],
       "preGame": {
         "h2hRecord": "Even series: 2-2-1 in 5 meetings",
-        "formGuide": "Brazil: LWWWL | Haiti: DDWWL",
-        "bettingLine": "Haiti -0.5, O/U 2.5"
+        "formGuide": "Spain: undefinedWundefinedundefinedundefined | Saudi Arabia: undefinedundefinedundefinedWundefined",
+        "bettingLine": "Saudi Arabia -1.5, O/U 3.5"
       }
     }
   },
   {
-    "id": "wc26-grp-d-m4",
+    "id": "wc26-760451",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group D",
-    "isKnockout": false,
-    "summary": "Paraguay vs. TBD (Playoff C)",
-    "countryCodesInvolved": [
-      "PRY",
-      "TBD3"
-    ],
-    "dateUTC": "2026-06-18T00:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Levi's Stadium",
-    "city": "San Francisco",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ]
-    }
-  },
-  {
-    "id": "wc26-grp-e-m4",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group E",
-    "isKnockout": false,
-    "summary": "Curaçao vs. Ecuador",
-    "countryCodesInvolved": [
-      "CUW",
-      "ECU"
-    ],
-    "dateUTC": "2026-06-18T00:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Lumen Field",
-    "city": "Seattle",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Curaçao lead 6-0-0 in 6 meetings",
-        "formGuide": "Curaçao: DWWWW | Ecuador: LWLWW",
-        "bettingLine": "Ecuador -0.5, O/U 3.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-f-m4",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group F",
-    "isKnockout": false,
-    "summary": "Japan vs. Tunisia",
-    "countryCodesInvolved": [
-      "JPN",
-      "TUN"
-    ],
-    "dateUTC": "2026-06-18T00:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "AT&T Stadium",
-    "city": "Dallas",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Even series: 2-2-0 in 4 meetings",
-        "formGuide": "Japan: WLWWW | Tunisia: LWWLW",
-        "bettingLine": "Tunisia -1.5, O/U 3.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-d-m3",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group D",
-    "isKnockout": false,
-    "summary": "United States vs. Australia",
-    "countryCodesInvolved": [
-      "USA",
-      "AUS"
-    ],
-    "dateUTC": "2026-06-18T21:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "SoFi Stadium",
-    "city": "Los Angeles",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "United States lead 3-0-1 in 4 meetings",
-        "formGuide": "United States: WLLDW | Australia: DDWWW",
-        "bettingLine": "United States -1.5, O/U 2.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-e-m3",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group E",
-    "isKnockout": false,
-    "summary": "Germany vs. Ivory Coast",
-    "countryCodesInvolved": [
-      "DEU",
-      "CIV"
-    ],
-    "dateUTC": "2026-06-18T21:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Levi's Stadium",
-    "city": "San Francisco",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Germany lead 8-0-0 in 8 meetings",
-        "formGuide": "Germany: WWWWW | Ivory Coast: LWWWD",
-        "bettingLine": "Germany -0.5, O/U 3.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-f-m3",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group F",
-    "isKnockout": false,
-    "summary": "Netherlands vs. TBD (Playoff B)",
-    "countryCodesInvolved": [
-      "NLD",
-      "TBD4"
-    ],
-    "dateUTC": "2026-06-18T21:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Lumen Field",
-    "city": "Seattle",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ]
-    }
-  },
-  {
-    "id": "wc26-grp-g-m4",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group G",
-    "isKnockout": false,
-    "summary": "Egypt vs. New Zealand",
-    "countryCodesInvolved": [
-      "EGY",
-      "NZL"
-    ],
-    "dateUTC": "2026-06-19T00:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "NRG Stadium",
-    "city": "Houston",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "New Zealand lead 3-0-0 in 3 meetings",
-        "formGuide": "Egypt: LWWWD | New Zealand: WWLWW",
-        "bettingLine": "Egypt -1.5, O/U 3.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-h-m4",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group H",
-    "isKnockout": false,
-    "summary": "Cape Verde vs. Uruguay",
-    "countryCodesInvolved": [
-      "CPV",
-      "URY"
-    ],
-    "dateUTC": "2026-06-19T00:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "GEHA Field at Arrowhead",
-    "city": "Kansas City",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Cape Verde lead 5-0-3 in 8 meetings",
-        "formGuide": "Cape Verde: DLDLL | Uruguay: WWWWW",
-        "bettingLine": "Uruguay -0.5, O/U 3.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-i-m4",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group I",
-    "isKnockout": false,
-    "summary": "Senegal vs. Norway",
-    "countryCodesInvolved": [
-      "SEN",
-      "NOR"
-    ],
-    "dateUTC": "2026-06-19T00:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Mercedes-Benz Stadium",
-    "city": "Atlanta",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Senegal lead 2-0-3 in 5 meetings",
-        "formGuide": "Senegal: DLLWW | Norway: WWLDW",
-        "bettingLine": "Senegal -0.5, O/U 2.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-g-m3",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group G",
+    "phase": "Group Stage",
     "isKnockout": false,
     "summary": "Belgium vs. Iran",
     "countryCodesInvolved": [
       "BEL",
       "IRN"
     ],
-    "dateUTC": "2026-06-19T21:00:00Z",
+    "dateUTC": "2026-06-21T19:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
-    "venue": "AT&T Stadium",
-    "city": "Dallas",
+    "venue": "SoFi Stadium",
+    "city": "Inglewood, California",
     "proData": {
       "broadcasts": [
         {
@@ -1623,107 +1589,28 @@
         }
       ],
       "preGame": {
-        "h2hRecord": "Iran lead 3-2-0 in 5 meetings",
-        "formGuide": "Belgium: WWDWW | Iran: DWWWW",
-        "bettingLine": "Belgium -0.5, O/U 3.5"
+        "h2hRecord": "Belgium lead 2--1-4 in 5 meetings",
+        "formGuide": "Belgium: undefinedundefinedundefinedundefinedundefined | Iran: WWundefinedundefinedundefined",
+        "bettingLine": "Iran -0.5, O/U 2.5"
       }
     }
   },
   {
-    "id": "wc26-grp-h-m3",
+    "id": "wc26-760450",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group H",
+    "phase": "Group Stage",
     "isKnockout": false,
-    "summary": "Spain vs. Saudi Arabia",
+    "summary": "Uruguay vs. Cape Verde",
     "countryCodesInvolved": [
-      "ESP",
-      "SAU"
+      "URY",
+      "CPV"
     ],
-    "dateUTC": "2026-06-19T21:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "NRG Stadium",
-    "city": "Houston",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Saudi Arabia lead 3-1-2 in 6 meetings",
-        "formGuide": "Spain: DDDWL | Saudi Arabia: WWDWW",
-        "bettingLine": "Saudi Arabia -1.5, O/U 2.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-i-m3",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group I",
-    "isKnockout": false,
-    "summary": "France vs. TBD (Playoff 2)",
-    "countryCodesInvolved": [
-      "FRA",
-      "TBD5"
-    ],
-    "dateUTC": "2026-06-19T21:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "GEHA Field at Arrowhead",
-    "city": "Kansas City",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ]
-    }
-  },
-  {
-    "id": "wc26-grp-j-m4",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group J",
-    "isKnockout": false,
-    "summary": "Algeria vs. Jordan",
-    "countryCodesInvolved": [
-      "DZA",
-      "JOR"
-    ],
-    "dateUTC": "2026-06-20T00:00:00Z",
+    "dateUTC": "2026-06-21T22:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Hard Rock Stadium",
-    "city": "Miami",
+    "city": "Miami Gardens, Florida",
     "proData": {
       "broadcasts": [
         {
@@ -1744,229 +1631,24 @@
         }
       ],
       "preGame": {
-        "h2hRecord": "Jordan lead 3-2-1 in 6 meetings",
-        "formGuide": "Algeria: WWWWD | Jordan: WLWLW",
-        "bettingLine": "Algeria -0.5, O/U 3.5"
+        "h2hRecord": "Cape Verde lead 3-2-0 in 5 meetings",
+        "formGuide": "Uruguay: WWDWL | Cape Verde: WDWWD",
+        "bettingLine": "Cape Verde -1.5, O/U 3.5"
       }
     }
   },
   {
-    "id": "wc26-grp-k-m4",
+    "id": "wc26-760452",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group K",
+    "phase": "Group Stage",
     "isKnockout": false,
-    "summary": "TBD (Playoff 1) vs. Colombia",
+    "summary": "New Zealand vs. Egypt",
     "countryCodesInvolved": [
-      "TBD6",
-      "COL"
+      "NZL",
+      "EGY"
     ],
-    "dateUTC": "2026-06-20T00:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "MetLife Stadium",
-    "city": "East Rutherford",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ]
-    }
-  },
-  {
-    "id": "wc26-grp-l-m4",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group L",
-    "isKnockout": false,
-    "summary": "Croatia vs. Panama",
-    "countryCodesInvolved": [
-      "HRV",
-      "PAN"
-    ],
-    "dateUTC": "2026-06-20T00:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Gillette Stadium",
-    "city": "Foxborough",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Panama lead 3-2-2 in 7 meetings",
-        "formGuide": "Croatia: WWWLW | Panama: WWWLW",
-        "bettingLine": "Panama -0.5, O/U 3.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-j-m3",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group J",
-    "isKnockout": false,
-    "summary": "Argentina vs. Austria",
-    "countryCodesInvolved": [
-      "ARG",
-      "AUT"
-    ],
-    "dateUTC": "2026-06-20T21:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Mercedes-Benz Stadium",
-    "city": "Atlanta",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Argentina lead 3-1-0 in 4 meetings",
-        "formGuide": "Argentina: LWWLW | Austria: WWWLW",
-        "bettingLine": "Argentina -0.5, O/U 2.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-k-m3",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group K",
-    "isKnockout": false,
-    "summary": "Portugal vs. Uzbekistan",
-    "countryCodesInvolved": [
-      "PRT",
-      "UZB"
-    ],
-    "dateUTC": "2026-06-20T21:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Hard Rock Stadium",
-    "city": "Miami",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Portugal lead 2-1-2 in 5 meetings",
-        "formGuide": "Portugal: WWWDW | Uzbekistan: LWWLD",
-        "bettingLine": "Portugal -0.5, O/U 3.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-l-m3",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group L",
-    "isKnockout": false,
-    "summary": "England vs. Ghana",
-    "countryCodesInvolved": [
-      "GBR",
-      "GHA"
-    ],
-    "dateUTC": "2026-06-20T21:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "MetLife Stadium",
-    "city": "East Rutherford",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "England lead 5-3-0 in 8 meetings",
-        "formGuide": "England: WLDDL | Ghana: WWWLD",
-        "bettingLine": "Ghana -1.5, O/U 3.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-a-m5",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group A",
-    "isKnockout": false,
-    "summary": "Mexico vs. TBD (Playoff D)",
-    "countryCodesInvolved": [
-      "MEX",
-      "TBD1"
-    ],
-    "dateUTC": "2026-06-23T15:00:00Z",
+    "dateUTC": "2026-06-22T01:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "BC Place",
@@ -1989,25 +1671,30 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ]
+      ],
+      "preGame": {
+        "h2hRecord": "New Zealand lead 5-3-0 in 8 meetings",
+        "formGuide": "New Zealand: LWDWW | Egypt: DWWWL",
+        "bettingLine": "New Zealand -1.5, O/U 3.5"
+      }
     }
   },
   {
-    "id": "wc26-grp-b-m5",
+    "id": "wc26-760456",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group B",
+    "phase": "Group Stage",
     "isKnockout": false,
-    "summary": "Canada vs. Switzerland",
+    "summary": "Argentina vs. Austria",
     "countryCodesInvolved": [
-      "CAN",
-      "CHE"
+      "ARG",
+      "AUT"
     ],
-    "dateUTC": "2026-06-23T15:00:00Z",
+    "dateUTC": "2026-06-22T17:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
-    "venue": "SoFi Stadium",
-    "city": "Los Angeles",
+    "venue": "AT&T Stadium",
+    "city": "Arlington, Texas",
     "proData": {
       "broadcasts": [
         {
@@ -2028,28 +1715,406 @@
         }
       ],
       "preGame": {
-        "h2hRecord": "Switzerland lead 3-0-0 in 3 meetings",
-        "formGuide": "Canada: DWWLW | Switzerland: LWWDW",
+        "h2hRecord": "Argentina lead 8-0-0 in 8 meetings",
+        "formGuide": "Argentina: undefinedundefinedundefinedundefinedW | Austria: undefinedWundefinedundefinedundefined",
+        "bettingLine": "Austria -0.5, O/U 2.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760457",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "France vs. Iraq",
+    "countryCodesInvolved": [
+      "FRA",
+      "IRQ"
+    ],
+    "dateUTC": "2026-06-22T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Lincoln Financial Field",
+    "city": "Philadelphia, Pennsylvania",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "France lead 2-1-5 in 8 meetings",
+        "formGuide": "France: WWWWW | Iraq: WWundefinedundefinedW",
+        "bettingLine": "France -1.5, O/U 3.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760454",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Norway vs. Senegal",
+    "countryCodesInvolved": [
+      "NOR",
+      "SEN"
+    ],
+    "dateUTC": "2026-06-23T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Norway lead 6-1-0 in 7 meetings",
+        "formGuide": "Norway: undefinedundefinedundefinedundefinedW | Senegal: undefinedundefinedundefinedundefinedundefined",
+        "bettingLine": "Senegal -1.5, O/U 3.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760455",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Jordan vs. Algeria",
+    "countryCodesInvolved": [
+      "JOR",
+      "DZA"
+    ],
+    "dateUTC": "2026-06-23T03:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Levi's Stadium",
+    "city": "Santa Clara, California",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Jordan lead 2--3-6 in 5 meetings",
+        "formGuide": "Jordan: WWWWW | Algeria: WWWWW",
+        "bettingLine": "Jordan -0.5, O/U 2.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760461",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Portugal vs. Uzbekistan",
+    "countryCodesInvolved": [
+      "PRT",
+      "UZB"
+    ],
+    "dateUTC": "2026-06-23T17:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "NRG Stadium",
+    "city": "Houston, Texas",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Portugal lead 8-0-0 in 8 meetings",
+        "formGuide": "Portugal: WDWWL | Uzbekistan: WDDWL",
+        "bettingLine": "Portugal -1.5, O/U 3.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760458",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "England vs. Ghana",
+    "countryCodesInvolved": [
+      "GBR",
+      "GHA"
+    ],
+    "dateUTC": "2026-06-23T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "England lead 5--2-5 in 8 meetings",
+        "formGuide": "England: DDDWL | Ghana: LWLWW",
+        "bettingLine": "Ghana -1.5, O/U 3.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760460",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Panama vs. Croatia",
+    "countryCodesInvolved": [
+      "PAN",
+      "HRV"
+    ],
+    "dateUTC": "2026-06-23T23:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "BMO Field",
+    "city": "Toronto",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Croatia lead 3-2-0 in 5 meetings",
+        "formGuide": "Panama: WWundefinedWundefined | Croatia: WWWWW",
+        "bettingLine": "Croatia -1.5, O/U 3.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760459",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Colombia vs. Congo DR",
+    "countryCodesInvolved": [
+      "COL",
+      "COD"
+    ],
+    "dateUTC": "2026-06-24T02:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Estadio Akron",
+    "city": "Guadalajara",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Colombia lead 1--1-6 in 6 meetings",
+        "formGuide": "Colombia: DWLWL | Congo DR: WWWWW",
+        "bettingLine": "Colombia -0.5, O/U 2.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760462",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Bosnia-Herzegovina vs. Qatar",
+    "countryCodesInvolved": [
+      "BIH",
+      "QAT"
+    ],
+    "dateUTC": "2026-06-24T19:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Lumen Field",
+    "city": "Seattle, Washington",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Bosnia-Herzegovina lead 6-0-0 in 6 meetings",
+        "formGuide": "Bosnia-Herzegovina: undefinedundefinedundefinedundefinedundefined | Qatar: undefinedundefinedWWundefined",
+        "bettingLine": "Bosnia-Herzegovina -1.5, O/U 3.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760463",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Switzerland vs. Canada",
+    "countryCodesInvolved": [
+      "CHE",
+      "CAN"
+    ],
+    "dateUTC": "2026-06-24T19:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "BC Place",
+    "city": "Vancouver",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Switzerland lead 0--3-6 in 3 meetings",
+        "formGuide": "Switzerland: LWWLD | Canada: WLWWW",
         "bettingLine": "Switzerland -0.5, O/U 2.5"
       }
     }
   },
   {
-    "id": "wc26-grp-c-m5",
+    "id": "wc26-760464",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group C",
+    "phase": "Group Stage",
     "isKnockout": false,
-    "summary": "Brazil vs. Scotland",
+    "summary": "Morocco vs. Haiti",
     "countryCodesInvolved": [
-      "BRA",
-      "SCO"
+      "MAR",
+      "HTI"
     ],
-    "dateUTC": "2026-06-23T15:00:00Z",
+    "dateUTC": "2026-06-24T22:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
-    "venue": "Levi's Stadium",
-    "city": "San Francisco",
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
     "proData": {
       "broadcasts": [
         {
@@ -2070,28 +2135,70 @@
         }
       ],
       "preGame": {
-        "h2hRecord": "Scotland lead 3-2-0 in 5 meetings",
-        "formGuide": "Brazil: LWWWL | Scotland: WDLDW",
+        "h2hRecord": "Morocco lead 2--3-6 in 5 meetings",
+        "formGuide": "Morocco: undefinedundefinedundefinedundefinedundefined | Haiti: undefinedWundefinedundefinedundefined",
+        "bettingLine": "Morocco -1.5, O/U 3.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760465",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Scotland vs. Brazil",
+    "countryCodesInvolved": [
+      "SCO",
+      "BRA"
+    ],
+    "dateUTC": "2026-06-24T22:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Brazil lead 4-0-0 in 4 meetings",
+        "formGuide": "Scotland: WDLDL | Brazil: undefinedundefinedundefinedundefinedundefined",
         "bettingLine": "Brazil -0.5, O/U 2.5"
       }
     }
   },
   {
-    "id": "wc26-grp-a-m6",
+    "id": "wc26-760466",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group A",
+    "phase": "Group Stage",
     "isKnockout": false,
-    "summary": "South Korea vs. South Africa",
+    "summary": "South Africa vs. South Korea",
     "countryCodesInvolved": [
-      "KOR",
-      "ZAF"
+      "ZAF",
+      "KOR"
     ],
-    "dateUTC": "2026-06-23T18:00:00Z",
+    "dateUTC": "2026-06-25T01:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
-    "venue": "SoFi Stadium",
-    "city": "Los Angeles",
+    "venue": "Estadio BBVA",
+    "city": "Guadalupe",
     "proData": {
       "broadcasts": [
         {
@@ -2112,65 +2219,238 @@
         }
       ],
       "preGame": {
-        "h2hRecord": "South Africa lead 1-0-2 in 3 meetings",
-        "formGuide": "South Korea: DWWDD | South Africa: WWWWL",
-        "bettingLine": "South Korea -1.5, O/U 3.5"
+        "h2hRecord": "South Africa lead 8-0-0 in 8 meetings",
+        "formGuide": "South Africa: WundefinedundefinedWundefined | South Korea: Wundefinedundefinedundefinedundefined",
+        "bettingLine": "South Africa -1.5, O/U 3.5"
       }
     }
   },
   {
-    "id": "wc26-grp-b-m6",
+    "id": "wc26-760467",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group B",
+    "phase": "Group Stage",
     "isKnockout": false,
-    "summary": "Qatar vs. TBD (Playoff A)",
+    "summary": "Czechia vs. Mexico",
     "countryCodesInvolved": [
-      "QAT",
-      "TBD2"
+      "CZE",
+      "MEX"
     ],
-    "dateUTC": "2026-06-23T18:00:00Z",
+    "dateUTC": "2026-06-25T01:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Estadio Banorte",
+    "city": "Mexico City",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Czechia lead 3-1-0 in 4 meetings",
+        "formGuide": "Czechia: DLWLW | Mexico: WundefinedWundefinedW",
+        "bettingLine": "Czechia -0.5, O/U 2.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760468",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Ecuador vs. Germany",
+    "countryCodesInvolved": [
+      "ECU",
+      "DEU"
+    ],
+    "dateUTC": "2026-06-25T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Ecuador lead 5--3-6 in 8 meetings",
+        "formGuide": "Ecuador: WLLWD | Germany: WWWLD",
+        "bettingLine": "Germany -1.5, O/U 3.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760473",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Curaçao vs. Ivory Coast",
+    "countryCodesInvolved": [
+      "CUW",
+      "CIV"
+    ],
+    "dateUTC": "2026-06-25T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Lincoln Financial Field",
+    "city": "Philadelphia, Pennsylvania",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Ivory Coast lead 3-0-0 in 3 meetings",
+        "formGuide": "Curaçao: WLWWL | Ivory Coast: WWLLW",
+        "bettingLine": "Ivory Coast -1.5, O/U 3.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760471",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Japan vs. Sweden",
+    "countryCodesInvolved": [
+      "JPN",
+      "SWE"
+    ],
+    "dateUTC": "2026-06-25T23:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Japan lead 8-0-0 in 8 meetings",
+        "formGuide": "Japan: undefinedundefinedundefinedWundefined | Sweden: DWLWW",
+        "bettingLine": "Japan -1.5, O/U 3.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760472",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Tunisia vs. Netherlands",
+    "countryCodesInvolved": [
+      "TUN",
+      "NLD"
+    ],
+    "dateUTC": "2026-06-25T23:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "GEHA Field at Arrowhead Stadium",
+    "city": "Kansas City, Missouri",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Tunisia lead 0--4-11 in 7 meetings",
+        "formGuide": "Tunisia: WWundefinedundefinedundefined | Netherlands: DWLWD",
+        "bettingLine": "Netherlands -1.5, O/U 3.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760469",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Paraguay vs. Australia",
+    "countryCodesInvolved": [
+      "PRY",
+      "AUS"
+    ],
+    "dateUTC": "2026-06-26T02:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Levi's Stadium",
-    "city": "San Francisco",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ]
-    }
-  },
-  {
-    "id": "wc26-grp-c-m6",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group C",
-    "isKnockout": false,
-    "summary": "Haiti vs. Morocco",
-    "countryCodesInvolved": [
-      "HTI",
-      "MAR"
-    ],
-    "dateUTC": "2026-06-23T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Lumen Field",
-    "city": "Seattle",
+    "city": "Santa Clara, California",
     "proData": {
       "broadcasts": [
         {
@@ -2191,270 +2471,28 @@
         }
       ],
       "preGame": {
-        "h2hRecord": "Morocco lead 4-2-0 in 6 meetings",
-        "formGuide": "Haiti: DDWWL | Morocco: WLWWL",
-        "bettingLine": "Haiti -0.5, O/U 3.5"
+        "h2hRecord": "Paraguay lead 8-0-0 in 8 meetings",
+        "formGuide": "Paraguay: WWDWW | Australia: WundefinedundefinedWundefined",
+        "bettingLine": "Australia -0.5, O/U 2.5"
       }
     }
   },
   {
-    "id": "wc26-grp-d-m5",
+    "id": "wc26-760470",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group D",
+    "phase": "Group Stage",
     "isKnockout": false,
-    "summary": "United States vs. TBD (Playoff C)",
+    "summary": "Türkiye vs. United States",
     "countryCodesInvolved": [
-      "USA",
-      "TBD3"
+      "TUR",
+      "USA"
     ],
-    "dateUTC": "2026-06-24T15:00:00Z",
+    "dateUTC": "2026-06-26T02:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
-    "venue": "Lumen Field",
-    "city": "Seattle",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ]
-    }
-  },
-  {
-    "id": "wc26-grp-e-m5",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group E",
-    "isKnockout": false,
-    "summary": "Germany vs. Ecuador",
-    "countryCodesInvolved": [
-      "DEU",
-      "ECU"
-    ],
-    "dateUTC": "2026-06-24T15:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "AT&T Stadium",
-    "city": "Dallas",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Germany lead 5-0-1 in 6 meetings",
-        "formGuide": "Germany: WWWWW | Ecuador: LWLWW",
-        "bettingLine": "Germany -0.5, O/U 2.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-f-m5",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group F",
-    "isKnockout": false,
-    "summary": "Netherlands vs. Tunisia",
-    "countryCodesInvolved": [
-      "NLD",
-      "TUN"
-    ],
-    "dateUTC": "2026-06-24T15:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "NRG Stadium",
-    "city": "Houston",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Netherlands lead 4-1-2 in 7 meetings",
-        "formGuide": "Netherlands: WDWWL | Tunisia: LWWLW",
-        "bettingLine": "Netherlands -0.5, O/U 3.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-d-m6",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group D",
-    "isKnockout": false,
-    "summary": "Australia vs. Paraguay",
-    "countryCodesInvolved": [
-      "AUS",
-      "PRY"
-    ],
-    "dateUTC": "2026-06-24T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "AT&T Stadium",
-    "city": "Dallas",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Australia lead 4-0-2 in 6 meetings",
-        "formGuide": "Australia: DDWWW | Paraguay: WLDWL",
-        "bettingLine": "Paraguay -1.5, O/U 3.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-e-m6",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group E",
-    "isKnockout": false,
-    "summary": "Ivory Coast vs. Curaçao",
-    "countryCodesInvolved": [
-      "CIV",
-      "CUW"
-    ],
-    "dateUTC": "2026-06-24T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "NRG Stadium",
-    "city": "Houston",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Ivory Coast lead 2-1-0 in 3 meetings",
-        "formGuide": "Ivory Coast: LWWWD | Curaçao: DWWWW",
-        "bettingLine": "Curaçao -1.5, O/U 3.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-f-m6",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group F",
-    "isKnockout": false,
-    "summary": "TBD (Playoff B) vs. Japan",
-    "countryCodesInvolved": [
-      "TBD4",
-      "JPN"
-    ],
-    "dateUTC": "2026-06-24T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "GEHA Field at Arrowhead",
-    "city": "Kansas City",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ]
-    }
-  },
-  {
-    "id": "wc26-grp-g-m5",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group G",
-    "isKnockout": false,
-    "summary": "Belgium vs. New Zealand",
-    "countryCodesInvolved": [
-      "BEL",
-      "NZL"
-    ],
-    "dateUTC": "2026-06-25T15:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "GEHA Field at Arrowhead",
-    "city": "Kansas City",
+    "venue": "SoFi Stadium",
+    "city": "Inglewood, California",
     "proData": {
       "broadcasts": [
         {
@@ -2476,474 +2514,25 @@
       ],
       "preGame": {
         "h2hRecord": "Even series: 2-2-3 in 7 meetings",
-        "formGuide": "Belgium: WWDWW | New Zealand: WWLWW",
-        "bettingLine": "Belgium -0.5, O/U 3.5"
+        "formGuide": "Türkiye: undefinedundefinedundefinedundefinedundefined | United States: DWLWD",
+        "bettingLine": "Türkiye -0.5, O/U 2.5"
       }
     }
   },
   {
-    "id": "wc26-grp-h-m5",
+    "id": "wc26-760474",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Group H",
+    "phase": "Group Stage",
     "isKnockout": false,
-    "summary": "Spain vs. Uruguay",
+    "summary": "Senegal vs. Iraq",
     "countryCodesInvolved": [
-      "ESP",
-      "URY"
+      "SEN",
+      "IRQ"
     ],
-    "dateUTC": "2026-06-25T15:00:00Z",
+    "dateUTC": "2026-06-26T19:00:00Z",
     "timeTBD": false,
     "durationMinutes": 120,
-    "venue": "Mercedes-Benz Stadium",
-    "city": "Atlanta",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Spain lead 4-0-3 in 7 meetings",
-        "formGuide": "Spain: DDDWL | Uruguay: WWWWW",
-        "bettingLine": "Uruguay -1.5, O/U 3.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-i-m5",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group I",
-    "isKnockout": false,
-    "summary": "France vs. Norway",
-    "countryCodesInvolved": [
-      "FRA",
-      "NOR"
-    ],
-    "dateUTC": "2026-06-25T15:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Hard Rock Stadium",
-    "city": "Miami",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "France lead 6-0-1 in 7 meetings",
-        "formGuide": "France: LDLWW | Norway: WWLDW",
-        "bettingLine": "France -1.5, O/U 2.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-g-m6",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group G",
-    "isKnockout": false,
-    "summary": "Iran vs. Egypt",
-    "countryCodesInvolved": [
-      "IRN",
-      "EGY"
-    ],
-    "dateUTC": "2026-06-25T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Mercedes-Benz Stadium",
-    "city": "Atlanta",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Iran lead 3-1-0 in 4 meetings",
-        "formGuide": "Iran: DWWWW | Egypt: LWWWD",
-        "bettingLine": "Egypt -1.5, O/U 3.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-h-m6",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group H",
-    "isKnockout": false,
-    "summary": "Saudi Arabia vs. Cape Verde",
-    "countryCodesInvolved": [
-      "SAU",
-      "CPV"
-    ],
-    "dateUTC": "2026-06-25T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Hard Rock Stadium",
-    "city": "Miami",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Saudi Arabia lead 4-0-2 in 6 meetings",
-        "formGuide": "Saudi Arabia: WWDWW | Cape Verde: DLDLL",
-        "bettingLine": "Saudi Arabia -1.5, O/U 2.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-i-m6",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group I",
-    "isKnockout": false,
-    "summary": "TBD (Playoff 2) vs. Senegal",
-    "countryCodesInvolved": [
-      "TBD5",
-      "SEN"
-    ],
-    "dateUTC": "2026-06-25T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "MetLife Stadium",
-    "city": "East Rutherford",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ]
-    }
-  },
-  {
-    "id": "wc26-grp-j-m5",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group J",
-    "isKnockout": false,
-    "summary": "Argentina vs. Jordan",
-    "countryCodesInvolved": [
-      "ARG",
-      "JOR"
-    ],
-    "dateUTC": "2026-06-26T15:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "MetLife Stadium",
-    "city": "East Rutherford",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Argentina lead 4-0-3 in 7 meetings",
-        "formGuide": "Argentina: LWWLW | Jordan: WLWLW",
-        "bettingLine": "Argentina -0.5, O/U 3.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-k-m5",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group K",
-    "isKnockout": false,
-    "summary": "Portugal vs. Colombia",
-    "countryCodesInvolved": [
-      "PRT",
-      "COL"
-    ],
-    "dateUTC": "2026-06-26T15:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Gillette Stadium",
-    "city": "Foxborough",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Colombia lead 3-0-3 in 6 meetings",
-        "formGuide": "Portugal: WWWDW | Colombia: WDWLL",
-        "bettingLine": "Colombia -1.5, O/U 2.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-l-m5",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group L",
-    "isKnockout": false,
-    "summary": "England vs. Panama",
-    "countryCodesInvolved": [
-      "GBR",
-      "PAN"
-    ],
-    "dateUTC": "2026-06-26T15:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Lincoln Financial Field",
-    "city": "Philadelphia",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Panama lead 2-1-1 in 4 meetings",
-        "formGuide": "England: WLDDL | Panama: WWWLW",
-        "bettingLine": "Panama -1.5, O/U 2.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-j-m6",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group J",
-    "isKnockout": false,
-    "summary": "Austria vs. Algeria",
-    "countryCodesInvolved": [
-      "AUT",
-      "DZA"
-    ],
-    "dateUTC": "2026-06-26T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Gillette Stadium",
-    "city": "Foxborough",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Austria lead 2-1-2 in 5 meetings",
-        "formGuide": "Austria: WWWLW | Algeria: WWWWD",
-        "bettingLine": "Algeria -1.5, O/U 2.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-grp-k-m6",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group K",
-    "isKnockout": false,
-    "summary": "Uzbekistan vs. TBD (Playoff 1)",
-    "countryCodesInvolved": [
-      "UZB",
-      "TBD6"
-    ],
-    "dateUTC": "2026-06-26T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Lincoln Financial Field",
-    "city": "Philadelphia",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ]
-    }
-  },
-  {
-    "id": "wc26-grp-l-m6",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Group L",
-    "isKnockout": false,
-    "summary": "Ghana vs. Croatia",
-    "countryCodesInvolved": [
-      "GHA",
-      "HRV"
-    ],
-    "dateUTC": "2026-06-26T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 120,
-    "venue": "Estadio Azteca",
-    "city": "Mexico City",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ],
-      "preGame": {
-        "h2hRecord": "Ghana lead 6-0-0 in 6 meetings",
-        "formGuide": "Ghana: WWWLD | Croatia: WWWLW",
-        "bettingLine": "Ghana -0.5, O/U 3.5"
-      }
-    }
-  },
-  {
-    "id": "wc26-r32-1",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Round of 32",
-    "isKnockout": true,
-    "summary": "Round of 32 (TBD)",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-06-28T15:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 150,
     "venue": "BMO Field",
     "city": "Toronto",
     "proData": {
@@ -2964,20 +2553,196 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ]
+      ],
+      "preGame": {
+        "h2hRecord": "Senegal lead 5-1-2 in 8 meetings",
+        "formGuide": "Senegal: undefinedundefinedundefinedundefinedundefined | Iraq: WWundefinedundefinedW",
+        "bettingLine": "Senegal -0.5, O/U 2.5"
+      }
     }
   },
   {
-    "id": "wc26-r32-2",
+    "id": "wc26-760475",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Round of 32",
-    "isKnockout": true,
-    "summary": "Round of 32 (TBD)",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-06-28T18:00:00Z",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Norway vs. France",
+    "countryCodesInvolved": [
+      "NOR",
+      "FRA"
+    ],
+    "dateUTC": "2026-06-26T19:00:00Z",
     "timeTBD": false,
-    "durationMinutes": 150,
+    "durationMinutes": 120,
+    "venue": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Norway lead 6-0-1 in 7 meetings",
+        "formGuide": "Norway: undefinedundefinedundefinedundefinedW | France: WWWWW",
+        "bettingLine": "Norway -0.5, O/U 2.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760478",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Cape Verde vs. Saudi Arabia",
+    "countryCodesInvolved": [
+      "CPV",
+      "SAU"
+    ],
+    "dateUTC": "2026-06-27T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "NRG Stadium",
+    "city": "Houston, Texas",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Even series: 2-2-1 in 5 meetings",
+        "formGuide": "Cape Verde: WDWWD | Saudi Arabia: undefinedundefinedundefinedWundefined",
+        "bettingLine": "Saudi Arabia -0.5, O/U 2.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760479",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Uruguay vs. Spain",
+    "countryCodesInvolved": [
+      "URY",
+      "ESP"
+    ],
+    "dateUTC": "2026-06-27T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Estadio Akron",
+    "city": "Guadalajara",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Uruguay lead 2--3-6 in 5 meetings",
+        "formGuide": "Uruguay: WWDWL | Spain: undefinedWundefinedundefinedundefined",
+        "bettingLine": "Uruguay -0.5, O/U 2.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760476",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Egypt vs. Iran",
+    "countryCodesInvolved": [
+      "EGY",
+      "IRN"
+    ],
+    "dateUTC": "2026-06-27T03:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Lumen Field",
+    "city": "Seattle, Washington",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Egypt lead 2--1-2 in 3 meetings",
+        "formGuide": "Egypt: DWWWL | Iran: WWundefinedundefinedundefined",
+        "bettingLine": "Iran -0.5, O/U 2.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760477",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "New Zealand vs. Belgium",
+    "countryCodesInvolved": [
+      "NZL",
+      "BEL"
+    ],
+    "dateUTC": "2026-06-27T03:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
     "venue": "BC Place",
     "city": "Vancouver",
     "proData": {
@@ -2998,22 +2763,279 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ]
+      ],
+      "preGame": {
+        "h2hRecord": "New Zealand lead 4-1-1 in 6 meetings",
+        "formGuide": "New Zealand: LWDWW | Belgium: undefinedundefinedundefinedundefinedundefined",
+        "bettingLine": "New Zealand -1.5, O/U 3.5"
+      }
     }
   },
   {
-    "id": "wc26-r32-3",
+    "id": "wc26-760480",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Croatia vs. Ghana",
+    "countryCodesInvolved": [
+      "HRV",
+      "GHA"
+    ],
+    "dateUTC": "2026-06-27T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Lincoln Financial Field",
+    "city": "Philadelphia, Pennsylvania",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Croatia lead 2--3-9 in 8 meetings",
+        "formGuide": "Croatia: WWWWW | Ghana: LWLWW",
+        "bettingLine": "Croatia -0.5, O/U 2.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760485",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Panama vs. England",
+    "countryCodesInvolved": [
+      "PAN",
+      "GBR"
+    ],
+    "dateUTC": "2026-06-27T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Panama lead 4-2-1 in 7 meetings",
+        "formGuide": "Panama: WWundefinedWundefined | England: DDDWL",
+        "bettingLine": "Panama -0.5, O/U 2.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760481",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Colombia vs. Portugal",
+    "countryCodesInvolved": [
+      "COL",
+      "PRT"
+    ],
+    "dateUTC": "2026-06-27T23:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Colombia lead 1--2-7 in 6 meetings",
+        "formGuide": "Colombia: DWLWL | Portugal: WDWWL",
+        "bettingLine": "Colombia -0.5, O/U 2.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760482",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Congo DR vs. Uzbekistan",
+    "countryCodesInvolved": [
+      "COD",
+      "UZB"
+    ],
+    "dateUTC": "2026-06-27T23:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Congo DR lead 6-0-0 in 6 meetings",
+        "formGuide": "Congo DR: WWWWW | Uzbekistan: WDDWL",
+        "bettingLine": "Congo DR -1.5, O/U 3.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760483",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Jordan vs. Argentina",
+    "countryCodesInvolved": [
+      "JOR",
+      "ARG"
+    ],
+    "dateUTC": "2026-06-28T02:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Jordan lead 6-0-1 in 7 meetings",
+        "formGuide": "Jordan: WWWWW | Argentina: undefinedundefinedundefinedundefinedW",
+        "bettingLine": "Jordan -1.5, O/U 3.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760484",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Group Stage",
+    "isKnockout": false,
+    "summary": "Algeria vs. Austria",
+    "countryCodesInvolved": [
+      "DZA",
+      "AUT"
+    ],
+    "dateUTC": "2026-06-28T02:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 120,
+    "venue": "GEHA Field at Arrowhead Stadium",
+    "city": "Kansas City, Missouri",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ],
+      "preGame": {
+        "h2hRecord": "Algeria lead 1--2-5 in 4 meetings",
+        "formGuide": "Algeria: WWWWW | Austria: undefinedWundefinedundefinedundefined",
+        "bettingLine": "Austria -1.5, O/U 3.5"
+      }
+    }
+  },
+  {
+    "id": "wc26-760486",
     "tournamentId": "wc2026",
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Round of 32 (TBD)",
+    "summary": "Group A 2nd Place vs. Group B 2nd Place",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-06-28T21:00:00Z",
+    "dateUTC": "2026-06-28T19:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
-    "venue": "Gillette Stadium",
-    "city": "Foxborough",
+    "venue": "SoFi Stadium",
+    "city": "Inglewood, California",
     "proData": {
       "broadcasts": [
         {
@@ -3036,18 +3058,18 @@
     }
   },
   {
-    "id": "wc26-r32-4",
+    "id": "wc26-760487",
     "tournamentId": "wc2026",
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Round of 32 (TBD)",
+    "summary": "Group C Winner vs. Group F 2nd Place",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-06-29T00:00:00Z",
+    "dateUTC": "2026-06-29T17:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "NRG Stadium",
-    "city": "Houston",
+    "city": "Houston, Texas",
     "proData": {
       "broadcasts": [
         {
@@ -3070,18 +3092,18 @@
     }
   },
   {
-    "id": "wc26-r32-5",
+    "id": "wc26-760489",
     "tournamentId": "wc2026",
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Round of 32 (TBD)",
+    "summary": "Group E Winner vs. Third Place Group A/B/C/D/F",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-06-29T15:00:00Z",
+    "dateUTC": "2026-06-29T20:30:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
-    "venue": "Hard Rock Stadium",
-    "city": "Miami",
+    "venue": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
     "proData": {
       "broadcasts": [
         {
@@ -3104,18 +3126,52 @@
     }
   },
   {
-    "id": "wc26-r32-6",
+    "id": "wc26-760488",
     "tournamentId": "wc2026",
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Round of 32 (TBD)",
+    "summary": "Group F Winner vs. Group C 2nd Place",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-06-29T18:00:00Z",
+    "dateUTC": "2026-06-30T01:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Estadio BBVA",
+    "city": "Guadalupe",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760490",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Group E 2nd Place vs. Group I 2nd Place",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-06-30T17:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "AT&T Stadium",
-    "city": "Dallas",
+    "city": "Arlington, Texas",
     "proData": {
       "broadcasts": [
         {
@@ -3138,86 +3194,18 @@
     }
   },
   {
-    "id": "wc26-r32-8",
+    "id": "wc26-760492",
     "tournamentId": "wc2026",
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Round of 32 (TBD)",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-06-30T00:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 150,
-    "venue": "GEHA Field at Arrowhead",
-    "city": "Kansas City",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ]
-    }
-  },
-  {
-    "id": "wc26-r32-9",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Round of 32",
-    "isKnockout": true,
-    "summary": "Round of 32 (TBD)",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-06-30T15:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 150,
-    "venue": "BMO Field",
-    "city": "Toronto",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ]
-    }
-  },
-  {
-    "id": "wc26-r32-7",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Round of 32",
-    "isKnockout": true,
-    "summary": "Round of 32 (TBD)",
+    "summary": "Group I Winner vs. Third Place Group C/D/F/G/H",
     "countryCodesInvolved": [],
     "dateUTC": "2026-06-30T21:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
-    "venue": "Lincoln Financial Field",
-    "city": "Philadelphia",
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
     "proData": {
       "broadcasts": [
         {
@@ -3240,85 +3228,17 @@
     }
   },
   {
-    "id": "wc26-r32-12",
+    "id": "wc26-760491",
     "tournamentId": "wc2026",
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Round of 32 (TBD)",
+    "summary": "Group A Winner vs. Third Place Group C/E/F/H/I",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-07-01T00:00:00Z",
+    "dateUTC": "2026-07-01T01:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
-    "venue": "Hard Rock Stadium",
-    "city": "Miami",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ]
-    }
-  },
-  {
-    "id": "wc26-r32-10",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Round of 32",
-    "isKnockout": true,
-    "summary": "Round of 32 (TBD)",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-01T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 150,
-    "venue": "Gillette Stadium",
-    "city": "Foxborough",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ]
-    }
-  },
-  {
-    "id": "wc26-r32-11",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Round of 32",
-    "isKnockout": true,
-    "summary": "Round of 32 (TBD)",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-01T21:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 150,
-    "venue": "Estadio Azteca",
+    "venue": "Estadio Banorte",
     "city": "Mexico City",
     "proData": {
       "broadcasts": [
@@ -3342,18 +3262,18 @@
     }
   },
   {
-    "id": "wc26-r32-13",
+    "id": "wc26-760495",
     "tournamentId": "wc2026",
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Round of 32 (TBD)",
+    "summary": "Group L Winner vs. Third Place Group E/H/I/J/K",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-07-02T15:00:00Z",
+    "dateUTC": "2026-07-01T16:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
-    "venue": "MetLife Stadium",
-    "city": "East Rutherford",
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
     "proData": {
       "broadcasts": [
         {
@@ -3376,14 +3296,150 @@
     }
   },
   {
-    "id": "wc26-r32-14",
+    "id": "wc26-760493",
     "tournamentId": "wc2026",
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Round of 32 (TBD)",
+    "summary": "Group G Winner vs. Third Place Group A/E/H/I/J",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-07-02T18:00:00Z",
+    "dateUTC": "2026-07-01T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Lumen Field",
+    "city": "Seattle, Washington",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760494",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Group D Winner vs. Third Place Group B/E/F/I/J",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-02T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Levi's Stadium",
+    "city": "Santa Clara, California",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760497",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Group H Winner vs. Group J 2nd Place",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-02T19:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "SoFi Stadium",
+    "city": "Inglewood, California",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760496",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Group K 2nd Place vs. Group L 2nd Place",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-02T23:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "BMO Field",
+    "city": "Toronto",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760498",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Group B Winner vs. Third Place Group E/F/G/I/J",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-03T03:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "BC Place",
@@ -3410,17 +3466,221 @@
     }
   },
   {
-    "id": "wc26-r32-15",
+    "id": "wc26-760499",
     "tournamentId": "wc2026",
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Round of 32 (TBD)",
+    "summary": "Group D 2nd Place vs. Group G 2nd Place",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-07-02T21:00:00Z",
+    "dateUTC": "2026-07-03T18:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
-    "venue": "Estadio Azteca",
+    "venue": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760500",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Group J Winner vs. Group H 2nd Place",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-03T22:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760501",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 32",
+    "isKnockout": true,
+    "summary": "Group K Winner vs. Third Place Group D/E/I/J/L",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-04T01:30:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "GEHA Field at Arrowhead Stadium",
+    "city": "Kansas City, Missouri",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760502",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Round of 32 1 Winner vs. Round of 32 3 Winner",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-04T17:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "NRG Stadium",
+    "city": "Houston, Texas",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760503",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Round of 32 2 Winner vs. Round of 32 5 Winner",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-04T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Lincoln Financial Field",
+    "city": "Philadelphia, Pennsylvania",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760504",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Round of 32 4 Winner vs. Round of 32 6 Winner",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-05T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760505",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Round of 32 7 Winner vs. Round of 32 8 Winner",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-06T00:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Estadio Banorte",
     "city": "Mexico City",
     "proData": {
       "broadcasts": [
@@ -3444,18 +3704,18 @@
     }
   },
   {
-    "id": "wc26-r32-16",
+    "id": "wc26-760506",
     "tournamentId": "wc2026",
     "sport": "soccer",
-    "phase": "Round of 32",
+    "phase": "Round of 16",
     "isKnockout": true,
-    "summary": "Round of 32 (TBD)",
+    "summary": "Round of 32 11 Winner vs. Round of 32 12 Winner",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-07-03T00:00:00Z",
+    "dateUTC": "2026-07-06T19:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
-    "venue": "Estadio BBVA",
-    "city": "Monterrey",
+    "venue": "AT&T Stadium",
+    "city": "Arlington, Texas",
     "proData": {
       "broadcasts": [
         {
@@ -3478,222 +3738,18 @@
     }
   },
   {
-    "id": "wc26-r16-1",
+    "id": "wc26-760507",
     "tournamentId": "wc2026",
     "sport": "soccer",
     "phase": "Round of 16",
     "isKnockout": true,
-    "summary": "Round of 16 (TBD)",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-04T15:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 150,
-    "venue": "SoFi Stadium",
-    "city": "Los Angeles",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ]
-    }
-  },
-  {
-    "id": "wc26-r16-2",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Round of 16",
-    "isKnockout": true,
-    "summary": "Round of 16 (TBD)",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-04T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 150,
-    "venue": "MetLife Stadium",
-    "city": "East Rutherford",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ]
-    }
-  },
-  {
-    "id": "wc26-r16-4",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Round of 16",
-    "isKnockout": true,
-    "summary": "Round of 16 (TBD)",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-05T00:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 150,
-    "venue": "Hard Rock Stadium",
-    "city": "Miami",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ]
-    }
-  },
-  {
-    "id": "wc26-r16-3",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Round of 16",
-    "isKnockout": true,
-    "summary": "Round of 16 (TBD)",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-05T21:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 150,
-    "venue": "Lumen Field",
-    "city": "Seattle",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ]
-    }
-  },
-  {
-    "id": "wc26-r16-5",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Round of 16",
-    "isKnockout": true,
-    "summary": "Round of 16 (TBD)",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-06T15:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 150,
-    "venue": "Estadio BBVA",
-    "city": "Monterrey",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ]
-    }
-  },
-  {
-    "id": "wc26-r16-6",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Round of 16",
-    "isKnockout": true,
-    "summary": "Round of 16 (TBD)",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-06T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 150,
-    "venue": "Lumen Field",
-    "city": "Seattle",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ]
-    }
-  },
-  {
-    "id": "wc26-r16-8",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Round of 16",
-    "isKnockout": true,
-    "summary": "Round of 16 (TBD)",
+    "summary": "Round of 32 9 Winner vs. Round of 32 10 Winner",
     "countryCodesInvolved": [],
     "dateUTC": "2026-07-07T00:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
-    "venue": "Mercedes-Benz Stadium",
-    "city": "Atlanta",
+    "venue": "Lumen Field",
+    "city": "Seattle, Washington",
     "proData": {
       "broadcasts": [
         {
@@ -3716,18 +3772,18 @@
     }
   },
   {
-    "id": "wc26-r16-7",
+    "id": "wc26-760509",
     "tournamentId": "wc2026",
     "sport": "soccer",
     "phase": "Round of 16",
     "isKnockout": true,
-    "summary": "Round of 16 (TBD)",
+    "summary": "Round of 32 14 Winner vs. Round of 32 16 Winner",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-07-07T21:00:00Z",
+    "dateUTC": "2026-07-07T16:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
-    "venue": "Estadio Azteca",
-    "city": "Mexico City",
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
     "proData": {
       "broadcasts": [
         {
@@ -3750,18 +3806,52 @@
     }
   },
   {
-    "id": "wc26-qf-3",
+    "id": "wc26-760508",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Round of 16",
+    "isKnockout": true,
+    "summary": "Round of 32 13 Winner vs. Round of 32 15 Winner",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-07T20:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "BC Place",
+    "city": "Vancouver",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760510",
     "tournamentId": "wc2026",
     "sport": "soccer",
     "phase": "Quarter-Final",
     "isKnockout": true,
-    "summary": "Quarter-Final (TBD)",
+    "summary": "Round of 16 1 Winner vs. Round of 16 2 Winner",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-07-10T18:00:00Z",
+    "dateUTC": "2026-07-09T20:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
-    "venue": "Estadio BBVA",
-    "city": "Monterrey",
+    "venue": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
     "proData": {
       "broadcasts": [
         {
@@ -3784,18 +3874,18 @@
     }
   },
   {
-    "id": "wc26-qf-4",
+    "id": "wc26-760511",
     "tournamentId": "wc2026",
     "sport": "soccer",
     "phase": "Quarter-Final",
     "isKnockout": true,
-    "summary": "Quarter-Final (TBD)",
+    "summary": "Round of 16 5 Winner vs. Round of 16 6 Winner",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-07-10T21:00:00Z",
+    "dateUTC": "2026-07-10T19:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
-    "venue": "Estadio BBVA",
-    "city": "Monterrey",
+    "venue": "SoFi Stadium",
+    "city": "Inglewood, California",
     "proData": {
       "broadcasts": [
         {
@@ -3818,18 +3908,86 @@
     }
   },
   {
-    "id": "wc26-sf-1",
+    "id": "wc26-760512",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Quarter-Final",
+    "isKnockout": true,
+    "summary": "Round of 16 3 Winner vs. Round of 16 4 Winner",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-11T21:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760513",
+    "tournamentId": "wc2026",
+    "sport": "soccer",
+    "phase": "Quarter-Final",
+    "isKnockout": true,
+    "summary": "Round of 16 7 Winner vs. Round of 16 8 Winner",
+    "countryCodesInvolved": [],
+    "dateUTC": "2026-07-12T01:00:00Z",
+    "timeTBD": false,
+    "durationMinutes": 150,
+    "venue": "GEHA Field at Arrowhead Stadium",
+    "city": "Kansas City, Missouri",
+    "proData": {
+      "broadcasts": [
+        {
+          "country": "US",
+          "channel": "FOX / Telemundo"
+        },
+        {
+          "country": "CA",
+          "channel": "TSN / RDS"
+        },
+        {
+          "country": "MX",
+          "channel": "Televisa / TUDN"
+        },
+        {
+          "country": "UK",
+          "channel": "BBC / ITV"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wc26-760514",
     "tournamentId": "wc2026",
     "sport": "soccer",
     "phase": "Semi-Final",
     "isKnockout": true,
-    "summary": "Semi-Final (TBD)",
+    "summary": "Quarterfinal 1 Winner vs. Quarterfinal 2 Winner",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-07-14T20:00:00Z",
+    "dateUTC": "2026-07-14T19:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
-    "venue": "MetLife Stadium",
-    "city": "East Rutherford",
+    "venue": "AT&T Stadium",
+    "city": "Arlington, Texas",
     "proData": {
       "broadcasts": [
         {
@@ -3852,18 +4010,18 @@
     }
   },
   {
-    "id": "wc26-sf-2",
+    "id": "wc26-760515",
     "tournamentId": "wc2026",
     "sport": "soccer",
     "phase": "Semi-Final",
     "isKnockout": true,
-    "summary": "Semi-Final (TBD)",
+    "summary": "Quarterfinal 3 Winner vs. Quarterfinal 4 Winner",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-07-15T20:00:00Z",
+    "dateUTC": "2026-07-15T19:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
-    "venue": "Estadio Azteca",
-    "city": "Mexico City",
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
     "proData": {
       "broadcasts": [
         {
@@ -3886,18 +4044,18 @@
     }
   },
   {
-    "id": "wc26-3rd",
+    "id": "wc26-760516",
     "tournamentId": "wc2026",
     "sport": "soccer",
     "phase": "Third Place Match",
     "isKnockout": true,
-    "summary": "Third Place Match (TBD)",
+    "summary": "Semifinal 1 Loser vs. Semifinal 2 Loser",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-07-18T20:00:00Z",
+    "dateUTC": "2026-07-18T21:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Hard Rock Stadium",
-    "city": "Miami",
+    "city": "Miami Gardens, Florida",
     "proData": {
       "broadcasts": [
         {
@@ -3920,86 +4078,18 @@
     }
   },
   {
-    "id": "wc26-final",
+    "id": "wc26-760517",
     "tournamentId": "wc2026",
     "sport": "soccer",
     "phase": "Final",
     "isKnockout": true,
-    "summary": "Final (TBD)",
+    "summary": "Semifinal 1 Winner vs. Semifinal 2 Winner",
     "countryCodesInvolved": [],
-    "dateUTC": "2026-07-19T20:00:00Z",
+    "dateUTC": "2026-07-19T19:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "MetLife Stadium",
-    "city": "East Rutherford",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ]
-    }
-  },
-  {
-    "id": "wc26-qf-1",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Quarter-Final",
-    "isKnockout": true,
-    "summary": "Quarter-Final (TBD)",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-09T18:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 150,
-    "venue": "Levi's Stadium",
-    "city": "San Francisco",
-    "proData": {
-      "broadcasts": [
-        {
-          "country": "US",
-          "channel": "FOX / Telemundo"
-        },
-        {
-          "country": "CA",
-          "channel": "TSN / RDS"
-        },
-        {
-          "country": "MX",
-          "channel": "Televisa / TUDN"
-        },
-        {
-          "country": "UK",
-          "channel": "BBC / ITV"
-        }
-      ]
-    }
-  },
-  {
-    "id": "wc26-qf-2",
-    "tournamentId": "wc2026",
-    "sport": "soccer",
-    "phase": "Quarter-Final",
-    "isKnockout": true,
-    "summary": "Quarter-Final (TBD)",
-    "countryCodesInvolved": [],
-    "dateUTC": "2026-07-09T21:00:00Z",
-    "timeTBD": false,
-    "durationMinutes": 150,
-    "venue": "GEHA Field at Arrowhead",
-    "city": "Kansas City",
+    "city": "East Rutherford, New Jersey",
     "proData": {
       "broadcasts": [
         {
