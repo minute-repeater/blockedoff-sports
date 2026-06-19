@@ -1149,6 +1149,11 @@
     "durationMinutes": 120,
     "venue": "Estadio Akron",
     "city": "Guadalajara",
+    "score": "1-0",
+    "result": {
+      "MEX": "W",
+      "KOR": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1167,12 +1172,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Mexico lead 5--1-4 in 8 meetings",
-        "formGuide": "Mexico: WundefinedWundefinedW | South Korea: Wundefinedundefinedundefinedundefined",
-        "bettingLine": "Mexico -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
@@ -3233,8 +3233,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group A Winner vs. Third Place Group C/E/F/H/I",
-    "countryCodesInvolved": [],
+    "summary": "Mexico vs. Third Place Group C/E/F/H/I",
+    "countryCodesInvolved": [
+      "MEX"
+    ],
     "dateUTC": "2026-07-01T01:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
