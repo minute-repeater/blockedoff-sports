@@ -1107,6 +1107,11 @@
     "durationMinutes": 120,
     "venue": "BC Place",
     "city": "Vancouver",
+    "score": "6-0",
+    "result": {
+      "CAN": "W",
+      "QAT": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1125,12 +1130,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Canada lead 4--3-6 in 7 meetings",
-        "formGuide": "Canada: WLWWW | Qatar: undefinedundefinedWWundefined",
-        "bettingLine": "Canada -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {

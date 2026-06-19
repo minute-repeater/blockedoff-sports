@@ -586,7 +586,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "BC Place",
-    "city": "Vancouver"
+    "city": "Vancouver",
+    "score": "6-0",
+    "result": {
+      "CAN": "W",
+      "QAT": "L"
+    }
   },
   {
     "id": "wc26-760441",
