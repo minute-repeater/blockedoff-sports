@@ -630,7 +630,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Lumen Field",
-    "city": "Seattle, Washington"
+    "city": "Seattle, Washington",
+    "score": "2-0",
+    "result": {
+      "USA": "W",
+      "AUS": "L"
+    }
   },
   {
     "id": "wc26-760445",

@@ -1191,6 +1191,11 @@
     "durationMinutes": 120,
     "venue": "Lumen Field",
     "city": "Seattle, Washington",
+    "score": "2-0",
+    "result": {
+      "USA": "W",
+      "AUS": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1209,12 +1214,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Australia lead 3-2-0 in 5 meetings",
-        "formGuide": "United States: DWLWD | Australia: WundefinedundefinedWundefined",
-        "bettingLine": "Australia -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
