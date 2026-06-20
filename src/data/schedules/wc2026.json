@@ -652,7 +652,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Gillette Stadium",
-    "city": "Foxborough, Massachusetts"
+    "city": "Foxborough, Massachusetts",
+    "score": "0-1",
+    "result": {
+      "SCO": "L",
+      "MAR": "W"
+    }
   },
   {
     "id": "wc26-760444",
@@ -669,7 +674,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Lincoln Financial Field",
-    "city": "Philadelphia, Pennsylvania"
+    "city": "Philadelphia, Pennsylvania",
+    "score": "3-0",
+    "result": {
+      "BRA": "W",
+      "HTI": "L"
+    }
   },
   {
     "id": "wc26-760443",

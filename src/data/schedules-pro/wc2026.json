@@ -1233,6 +1233,11 @@
     "durationMinutes": 120,
     "venue": "Gillette Stadium",
     "city": "Foxborough, Massachusetts",
+    "score": "0-1",
+    "result": {
+      "SCO": "L",
+      "MAR": "W"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1251,12 +1256,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Scotland lead 2-0-6 in 8 meetings",
-        "formGuide": "Scotland: WDLDL | Morocco: undefinedundefinedundefinedundefinedundefined",
-        "bettingLine": "Morocco -1.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
@@ -1275,6 +1275,11 @@
     "durationMinutes": 120,
     "venue": "Lincoln Financial Field",
     "city": "Philadelphia, Pennsylvania",
+    "score": "3-0",
+    "result": {
+      "BRA": "W",
+      "HTI": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1293,12 +1298,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Brazil lead 0--2-5 in 3 meetings",
-        "formGuide": "Brazil: undefinedundefinedundefinedundefinedundefined | Haiti: undefinedWundefinedundefinedundefined",
-        "bettingLine": "Haiti -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
