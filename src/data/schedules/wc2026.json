@@ -718,7 +718,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "NRG Stadium",
-    "city": "Houston, Texas"
+    "city": "Houston, Texas",
+    "score": "5-1",
+    "result": {
+      "NLD": "W",
+      "SWE": "L"
+    }
   },
   {
     "id": "wc26-760448",

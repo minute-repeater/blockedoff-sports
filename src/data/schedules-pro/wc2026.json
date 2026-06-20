@@ -1359,6 +1359,11 @@
     "durationMinutes": 120,
     "venue": "NRG Stadium",
     "city": "Houston, Texas",
+    "score": "5-1",
+    "result": {
+      "NLD": "W",
+      "SWE": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1377,12 +1382,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Netherlands lead 3-0-3 in 6 meetings",
-        "formGuide": "Netherlands: DWLWD | Sweden: DWLWW",
-        "bettingLine": "Sweden -1.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
