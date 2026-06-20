@@ -1317,6 +1317,11 @@
     "durationMinutes": 120,
     "venue": "Levi's Stadium",
     "city": "Santa Clara, California",
+    "score": "0-1",
+    "result": {
+      "TUR": "L",
+      "PRY": "W"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1335,12 +1340,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Türkiye lead 1--2-5 in 4 meetings",
-        "formGuide": "Türkiye: undefinedundefinedundefinedundefinedundefined | Paraguay: WWDWW",
-        "bettingLine": "Türkiye -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
@@ -3337,8 +3337,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group D Winner vs. Third Place Group B/E/F/I/J",
-    "countryCodesInvolved": [],
+    "summary": "United States vs. Third Place Group B/E/F/I/J",
+    "countryCodesInvolved": [
+      "USA"
+    ],
     "dateUTC": "2026-07-02T00:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
