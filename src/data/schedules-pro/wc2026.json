@@ -1401,6 +1401,11 @@
     "durationMinutes": 120,
     "venue": "BMO Field",
     "city": "Toronto",
+    "score": "2-1",
+    "result": {
+      "DEU": "W",
+      "CIV": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1419,12 +1424,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Germany lead 5-1-2 in 8 meetings",
-        "formGuide": "Germany: WWWLD | Ivory Coast: WWLLW",
-        "bettingLine": "Ivory Coast -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {

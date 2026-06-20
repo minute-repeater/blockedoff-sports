@@ -740,7 +740,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "BMO Field",
-    "city": "Toronto"
+    "city": "Toronto",
+    "score": "2-1",
+    "result": {
+      "DEU": "W",
+      "CIV": "L"
+    }
   },
   {
     "id": "wc26-760446",
