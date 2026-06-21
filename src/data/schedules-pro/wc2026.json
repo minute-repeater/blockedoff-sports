@@ -1443,6 +1443,11 @@
     "durationMinutes": 120,
     "venue": "GEHA Field at Arrowhead Stadium",
     "city": "Kansas City, Missouri",
+    "score": "0-0",
+    "result": {
+      "ECU": "D",
+      "CUW": "D"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1461,12 +1466,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Ecuador lead 2--1-4 in 5 meetings",
-        "formGuide": "Ecuador: WLLWD | Curaçao: WLWWL",
-        "bettingLine": "Curaçao -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
@@ -3097,8 +3097,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group E Winner vs. Third Place Group A/B/C/D/F",
-    "countryCodesInvolved": [],
+    "summary": "Germany vs. Third Place Group A/B/C/D/F",
+    "countryCodesInvolved": [
+      "DEU"
+    ],
     "dateUTC": "2026-06-29T20:30:00Z",
     "timeTBD": false,
     "durationMinutes": 150,

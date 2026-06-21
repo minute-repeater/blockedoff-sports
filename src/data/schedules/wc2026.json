@@ -762,7 +762,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "GEHA Field at Arrowhead Stadium",
-    "city": "Kansas City, Missouri"
+    "city": "Kansas City, Missouri",
+    "score": "0-0",
+    "result": {
+      "ECU": "D",
+      "CUW": "D"
+    }
   },
   {
     "id": "wc26-760449",
@@ -1427,8 +1432,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group E Winner vs. Third Place Group A/B/C/D/F",
-    "countryCodesInvolved": [],
+    "summary": "Germany vs. Third Place Group A/B/C/D/F",
+    "countryCodesInvolved": [
+      "DEU"
+    ],
     "dateUTC": "2026-06-29T20:30:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
