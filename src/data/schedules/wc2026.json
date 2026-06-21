@@ -828,7 +828,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "SoFi Stadium",
-    "city": "Inglewood, California"
+    "city": "Inglewood, California",
+    "score": "0-0",
+    "result": {
+      "BEL": "D",
+      "IRN": "D"
+    }
   },
   {
     "id": "wc26-760450",

@@ -1569,6 +1569,11 @@
     "durationMinutes": 120,
     "venue": "SoFi Stadium",
     "city": "Inglewood, California",
+    "score": "0-0",
+    "result": {
+      "BEL": "D",
+      "IRN": "D"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1587,12 +1592,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Belgium lead 2--1-4 in 5 meetings",
-        "formGuide": "Belgium: undefinedundefinedundefinedundefinedundefined | Iran: WWundefinedundefinedundefined",
-        "bettingLine": "Iran -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
