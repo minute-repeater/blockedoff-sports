@@ -1527,6 +1527,11 @@
     "durationMinutes": 120,
     "venue": "Mercedes-Benz Stadium",
     "city": "Atlanta, Georgia",
+    "score": "4-0",
+    "result": {
+      "ESP": "W",
+      "SAU": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1545,12 +1550,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Even series: 2-2-1 in 5 meetings",
-        "formGuide": "Spain: undefinedWundefinedundefinedundefined | Saudi Arabia: undefinedundefinedundefinedWundefined",
-        "bettingLine": "Saudi Arabia -1.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
