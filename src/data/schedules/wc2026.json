@@ -784,7 +784,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Estadio BBVA",
-    "city": "Guadalupe"
+    "city": "Guadalupe",
+    "score": "0-4",
+    "result": {
+      "TUN": "L",
+      "JPN": "W"
+    }
   },
   {
     "id": "wc26-760453",

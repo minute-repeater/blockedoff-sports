@@ -1485,6 +1485,11 @@
     "durationMinutes": 120,
     "venue": "Estadio BBVA",
     "city": "Guadalupe",
+    "score": "0-4",
+    "result": {
+      "TUN": "L",
+      "JPN": "W"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1503,12 +1508,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Tunisia lead 0--4-11 in 7 meetings",
-        "formGuide": "Tunisia: WWundefinedundefinedundefined | Japan: undefinedundefinedundefinedWundefined",
-        "bettingLine": "Japan -1.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
