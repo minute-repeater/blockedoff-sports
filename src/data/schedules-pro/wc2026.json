@@ -1695,6 +1695,11 @@
     "durationMinutes": 120,
     "venue": "AT&T Stadium",
     "city": "Arlington, Texas",
+    "score": "2-0",
+    "result": {
+      "ARG": "W",
+      "AUT": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1713,12 +1718,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Argentina lead 8-0-0 in 8 meetings",
-        "formGuide": "Argentina: undefinedundefinedundefinedundefinedW | Austria: undefinedWundefinedundefinedundefined",
-        "bettingLine": "Austria -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {

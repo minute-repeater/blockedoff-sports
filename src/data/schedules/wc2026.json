@@ -894,7 +894,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "AT&T Stadium",
-    "city": "Arlington, Texas"
+    "city": "Arlington, Texas",
+    "score": "2-0",
+    "result": {
+      "ARG": "W",
+      "AUT": "L"
+    }
   },
   {
     "id": "wc26-760457",
