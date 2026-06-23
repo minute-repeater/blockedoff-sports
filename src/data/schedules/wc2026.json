@@ -916,7 +916,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Lincoln Financial Field",
-    "city": "Philadelphia, Pennsylvania"
+    "city": "Philadelphia, Pennsylvania",
+    "score": "3-0",
+    "result": {
+      "FRA": "W",
+      "IRQ": "L"
+    }
   },
   {
     "id": "wc26-760454",
@@ -933,7 +938,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "MetLife Stadium",
-    "city": "East Rutherford, New Jersey"
+    "city": "East Rutherford, New Jersey",
+    "score": "3-2",
+    "result": {
+      "NOR": "W",
+      "SEN": "L"
+    }
   },
   {
     "id": "wc26-760455",

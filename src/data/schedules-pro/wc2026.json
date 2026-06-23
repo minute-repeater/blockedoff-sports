@@ -1737,6 +1737,11 @@
     "durationMinutes": 120,
     "venue": "Lincoln Financial Field",
     "city": "Philadelphia, Pennsylvania",
+    "score": "3-0",
+    "result": {
+      "FRA": "W",
+      "IRQ": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1755,12 +1760,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "France lead 2-1-5 in 8 meetings",
-        "formGuide": "France: WWWWW | Iraq: WWundefinedundefinedW",
-        "bettingLine": "France -1.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
@@ -1779,6 +1779,11 @@
     "durationMinutes": 120,
     "venue": "MetLife Stadium",
     "city": "East Rutherford, New Jersey",
+    "score": "3-2",
+    "result": {
+      "NOR": "W",
+      "SEN": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1797,12 +1802,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Norway lead 6-1-0 in 7 meetings",
-        "formGuide": "Norway: undefinedundefinedundefinedundefinedW | Senegal: undefinedundefinedundefinedundefinedundefined",
-        "bettingLine": "Senegal -1.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
