@@ -1905,6 +1905,11 @@
     "durationMinutes": 120,
     "venue": "Gillette Stadium",
     "city": "Foxborough, Massachusetts",
+    "score": "0-0",
+    "result": {
+      "GBR": "D",
+      "GHA": "D"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1923,12 +1928,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "England lead 5--2-5 in 8 meetings",
-        "formGuide": "England: DDDWL | Ghana: LWLWW",
-        "bettingLine": "Ghana -1.5, O/U 3.5"
-      }
+      ]
     }
   },
   {

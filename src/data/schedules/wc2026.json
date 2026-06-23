@@ -1004,7 +1004,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Gillette Stadium",
-    "city": "Foxborough, Massachusetts"
+    "city": "Foxborough, Massachusetts",
+    "score": "0-0",
+    "result": {
+      "GBR": "D",
+      "GHA": "D"
+    }
   },
   {
     "id": "wc26-760460",
