@@ -960,7 +960,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Levi's Stadium",
-    "city": "Santa Clara, California"
+    "city": "Santa Clara, California",
+    "score": "1-2",
+    "result": {
+      "JOR": "L",
+      "DZA": "W"
+    }
   },
   {
     "id": "wc26-760461",
@@ -1646,8 +1651,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group J Winner vs. Group H 2nd Place",
-    "countryCodesInvolved": [],
+    "summary": "Argentina vs. Group H 2nd Place",
+    "countryCodesInvolved": [
+      "ARG"
+    ],
     "dateUTC": "2026-07-03T22:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,

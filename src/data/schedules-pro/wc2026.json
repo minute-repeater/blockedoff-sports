@@ -1821,6 +1821,11 @@
     "durationMinutes": 120,
     "venue": "Levi's Stadium",
     "city": "Santa Clara, California",
+    "score": "1-2",
+    "result": {
+      "JOR": "L",
+      "DZA": "W"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1839,12 +1844,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Jordan lead 2--3-6 in 5 meetings",
-        "formGuide": "Jordan: WWWWW | Algeria: WWWWW",
-        "bettingLine": "Jordan -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
@@ -3511,8 +3511,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group J Winner vs. Group H 2nd Place",
-    "countryCodesInvolved": [],
+    "summary": "Argentina vs. Group H 2nd Place",
+    "countryCodesInvolved": [
+      "ARG"
+    ],
     "dateUTC": "2026-07-03T22:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
