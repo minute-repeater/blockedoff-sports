@@ -1070,7 +1070,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Lumen Field",
-    "city": "Seattle, Washington"
+    "city": "Seattle, Washington",
+    "score": "3-1",
+    "result": {
+      "BIH": "W",
+      "QAT": "L"
+    }
   },
   {
     "id": "wc26-760463",
@@ -1087,7 +1092,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "BC Place",
-    "city": "Vancouver"
+    "city": "Vancouver",
+    "score": "2-1",
+    "result": {
+      "CHE": "W",
+      "CAN": "L"
+    }
   },
   {
     "id": "wc26-760464",
@@ -1469,8 +1479,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group A 2nd Place vs. Group B 2nd Place",
-    "countryCodesInvolved": [],
+    "summary": "Group A 2nd Place vs. Canada",
+    "countryCodesInvolved": [
+      "CAN"
+    ],
     "dateUTC": "2026-06-28T19:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
@@ -1643,8 +1655,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group B Winner vs. Third Place Group E/F/G/I/J",
-    "countryCodesInvolved": [],
+    "summary": "Switzerland vs. Third Place Group E/F/G/I/J",
+    "countryCodesInvolved": [
+      "CHE"
+    ],
     "dateUTC": "2026-07-03T03:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,

@@ -2031,6 +2031,11 @@
     "durationMinutes": 120,
     "venue": "Lumen Field",
     "city": "Seattle, Washington",
+    "score": "3-1",
+    "result": {
+      "BIH": "W",
+      "QAT": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -2049,12 +2054,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Bosnia-Herzegovina lead 6-0-0 in 6 meetings",
-        "formGuide": "Bosnia-Herzegovina: undefinedundefinedundefinedundefinedundefined | Qatar: undefinedundefinedWWundefined",
-        "bettingLine": "Bosnia-Herzegovina -1.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
@@ -2073,6 +2073,11 @@
     "durationMinutes": 120,
     "venue": "BC Place",
     "city": "Vancouver",
+    "score": "2-1",
+    "result": {
+      "CHE": "W",
+      "CAN": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -2091,12 +2096,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Switzerland lead 0--3-6 in 3 meetings",
-        "formGuide": "Switzerland: LWWLD | Canada: WLWWW",
-        "bettingLine": "Switzerland -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
@@ -3029,8 +3029,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group A 2nd Place vs. Group B 2nd Place",
-    "countryCodesInvolved": [],
+    "summary": "Group A 2nd Place vs. Canada",
+    "countryCodesInvolved": [
+      "CAN"
+    ],
     "dateUTC": "2026-06-28T19:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
@@ -3443,8 +3445,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group B Winner vs. Third Place Group E/F/G/I/J",
-    "countryCodesInvolved": [],
+    "summary": "Switzerland vs. Third Place Group E/F/G/I/J",
+    "countryCodesInvolved": [
+      "CHE"
+    ],
     "dateUTC": "2026-07-03T03:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
