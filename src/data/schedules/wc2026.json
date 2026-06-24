@@ -1026,7 +1026,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "BMO Field",
-    "city": "Toronto"
+    "city": "Toronto",
+    "score": "0-1",
+    "result": {
+      "PAN": "L",
+      "HRV": "W"
+    }
   },
   {
     "id": "wc26-760459",
@@ -1043,7 +1048,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Estadio Akron",
-    "city": "Guadalajara"
+    "city": "Guadalajara",
+    "score": "1-0",
+    "result": {
+      "COL": "W",
+      "COD": "L"
+    }
   },
   {
     "id": "wc26-760462",

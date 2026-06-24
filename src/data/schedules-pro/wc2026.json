@@ -1947,6 +1947,11 @@
     "durationMinutes": 120,
     "venue": "BMO Field",
     "city": "Toronto",
+    "score": "0-1",
+    "result": {
+      "PAN": "L",
+      "HRV": "W"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -1965,12 +1970,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Croatia lead 3-2-0 in 5 meetings",
-        "formGuide": "Panama: WWundefinedWundefined | Croatia: WWWWW",
-        "bettingLine": "Croatia -1.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
@@ -1989,6 +1989,11 @@
     "durationMinutes": 120,
     "venue": "Estadio Akron",
     "city": "Guadalajara",
+    "score": "1-0",
+    "result": {
+      "COL": "W",
+      "COD": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -2007,12 +2012,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Colombia lead 1--1-6 in 6 meetings",
-        "formGuide": "Colombia: DWLWL | Congo DR: WWWWW",
-        "bettingLine": "Colombia -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
