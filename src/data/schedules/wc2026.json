@@ -1158,7 +1158,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Estadio BBVA",
-    "city": "Guadalupe"
+    "city": "Guadalupe",
+    "score": "1-0",
+    "result": {
+      "ZAF": "W",
+      "KOR": "L"
+    }
   },
   {
     "id": "wc26-760467",
@@ -1175,7 +1180,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Estadio Banorte",
-    "city": "Mexico City"
+    "city": "Mexico City",
+    "score": "0-3",
+    "result": {
+      "CZE": "L",
+      "MEX": "W"
+    }
   },
   {
     "id": "wc26-760468",
@@ -1489,8 +1499,9 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group A 2nd Place vs. Canada",
+    "summary": "South Africa vs. Canada",
     "countryCodesInvolved": [
+      "ZAF",
       "CAN"
     ],
     "dateUTC": "2026-06-28T19:00:00Z",

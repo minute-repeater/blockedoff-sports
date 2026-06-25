@@ -2199,6 +2199,11 @@
     "durationMinutes": 120,
     "venue": "Estadio BBVA",
     "city": "Guadalupe",
+    "score": "1-0",
+    "result": {
+      "ZAF": "W",
+      "KOR": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -2217,12 +2222,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "South Africa lead 8-0-0 in 8 meetings",
-        "formGuide": "South Africa: WundefinedundefinedWundefined | South Korea: Wundefinedundefinedundefinedundefined",
-        "bettingLine": "South Africa -1.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
@@ -2241,6 +2241,11 @@
     "durationMinutes": 120,
     "venue": "Estadio Banorte",
     "city": "Mexico City",
+    "score": "0-3",
+    "result": {
+      "CZE": "L",
+      "MEX": "W"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -2259,12 +2264,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Czechia lead 3-1-0 in 4 meetings",
-        "formGuide": "Czechia: DLWLW | Mexico: WundefinedWundefinedW",
-        "bettingLine": "Czechia -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
@@ -3029,8 +3029,9 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group A 2nd Place vs. Canada",
+    "summary": "South Africa vs. Canada",
     "countryCodesInvolved": [
+      "ZAF",
       "CAN"
     ],
     "dateUTC": "2026-06-28T19:00:00Z",
@@ -3056,7 +3057,12 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ]
+      ],
+      "preGame": {
+        "h2hRecord": "South Africa lead 2--1-2 in 3 meetings",
+        "formGuide": "South Africa: WundefinedundefinedWundefined | Canada: WLWWW",
+        "bettingLine": "Canada -1.5, O/U 3.5"
+      }
     }
   },
   {
