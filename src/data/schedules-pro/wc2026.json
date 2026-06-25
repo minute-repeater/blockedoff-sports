@@ -2115,6 +2115,11 @@
     "durationMinutes": 120,
     "venue": "Mercedes-Benz Stadium",
     "city": "Atlanta, Georgia",
+    "score": "4-2",
+    "result": {
+      "MAR": "W",
+      "HTI": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -2133,12 +2138,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Morocco lead 2--3-6 in 5 meetings",
-        "formGuide": "Morocco: undefinedundefinedundefinedundefinedundefined | Haiti: undefinedWundefinedundefinedundefined",
-        "bettingLine": "Morocco -1.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
@@ -2157,6 +2157,11 @@
     "durationMinutes": 120,
     "venue": "Hard Rock Stadium",
     "city": "Miami Gardens, Florida",
+    "score": "0-3",
+    "result": {
+      "SCO": "L",
+      "BRA": "W"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -2175,12 +2180,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Brazil lead 4-0-0 in 4 meetings",
-        "formGuide": "Scotland: WDLDL | Brazil: undefinedundefinedundefinedundefinedundefined",
-        "bettingLine": "Brazil -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
@@ -3065,8 +3065,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group C Winner vs. Group F 2nd Place",
-    "countryCodesInvolved": [],
+    "summary": "Brazil vs. Group F 2nd Place",
+    "countryCodesInvolved": [
+      "BRA"
+    ],
     "dateUTC": "2026-06-29T17:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
@@ -3135,8 +3137,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group F Winner vs. Group C 2nd Place",
-    "countryCodesInvolved": [],
+    "summary": "Group F Winner vs. Morocco",
+    "countryCodesInvolved": [
+      "MAR"
+    ],
     "dateUTC": "2026-06-30T01:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,

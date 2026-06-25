@@ -1114,7 +1114,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Mercedes-Benz Stadium",
-    "city": "Atlanta, Georgia"
+    "city": "Atlanta, Georgia",
+    "score": "4-2",
+    "result": {
+      "MAR": "W",
+      "HTI": "L"
+    }
   },
   {
     "id": "wc26-760465",
@@ -1131,7 +1136,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Hard Rock Stadium",
-    "city": "Miami Gardens, Florida"
+    "city": "Miami Gardens, Florida",
+    "score": "0-3",
+    "result": {
+      "SCO": "L",
+      "BRA": "W"
+    }
   },
   {
     "id": "wc26-760466",
@@ -1495,8 +1505,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group C Winner vs. Group F 2nd Place",
-    "countryCodesInvolved": [],
+    "summary": "Brazil vs. Group F 2nd Place",
+    "countryCodesInvolved": [
+      "BRA"
+    ],
     "dateUTC": "2026-06-29T17:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
@@ -1525,8 +1537,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group F Winner vs. Group C 2nd Place",
-    "countryCodesInvolved": [],
+    "summary": "Group F Winner vs. Morocco",
+    "countryCodesInvolved": [
+      "MAR"
+    ],
     "dateUTC": "2026-06-30T01:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
