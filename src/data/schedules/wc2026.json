@@ -1202,7 +1202,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "MetLife Stadium",
-    "city": "East Rutherford, New Jersey"
+    "city": "East Rutherford, New Jersey",
+    "score": "2-1",
+    "result": {
+      "ECU": "W",
+      "DEU": "L"
+    }
   },
   {
     "id": "wc26-760473",
@@ -1219,7 +1224,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Lincoln Financial Field",
-    "city": "Philadelphia, Pennsylvania"
+    "city": "Philadelphia, Pennsylvania",
+    "score": "0-2",
+    "result": {
+      "CUW": "L",
+      "CIV": "W"
+    }
   },
   {
     "id": "wc26-760471",
@@ -1564,8 +1574,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group E 2nd Place vs. Group I 2nd Place",
-    "countryCodesInvolved": [],
+    "summary": "Ivory Coast vs. Group I 2nd Place",
+    "countryCodesInvolved": [
+      "CIV"
+    ],
     "dateUTC": "2026-06-30T17:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
