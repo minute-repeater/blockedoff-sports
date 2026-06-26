@@ -1731,8 +1731,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group D 2nd Place vs. Group G 2nd Place",
-    "countryCodesInvolved": [],
+    "summary": "Australia vs. Group G 2nd Place",
+    "countryCodesInvolved": [
+      "AUS"
+    ],
     "dateUTC": "2026-07-03T18:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
