@@ -2535,6 +2535,11 @@
     "durationMinutes": 120,
     "venue": "BMO Field",
     "city": "Toronto",
+    "score": "5-0",
+    "result": {
+      "SEN": "W",
+      "IRQ": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -2553,12 +2558,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Senegal lead 5-1-2 in 8 meetings",
-        "formGuide": "Senegal: undefinedundefinedundefinedundefinedundefined | Iraq: WWundefinedundefinedW",
-        "bettingLine": "Senegal -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
@@ -2577,6 +2577,11 @@
     "durationMinutes": 120,
     "venue": "Gillette Stadium",
     "city": "Foxborough, Massachusetts",
+    "score": "1-4",
+    "result": {
+      "NOR": "L",
+      "FRA": "W"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -2595,12 +2600,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Norway lead 6-0-1 in 7 meetings",
-        "formGuide": "Norway: undefinedundefinedundefinedundefinedW | France: WWWWW",
-        "bettingLine": "Norway -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
@@ -3191,9 +3191,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Ivory Coast vs. Group I 2nd Place",
+    "summary": "Ivory Coast vs. Norway",
     "countryCodesInvolved": [
-      "CIV"
+      "CIV",
+      "NOR"
     ],
     "dateUTC": "2026-06-30T17:00:00Z",
     "timeTBD": false,
@@ -3218,7 +3219,12 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ]
+      ],
+      "preGame": {
+        "h2hRecord": "Norway lead 2-0-1 in 3 meetings",
+        "formGuide": "Ivory Coast: WWLLW | Norway: undefinedundefinedundefinedundefinedW",
+        "bettingLine": "Ivory Coast -1.5, O/U 3.5"
+      }
     }
   },
   {
@@ -3227,8 +3233,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group I Winner vs. Third Place Group C/D/F/G/H",
-    "countryCodesInvolved": [],
+    "summary": "France vs. Third Place Group C/D/F/G/H",
+    "countryCodesInvolved": [
+      "FRA"
+    ],
     "dateUTC": "2026-06-30T21:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,

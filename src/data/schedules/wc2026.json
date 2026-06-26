@@ -1334,7 +1334,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "BMO Field",
-    "city": "Toronto"
+    "city": "Toronto",
+    "score": "5-0",
+    "result": {
+      "SEN": "W",
+      "IRQ": "L"
+    }
   },
   {
     "id": "wc26-760475",
@@ -1351,7 +1356,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Gillette Stadium",
-    "city": "Foxborough, Massachusetts"
+    "city": "Foxborough, Massachusetts",
+    "score": "1-4",
+    "result": {
+      "NOR": "L",
+      "FRA": "W"
+    }
   },
   {
     "id": "wc26-760478",
@@ -1596,9 +1606,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Ivory Coast vs. Group I 2nd Place",
+    "summary": "Ivory Coast vs. Norway",
     "countryCodesInvolved": [
-      "CIV"
+      "CIV",
+      "NOR"
     ],
     "dateUTC": "2026-06-30T17:00:00Z",
     "timeTBD": false,
@@ -1612,8 +1623,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group I Winner vs. Third Place Group C/D/F/G/H",
-    "countryCodesInvolved": [],
+    "summary": "France vs. Third Place Group C/D/F/G/H",
+    "countryCodesInvolved": [
+      "FRA"
+    ],
     "dateUTC": "2026-06-30T21:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
