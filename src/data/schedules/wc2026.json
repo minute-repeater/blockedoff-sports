@@ -1466,7 +1466,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Lincoln Financial Field",
-    "city": "Philadelphia, Pennsylvania"
+    "city": "Philadelphia, Pennsylvania",
+    "score": "2-1",
+    "result": {
+      "HRV": "W",
+      "GHA": "L"
+    }
   },
   {
     "id": "wc26-760485",
@@ -1483,7 +1488,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "MetLife Stadium",
-    "city": "East Rutherford, New Jersey"
+    "city": "East Rutherford, New Jersey",
+    "score": "0-2",
+    "result": {
+      "PAN": "L",
+      "GBR": "W"
+    }
   },
   {
     "id": "wc26-760481",
@@ -1661,9 +1671,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Mexico vs. Third Place Group C/E/F/H/I",
+    "summary": "Mexico vs. Ecuador",
     "countryCodesInvolved": [
-      "MEX"
+      "MEX",
+      "ECU"
     ],
     "dateUTC": "2026-07-01T01:00:00Z",
     "timeTBD": false,
@@ -1677,8 +1688,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group L Winner vs. Third Place Group E/H/I/J/K",
-    "countryCodesInvolved": [],
+    "summary": "England vs. Third Place Group E/H/I/J/K",
+    "countryCodesInvolved": [
+      "GBR"
+    ],
     "dateUTC": "2026-07-01T16:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
@@ -1740,8 +1753,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group K 2nd Place vs. Group L 2nd Place",
-    "countryCodesInvolved": [],
+    "summary": "Group K 2nd Place vs. Croatia",
+    "countryCodesInvolved": [
+      "HRV"
+    ],
     "dateUTC": "2026-07-02T23:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
@@ -1804,8 +1819,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group K Winner vs. Third Place Group D/E/I/J/L",
-    "countryCodesInvolved": [],
+    "summary": "Group K Winner vs. Ghana",
+    "countryCodesInvolved": [
+      "GHA"
+    ],
     "dateUTC": "2026-07-04T01:30:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
