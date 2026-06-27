@@ -2619,6 +2619,11 @@
     "durationMinutes": 120,
     "venue": "NRG Stadium",
     "city": "Houston, Texas",
+    "score": "0-0",
+    "result": {
+      "CPV": "D",
+      "SAU": "D"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -2637,12 +2642,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Even series: 2-2-1 in 5 meetings",
-        "formGuide": "Cape Verde: WDWWD | Saudi Arabia: undefinedundefinedundefinedWundefined",
-        "bettingLine": "Saudi Arabia -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
@@ -2661,6 +2661,11 @@
     "durationMinutes": 120,
     "venue": "Estadio Akron",
     "city": "Guadalajara",
+    "score": "0-1",
+    "result": {
+      "URY": "L",
+      "ESP": "W"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -2679,12 +2684,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Uruguay lead 2--3-6 in 5 meetings",
-        "formGuide": "Uruguay: WWDWL | Spain: undefinedWundefinedundefinedundefined",
-        "bettingLine": "Uruguay -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
@@ -2703,6 +2703,11 @@
     "durationMinutes": 120,
     "venue": "Lumen Field",
     "city": "Seattle, Washington",
+    "score": "1-1",
+    "result": {
+      "EGY": "D",
+      "IRN": "D"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -2721,12 +2726,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Egypt lead 2--1-2 in 3 meetings",
-        "formGuide": "Egypt: DWWWL | Iran: WWundefinedundefinedundefined",
-        "bettingLine": "Iran -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
@@ -2745,6 +2745,11 @@
     "durationMinutes": 120,
     "venue": "BC Place",
     "city": "Vancouver",
+    "score": "1-5",
+    "result": {
+      "NZL": "L",
+      "BEL": "W"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -2763,12 +2768,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "New Zealand lead 4-1-1 in 6 meetings",
-        "formGuide": "New Zealand: LWDWW | Belgium: undefinedundefinedundefinedundefinedundefined",
-        "bettingLine": "New Zealand -1.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
@@ -3113,9 +3113,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Germany vs. Third Place Group A/B/C/D/F",
+    "summary": "Germany vs. Paraguay",
     "countryCodesInvolved": [
-      "DEU"
+      "DEU",
+      "PRY"
     ],
     "dateUTC": "2026-06-29T20:30:00Z",
     "timeTBD": false,
@@ -3140,7 +3141,12 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ]
+      ],
+      "preGame": {
+        "h2hRecord": "Germany lead 4--2-5 in 7 meetings",
+        "formGuide": "Germany: WWWLD | Paraguay: WWDWW",
+        "bettingLine": "Germany -1.5, O/U 3.5"
+      }
     }
   },
   {
@@ -3233,9 +3239,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "France vs. Third Place Group C/D/F/G/H",
+    "summary": "France vs. Sweden",
     "countryCodesInvolved": [
-      "FRA"
+      "FRA",
+      "SWE"
     ],
     "dateUTC": "2026-06-30T21:00:00Z",
     "timeTBD": false,
@@ -3260,7 +3267,12 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ]
+      ],
+      "preGame": {
+        "h2hRecord": "France lead 2-1-2 in 5 meetings",
+        "formGuide": "France: WWWWW | Sweden: DWLWW",
+        "bettingLine": "France -0.5, O/U 2.5"
+      }
     }
   },
   {
@@ -3339,8 +3351,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group G Winner vs. Third Place Group A/E/H/I/J",
-    "countryCodesInvolved": [],
+    "summary": "Belgium vs. Third Place Group A/E/H/I/J",
+    "countryCodesInvolved": [
+      "BEL"
+    ],
     "dateUTC": "2026-07-01T20:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
@@ -3415,8 +3429,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group H Winner vs. Group J 2nd Place",
-    "countryCodesInvolved": [],
+    "summary": "Spain vs. Group J 2nd Place",
+    "countryCodesInvolved": [
+      "ESP"
+    ],
     "dateUTC": "2026-07-02T19:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
@@ -3519,9 +3535,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Australia vs. Group G 2nd Place",
+    "summary": "Australia vs. Egypt",
     "countryCodesInvolved": [
-      "AUS"
+      "AUS",
+      "EGY"
     ],
     "dateUTC": "2026-07-03T18:00:00Z",
     "timeTBD": false,
@@ -3546,7 +3563,12 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ]
+      ],
+      "preGame": {
+        "h2hRecord": "Egypt lead 3-2-0 in 5 meetings",
+        "formGuide": "Australia: WundefinedundefinedWundefined | Egypt: DWWWL",
+        "bettingLine": "Australia -0.5, O/U 2.5"
+      }
     }
   },
   {
@@ -3555,9 +3577,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Argentina vs. Group H 2nd Place",
+    "summary": "Argentina vs. Cape Verde",
     "countryCodesInvolved": [
-      "ARG"
+      "ARG",
+      "CPV"
     ],
     "dateUTC": "2026-07-03T22:00:00Z",
     "timeTBD": false,
@@ -3582,7 +3605,12 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ]
+      ],
+      "preGame": {
+        "h2hRecord": "Argentina lead 3--2-5 in 6 meetings",
+        "formGuide": "Argentina: undefinedundefinedundefinedundefinedW | Cape Verde: WDWWD",
+        "bettingLine": "Cape Verde -1.5, O/U 3.5"
+      }
     }
   },
   {

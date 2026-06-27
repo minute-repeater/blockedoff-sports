@@ -1378,7 +1378,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "NRG Stadium",
-    "city": "Houston, Texas"
+    "city": "Houston, Texas",
+    "score": "0-0",
+    "result": {
+      "CPV": "D",
+      "SAU": "D"
+    }
   },
   {
     "id": "wc26-760479",
@@ -1395,7 +1400,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Estadio Akron",
-    "city": "Guadalajara"
+    "city": "Guadalajara",
+    "score": "0-1",
+    "result": {
+      "URY": "L",
+      "ESP": "W"
+    }
   },
   {
     "id": "wc26-760476",
@@ -1412,7 +1422,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Lumen Field",
-    "city": "Seattle, Washington"
+    "city": "Seattle, Washington",
+    "score": "1-1",
+    "result": {
+      "EGY": "D",
+      "IRN": "D"
+    }
   },
   {
     "id": "wc26-760477",
@@ -1429,7 +1444,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "BC Place",
-    "city": "Vancouver"
+    "city": "Vancouver",
+    "score": "1-5",
+    "result": {
+      "NZL": "L",
+      "BEL": "W"
+    }
   },
   {
     "id": "wc26-760480",
@@ -1573,9 +1593,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Germany vs. Third Place Group A/B/C/D/F",
+    "summary": "Germany vs. Paraguay",
     "countryCodesInvolved": [
-      "DEU"
+      "DEU",
+      "PRY"
     ],
     "dateUTC": "2026-06-29T20:30:00Z",
     "timeTBD": false,
@@ -1623,9 +1644,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "France vs. Third Place Group C/D/F/G/H",
+    "summary": "France vs. Sweden",
     "countryCodesInvolved": [
-      "FRA"
+      "FRA",
+      "SWE"
     ],
     "dateUTC": "2026-06-30T21:00:00Z",
     "timeTBD": false,
@@ -1669,8 +1691,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group G Winner vs. Third Place Group A/E/H/I/J",
-    "countryCodesInvolved": [],
+    "summary": "Belgium vs. Third Place Group A/E/H/I/J",
+    "countryCodesInvolved": [
+      "BEL"
+    ],
     "dateUTC": "2026-07-01T20:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
@@ -1700,8 +1724,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group H Winner vs. Group J 2nd Place",
-    "countryCodesInvolved": [],
+    "summary": "Spain vs. Group J 2nd Place",
+    "countryCodesInvolved": [
+      "ESP"
+    ],
     "dateUTC": "2026-07-02T19:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
@@ -1744,9 +1770,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Australia vs. Group G 2nd Place",
+    "summary": "Australia vs. Egypt",
     "countryCodesInvolved": [
-      "AUS"
+      "AUS",
+      "EGY"
     ],
     "dateUTC": "2026-07-03T18:00:00Z",
     "timeTBD": false,
@@ -1760,9 +1787,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Argentina vs. Group H 2nd Place",
+    "summary": "Argentina vs. Cape Verde",
     "countryCodesInvolved": [
-      "ARG"
+      "ARG",
+      "CPV"
     ],
     "dateUTC": "2026-07-03T22:00:00Z",
     "timeTBD": false,
