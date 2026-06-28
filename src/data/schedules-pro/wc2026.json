@@ -2955,6 +2955,11 @@
     "durationMinutes": 120,
     "venue": "AT&T Stadium",
     "city": "Arlington, Texas",
+    "score": "1-3",
+    "result": {
+      "JOR": "L",
+      "ARG": "W"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -2973,12 +2978,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Jordan lead 6-0-1 in 7 meetings",
-        "formGuide": "Jordan: WWWWW | Argentina: undefinedundefinedundefinedundefinedW",
-        "bettingLine": "Jordan -1.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
@@ -2997,6 +2997,11 @@
     "durationMinutes": 120,
     "venue": "GEHA Field at Arrowhead Stadium",
     "city": "Kansas City, Missouri",
+    "score": "3-3",
+    "result": {
+      "DZA": "D",
+      "AUT": "D"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -3015,12 +3020,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Algeria lead 1--2-5 in 4 meetings",
-        "formGuide": "Algeria: WWWWW | Austria: undefinedWundefinedundefinedundefined",
-        "bettingLine": "Austria -1.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
@@ -3449,9 +3449,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Spain vs. Group J 2nd Place",
+    "summary": "Spain vs. Austria",
     "countryCodesInvolved": [
-      "ESP"
+      "ESP",
+      "AUT"
     ],
     "dateUTC": "2026-07-02T19:00:00Z",
     "timeTBD": false,
@@ -3476,7 +3477,12 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ]
+      ],
+      "preGame": {
+        "h2hRecord": "Spain lead 1--3-6 in 4 meetings",
+        "formGuide": "Spain: undefinedWundefinedundefinedundefined | Austria: undefinedWundefinedundefinedundefined",
+        "bettingLine": "Austria -0.5, O/U 2.5"
+      }
     }
   },
   {
@@ -3527,9 +3533,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Switzerland vs. Third Place Group E/F/G/I/J",
+    "summary": "Switzerland vs. Algeria",
     "countryCodesInvolved": [
-      "CHE"
+      "CHE",
+      "DZA"
     ],
     "dateUTC": "2026-07-03T03:00:00Z",
     "timeTBD": false,
@@ -3554,7 +3561,12 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ]
+      ],
+      "preGame": {
+        "h2hRecord": "Switzerland lead 3--3-6 in 6 meetings",
+        "formGuide": "Switzerland: LWWLD | Algeria: WWWWW",
+        "bettingLine": "Switzerland -1.5, O/U 3.5"
+      }
     }
   },
   {

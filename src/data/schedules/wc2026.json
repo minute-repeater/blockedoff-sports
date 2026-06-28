@@ -1554,7 +1554,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "AT&T Stadium",
-    "city": "Arlington, Texas"
+    "city": "Arlington, Texas",
+    "score": "1-3",
+    "result": {
+      "JOR": "L",
+      "ARG": "W"
+    }
   },
   {
     "id": "wc26-760484",
@@ -1571,7 +1576,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "GEHA Field at Arrowhead Stadium",
-    "city": "Kansas City, Missouri"
+    "city": "Kansas City, Missouri",
+    "score": "3-3",
+    "result": {
+      "DZA": "D",
+      "AUT": "D"
+    }
   },
   {
     "id": "wc26-760486",
@@ -1749,9 +1759,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Spain vs. Group J 2nd Place",
+    "summary": "Spain vs. Austria",
     "countryCodesInvolved": [
-      "ESP"
+      "ESP",
+      "AUT"
     ],
     "dateUTC": "2026-07-02T19:00:00Z",
     "timeTBD": false,
@@ -1782,9 +1793,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Switzerland vs. Third Place Group E/F/G/I/J",
+    "summary": "Switzerland vs. Algeria",
     "countryCodesInvolved": [
-      "CHE"
+      "CHE",
+      "DZA"
     ],
     "dateUTC": "2026-07-03T03:00:00Z",
     "timeTBD": false,
