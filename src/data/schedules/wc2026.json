@@ -1598,7 +1598,12 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "SoFi Stadium",
-    "city": "Inglewood, California"
+    "city": "Inglewood, California",
+    "score": "0-1",
+    "result": {
+      "ZAF": "L",
+      "CAN": "W"
+    }
   },
   {
     "id": "wc26-760487",
@@ -1861,8 +1866,10 @@
     "sport": "soccer",
     "phase": "Round of 16",
     "isKnockout": true,
-    "summary": "Round of 32 1 Winner vs. Round of 32 3 Winner",
-    "countryCodesInvolved": [],
+    "summary": "Canada vs. Round of 32 3 Winner",
+    "countryCodesInvolved": [
+      "CAN"
+    ],
     "dateUTC": "2026-07-04T17:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
