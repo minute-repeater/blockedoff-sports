@@ -1510,7 +1510,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Hard Rock Stadium",
-    "city": "Miami Gardens, Florida"
+    "city": "Miami Gardens, Florida",
+    "score": "0-0",
+    "result": {
+      "COL": "D",
+      "PRT": "D"
+    }
   },
   {
     "id": "wc26-760482",
@@ -1527,7 +1532,12 @@
     "timeTBD": false,
     "durationMinutes": 120,
     "venue": "Mercedes-Benz Stadium",
-    "city": "Atlanta, Georgia"
+    "city": "Atlanta, Georgia",
+    "score": "3-1",
+    "result": {
+      "COD": "W",
+      "UZB": "L"
+    }
   },
   {
     "id": "wc26-760483",
@@ -1688,9 +1698,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "England vs. Third Place Group E/H/I/J/K",
+    "summary": "England vs. Congo DR",
     "countryCodesInvolved": [
-      "GBR"
+      "GBR",
+      "COD"
     ],
     "dateUTC": "2026-07-01T16:00:00Z",
     "timeTBD": false,
@@ -1704,9 +1715,10 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Belgium vs. Third Place Group A/E/H/I/J",
+    "summary": "Belgium vs. Senegal",
     "countryCodesInvolved": [
-      "BEL"
+      "BEL",
+      "SEN"
     ],
     "dateUTC": "2026-07-01T20:00:00Z",
     "timeTBD": false,
@@ -1753,8 +1765,9 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group K 2nd Place vs. Croatia",
+    "summary": "Portugal vs. Croatia",
     "countryCodesInvolved": [
+      "PRT",
       "HRV"
     ],
     "dateUTC": "2026-07-02T23:00:00Z",
@@ -1819,8 +1832,9 @@
     "sport": "soccer",
     "phase": "Round of 32",
     "isKnockout": true,
-    "summary": "Group K Winner vs. Ghana",
+    "summary": "Colombia vs. Ghana",
     "countryCodesInvolved": [
+      "COL",
       "GHA"
     ],
     "dateUTC": "2026-07-04T01:30:00Z",
