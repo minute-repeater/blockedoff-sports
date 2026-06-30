@@ -3123,6 +3123,11 @@
     "durationMinutes": 150,
     "venue": "Gillette Stadium",
     "city": "Foxborough, Massachusetts",
+    "score": "1-1",
+    "result": {
+      "DEU": "L",
+      "PRY": "W"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -3141,12 +3146,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Germany lead 4--2-5 in 7 meetings",
-        "formGuide": "Germany: WWWLD | Paraguay: WWDWW",
-        "bettingLine": "Germany -1.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
@@ -3737,8 +3737,10 @@
     "sport": "soccer",
     "phase": "Round of 16",
     "isKnockout": true,
-    "summary": "Round of 32 2 Winner vs. Round of 32 5 Winner",
-    "countryCodesInvolved": [],
+    "summary": "Paraguay vs. Round of 32 5 Winner",
+    "countryCodesInvolved": [
+      "PRY"
+    ],
     "dateUTC": "2026-07-04T21:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,

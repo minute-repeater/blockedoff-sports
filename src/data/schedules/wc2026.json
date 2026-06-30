@@ -1642,7 +1642,12 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Gillette Stadium",
-    "city": "Foxborough, Massachusetts"
+    "city": "Foxborough, Massachusetts",
+    "score": "1-1",
+    "result": {
+      "DEU": "L",
+      "PRY": "W"
+    }
   },
   {
     "id": "wc26-760488",
@@ -1887,8 +1892,10 @@
     "sport": "soccer",
     "phase": "Round of 16",
     "isKnockout": true,
-    "summary": "Round of 32 2 Winner vs. Round of 32 5 Winner",
-    "countryCodesInvolved": [],
+    "summary": "Paraguay vs. Round of 32 5 Winner",
+    "countryCodesInvolved": [
+      "PRY"
+    ],
     "dateUTC": "2026-07-04T21:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
