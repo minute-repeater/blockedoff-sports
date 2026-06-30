@@ -3207,6 +3207,11 @@
     "durationMinutes": 150,
     "venue": "AT&T Stadium",
     "city": "Arlington, Texas",
+    "score": "1-2",
+    "result": {
+      "CIV": "L",
+      "NOR": "W"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -3225,12 +3230,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Norway lead 2-0-1 in 3 meetings",
-        "formGuide": "Ivory Coast: WWLLW | Norway: undefinedundefinedundefinedundefinedW",
-        "bettingLine": "Ivory Coast -1.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
@@ -3779,9 +3779,10 @@
     "sport": "soccer",
     "phase": "Round of 16",
     "isKnockout": true,
-    "summary": "Brazil vs. Round of 32 6 Winner",
+    "summary": "Brazil vs. Norway",
     "countryCodesInvolved": [
-      "BRA"
+      "BRA",
+      "NOR"
     ],
     "dateUTC": "2026-07-05T20:00:00Z",
     "timeTBD": false,
@@ -3806,7 +3807,12 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ]
+      ],
+      "preGame": {
+        "h2hRecord": "Brazil lead 2--6-12 in 8 meetings",
+        "formGuide": "Brazil: undefinedundefinedundefinedundefinedundefined | Norway: undefinedundefinedundefinedundefinedW",
+        "bettingLine": "Norway -0.5, O/U 2.5"
+      }
     }
   },
   {
