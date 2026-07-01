@@ -3333,6 +3333,11 @@
     "durationMinutes": 150,
     "venue": "Mercedes-Benz Stadium",
     "city": "Atlanta, Georgia",
+    "score": "2-1",
+    "result": {
+      "GBR": "W",
+      "COD": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -3351,12 +3356,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Even series: 2-2-1 in 5 meetings",
-        "formGuide": "England: DDDWL | Congo DR: WWWWW",
-        "bettingLine": "Congo DR -1.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
@@ -3827,9 +3827,10 @@
     "sport": "soccer",
     "phase": "Round of 16",
     "isKnockout": true,
-    "summary": "Mexico vs. Round of 32 8 Winner",
+    "summary": "Mexico vs. England",
     "countryCodesInvolved": [
-      "MEX"
+      "MEX",
+      "GBR"
     ],
     "dateUTC": "2026-07-06T00:00:00Z",
     "timeTBD": false,
@@ -3854,7 +3855,12 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ]
+      ],
+      "preGame": {
+        "h2hRecord": "Mexico lead 8-0-0 in 8 meetings",
+        "formGuide": "Mexico: WundefinedWundefinedW | England: DDDWL",
+        "bettingLine": "Mexico -1.5, O/U 3.5"
+      }
     }
   },
   {

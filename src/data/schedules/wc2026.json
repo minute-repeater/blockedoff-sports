@@ -1752,7 +1752,12 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Mercedes-Benz Stadium",
-    "city": "Atlanta, Georgia"
+    "city": "Atlanta, Georgia",
+    "score": "2-1",
+    "result": {
+      "GBR": "W",
+      "COD": "L"
+    }
   },
   {
     "id": "wc26-760493",
@@ -1947,9 +1952,10 @@
     "sport": "soccer",
     "phase": "Round of 16",
     "isKnockout": true,
-    "summary": "Mexico vs. Round of 32 8 Winner",
+    "summary": "Mexico vs. England",
     "countryCodesInvolved": [
-      "MEX"
+      "MEX",
+      "GBR"
     ],
     "dateUTC": "2026-07-06T00:00:00Z",
     "timeTBD": false,
