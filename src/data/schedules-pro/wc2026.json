@@ -3286,11 +3286,16 @@
       "MEX",
       "ECU"
     ],
-    "dateUTC": "2026-07-01T01:00:00Z",
+    "dateUTC": "2026-07-01T02:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Estadio Banorte",
     "city": "Mexico City",
+    "score": "2-0",
+    "result": {
+      "MEX": "W",
+      "ECU": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -3309,12 +3314,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Mexico lead 4-0-0 in 4 meetings",
-        "formGuide": "Mexico: WundefinedWundefinedW | Ecuador: WLLWD",
-        "bettingLine": "Mexico -1.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
@@ -3827,8 +3827,10 @@
     "sport": "soccer",
     "phase": "Round of 16",
     "isKnockout": true,
-    "summary": "Round of 32 7 Winner vs. Round of 32 8 Winner",
-    "countryCodesInvolved": [],
+    "summary": "Mexico vs. Round of 32 8 Winner",
+    "countryCodesInvolved": [
+      "MEX"
+    ],
     "dateUTC": "2026-07-06T00:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
