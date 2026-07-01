@@ -3249,6 +3249,11 @@
     "durationMinutes": 150,
     "venue": "MetLife Stadium",
     "city": "East Rutherford, New Jersey",
+    "score": "3-0",
+    "result": {
+      "FRA": "W",
+      "SWE": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -3267,12 +3272,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "France lead 2-1-2 in 5 meetings",
-        "formGuide": "France: WWWWW | Sweden: DWLWW",
-        "bettingLine": "France -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
@@ -3743,9 +3743,10 @@
     "sport": "soccer",
     "phase": "Round of 16",
     "isKnockout": true,
-    "summary": "Paraguay vs. Round of 32 5 Winner",
+    "summary": "Paraguay vs. France",
     "countryCodesInvolved": [
-      "PRY"
+      "PRY",
+      "FRA"
     ],
     "dateUTC": "2026-07-04T21:00:00Z",
     "timeTBD": false,
@@ -3770,7 +3771,12 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ]
+      ],
+      "preGame": {
+        "h2hRecord": "Paraguay lead 0--6-13 in 7 meetings",
+        "formGuide": "Paraguay: WWDWW | France: WWWWW",
+        "bettingLine": "Paraguay -0.5, O/U 2.5"
+      }
     }
   },
   {
