@@ -1796,7 +1796,12 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Levi's Stadium",
-    "city": "Santa Clara, California"
+    "city": "Santa Clara, California",
+    "score": "2-0",
+    "result": {
+      "USA": "W",
+      "BIH": "L"
+    }
   },
   {
     "id": "wc26-760497",
@@ -1988,8 +1993,9 @@
     "sport": "soccer",
     "phase": "Round of 16",
     "isKnockout": true,
-    "summary": "Round of 32 9 Winner vs. Belgium",
+    "summary": "United States vs. Belgium",
     "countryCodesInvolved": [
+      "USA",
       "BEL"
     ],
     "dateUTC": "2026-07-07T00:00:00Z",

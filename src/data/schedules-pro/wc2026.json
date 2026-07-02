@@ -3417,6 +3417,11 @@
     "durationMinutes": 150,
     "venue": "Levi's Stadium",
     "city": "Santa Clara, California",
+    "score": "2-0",
+    "result": {
+      "USA": "W",
+      "BIH": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -3435,12 +3440,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "United States lead 8-0-0 in 8 meetings",
-        "formGuide": "United States: DWLWD | Bosnia-Herzegovina: undefinedundefinedundefinedundefinedundefined",
-        "bettingLine": "United States -0.5, O/U 2.5"
-      }
+      ]
     }
   },
   {
@@ -3903,8 +3903,9 @@
     "sport": "soccer",
     "phase": "Round of 16",
     "isKnockout": true,
-    "summary": "Round of 32 9 Winner vs. Belgium",
+    "summary": "United States vs. Belgium",
     "countryCodesInvolved": [
+      "USA",
       "BEL"
     ],
     "dateUTC": "2026-07-07T00:00:00Z",
@@ -3930,7 +3931,12 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ]
+      ],
+      "preGame": {
+        "h2hRecord": "United States lead 2--5-11 in 8 meetings",
+        "formGuide": "United States: DWLWD | Belgium: undefinedundefinedundefinedundefinedundefined",
+        "bettingLine": "United States -0.5, O/U 2.5"
+      }
     }
   },
   {
