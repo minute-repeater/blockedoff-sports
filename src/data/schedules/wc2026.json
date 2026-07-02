@@ -1774,7 +1774,12 @@
     "timeTBD": false,
     "durationMinutes": 150,
     "venue": "Lumen Field",
-    "city": "Seattle, Washington"
+    "city": "Seattle, Washington",
+    "score": "3-2",
+    "result": {
+      "BEL": "W",
+      "SEN": "L"
+    }
   },
   {
     "id": "wc26-760494",
@@ -1983,8 +1988,10 @@
     "sport": "soccer",
     "phase": "Round of 16",
     "isKnockout": true,
-    "summary": "Round of 32 9 Winner vs. Round of 32 10 Winner",
-    "countryCodesInvolved": [],
+    "summary": "Round of 32 9 Winner vs. Belgium",
+    "countryCodesInvolved": [
+      "BEL"
+    ],
     "dateUTC": "2026-07-07T00:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,

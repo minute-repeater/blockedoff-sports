@@ -3375,6 +3375,11 @@
     "durationMinutes": 150,
     "venue": "Lumen Field",
     "city": "Seattle, Washington",
+    "score": "3-2",
+    "result": {
+      "BEL": "W",
+      "SEN": "L"
+    },
     "proData": {
       "broadcasts": [
         {
@@ -3393,12 +3398,7 @@
           "country": "UK",
           "channel": "BBC / ITV"
         }
-      ],
-      "preGame": {
-        "h2hRecord": "Belgium lead 0--3-7 in 4 meetings",
-        "formGuide": "Belgium: undefinedundefinedundefinedundefinedundefined | Senegal: undefinedundefinedundefinedundefinedundefined",
-        "bettingLine": "Senegal -1.5, O/U 3.5"
-      }
+      ]
     }
   },
   {
@@ -3903,8 +3903,10 @@
     "sport": "soccer",
     "phase": "Round of 16",
     "isKnockout": true,
-    "summary": "Round of 32 9 Winner vs. Round of 32 10 Winner",
-    "countryCodesInvolved": [],
+    "summary": "Round of 32 9 Winner vs. Belgium",
+    "countryCodesInvolved": [
+      "BEL"
+    ],
     "dateUTC": "2026-07-07T00:00:00Z",
     "timeTBD": false,
     "durationMinutes": 150,
